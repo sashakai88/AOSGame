@@ -1078,13 +1078,24 @@
 
                         // Check if any unit has shooting range AND hasn't shot AND has an enemy in range
                         const canShoot = friendlyUnits.some(u => {
-                            if (u.hasAttacked || u.shootingRange === 0) return false;
+                            if (u.hasAttacked) {
+                                console.log(`  ${u.name}: already attacked`);
+                                return false;
+                            }
+                            if (u.shootingRange === 0) {
+                                console.log(`  ${u.name}: no ranged weapons`);
+                                return false;
+                            }
 
                             // Check if any enemy is within shooting range
-                            return enemyUnits.some(enemy => {
+                            const hasTargetInRange = enemyUnits.some(enemy => {
                                 const distance = u.distanceTo(enemy);
+                                const distanceInches = Math.round(distance / 50);
+                                const rangeInches = u.shootingRange / 50;
+                                console.log(`  ${u.name} (${rangeInches}") -> ${enemy.name}: ${distanceInches}" ${distance <= u.shootingRange ? 'IN RANGE' : 'OUT OF RANGE'}`);
                                 return distance <= u.shootingRange;
                             });
+                            return hasTargetInRange;
                         });
                         console.log(`Shooting Phase: canShoot = ${canShoot} (checking actual ranges)`);
                         return canShoot;
