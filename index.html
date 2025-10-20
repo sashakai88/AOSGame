@@ -243,6 +243,33 @@
             margin-top: 5px;
         }
 
+        .timer-display {
+            margin-top: 10px;
+            font-size: 2em;
+            font-weight: bold;
+            color: #4ae24a;
+            text-shadow: 0 0 10px rgba(74, 226, 74, 0.5);
+            transition: all 0.3s;
+        }
+
+        .timer-display.warning {
+            color: #e2a44a;
+            text-shadow: 0 0 10px rgba(226, 164, 74, 0.5);
+        }
+
+        .timer-display.critical {
+            color: #e24a4a;
+            text-shadow: 0 0 10px rgba(226, 74, 74, 0.5);
+            animation: pulse 1s ease-in-out infinite;
+        }
+
+        .timer-label {
+            font-size: 0.5em;
+            color: #f0e6d2;
+            display: block;
+            margin-bottom: 5px;
+        }
+
         .action-buttons {
             display: grid;
             gap: 10px;
@@ -441,6 +468,10 @@
             <div class="phase-indicator">
                 <div class="phase-name" id="phase-name">Hero Phase</div>
                 <div class="turn-info" id="turn-info">Turn 1 - Player 1</div>
+                <div class="timer-display" id="timer-display">
+                    <span class="timer-label">Time Remaining</span>
+                    <span id="timer-value">30</span>s
+                </div>
             </div>
 
             <div class="action-buttons">
@@ -458,6 +489,7 @@
             <div class="instructions">
                 <h4>How to Play:</h4>
                 <ul>
+                    <li><strong>Timer:</strong> You have 30 seconds per phase! Auto-advances when time expires</li>
                     <li><strong>Select Unit:</strong> Click on your unit cards or battlefield units</li>
                     <li><strong>Movement:</strong> Click "Move Unit" then click destination</li>
                     <li><strong>Charge:</strong> Move towards enemy to engage in melee</li>
@@ -534,6 +566,8 @@
                 this.phase = 0;
                 this.phases = ['Hero Phase', 'Movement Phase', 'Shooting Phase', 'Charge Phase', 'Combat Phase', 'End of Turn'];
                 this.mode = null; // 'move', 'attack', 'charge'
+                this.timeRemaining = 30;
+                this.timerInterval = null;
                 this.init();
             }
 
@@ -541,6 +575,45 @@
                 this.createUnits();
                 this.render();
                 this.updatePhaseDisplay();
+                this.startTimer();
+            }
+
+            startTimer() {
+                this.stopTimer(); // Clear any existing timer
+                this.timeRemaining = 30;
+                this.updateTimerDisplay();
+
+                this.timerInterval = setInterval(() => {
+                    this.timeRemaining--;
+                    this.updateTimerDisplay();
+
+                    if (this.timeRemaining <= 0) {
+                        this.log('Time\'s up! Advancing to next phase...', 'warning');
+                        this.nextPhase();
+                    }
+                }, 1000);
+            }
+
+            stopTimer() {
+                if (this.timerInterval) {
+                    clearInterval(this.timerInterval);
+                    this.timerInterval = null;
+                }
+            }
+
+            updateTimerDisplay() {
+                const timerValue = document.getElementById('timer-value');
+                const timerDisplay = document.getElementById('timer-display');
+
+                timerValue.textContent = this.timeRemaining;
+
+                // Update visual state based on time remaining
+                timerDisplay.classList.remove('warning', 'critical');
+                if (this.timeRemaining <= 5) {
+                    timerDisplay.classList.add('critical');
+                } else if (this.timeRemaining <= 10) {
+                    timerDisplay.classList.add('warning');
+                }
             }
 
             createUnits() {
@@ -862,6 +935,7 @@
             }
 
             showVictory(player) {
+                this.stopTimer(); // Stop the timer when game ends
                 const modal = document.getElementById('victory-modal');
                 const title = document.getElementById('victory-title');
                 const message = document.getElementById('victory-message');
@@ -889,6 +963,7 @@
 
                 this.updatePhaseDisplay();
                 this.log(`<strong>${this.phases[this.phase]}</strong>`, 'hit');
+                this.startTimer(); // Restart timer for new phase
             }
 
             updatePhaseDisplay() {
@@ -910,12 +985,14 @@
             }
 
             restart() {
+                this.stopTimer(); // Stop existing timer
                 this.units = [];
                 this.selectedUnit = null;
                 this.turn = 1;
                 this.currentPlayer = 1;
                 this.phase = 0;
                 this.mode = null;
+                this.timeRemaining = 30;
                 document.getElementById('victory-modal').classList.remove('active');
                 document.getElementById('log-entries').innerHTML = '';
                 this.init();
