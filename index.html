@@ -513,13 +513,13 @@
             <div class="instructions">
                 <h4>How to Play (AOS 4th Edition Rules):</h4>
                 <ul>
-                    <li><strong>Smart Auto-Phases:</strong> The game intelligently skips irrelevant phases!
+                    <li><strong>Instant Auto-Skip:</strong> Phases skip in 1 second when no valid actions!
                         <ul style="margin-top: 5px;">
-                            <li>Hero Phase: Auto-skips (no abilities yet)</li>
-                            <li>Shooting Phase: Auto-skips if no units with ranged weapons or enemies out of range</li>
-                            <li>Charge Phase: Auto-skips if no enemies in charge range</li>
-                            <li>Combat Phase: Auto-skips if no units in melee range (3")</li>
-                            <li>Movement: Only phase you always control!</li>
+                            <li>Hero Phase: Skips instantly (no abilities yet)</li>
+                            <li>Shooting Phase: Skips if no ranged units or enemies out of range</li>
+                            <li>Charge Phase: Skips if no enemies in charge range</li>
+                            <li>Combat Phase: Skips if no units in melee range (3")</li>
+                            <li>Timer shows "Auto" when auto-skipping - no waiting!</li>
                         </ul>
                     </li>
                     <li><strong>Unit Ranges:</strong> Check unit cards for weapon ranges
@@ -529,7 +529,7 @@
                             <li>Some units have both ranged and melee capabilities</li>
                         </ul>
                     </li>
-                    <li><strong>Timer:</strong> 30 seconds per phase with auto-advance. Use Pause/Resume to control</li>
+                    <li><strong>Timer:</strong> 30 seconds per active phase. Auto-skip phases bypass timer!</li>
                     <li><strong>Phase-Based Actions:</strong> Just click your units! The game knows what to do:
                         <ul style="margin-top: 5px;">
                             <li>Movement Phase: Click unit → Click destination</li>
@@ -1226,13 +1226,31 @@
                 this.updatePhaseDisplay();
                 this.log(`<strong>${this.phases[this.phase]}</strong>`, 'hit');
 
-                // Only restart timer if not paused
-                if (!this.timerPaused) {
-                    this.startTimer(); // Restart timer for new phase
-                }
+                // Check if phase can be acted in BEFORE starting timer
+                const canAct = this.canAnyUnitActInCurrentPhase();
 
-                // Check if phase can be skipped immediately
-                setTimeout(() => this.checkPhaseCompletion(), 500);
+                if (!canAct) {
+                    // Phase should be skipped immediately
+                    const phaseNames = ['Hero', 'Movement', 'Shooting', 'Charge', 'Combat'];
+                    this.log(`${phaseNames[this.phase]} Phase - no valid actions, skipping immediately`, 'hit');
+
+                    // Stop timer and show "Auto-skip"
+                    this.stopTimer();
+                    const timerValue = document.getElementById('timer-value');
+                    if (timerValue) {
+                        timerValue.textContent = 'Auto';
+                    }
+
+                    // Skip after short delay for player to see the message
+                    setTimeout(() => {
+                        this.nextPhase();
+                    }, 800);
+                } else {
+                    // Only restart timer if not paused and phase can be acted in
+                    if (!this.timerPaused) {
+                        this.startTimer();
+                    }
+                }
             }
 
             updatePhaseDisplay() {
@@ -1243,11 +1261,11 @@
                 const phaseHelpText = document.getElementById('phase-help-text');
                 const canAct = this.canAnyUnitActInCurrentPhase();
                 const phaseHelpMessages = [
-                    'Hero Phase - No hero abilities available. Auto-skipping...',
+                    'Hero Phase - No hero abilities available. Skipping in 1s...',
                     'Movement Phase - Click your units, then click where to move them',
-                    canAct ? 'Shooting Phase - Click your unit, then click an enemy to shoot at' : 'Shooting Phase - No valid targets. Auto-skipping...',
-                    canAct ? 'Charge Phase - Click your unit, then click near an enemy to charge' : 'Charge Phase - No enemies in range. Auto-skipping...',
-                    canAct ? 'Combat Phase - Click your unit, then click an enemy within 3" to attack' : 'Combat Phase - No units in combat. Auto-skipping...'
+                    canAct ? 'Shooting Phase - Click your unit, then click an enemy to shoot at' : 'Shooting Phase - No valid targets in range. Skipping in 1s...',
+                    canAct ? 'Charge Phase - Click your unit, then click near an enemy to charge' : 'Charge Phase - No enemies in charge range. Skipping in 1s...',
+                    canAct ? 'Combat Phase - Click your unit, then click an enemy within 3" to attack' : 'Combat Phase - No units in combat range. Skipping in 1s...'
                 ];
                 phaseHelpText.textContent = phaseHelpMessages[this.phase];
             }
@@ -1290,11 +1308,11 @@
         window.onload = () => {
             console.log('Game loading...');
             game = new Game();
-            console.log('Game initialized, timer should be running');
+            console.log('Game initialized');
             game.log('Welcome to Age of Sigmar Battle Simulator!', 'critical');
             game.log('Based on AOS 4th Edition Core Rules', 'hit');
-            game.log('Phases auto-advance when complete - just click and play!', 'hit');
-            game.log('Player 1 (Order) begins - Hero Phase (will auto-skip)', 'hit');
+            game.log('Phases auto-skip instantly when no valid actions exist!', 'hit');
+            game.log('Player 1 (Order) begins - Hero Phase (will auto-skip in 1s)', 'hit');
         };
     </script>
 </body>
