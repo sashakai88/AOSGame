@@ -513,9 +513,15 @@
             <div class="instructions">
                 <h4>How to Play (AOS 4th Edition Rules):</h4>
                 <ul>
+                    <li><strong>Automatic Phases:</strong> The game auto-advances when a phase is complete!
+                        <ul style="margin-top: 5px;">
+                            <li>Hero Phase: Skips automatically (no hero abilities in this version)</li>
+                            <li>Movement/Charge: Auto-advances when all units have moved</li>
+                            <li>Shooting/Combat: Auto-advances when all units have acted</li>
+                        </ul>
+                    </li>
                     <li><strong>Timer:</strong> 30 seconds per phase with auto-advance. Use Pause/Resume to control</li>
-                    <li><strong>Turn Structure:</strong> 5 phases: Hero, Movement, Shooting, Charge, Combat</li>
-                    <li><strong>Phase-Based Actions:</strong> Just click your units! The game automatically knows what to do:
+                    <li><strong>Phase-Based Actions:</strong> Just click your units! The game knows what to do:
                         <ul style="margin-top: 5px;">
                             <li>Movement Phase: Click unit → Click destination</li>
                             <li>Shooting Phase: Click unit → Click enemy to shoot</li>
@@ -523,10 +529,9 @@
                             <li>Combat Phase: Click unit → Click enemy within 3" to fight</li>
                         </ul>
                     </li>
-                    <li><strong>Combat Range:</strong> 3" around each model (shown as golden circle when selected)</li>
-                    <li><strong>Attack Sequence:</strong> Hit Roll → Wound Roll → Save Roll → Damage</li>
+                    <li><strong>Combat Range:</strong> 3" around each model (shown as golden circle)</li>
+                    <li><strong>Attack Sequence:</strong> Hit → Wound → Save → Damage</li>
                     <li><strong>Critical Hits:</strong> Unmodified 6s deal +1 bonus damage!</li>
-                    <li><strong>Victory:</strong> Destroy all enemy units to win!</li>
                 </ul>
             </div>
         </div>
@@ -600,6 +605,7 @@
                 this.timeRemaining = 30;
                 this.timerInterval = null;
                 this.timerPaused = false;
+                this.autoAdvancing = false;
                 this.init();
             }
 
@@ -958,11 +964,71 @@
                     this.log(`${unit.name} moved to new position`, 'hit');
                 }
                 this.render();
+
+                // Check if phase is complete after moving
+                this.checkPhaseCompletion();
             }
 
 
             rollD6() {
                 return Math.floor(Math.random() * 6) + 1;
+            }
+
+            checkPhaseCompletion() {
+                // Prevent multiple simultaneous auto-advances
+                if (this.autoAdvancing) {
+                    console.log('Already auto-advancing, skipping check');
+                    return;
+                }
+
+                // Check if the current phase is complete and auto-advance if so
+                const canAct = this.canAnyUnitActInCurrentPhase();
+                console.log(`Phase ${this.phase}: canAnyUnitActInCurrentPhase = ${canAct}`);
+
+                if (!canAct) {
+                    this.autoAdvancing = true;
+                    const phaseNames = ['Hero', 'Movement', 'Shooting', 'Charge', 'Combat'];
+                    this.log(`${phaseNames[this.phase]} Phase complete - auto-advancing...`, 'hit');
+                    setTimeout(() => {
+                        this.autoAdvancing = false;
+                        this.nextPhase();
+                    }, 1000);
+                }
+            }
+
+            canAnyUnitActInCurrentPhase() {
+                const friendlyUnits = this.units.filter(u => u.player === this.currentPlayer && u.isAlive());
+
+                switch(this.phase) {
+                    case 0: // Hero Phase
+                        // For now, heroes don't have special abilities, so always skip
+                        return false;
+
+                    case 1: // Movement Phase
+                        // Check if any unit hasn't moved yet
+                        return friendlyUnits.some(u => !u.hasMoved);
+
+                    case 2: // Shooting Phase
+                        // Check if any unit hasn't attacked yet
+                        return friendlyUnits.some(u => !u.hasAttacked);
+
+                    case 3: // Charge Phase
+                        // Check if any unit hasn't moved yet (can charge if haven't moved)
+                        return friendlyUnits.some(u => !u.hasMoved);
+
+                    case 4: // Combat Phase
+                        // Check if any unit hasn't attacked yet and is in combat or charged
+                        return friendlyUnits.some(u => {
+                            if (u.hasAttacked) return false;
+
+                            // Can fight if in combat range of an enemy
+                            const enemyUnits = this.units.filter(eu => eu.player !== this.currentPlayer && eu.isAlive());
+                            return enemyUnits.some(enemy => u.inCombatRange(enemy));
+                        });
+
+                    default:
+                        return false;
+                }
             }
 
             performAttack(attacker, defender) {
@@ -1038,6 +1104,9 @@
                 this.mode = null;
                 this.selectedUnit = null;
                 this.render();
+
+                // Check if phase is complete after attacking
+                this.checkPhaseCompletion();
             }
 
             checkVictory() {
@@ -1085,6 +1154,9 @@
                 if (!this.timerPaused) {
                     this.startTimer(); // Restart timer for new phase
                 }
+
+                // Check if phase can be skipped immediately
+                setTimeout(() => this.checkPhaseCompletion(), 500);
             }
 
             updatePhaseDisplay() {
@@ -1094,7 +1166,7 @@
                 // Update phase help text
                 const phaseHelpText = document.getElementById('phase-help-text');
                 const phaseHelpMessages = [
-                    'Hero Phase - Use hero abilities and effects, then click "Next Phase"',
+                    'Hero Phase - No hero abilities available. Auto-advancing...',
                     'Movement Phase - Click your units, then click where to move them',
                     'Shooting Phase - Click your unit, then click an enemy to shoot at',
                     'Charge Phase - Click your unit, then click near an enemy to charge into combat',
@@ -1126,6 +1198,7 @@
                 this.mode = null;
                 this.timeRemaining = 30;
                 this.timerPaused = false;
+                this.autoAdvancing = false;
                 const btn = document.getElementById('timer-toggle-btn');
                 if (btn) btn.textContent = 'Pause Timer';
                 document.getElementById('victory-modal').classList.remove('active');
@@ -1143,8 +1216,8 @@
             console.log('Game initialized, timer should be running');
             game.log('Welcome to Age of Sigmar Battle Simulator!', 'critical');
             game.log('Based on AOS 4th Edition Core Rules', 'hit');
-            game.log('Player 1 (Order) begins - Hero Phase', 'hit');
-            game.log('Timer: 30 seconds per phase with auto-advance', 'hit');
+            game.log('Phases auto-advance when complete - just click and play!', 'hit');
+            game.log('Player 1 (Order) begins - Hero Phase (will auto-skip)', 'hit');
         };
     </script>
 </body>
