@@ -513,11 +513,13 @@
             <div class="instructions">
                 <h4>How to Play (AOS 4th Edition Rules):</h4>
                 <ul>
-                    <li><strong>Automatic Phases:</strong> The game auto-advances when a phase is complete!
+                    <li><strong>Smart Auto-Phases:</strong> The game intelligently skips irrelevant phases!
                         <ul style="margin-top: 5px;">
-                            <li>Hero Phase: Skips automatically (no hero abilities in this version)</li>
-                            <li>Movement/Charge: Auto-advances when all units have moved</li>
-                            <li>Shooting/Combat: Auto-advances when all units have acted</li>
+                            <li>Hero Phase: Auto-skips (no abilities yet)</li>
+                            <li>Shooting Phase: Auto-skips if no enemies or all units shot</li>
+                            <li>Charge Phase: Auto-skips if no enemies in charge range</li>
+                            <li>Combat Phase: Auto-skips if no units in melee range (3")</li>
+                            <li>Movement: Only phase you always control!</li>
                         </ul>
                     </li>
                     <li><strong>Timer:</strong> 30 seconds per phase with auto-advance. Use Pause/Resume to control</li>
@@ -998,33 +1000,69 @@
 
             canAnyUnitActInCurrentPhase() {
                 const friendlyUnits = this.units.filter(u => u.player === this.currentPlayer && u.isAlive());
+                const enemyUnits = this.units.filter(u => u.player !== this.currentPlayer && u.isAlive());
 
                 switch(this.phase) {
                     case 0: // Hero Phase
                         // For now, heroes don't have special abilities, so always skip
+                        console.log('Hero Phase: Auto-skipping (no hero abilities)');
                         return false;
 
                     case 1: // Movement Phase
                         // Check if any unit hasn't moved yet
-                        return friendlyUnits.some(u => !u.hasMoved);
+                        const canMove = friendlyUnits.some(u => !u.hasMoved);
+                        console.log(`Movement Phase: canMove = ${canMove}`);
+                        return canMove;
 
                     case 2: // Shooting Phase
-                        // Check if any unit hasn't attacked yet
-                        return friendlyUnits.some(u => !u.hasAttacked);
+                        // Check if any unit hasn't attacked yet AND there are enemies to shoot at
+                        if (enemyUnits.length === 0) {
+                            console.log('Shooting Phase: No enemies, skipping');
+                            return false;
+                        }
+
+                        // For simplicity, we'll just check if there are any units that haven't shot
+                        // In a full implementation, you'd check weapon ranges
+                        const canShoot = friendlyUnits.some(u => !u.hasAttacked);
+                        console.log(`Shooting Phase: canShoot = ${canShoot}`);
+                        return canShoot;
 
                     case 3: // Charge Phase
-                        // Check if any unit hasn't moved yet (can charge if haven't moved)
-                        return friendlyUnits.some(u => !u.hasMoved);
+                        // Check if any unit hasn't moved yet AND has enemies within charging range
+                        if (enemyUnits.length === 0) {
+                            console.log('Charge Phase: No enemies, skipping');
+                            return false;
+                        }
+
+                        const canCharge = friendlyUnits.some(u => {
+                            if (u.hasMoved) return false;
+
+                            // Check if there are any enemies within charging distance
+                            // Charge range = Move distance
+                            return enemyUnits.some(enemy => {
+                                const distance = u.distanceTo(enemy);
+                                // Can charge if enemy is within move distance
+                                return distance <= u.move && distance > 150; // More than 3" away (not already in combat)
+                            });
+                        });
+                        console.log(`Charge Phase: canCharge = ${canCharge}`);
+                        return canCharge;
 
                     case 4: // Combat Phase
                         // Check if any unit hasn't attacked yet and is in combat or charged
-                        return friendlyUnits.some(u => {
+                        if (enemyUnits.length === 0) {
+                            console.log('Combat Phase: No enemies, skipping');
+                            return false;
+                        }
+
+                        const canFight = friendlyUnits.some(u => {
                             if (u.hasAttacked) return false;
 
                             // Can fight if in combat range of an enemy
-                            const enemyUnits = this.units.filter(eu => eu.player !== this.currentPlayer && eu.isAlive());
                             return enemyUnits.some(enemy => u.inCombatRange(enemy));
                         });
+                        console.log(`Combat Phase: canFight = ${canFight}`);
+                        return canFight;
 
                     default:
                         return false;
@@ -1165,12 +1203,13 @@
 
                 // Update phase help text
                 const phaseHelpText = document.getElementById('phase-help-text');
+                const canAct = this.canAnyUnitActInCurrentPhase();
                 const phaseHelpMessages = [
-                    'Hero Phase - No hero abilities available. Auto-advancing...',
+                    'Hero Phase - No hero abilities available. Auto-skipping...',
                     'Movement Phase - Click your units, then click where to move them',
-                    'Shooting Phase - Click your unit, then click an enemy to shoot at',
-                    'Charge Phase - Click your unit, then click near an enemy to charge into combat',
-                    'Combat Phase - Click your unit, then click an enemy within 3" to attack'
+                    canAct ? 'Shooting Phase - Click your unit, then click an enemy to shoot at' : 'Shooting Phase - No valid targets. Auto-skipping...',
+                    canAct ? 'Charge Phase - Click your unit, then click near an enemy to charge' : 'Charge Phase - No enemies in range. Auto-skipping...',
+                    canAct ? 'Combat Phase - Click your unit, then click an enemy within 3" to attack' : 'Combat Phase - No units in combat. Auto-skipping...'
                 ];
                 phaseHelpText.textContent = phaseHelpMessages[this.phase];
             }
