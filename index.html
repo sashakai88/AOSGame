@@ -479,6 +479,7 @@
                 <button class="btn btn-danger" id="attack-btn" onclick="game.enableAttack()">Attack Enemy</button>
                 <button class="btn btn-warning" id="charge-btn" onclick="game.enableCharge()">Charge</button>
                 <button class="btn btn-success" id="next-phase-btn" onclick="game.nextPhase()">Next Phase</button>
+                <button class="btn btn-primary" id="timer-toggle-btn" onclick="game.toggleTimer()">Pause Timer</button>
             </div>
 
             <div class="combat-log">
@@ -487,15 +488,17 @@
             </div>
 
             <div class="instructions">
-                <h4>How to Play:</h4>
+                <h4>How to Play (AOS 4th Edition Rules):</h4>
                 <ul>
-                    <li><strong>Timer:</strong> You have 30 seconds per phase! Auto-advances when time expires</li>
+                    <li><strong>Timer:</strong> 30 seconds per phase with auto-advance. Use Pause/Resume to control</li>
+                    <li><strong>Turn Structure:</strong> Each turn has 5 phases: Hero, Movement, Shooting, Charge, Combat</li>
                     <li><strong>Select Unit:</strong> Click on your unit cards or battlefield units</li>
-                    <li><strong>Movement:</strong> Click "Move Unit" then click destination</li>
-                    <li><strong>Charge:</strong> Move towards enemy to engage in melee</li>
-                    <li><strong>Attack:</strong> Select your unit, click "Attack", select enemy within 3"</li>
-                    <li><strong>Combat:</strong> Hit Roll → Wound Roll → Save Roll → Damage</li>
-                    <li><strong>Critical Hits:</strong> Unmodified 6s trigger special effects!</li>
+                    <li><strong>Movement:</strong> Click "Move Unit" then click destination (max distance = Move stat)</li>
+                    <li><strong>Charge:</strong> Move into combat range (within 3") to engage enemies</li>
+                    <li><strong>Combat:</strong> Select unit, click "Attack", target enemy within 3" combat range</li>
+                    <li><strong>Attack Sequence:</strong> Hit Roll (need 3+/4+) → Wound Roll (need 3+/4+) → Save Roll (defender) → Damage</li>
+                    <li><strong>Critical Hits:</strong> Unmodified 6s on hit/wound rolls deal +1 bonus damage!</li>
+                    <li><strong>Victory:</strong> Destroy all enemy units to win the battle</li>
                 </ul>
             </div>
         </div>
@@ -564,10 +567,11 @@
                 this.turn = 1;
                 this.currentPlayer = 1;
                 this.phase = 0;
-                this.phases = ['Hero Phase', 'Movement Phase', 'Shooting Phase', 'Charge Phase', 'Combat Phase', 'End of Turn'];
+                this.phases = ['Hero Phase', 'Movement Phase', 'Shooting Phase', 'Charge Phase', 'Combat Phase'];
                 this.mode = null; // 'move', 'attack', 'charge'
                 this.timeRemaining = 30;
                 this.timerInterval = null;
+                this.timerPaused = false;
                 this.init();
             }
 
@@ -579,19 +583,24 @@
             }
 
             startTimer() {
+                console.log('Starting timer...');
                 this.stopTimer(); // Clear any existing timer
                 this.timeRemaining = 30;
                 this.updateTimerDisplay();
 
                 this.timerInterval = setInterval(() => {
                     this.timeRemaining--;
+                    console.log(`Timer: ${this.timeRemaining}s remaining`);
                     this.updateTimerDisplay();
 
                     if (this.timeRemaining <= 0) {
-                        this.log('Time\'s up! Advancing to next phase...', 'warning');
-                        this.nextPhase();
+                        console.log('Timer expired! Auto-advancing phase');
+                        this.stopTimer();
+                        this.log('Time\'s up! Auto-advancing to next phase...', 'critical');
+                        setTimeout(() => this.nextPhase(), 500);
                     }
                 }, 1000);
+                console.log('Timer started successfully');
             }
 
             stopTimer() {
@@ -601,9 +610,40 @@
                 }
             }
 
+            toggleTimer() {
+                const btn = document.getElementById('timer-toggle-btn');
+                if (this.timerPaused) {
+                    // Resume timer
+                    this.timerPaused = false;
+                    btn.textContent = 'Pause Timer';
+                    this.timerInterval = setInterval(() => {
+                        this.timeRemaining--;
+                        this.updateTimerDisplay();
+
+                        if (this.timeRemaining <= 0) {
+                            this.stopTimer();
+                            this.log('Time\'s up! Auto-advancing to next phase...', 'critical');
+                            setTimeout(() => this.nextPhase(), 500);
+                        }
+                    }, 1000);
+                    this.log('Timer resumed', 'hit');
+                } else {
+                    // Pause timer
+                    this.timerPaused = true;
+                    btn.textContent = 'Resume Timer';
+                    this.stopTimer();
+                    this.log('Timer paused', 'miss');
+                }
+            }
+
             updateTimerDisplay() {
                 const timerValue = document.getElementById('timer-value');
                 const timerDisplay = document.getElementById('timer-display');
+
+                if (!timerValue || !timerDisplay) {
+                    console.error('Timer display elements not found');
+                    return;
+                }
 
                 timerValue.textContent = this.timeRemaining;
 
@@ -963,7 +1003,11 @@
 
                 this.updatePhaseDisplay();
                 this.log(`<strong>${this.phases[this.phase]}</strong>`, 'hit');
-                this.startTimer(); // Restart timer for new phase
+
+                // Only restart timer if not paused
+                if (!this.timerPaused) {
+                    this.startTimer(); // Restart timer for new phase
+                }
             }
 
             updatePhaseDisplay() {
@@ -993,6 +1037,9 @@
                 this.phase = 0;
                 this.mode = null;
                 this.timeRemaining = 30;
+                this.timerPaused = false;
+                const btn = document.getElementById('timer-toggle-btn');
+                if (btn) btn.textContent = 'Pause Timer';
                 document.getElementById('victory-modal').classList.remove('active');
                 document.getElementById('log-entries').innerHTML = '';
                 this.init();
@@ -1003,9 +1050,13 @@
         // Initialize game
         let game;
         window.onload = () => {
+            console.log('Game loading...');
             game = new Game();
+            console.log('Game initialized, timer should be running');
             game.log('Welcome to Age of Sigmar Battle Simulator!', 'critical');
-            game.log('Player 1 (Order) begins their turn', 'hit');
+            game.log('Based on AOS 4th Edition Core Rules', 'hit');
+            game.log('Player 1 (Order) begins - Hero Phase', 'hit');
+            game.log('Timer: 30 seconds per phase with auto-advance', 'hit');
         };
     </script>
 </body>
