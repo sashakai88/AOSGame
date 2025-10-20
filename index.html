@@ -276,6 +276,27 @@
             margin-bottom: 15px;
         }
 
+        .phase-help {
+            background: rgba(0,0,0,0.4);
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            border: 2px solid #c79c3f;
+        }
+
+        .phase-help h4 {
+            color: #c79c3f;
+            margin-bottom: 8px;
+            font-size: 1em;
+        }
+
+        .phase-help p {
+            color: #ffd700;
+            margin: 0;
+            font-size: 0.95em;
+            line-height: 1.4;
+        }
+
         .btn {
             padding: 12px 20px;
             border: none;
@@ -475,11 +496,13 @@
             </div>
 
             <div class="action-buttons">
-                <button class="btn btn-primary" id="move-btn" onclick="game.enableMovement()">Move Unit</button>
-                <button class="btn btn-danger" id="attack-btn" onclick="game.enableAttack()">Attack Enemy</button>
-                <button class="btn btn-warning" id="charge-btn" onclick="game.enableCharge()">Charge</button>
                 <button class="btn btn-success" id="next-phase-btn" onclick="game.nextPhase()">Next Phase</button>
                 <button class="btn btn-primary" id="timer-toggle-btn" onclick="game.toggleTimer()">Pause Timer</button>
+            </div>
+
+            <div class="phase-help">
+                <h4 id="phase-help-title">Current Phase Actions:</h4>
+                <p id="phase-help-text">Hero Phase - Use hero abilities, then advance to Movement Phase</p>
             </div>
 
             <div class="combat-log">
@@ -491,14 +514,19 @@
                 <h4>How to Play (AOS 4th Edition Rules):</h4>
                 <ul>
                     <li><strong>Timer:</strong> 30 seconds per phase with auto-advance. Use Pause/Resume to control</li>
-                    <li><strong>Turn Structure:</strong> Each turn has 5 phases: Hero, Movement, Shooting, Charge, Combat</li>
-                    <li><strong>Select Unit:</strong> Click on your unit cards or battlefield units</li>
-                    <li><strong>Movement:</strong> Click "Move Unit" then click destination (max distance = Move stat)</li>
-                    <li><strong>Charge:</strong> Move into combat range (within 3") to engage enemies</li>
-                    <li><strong>Combat:</strong> Select unit, click "Attack", target enemy within 3" combat range</li>
-                    <li><strong>Attack Sequence:</strong> Hit Roll (need 3+/4+) → Wound Roll (need 3+/4+) → Save Roll (defender) → Damage</li>
-                    <li><strong>Critical Hits:</strong> Unmodified 6s on hit/wound rolls deal +1 bonus damage!</li>
-                    <li><strong>Victory:</strong> Destroy all enemy units to win the battle</li>
+                    <li><strong>Turn Structure:</strong> 5 phases: Hero, Movement, Shooting, Charge, Combat</li>
+                    <li><strong>Phase-Based Actions:</strong> Just click your units! The game automatically knows what to do:
+                        <ul style="margin-top: 5px;">
+                            <li>Movement Phase: Click unit → Click destination</li>
+                            <li>Shooting Phase: Click unit → Click enemy to shoot</li>
+                            <li>Charge Phase: Click unit → Click near enemy to charge</li>
+                            <li>Combat Phase: Click unit → Click enemy within 3" to fight</li>
+                        </ul>
+                    </li>
+                    <li><strong>Combat Range:</strong> 3" around each model (shown as golden circle when selected)</li>
+                    <li><strong>Attack Sequence:</strong> Hit Roll → Wound Roll → Save Roll → Damage</li>
+                    <li><strong>Critical Hits:</strong> Unmodified 6s deal +1 bonus damage!</li>
+                    <li><strong>Victory:</strong> Destroy all enemy units to win!</li>
                 </ul>
             </div>
         </div>
@@ -791,9 +819,16 @@
                     unitEl.style.top = `${unit.y}px`;
                     unitEl.onclick = (e) => {
                         e.stopPropagation();
-                        if (this.mode === 'attack' && this.selectedUnit && unit.player !== this.currentPlayer && unit.isAlive()) {
-                            this.performAttack(this.selectedUnit, unit);
+                        // If we're in attack/shoot mode and clicking an enemy, attack them
+                        if ((this.mode === 'attack' || this.mode === 'shoot') && this.selectedUnit &&
+                            unit.player !== this.currentPlayer && unit.isAlive()) {
+                            if (this.mode === 'shoot') {
+                                this.performShootingAttack(this.selectedUnit, unit);
+                            } else {
+                                this.performAttack(this.selectedUnit, unit);
+                            }
                         } else {
+                            // Otherwise, select the unit
                             this.selectUnit(unit);
                         }
                     };
@@ -813,9 +848,9 @@
                     }
                 });
 
-                // Click on battlefield for movement
+                // Click on battlefield for movement and charges
                 battlefield.onclick = (e) => {
-                    if (this.mode === 'move' && this.selectedUnit && this.selectedUnit.isAlive()) {
+                    if ((this.mode === 'move' || this.mode === 'charge') && this.selectedUnit && this.selectedUnit.isAlive()) {
                         const rect = battlefield.getBoundingClientRect();
                         const x = e.clientX - rect.left - 25;
                         const y = e.clientY - rect.top - 25;
@@ -826,28 +861,84 @@
 
             selectUnit(unit) {
                 if (!unit.isAlive()) return;
+
+                // Only allow selecting your own units during your turn
+                if (unit.player !== this.currentPlayer) {
+                    // Exception: can select enemy units during shooting/combat phases for targeting
+                    if (this.phase === 2 || this.phase === 4) { // Shooting or Combat
+                        if (this.selectedUnit && this.selectedUnit.player === this.currentPlayer) {
+                            // We have a friendly unit selected, now selecting enemy for attack
+                            if (this.phase === 2) {
+                                this.performShootingAttack(this.selectedUnit, unit);
+                            } else if (this.phase === 4) {
+                                this.performAttack(this.selectedUnit, unit);
+                            }
+                        }
+                    }
+                    return;
+                }
+
                 this.selectedUnit = unit;
+
+                // Automatically set mode based on current phase
+                switch(this.phase) {
+                    case 0: // Hero Phase
+                        this.mode = null;
+                        this.log(`${unit.name} selected. Hero Phase - no movement actions available`, 'hit');
+                        break;
+                    case 1: // Movement Phase
+                        if (unit.hasMoved) {
+                            this.log(`${unit.name} has already moved this turn!`, 'miss');
+                            this.mode = null;
+                        } else {
+                            this.mode = 'move';
+                            this.log(`${unit.name} selected. Click battlefield to move (max ${unit.move / 50}")`, 'hit');
+                        }
+                        break;
+                    case 2: // Shooting Phase
+                        if (unit.hasAttacked) {
+                            this.log(`${unit.name} has already attacked this turn!`, 'miss');
+                            this.mode = null;
+                        } else {
+                            this.mode = 'shoot';
+                            this.log(`${unit.name} ready to shoot. Click an enemy unit to attack`, 'hit');
+                        }
+                        break;
+                    case 3: // Charge Phase
+                        if (unit.hasMoved) {
+                            this.log(`${unit.name} cannot charge - already moved this turn!`, 'miss');
+                            this.mode = null;
+                        } else {
+                            this.mode = 'charge';
+                            this.log(`${unit.name} charging! Click near an enemy to charge`, 'hit');
+                        }
+                        break;
+                    case 4: // Combat Phase
+                        if (unit.hasAttacked) {
+                            this.log(`${unit.name} has already fought this turn!`, 'miss');
+                            this.mode = null;
+                        } else {
+                            this.mode = 'attack';
+                            this.log(`${unit.name} ready to fight. Click an enemy within 3" to attack`, 'hit');
+                        }
+                        break;
+                }
+
                 this.render();
             }
 
-            enableMovement() {
-                if (!this.selectedUnit || this.selectedUnit.player !== this.currentPlayer || !this.selectedUnit.isAlive()) {
-                    this.log('Select one of your units first!', 'miss');
-                    return;
-                }
-                if (this.selectedUnit.hasMoved) {
-                    this.log(`${this.selectedUnit.name} has already moved this turn!`, 'miss');
-                    return;
-                }
-                this.mode = 'move';
-                this.log(`Click on the battlefield to move ${this.selectedUnit.name}`, 'hit');
+            performShootingAttack(attacker, defender) {
+                // For this simplified version, shooting attacks work the same as melee
+                // In a full implementation, you'd check range based on weapon stats
+                this.log(`${attacker.name} shoots at ${defender.name}!`, 'critical');
+                this.performAttack(attacker, defender);
             }
 
             moveUnit(unit, newX, newY) {
                 const distance = Math.sqrt((newX - unit.x) ** 2 + (newY - unit.y) ** 2);
 
                 if (distance > unit.move) {
-                    this.log(`Movement exceeds ${unit.name}'s move distance!`, 'miss');
+                    this.log(`Movement exceeds ${unit.name}'s move distance (${unit.move / 50}")!`, 'miss');
                     return;
                 }
 
@@ -859,31 +950,16 @@
                 unit.y = newY;
                 unit.hasMoved = true;
                 this.mode = null;
-                this.log(`${unit.name} moved to new position`, 'hit');
+                this.selectedUnit = null;
+
+                if (this.phase === 3) {
+                    this.log(`${unit.name} charged to new position!`, 'hit');
+                } else {
+                    this.log(`${unit.name} moved to new position`, 'hit');
+                }
                 this.render();
             }
 
-            enableCharge() {
-                if (!this.selectedUnit || this.selectedUnit.player !== this.currentPlayer || !this.selectedUnit.isAlive()) {
-                    this.log('Select one of your units first!', 'miss');
-                    return;
-                }
-                this.mode = 'move';
-                this.log(`Charge! Move ${this.selectedUnit.name} towards enemy (can move extra distance)`, 'hit');
-            }
-
-            enableAttack() {
-                if (!this.selectedUnit || this.selectedUnit.player !== this.currentPlayer || !this.selectedUnit.isAlive()) {
-                    this.log('Select one of your units first!', 'miss');
-                    return;
-                }
-                if (this.selectedUnit.hasAttacked) {
-                    this.log(`${this.selectedUnit.name} has already attacked this turn!`, 'miss');
-                    return;
-                }
-                this.mode = 'attack';
-                this.log(`Select an enemy unit within 3" to attack`, 'hit');
-            }
 
             rollD6() {
                 return Math.floor(Math.random() * 6) + 1;
@@ -960,6 +1036,7 @@
 
                 attacker.hasAttacked = true;
                 this.mode = null;
+                this.selectedUnit = null;
                 this.render();
             }
 
@@ -1013,6 +1090,17 @@
             updatePhaseDisplay() {
                 document.getElementById('phase-name').textContent = this.phases[this.phase];
                 document.getElementById('turn-info').textContent = `Turn ${this.turn} - Player ${this.currentPlayer}`;
+
+                // Update phase help text
+                const phaseHelpText = document.getElementById('phase-help-text');
+                const phaseHelpMessages = [
+                    'Hero Phase - Use hero abilities and effects, then click "Next Phase"',
+                    'Movement Phase - Click your units, then click where to move them',
+                    'Shooting Phase - Click your unit, then click an enemy to shoot at',
+                    'Charge Phase - Click your unit, then click near an enemy to charge into combat',
+                    'Combat Phase - Click your unit, then click an enemy within 3" to attack'
+                ];
+                phaseHelpText.textContent = phaseHelpMessages[this.phase];
             }
 
             log(message, type = '') {
