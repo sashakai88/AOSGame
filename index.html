@@ -516,17 +516,24 @@
                     <li><strong>Smart Auto-Phases:</strong> The game intelligently skips irrelevant phases!
                         <ul style="margin-top: 5px;">
                             <li>Hero Phase: Auto-skips (no abilities yet)</li>
-                            <li>Shooting Phase: Auto-skips if no enemies or all units shot</li>
+                            <li>Shooting Phase: Auto-skips if no units with ranged weapons or enemies out of range</li>
                             <li>Charge Phase: Auto-skips if no enemies in charge range</li>
                             <li>Combat Phase: Auto-skips if no units in melee range (3")</li>
                             <li>Movement: Only phase you always control!</li>
+                        </ul>
+                    </li>
+                    <li><strong>Unit Ranges:</strong> Check unit cards for weapon ranges
+                        <ul style="margin-top: 5px;">
+                            <li>Melee units have "Range: Melee" (must be within 3")</li>
+                            <li>Ranged units show shooting distance (e.g., "Range: 18"")</li>
+                            <li>Some units have both ranged and melee capabilities</li>
                         </ul>
                     </li>
                     <li><strong>Timer:</strong> 30 seconds per phase with auto-advance. Use Pause/Resume to control</li>
                     <li><strong>Phase-Based Actions:</strong> Just click your units! The game knows what to do:
                         <ul style="margin-top: 5px;">
                             <li>Movement Phase: Click unit → Click destination</li>
-                            <li>Shooting Phase: Click unit → Click enemy to shoot</li>
+                            <li>Shooting Phase: Click ranged unit → Click enemy in range</li>
                             <li>Charge Phase: Click unit → Click near enemy to charge</li>
                             <li>Combat Phase: Click unit → Click enemy within 3" to fight</li>
                         </ul>
@@ -561,6 +568,7 @@
                 this.rend = stats.rend;
                 this.damage = stats.damage;
                 this.save = stats.save;
+                this.shootingRange = stats.shootingRange || 0; // 0 means no ranged weapons
                 this.x = stats.x;
                 this.y = stats.y;
                 this.hasMoved = false;
@@ -703,6 +711,7 @@
                     rend: 1,
                     damage: 2,
                     save: 4,
+                    shootingRange: 300, // 6" range (Sigmarite weapons)
                     x: 100,
                     y: 100
                 }));
@@ -716,6 +725,7 @@
                     rend: 0,
                     damage: 1,
                     save: 5,
+                    shootingRange: 900, // 18" range (Storm Call Javelins)
                     x: 100,
                     y: 250
                 }));
@@ -729,6 +739,7 @@
                     rend: 2,
                     damage: 3,
                     save: 3,
+                    shootingRange: 0, // Melee only
                     x: 100,
                     y: 400
                 }));
@@ -743,6 +754,7 @@
                     rend: 1,
                     damage: 1,
                     save: 4,
+                    shootingRange: 0, // Melee only
                     x: 650,
                     y: 100
                 }));
@@ -756,6 +768,7 @@
                     rend: 0,
                     damage: 1,
                     save: 6,
+                    shootingRange: 0, // Melee only
                     x: 650,
                     y: 250
                 }));
@@ -769,6 +782,7 @@
                     rend: 2,
                     damage: 2,
                     save: 3,
+                    shootingRange: 0, // Melee only
                     x: 650,
                     y: 400
                 }));
@@ -796,6 +810,7 @@
                         <div class="unit-stats">
                             <div class="stat"><span class="stat-label">Move:</span> ${unit.move / 50}"</div>
                             <div class="stat"><span class="stat-label">Health:</span> ${unit.health}/${unit.maxHealth}</div>
+                            <div class="stat"><span class="stat-label">Range:</span> ${unit.shootingRange === 0 ? 'Melee' : (unit.shootingRange / 50) + '"'}</div>
                             <div class="stat"><span class="stat-label">Attacks:</span> ${unit.attacks}</div>
                             <div class="stat"><span class="stat-label">To Hit:</span> ${unit.toHit}+</div>
                             <div class="stat"><span class="stat-label">To Wound:</span> ${unit.toWound}+</div>
@@ -904,12 +919,15 @@
                         }
                         break;
                     case 2: // Shooting Phase
-                        if (unit.hasAttacked) {
+                        if (unit.shootingRange === 0) {
+                            this.log(`${unit.name} has no ranged weapons!`, 'miss');
+                            this.mode = null;
+                        } else if (unit.hasAttacked) {
                             this.log(`${unit.name} has already attacked this turn!`, 'miss');
                             this.mode = null;
                         } else {
                             this.mode = 'shoot';
-                            this.log(`${unit.name} ready to shoot. Click an enemy unit to attack`, 'hit');
+                            this.log(`${unit.name} ready to shoot (range: ${unit.shootingRange / 50}"). Click an enemy unit to attack`, 'hit');
                         }
                         break;
                     case 3: // Charge Phase
@@ -936,9 +954,22 @@
             }
 
             performShootingAttack(attacker, defender) {
-                // For this simplified version, shooting attacks work the same as melee
-                // In a full implementation, you'd check range based on weapon stats
-                this.log(`${attacker.name} shoots at ${defender.name}!`, 'critical');
+                // Check if attacker has shooting range
+                if (attacker.shootingRange === 0) {
+                    this.log(`${attacker.name} has no ranged weapons!`, 'miss');
+                    this.mode = null;
+                    return;
+                }
+
+                // Check if defender is within shooting range
+                const distance = attacker.distanceTo(defender);
+                if (distance > attacker.shootingRange) {
+                    this.log(`${defender.name} is not within ${attacker.shootingRange / 50}" shooting range! (distance: ${Math.round(distance / 50)}")`, 'miss');
+                    this.mode = null;
+                    return;
+                }
+
+                this.log(`${attacker.name} shoots at ${defender.name}! (distance: ${Math.round(distance / 50)}")`, 'critical');
                 this.performAttack(attacker, defender);
             }
 
@@ -1015,16 +1046,23 @@
                         return canMove;
 
                     case 2: // Shooting Phase
-                        // Check if any unit hasn't attacked yet AND there are enemies to shoot at
+                        // Check if any unit hasn't attacked yet AND has enemies in shooting range
                         if (enemyUnits.length === 0) {
                             console.log('Shooting Phase: No enemies, skipping');
                             return false;
                         }
 
-                        // For simplicity, we'll just check if there are any units that haven't shot
-                        // In a full implementation, you'd check weapon ranges
-                        const canShoot = friendlyUnits.some(u => !u.hasAttacked);
-                        console.log(`Shooting Phase: canShoot = ${canShoot}`);
+                        // Check if any unit has shooting range AND hasn't shot AND has an enemy in range
+                        const canShoot = friendlyUnits.some(u => {
+                            if (u.hasAttacked || u.shootingRange === 0) return false;
+
+                            // Check if any enemy is within shooting range
+                            return enemyUnits.some(enemy => {
+                                const distance = u.distanceTo(enemy);
+                                return distance <= u.shootingRange;
+                            });
+                        });
+                        console.log(`Shooting Phase: canShoot = ${canShoot} (checking actual ranges)`);
                         return canShoot;
 
                     case 3: // Charge Phase
