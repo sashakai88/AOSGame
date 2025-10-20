@@ -623,7 +623,31 @@
                 this.createUnits();
                 this.render();
                 this.updatePhaseDisplay();
-                this.startTimer();
+
+                // Check if initial phase should auto-skip before starting timer
+                const canAct = this.canAnyUnitActInCurrentPhase();
+                console.log(`Initial phase check: canAct = ${canAct}`);
+
+                if (!canAct) {
+                    // Initial phase should be skipped
+                    const phaseNames = ['Hero', 'Movement', 'Shooting', 'Charge', 'Combat'];
+                    this.log(`${phaseNames[this.phase]} Phase - no valid actions, skipping immediately`, 'hit');
+
+                    // Stop timer and show "Auto"
+                    this.stopTimer();
+                    const timerValue = document.getElementById('timer-value');
+                    if (timerValue) {
+                        timerValue.textContent = 'Auto';
+                    }
+
+                    // Skip after short delay
+                    setTimeout(() => {
+                        this.nextPhase();
+                    }, 800);
+                } else {
+                    // Start timer normally
+                    this.startTimer();
+                }
             }
 
             startTimer() {
