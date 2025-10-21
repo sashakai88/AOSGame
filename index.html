@@ -593,6 +593,15 @@
                 return this.distanceTo(other) <= 150; // 3" in pixels (50px per inch)
             }
 
+            isInCombat(allUnits) {
+                // Check if this unit is within 3" of any enemy unit
+                return allUnits.some(other => {
+                    return other.player !== this.player &&
+                           other.isAlive() &&
+                           this.inCombatRange(other);
+                });
+            }
+
             takeDamage(amount) {
                 this.health = Math.max(0, this.health - amount);
             }
@@ -937,6 +946,9 @@
                         if (unit.hasMoved) {
                             this.log(`${unit.name} has already moved this turn!`, 'miss');
                             this.mode = null;
+                        } else if (unit.isInCombat(this.units)) {
+                            this.log(`${unit.name} is in combat and cannot move! (AOS Rule: Units in combat cannot move)`, 'miss');
+                            this.mode = null;
                         } else {
                             this.mode = 'move';
                             this.log(`${unit.name} selected. Click battlefield to move (max ${unit.move / 50}")`, 'hit');
@@ -948,6 +960,9 @@
                             this.mode = null;
                         } else if (unit.hasAttacked) {
                             this.log(`${unit.name} has already attacked this turn!`, 'miss');
+                            this.mode = null;
+                        } else if (unit.isInCombat(this.units)) {
+                            this.log(`${unit.name} is in combat and cannot shoot! (AOS Rule: Units in combat cannot shoot)`, 'miss');
                             this.mode = null;
                         } else {
                             this.mode = 'shoot';
@@ -1064,8 +1079,16 @@
                         return false;
 
                     case 1: // Movement Phase
-                        // Check if any unit hasn't moved yet
-                        const canMove = friendlyUnits.some(u => !u.hasMoved);
+                        // Check if any unit hasn't moved yet AND is not in combat
+                        const canMove = friendlyUnits.some(u => {
+                            if (u.hasMoved) return false;
+                            // Units in combat cannot move
+                            if (u.isInCombat(this.units)) {
+                                console.log(`  ${u.name}: in combat, cannot move`);
+                                return false;
+                            }
+                            return true;
+                        });
                         console.log(`Movement Phase: canMove = ${canMove}`);
                         return canMove;
 
@@ -1076,7 +1099,7 @@
                             return false;
                         }
 
-                        // Check if any unit has shooting range AND hasn't shot AND has an enemy in range
+                        // Check if any unit has shooting range AND hasn't shot AND has an enemy in range AND is not in combat
                         const canShoot = friendlyUnits.some(u => {
                             if (u.hasAttacked) {
                                 console.log(`  ${u.name}: already attacked`);
@@ -1084,6 +1107,11 @@
                             }
                             if (u.shootingRange === 0) {
                                 console.log(`  ${u.name}: no ranged weapons`);
+                                return false;
+                            }
+                            // Units in combat cannot shoot
+                            if (u.isInCombat(this.units)) {
+                                console.log(`  ${u.name}: in combat, cannot shoot`);
                                 return false;
                             }
 
