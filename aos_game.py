@@ -233,6 +233,12 @@ class Game:
         self.log.add("Welcome to Age of Sigmar Battle Simulator!", "critical")
         self.log.add("Based on AOS 4th Edition Core Rules", "hit")
 
+        # Check if initial phase should auto-skip
+        if not self.can_any_unit_act_in_current_phase():
+            self.log.add(f"{self.phase.name} Phase - auto-skipping...", "hit")
+            pygame.time.set_timer(pygame.USEREVENT, AUTO_SKIP_DELAY_MS, True)
+            self.auto_advancing = True
+
     def create_units(self):
         """Create starting units for both players"""
         # Player 1 - Order (Stormcast Eternals)
@@ -361,6 +367,11 @@ class Game:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 self.running = False
+            elif event.type == pygame.USEREVENT:
+                # Handle auto-advance timer
+                if self.auto_advancing:
+                    self.auto_advancing = False
+                    self.next_phase()
             elif event.type == pygame.KEYDOWN:
                 self.handle_keypress(event.key)
             elif event.type == pygame.MOUSEBUTTONDOWN:
@@ -438,11 +449,11 @@ class Game:
                 self.log.add(f"{unit.name} has already moved!", "miss")
                 self.mode = None
             elif unit.is_in_combat(self.units):
-                self.log.add(f"{unit.name} in combat. Press T to Retreat", "miss")
-                self.mode = 'retreat'
+                self.log.add(f"{unit.name} in combat! Press T to Retreat (takes D3 mortal damage)", "miss")
+                self.mode = None  # Wait for T key press
             else:
-                self.log.add(f"{unit.name} selected. Press M (Move), R (Run)", "hit")
-                self.mode = 'move'
+                self.log.add(f"{unit.name} selected. Press M (Move), R (Run), or click destination", "hit")
+                self.mode = 'move'  # Default to move mode
 
         elif self.phase == Phase.SHOOTING:
             if not unit.has_ranged_weapon():
@@ -797,12 +808,6 @@ class Game:
 
     def update(self):
         """Update game state"""
-        # Handle auto-advance event
-        for event in pygame.event.get(pygame.USEREVENT):
-            if self.auto_advancing:
-                self.auto_advancing = False
-                self.next_phase()
-
         # Update timer
         if not self.timer_paused and not self.auto_advancing:
             self.timer_ticks += 1
