@@ -488,7 +488,15 @@
         <div class="control-panel">
             <div class="phase-indicator">
                 <div class="phase-name" id="phase-name">Hero Phase</div>
-                <div class="turn-info" id="turn-info">Turn 1 - Player 1</div>
+                <div class="turn-info" id="turn-info">Battle Round 1 - Turn 1 - Player 1</div>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 10px 0; font-size: 0.9em;">
+                    <div style="background: rgba(74, 144, 226, 0.3); padding: 5px; border-radius: 5px;">
+                        <strong>Order VP:</strong> <span id="vp-p1">0</span> | <strong>CP:</strong> <span id="cp-p1">4</span>
+                    </div>
+                    <div style="background: rgba(226, 74, 74, 0.3); padding: 5px; border-radius: 5px;">
+                        <strong>Chaos VP:</strong> <span id="vp-p2">0</span> | <strong>CP:</strong> <span id="cp-p2">4</span>
+                    </div>
+                </div>
                 <div class="timer-display" id="timer-display">
                     <span class="timer-label">Time Remaining</span>
                     <span id="timer-value">30</span>s
@@ -513,34 +521,46 @@
             <div class="instructions">
                 <h4>How to Play (AOS 4th Edition Rules):</h4>
                 <ul>
-                    <li><strong>Instant Auto-Skip:</strong> Phases skip in 1 second when no valid actions!
+                    <li><strong>Battle Structure:</strong>
                         <ul style="margin-top: 5px;">
-                            <li>Hero Phase: Skips instantly (no abilities yet)</li>
-                            <li>Shooting Phase: Skips if no ranged units or enemies out of range</li>
-                            <li>Charge Phase: Skips if no enemies in charge range</li>
-                            <li>Combat Phase: Skips if no units in melee range (3")</li>
-                            <li>Timer shows "Auto" when auto-skipping - no waiting!</li>
+                            <li>Battle Rounds → 2 Turns per Round → 6 Phases per Turn</li>
+                            <li>Phases: Hero, Movement, Shooting, Charge, Combat, Turn End</li>
+                            <li>Command Points reset to 4 each battle round</li>
                         </ul>
                     </li>
-                    <li><strong>Unit Ranges:</strong> Check unit cards for weapon ranges
+                    <li><strong>Objectives & Victory:</strong>
                         <ul style="margin-top: 5px;">
-                            <li>Melee units have "Range: Melee" (must be within 3")</li>
-                            <li>Ranged units show shooting distance (e.g., "Range: 18"")</li>
-                            <li>Some units have both ranged and melee capabilities</li>
+                            <li>Golden markers are objectives - contest within 3"</li>
+                            <li>Control value determines who controls each objective</li>
+                            <li>Each controlled objective = 1 VP per Turn End Phase</li>
                         </ul>
                     </li>
-                    <li><strong>Timer:</strong> 30 seconds per active phase. Auto-skip phases bypass timer!</li>
-                    <li><strong>Phase-Based Actions:</strong> Just click your units! The game knows what to do:
+                    <li><strong>Weapons & Abilities:</strong>
                         <ul style="margin-top: 5px;">
-                            <li>Movement Phase: Click unit → Click destination</li>
-                            <li>Shooting Phase: Click ranged unit → Click enemy in range</li>
-                            <li>Charge Phase: Click unit → Click near enemy to charge</li>
-                            <li>Combat Phase: Click unit → Click enemy within 3" to fight</li>
+                            <li><strong>Crit (2 Hits):</strong> Critical hit (unmodified 6) = 2 hits</li>
+                            <li><strong>Crit (Auto-wound):</strong> Critical hit auto-wounds</li>
+                            <li><strong>Anti-X (+1 Rend):</strong> +1 Rend vs keyword (e.g., INFANTRY)</li>
+                            <li><strong>Charge (+1 Damage):</strong> +1 Damage if unit charged</li>
+                            <li><strong>Ward X+:</strong> Save after normal save (e.g., 6+ ward)</li>
                         </ul>
                     </li>
-                    <li><strong>Combat Range:</strong> 3" around each model (shown as golden circle)</li>
-                    <li><strong>Attack Sequence:</strong> Hit → Wound → Save → Damage</li>
-                    <li><strong>Critical Hits:</strong> Unmodified 6s deal +1 bonus damage!</li>
+                    <li><strong>Movement Options:</strong>
+                        <ul style="margin-top: 5px;">
+                            <li><strong>Move:</strong> Normal move up to MOVE characteristic</li>
+                            <li><strong>Run:</strong> Move + D6, cannot shoot this turn</li>
+                            <li><strong>Retreat:</strong> Move away from combat, take D3 mortal damage, cannot shoot/charge</li>
+                            <li><strong>Charge:</strong> Roll 2D6, move that distance toward enemy</li>
+                        </ul>
+                    </li>
+                    <li><strong>Combat Rules:</strong>
+                        <ul style="margin-top: 5px;">
+                            <li>Units in combat (within 3") cannot move or shoot</li>
+                            <li>Can only retreat to escape combat</li>
+                            <li>Attack sequence: Hit → Wound → Save → Ward → Damage</li>
+                            <li>Unmodified 1s always fail hit/wound/save rolls</li>
+                        </ul>
+                    </li>
+                    <li><strong>Auto-Skip:</strong> Phases skip in 1s when no valid actions available!</li>
                 </ul>
             </div>
         </div>
@@ -555,6 +575,19 @@
     </div>
 
     <script>
+        class Weapon {
+            constructor(config) {
+                this.type = config.type; // "MELEE" or "RANGED"
+                this.attacks = config.attacks;
+                this.hit = config.hit;
+                this.wound = config.wound;
+                this.rend = config.rend;
+                this.damage = config.damage;
+                this.range = config.range || 3; // 3" for melee
+                this.abilities = config.abilities || []; // ["Anti-X", "Charge", "Crit (2 Hits)", etc.]
+            }
+        }
+
         class Unit {
             constructor(name, player, stats) {
                 this.name = name;
@@ -562,17 +595,21 @@
                 this.move = stats.move;
                 this.health = stats.health;
                 this.maxHealth = stats.health;
-                this.attacks = stats.attacks;
-                this.toHit = stats.toHit;
-                this.toWound = stats.toWound;
-                this.rend = stats.rend;
-                this.damage = stats.damage;
                 this.save = stats.save;
-                this.shootingRange = stats.shootingRange || 0; // 0 means no ranged weapons
+                this.control = stats.control || 1;
+                this.ward = stats.ward || null; // Ward save (e.g., 5+ = 5)
+                this.unitType = stats.unitType || "INFANTRY"; // INFANTRY, CAVALRY, MONSTER, HERO, WAR_MACHINE
+                this.keywords = stats.keywords || [];
+                this.weapons = stats.weapons || []; // Array of Weapon objects
                 this.x = stats.x;
                 this.y = stats.y;
                 this.hasMoved = false;
+                this.hasCharged = false;
                 this.hasAttacked = false;
+                this.hasRun = false;
+                this.hasRetreated = false;
+                this.strikeFirst = false;
+                this.strikeLast = false;
             }
 
             isAlive() {
@@ -609,22 +646,48 @@
             reset() {
                 this.hasMoved = false;
                 this.hasAttacked = false;
+                this.hasCharged = false;
+                this.hasRun = false;
+                this.hasRetreated = false;
+                this.strikeFirst = false;
+                this.strikeLast = false;
+            }
+
+            hasRangedWeapon() {
+                return this.weapons.some(w => w.type === "RANGED");
+            }
+
+            isHero() {
+                return this.keywords.includes("HERO");
+            }
+
+            isMonster() {
+                return this.keywords.includes("MONSTER");
+            }
+
+            isInfantry() {
+                return this.unitType === "INFANTRY";
             }
         }
 
         class Game {
             constructor() {
                 this.units = [];
+                this.objectives = [];
                 this.selectedUnit = null;
-                this.turn = 1;
+                this.battleRound = 1;
+                this.turnInRound = 1; // 1 or 2
                 this.currentPlayer = 1;
                 this.phase = 0;
-                this.phases = ['Hero Phase', 'Movement Phase', 'Shooting Phase', 'Charge Phase', 'Combat Phase'];
-                this.mode = null; // 'move', 'attack', 'charge'
+                this.phases = ['Hero Phase', 'Movement Phase', 'Shooting Phase', 'Charge Phase', 'Combat Phase', 'Turn End Phase'];
+                this.mode = null; // 'move', 'run', 'retreat', 'charge', 'attack', 'shoot'
                 this.timeRemaining = 30;
                 this.timerInterval = null;
                 this.timerPaused = false;
                 this.autoAdvancing = false;
+                this.commandPoints = [4, 4]; // [player1, player2]
+                this.victoryPoints = [0, 0]; // [player1, player2]
+                this.awaitingPriorityRoll = false;
                 this.init();
             }
 
@@ -734,91 +797,179 @@
             }
 
             createUnits() {
-                // Player 1 units (Order)
-                this.units.push(new Unit('Stormcast Liberator', 1, {
-                    move: 200,
+                // Player 1 units (Order - Stormcast Eternals)
+                this.units.push(new Unit('Liberator Squad', 1, {
+                    move: 200, // 4"
                     health: 12,
-                    attacks: 3,
-                    toHit: 3,
-                    toWound: 4,
-                    rend: 1,
-                    damage: 2,
                     save: 4,
-                    shootingRange: 300, // 6" range (Sigmarite weapons)
+                    control: 2,
+                    ward: 6, // 6+ ward save
+                    unitType: "INFANTRY",
+                    keywords: ["ORDER", "STORMCAST ETERNALS"],
+                    weapons: [
+                        new Weapon({
+                            type: "MELEE",
+                            attacks: 3,
+                            hit: 3,
+                            wound: 4,
+                            rend: 1,
+                            damage: 2,
+                            range: 3,
+                            abilities: []
+                        }),
+                        new Weapon({
+                            type: "RANGED",
+                            attacks: 2,
+                            hit: 4,
+                            wound: 4,
+                            rend: 0,
+                            damage: 1,
+                            range: 300, // 6"
+                            abilities: []
+                        })
+                    ],
                     x: 100,
                     y: 100
                 }));
 
-                this.units.push(new Unit('Stormcast Prosecutor', 1, {
-                    move: 250,
+                this.units.push(new Unit('Prosecutor Squad', 1, {
+                    move: 250, // 5" (FLY)
                     health: 8,
-                    attacks: 2,
-                    toHit: 4,
-                    toWound: 4,
-                    rend: 0,
-                    damage: 1,
                     save: 5,
-                    shootingRange: 900, // 18" range (Storm Call Javelins)
+                    control: 1,
+                    ward: 6,
+                    unitType: "INFANTRY",
+                    keywords: ["ORDER", "STORMCAST ETERNALS", "FLY"],
+                    weapons: [
+                        new Weapon({
+                            type: "RANGED",
+                            attacks: 3,
+                            hit: 4,
+                            wound: 4,
+                            rend: 1,
+                            damage: 1,
+                            range: 900, // 18" Storm Call Javelins
+                            abilities: []
+                        }),
+                        new Weapon({
+                            type: "MELEE",
+                            attacks: 2,
+                            hit: 4,
+                            wound: 4,
+                            rend: 0,
+                            damage: 1,
+                            range: 3,
+                            abilities: []
+                        })
+                    ],
                     x: 100,
                     y: 250
                 }));
 
                 this.units.push(new Unit('Knight-Arcanum', 1, {
-                    move: 200,
+                    move: 200, // 4"
                     health: 15,
-                    attacks: 4,
-                    toHit: 3,
-                    toWound: 3,
-                    rend: 2,
-                    damage: 3,
                     save: 3,
-                    shootingRange: 0, // Melee only
+                    control: 2,
+                    ward: 6,
+                    unitType: "INFANTRY",
+                    keywords: ["ORDER", "STORMCAST ETERNALS", "HERO"],
+                    weapons: [
+                        new Weapon({
+                            type: "MELEE",
+                            attacks: 4,
+                            hit: 3,
+                            wound: 3,
+                            rend: 2,
+                            damage: 3,
+                            range: 3,
+                            abilities: ["Crit (2 Hits)"]
+                        })
+                    ],
                     x: 100,
                     y: 400
                 }));
 
                 // Player 2 units (Chaos)
-                this.units.push(new Unit('Chaos Warrior', 2, {
-                    move: 180,
+                this.units.push(new Unit('Chaos Warriors', 2, {
+                    move: 180, // 3.6" (approximately 4" with rounding)
                     health: 10,
-                    attacks: 2,
-                    toHit: 4,
-                    toWound: 3,
-                    rend: 1,
-                    damage: 1,
                     save: 4,
-                    shootingRange: 0, // Melee only
+                    control: 2,
+                    ward: null,
+                    unitType: "INFANTRY",
+                    keywords: ["CHAOS", "SLAVES TO DARKNESS"],
+                    weapons: [
+                        new Weapon({
+                            type: "MELEE",
+                            attacks: 3,
+                            hit: 4,
+                            wound: 3,
+                            rend: 1,
+                            damage: 1,
+                            range: 3,
+                            abilities: ["Anti-Infantry (+1 Rend)"]
+                        })
+                    ],
                     x: 650,
                     y: 100
                 }));
 
-                this.units.push(new Unit('Bloodletter', 2, {
-                    move: 220,
+                this.units.push(new Unit('Bloodletters', 2, {
+                    move: 220, // 4.4"
                     health: 6,
-                    attacks: 3,
-                    toHit: 4,
-                    toWound: 4,
-                    rend: 0,
-                    damage: 1,
                     save: 6,
-                    shootingRange: 0, // Melee only
+                    control: 1,
+                    ward: 5, // 5+ ward save (demonic)
+                    unitType: "INFANTRY",
+                    keywords: ["CHAOS", "KHORNE", "DAEMON"],
+                    weapons: [
+                        new Weapon({
+                            type: "MELEE",
+                            attacks: 3,
+                            hit: 4,
+                            wound: 4,
+                            rend: 1,
+                            damage: 1,
+                            range: 3,
+                            abilities: ["Charge (+1 Damage)"]
+                        })
+                    ],
                     x: 650,
                     y: 250
                 }));
 
                 this.units.push(new Unit('Chaos Lord', 2, {
-                    move: 200,
+                    move: 200, // 4"
                     health: 18,
-                    attacks: 5,
-                    toHit: 3,
-                    toWound: 3,
-                    rend: 2,
-                    damage: 2,
                     save: 3,
-                    shootingRange: 0, // Melee only
+                    control: 2,
+                    ward: null,
+                    unitType: "INFANTRY",
+                    keywords: ["CHAOS", "SLAVES TO DARKNESS", "HERO"],
+                    weapons: [
+                        new Weapon({
+                            type: "MELEE",
+                            attacks: 5,
+                            hit: 3,
+                            wound: 3,
+                            rend: 2,
+                            damage: 2,
+                            range: 3,
+                            abilities: ["Crit (Auto-wound)"]
+                        })
+                    ],
                     x: 650,
                     y: 400
                 }));
+
+                // Create objectives
+                this.objectives = [
+                    { x: 375, y: 150, controlledBy: 0 }, // Center-top
+                    { x: 375, y: 450, controlledBy: 0 }, // Center-bottom
+                    { x: 200, y: 300, controlledBy: 0 }, // Left
+                    { x: 550, y: 300, controlledBy: 0 }  // Right
+                ];
             }
 
             render() {
@@ -838,18 +989,23 @@
                     card.className = `unit-card ${this.selectedUnit === unit ? 'selected' : ''} ${!unit.isAlive() ? 'dead' : ''}`;
                     card.onclick = () => this.selectUnit(unit);
 
+                    const weaponInfo = unit.weapons.map(w => {
+                        const type = w.type === "RANGED" ? `Ranged ${w.range / 50}"` : "Melee 3\"";
+                        const abilities = w.abilities.length > 0 ? ` [${w.abilities.join(', ')}]` : '';
+                        return `${type}: ${w.attacks}A ${w.hit}+/${w.wound}+ -${w.rend} ${w.damage}D${abilities}`;
+                    }).join('<br>');
+
                     card.innerHTML = `
                         <div class="unit-name">${unit.name}</div>
                         <div class="unit-stats">
                             <div class="stat"><span class="stat-label">Move:</span> ${unit.move / 50}"</div>
                             <div class="stat"><span class="stat-label">Health:</span> ${unit.health}/${unit.maxHealth}</div>
-                            <div class="stat"><span class="stat-label">Range:</span> ${unit.shootingRange === 0 ? 'Melee' : (unit.shootingRange / 50) + '"'}</div>
-                            <div class="stat"><span class="stat-label">Attacks:</span> ${unit.attacks}</div>
-                            <div class="stat"><span class="stat-label">To Hit:</span> ${unit.toHit}+</div>
-                            <div class="stat"><span class="stat-label">To Wound:</span> ${unit.toWound}+</div>
-                            <div class="stat"><span class="stat-label">Rend:</span> -${unit.rend}</div>
-                            <div class="stat"><span class="stat-label">Damage:</span> ${unit.damage}</div>
+                            <div class="stat"><span class="stat-label">Control:</span> ${unit.control}</div>
                             <div class="stat"><span class="stat-label">Save:</span> ${unit.save}+</div>
+                            ${unit.ward ? `<div class="stat"><span class="stat-label">Ward:</span> ${unit.ward}+</div>` : ''}
+                        </div>
+                        <div style="font-size: 0.75em; padding: 5px 0; color: #ffd700;">
+                            ${weaponInfo}
                         </div>
                         <div class="health-bar">
                             <div class="health-fill" style="width: ${unit.getHealthPercent()}%"></div>
@@ -867,6 +1023,28 @@
             renderBattlefield() {
                 const battlefield = document.getElementById('battlefield');
                 battlefield.innerHTML = '';
+
+                // Render objectives
+                this.objectives.forEach((obj, idx) => {
+                    const objEl = document.createElement('div');
+                    objEl.style.position = 'absolute';
+                    objEl.style.left = `${obj.x - 15}px`;
+                    objEl.style.top = `${obj.y - 15}px`;
+                    objEl.style.width = '30px';
+                    objEl.style.height = '30px';
+                    objEl.style.borderRadius = '50%';
+                    objEl.style.border = '3px solid #ffd700';
+                    objEl.style.backgroundColor = obj.controlledBy === 1 ? 'rgba(74, 144, 226, 0.5)' :
+                                                   obj.controlledBy === 2 ? 'rgba(226, 74, 74, 0.5)' :
+                                                   'rgba(255, 215, 0, 0.2)';
+                    objEl.style.display = 'flex';
+                    objEl.style.alignItems = 'center';
+                    objEl.style.justifyContent = 'center';
+                    objEl.style.fontWeight = 'bold';
+                    objEl.style.color = '#ffd700';
+                    objEl.textContent = idx + 1;
+                    battlefield.appendChild(objEl);
+                });
 
                 this.units.forEach(unit => {
                     const unitEl = document.createElement('div');
@@ -943,19 +1121,30 @@
                         this.log(`${unit.name} selected. Hero Phase - no movement actions available`, 'hit');
                         break;
                     case 1: // Movement Phase
-                        if (unit.hasMoved) {
+                        if (unit.hasMoved || unit.hasRun || unit.hasRetreated) {
                             this.log(`${unit.name} has already moved this turn!`, 'miss');
                             this.mode = null;
-                        } else if (unit.isInCombat(this.units)) {
-                            this.log(`${unit.name} is in combat and cannot move! (AOS Rule: Units in combat cannot move)`, 'miss');
-                            this.mode = null;
+                        } else if (unit.isInCombat(this.units) && !this.mode) {
+                            // In combat - offer Retreat option
+                            this.log(`${unit.name} is in combat. Choose action: [M]ove (blocked), [R]un (blocked), Re[T]reat (move + D3 mortal damage)`, 'miss');
+                            this.mode = 'retreat-offer';
+                        } else if (this.mode === 'retreat') {
+                            // Retreating confirmed
+                            this.log(`${unit.name} retreating! Click where to retreat (max ${unit.move / 50}")`, 'hit');
+                        } else if (this.mode === 'run') {
+                            // Running confirmed
+                            const runBonus = this.rollD6();
+                            unit.hasRun = true;
+                            const totalMove = unit.move + (runBonus * 50);
+                            this.log(`${unit.name} runs! +${runBonus}" movement (total ${totalMove / 50}"). Click destination`, 'hit');
                         } else {
-                            this.mode = 'move';
-                            this.log(`${unit.name} selected. Click battlefield to move (max ${unit.move / 50}")`, 'hit');
+                            // Normal move - offer all options
+                            this.mode = 'move-offer';
+                            this.log(`${unit.name} selected. [M]ove ${unit.move / 50}", [R]un ${unit.move / 50}"+D6, Re[T]reat (if in combat)`, 'hit');
                         }
                         break;
                     case 2: // Shooting Phase
-                        if (unit.shootingRange === 0) {
+                        if (!unit.hasRangedWeapon()) {
                             this.log(`${unit.name} has no ranged weapons!`, 'miss');
                             this.mode = null;
                         } else if (unit.hasAttacked) {
@@ -964,18 +1153,28 @@
                         } else if (unit.isInCombat(this.units)) {
                             this.log(`${unit.name} is in combat and cannot shoot! (AOS Rule: Units in combat cannot shoot)`, 'miss');
                             this.mode = null;
+                        } else if (unit.hasRun) {
+                            this.log(`${unit.name} ran this turn and cannot shoot!`, 'miss');
+                            this.mode = null;
                         } else {
                             this.mode = 'shoot';
-                            this.log(`${unit.name} ready to shoot (range: ${unit.shootingRange / 50}"). Click an enemy unit to attack`, 'hit');
+                            const rangedWeapons = unit.weapons.filter(w => w.type === "RANGED");
+                            const ranges = rangedWeapons.map(w => w.range / 50 + '"').join(', ');
+                            this.log(`${unit.name} ready to shoot (ranges: ${ranges}). Click an enemy unit to attack`, 'hit');
                         }
                         break;
                     case 3: // Charge Phase
-                        if (unit.hasMoved) {
+                        if (unit.hasMoved || unit.hasCharged) {
                             this.log(`${unit.name} cannot charge - already moved this turn!`, 'miss');
                             this.mode = null;
+                        } else if (unit.hasRetreated) {
+                            this.log(`${unit.name} cannot charge - retreated this turn!`, 'miss');
+                            this.mode = null;
                         } else {
+                            const chargeRoll = this.rollD6() + this.rollD6();
+                            this.log(`${unit.name} charge roll: ${chargeRoll}". Click enemy to charge or battlefield near enemy`, 'hit');
                             this.mode = 'charge';
-                            this.log(`${unit.name} charging! Click near an enemy to charge`, 'hit');
+                            this.chargeDistance = chargeRoll * 50; // Store charge distance
                         }
                         break;
                     case 4: // Combat Phase
@@ -993,30 +1192,60 @@
             }
 
             performShootingAttack(attacker, defender) {
-                // Check if attacker has shooting range
-                if (attacker.shootingRange === 0) {
+                const distance = attacker.distanceTo(defender);
+                const rangedWeapons = attacker.weapons.filter(w => w.type === "RANGED");
+
+                if (rangedWeapons.length === 0) {
                     this.log(`${attacker.name} has no ranged weapons!`, 'miss');
                     this.mode = null;
                     return;
                 }
 
-                // Check if defender is within shooting range
-                const distance = attacker.distanceTo(defender);
-                if (distance > attacker.shootingRange) {
-                    this.log(`${defender.name} is not within ${attacker.shootingRange / 50}" shooting range! (distance: ${Math.round(distance / 50)}")`, 'miss');
+                // Find weapon with sufficient range
+                const viableWeapons = rangedWeapons.filter(w => distance <= w.range);
+                if (viableWeapons.length === 0) {
+                    const maxRange = Math.max(...rangedWeapons.map(w => w.range));
+                    this.log(`${defender.name} is not within range! (distance: ${Math.round(distance / 50)}", max range: ${maxRange / 50}")`, 'miss');
                     this.mode = null;
                     return;
                 }
 
                 this.log(`${attacker.name} shoots at ${defender.name}! (distance: ${Math.round(distance / 50)}")`, 'critical');
-                this.performAttack(attacker, defender);
+
+                // Attack with all viable ranged weapons
+                viableWeapons.forEach(weapon => {
+                    this.performWeaponAttack(attacker, defender, weapon);
+                });
+
+                attacker.hasAttacked = true;
+                this.mode = null;
+                this.selectedUnit = null;
+                this.render();
+                this.checkPhaseCompletion();
             }
 
             moveUnit(unit, newX, newY) {
                 const distance = Math.sqrt((newX - unit.x) ** 2 + (newY - unit.y) ** 2);
 
-                if (distance > unit.move) {
-                    this.log(`Movement exceeds ${unit.name}'s move distance (${unit.move / 50}")!`, 'miss');
+                // Check move distance limits
+                let maxMove = unit.move;
+                if (this.mode === 'charge') {
+                    maxMove = this.chargeDistance || unit.move;
+                } else if (this.mode === 'run' || unit.hasRun) {
+                    const runBonus = this.rollD6();
+                    maxMove = unit.move + (runBonus * 50);
+                    this.log(`Run bonus: +${runBonus}"`, 'hit');
+                } else if (this.mode === 'retreat') {
+                    maxMove = unit.move;
+                    // Apply D3 mortal damage
+                    const mortalDamage = Math.floor(Math.random() * 3) + 1;
+                    unit.takeDamage(mortalDamage);
+                    this.log(`${unit.name} takes ${mortalDamage} mortal damage from retreating!`, 'miss');
+                    unit.hasRetreated = true;
+                }
+
+                if (distance > maxMove) {
+                    this.log(`Movement exceeds ${unit.name}'s move distance (max ${maxMove / 50}")!`, 'miss');
                     return;
                 }
 
@@ -1027,14 +1256,20 @@
                 unit.x = newX;
                 unit.y = newY;
                 unit.hasMoved = true;
-                this.mode = null;
-                this.selectedUnit = null;
 
                 if (this.phase === 3) {
-                    this.log(`${unit.name} charged to new position!`, 'hit');
+                    unit.hasCharged = true;
+                    this.log(`${unit.name} charged ${Math.round(distance / 50)}" to new position!`, 'hit');
+                } else if (this.mode === 'retreat') {
+                    this.log(`${unit.name} retreated ${Math.round(distance / 50)}"`, 'hit');
+                } else if (this.mode === 'run' || unit.hasRun) {
+                    this.log(`${unit.name} ran ${Math.round(distance / 50)}" to new position`, 'hit');
                 } else {
-                    this.log(`${unit.name} moved to new position`, 'hit');
+                    this.log(`${unit.name} moved ${Math.round(distance / 50)}" to new position`, 'hit');
                 }
+
+                this.mode = null;
+                this.selectedUnit = null;
                 this.render();
 
                 // Check if phase is complete after moving
@@ -1059,7 +1294,7 @@
 
                 if (!canAct) {
                     this.autoAdvancing = true;
-                    const phaseNames = ['Hero', 'Movement', 'Shooting', 'Charge', 'Combat'];
+                    const phaseNames = ['Hero', 'Movement', 'Shooting', 'Charge', 'Combat', 'Turn End'];
                     this.log(`${phaseNames[this.phase]} Phase complete - auto-advancing...`, 'hit');
                     setTimeout(() => {
                         this.autoAdvancing = false;
@@ -1099,14 +1334,18 @@
                             return false;
                         }
 
-                        // Check if any unit has shooting range AND hasn't shot AND has an enemy in range AND is not in combat
+                        // Check if any unit has ranged weapons AND hasn't shot AND has an enemy in range AND is not in combat
                         const canShoot = friendlyUnits.some(u => {
                             if (u.hasAttacked) {
                                 console.log(`  ${u.name}: already attacked`);
                                 return false;
                             }
-                            if (u.shootingRange === 0) {
+                            if (!u.hasRangedWeapon()) {
                                 console.log(`  ${u.name}: no ranged weapons`);
+                                return false;
+                            }
+                            if (u.hasRun) {
+                                console.log(`  ${u.name}: ran this turn, cannot shoot`);
                                 return false;
                             }
                             // Units in combat cannot shoot
@@ -1116,12 +1355,14 @@
                             }
 
                             // Check if any enemy is within shooting range
+                            const rangedWeapons = u.weapons.filter(w => w.type === "RANGED");
+                            const maxRange = Math.max(...rangedWeapons.map(w => w.range));
                             const hasTargetInRange = enemyUnits.some(enemy => {
                                 const distance = u.distanceTo(enemy);
                                 const distanceInches = Math.round(distance / 50);
-                                const rangeInches = u.shootingRange / 50;
-                                console.log(`  ${u.name} (${rangeInches}") -> ${enemy.name}: ${distanceInches}" ${distance <= u.shootingRange ? 'IN RANGE' : 'OUT OF RANGE'}`);
-                                return distance <= u.shootingRange;
+                                const rangeInches = maxRange / 50;
+                                console.log(`  ${u.name} (${rangeInches}") -> ${enemy.name}: ${distanceInches}" ${distance <= maxRange ? 'IN RANGE' : 'OUT OF RANGE'}`);
+                                return distance <= maxRange;
                             });
                             return hasTargetInRange;
                         });
@@ -1165,9 +1406,57 @@
                         console.log(`Combat Phase: canFight = ${canFight}`);
                         return canFight;
 
+                    case 5: // Turn End Phase
+                        // Always auto-skip Turn End Phase (just scores objectives)
+                        console.log('Turn End Phase: Auto-skipping (scoring objectives)');
+                        return false;
+
                     default:
                         return false;
                 }
+            }
+
+            scoreObjectives() {
+                this.log('<strong>Scoring Objectives...</strong>', 'critical');
+
+                this.objectives.forEach((obj, idx) => {
+                    let player1Control = 0;
+                    let player2Control = 0;
+
+                    this.units.forEach(unit => {
+                        if (!unit.isAlive()) return;
+
+                        const distance = Math.sqrt((unit.x - obj.x) ** 2 + (unit.y - obj.y) ** 2);
+                        if (distance <= 150) { // Within 3" (combat range)
+                            if (unit.player === 1) {
+                                player1Control += unit.control;
+                            } else {
+                                player2Control += unit.control;
+                            }
+                        }
+                    });
+
+                    const previousControl = obj.controlledBy;
+                    if (player1Control > player2Control) {
+                        obj.controlledBy = 1;
+                    } else if (player2Control > player1Control) {
+                        obj.controlledBy = 2;
+                    }
+                    // else: no change in control
+
+                    if (obj.controlledBy !== previousControl) {
+                        this.log(`Objective ${idx + 1}: ${obj.controlledBy === 1 ? 'Order' : obj.controlledBy === 2 ? 'Chaos' : 'Neutral'} (${player1Control} vs ${player2Control})`, 'hit');
+                    }
+                });
+
+                // Count VP for controlled objectives
+                const p1Objectives = this.objectives.filter(o => o.controlledBy === 1).length;
+                const p2Objectives = this.objectives.filter(o => o.controlledBy === 2).length;
+
+                this.victoryPoints[0] += p1Objectives;
+                this.victoryPoints[1] += p2Objectives;
+
+                this.log(`<strong>Victory Points: Order ${this.victoryPoints[0]} - Chaos ${this.victoryPoints[1]}</strong>`, 'critical');
             }
 
             performAttack(attacker, defender) {
@@ -1177,75 +1466,156 @@
                     return;
                 }
 
-                this.log(`<strong>${attacker.name} attacks ${defender.name}!</strong>`, 'critical');
+                this.log(`<strong>${attacker.name} attacks ${defender.name} in melee!</strong>`, 'critical');
 
-                let totalDamage = 0;
+                // Attack with all melee weapons
+                const meleeWeapons = attacker.weapons.filter(w => w.type === "MELEE");
+                meleeWeapons.forEach(weapon => {
+                    this.performWeaponAttack(attacker, defender, weapon);
+                });
 
-                for (let i = 0; i < attacker.attacks; i++) {
+                attacker.hasAttacked = true;
+                this.mode = null;
+                this.selectedUnit = null;
+                this.render();
+                this.checkPhaseCompletion();
+            }
+
+            performWeaponAttack(attacker, defender, weapon) {
+                const weaponName = `${weapon.type} weapon (${weapon.attacks}A, ${weapon.hit}+/${weapon.wound}+, -${weapon.rend}, ${weapon.damage}D)`;
+                this.log(`Using ${weaponName}`, 'hit');
+
+                let damagePool = [];
+
+                for (let i = 0; i < weapon.attacks; i++) {
                     // Hit Roll
                     const hitRoll = this.rollD6();
-                    const isCriticalHit = hitRoll === 6;
+                    const isCriticalHit = (hitRoll === 6);
 
-                    this.log(`Attack ${i + 1} - Hit Roll: <span class="dice-roll">${hitRoll}</span> (need ${attacker.toHit}+)`,
-                             hitRoll >= attacker.toHit ? 'hit' : 'miss');
+                    this.log(`Attack ${i + 1} - Hit Roll: <span class="dice-roll">${hitRoll}</span> (need ${weapon.hit}+)`,
+                             hitRoll >= weapon.hit ? 'hit' : 'miss');
 
-                    if (hitRoll < attacker.toHit) {
+                    if (hitRoll === 1) {
+                        this.log('Unmodified 1 - auto fail!', 'miss');
+                        continue;
+                    }
+
+                    if (hitRoll < weapon.hit) {
                         this.log('Miss!', 'miss');
                         continue;
                     }
 
-                    // Wound Roll
-                    const woundRoll = this.rollD6();
-                    const isCriticalWound = woundRoll === 6;
-
-                    this.log(`Wound Roll: <span class="dice-roll">${woundRoll}</span> (need ${attacker.toWound}+)`,
-                             woundRoll >= attacker.toWound ? 'hit' : 'miss');
-
-                    if (woundRoll < attacker.toWound) {
-                        this.log('Failed to wound!', 'miss');
-                        continue;
+                    // Handle Crit (2 Hits) ability
+                    let hits = 1;
+                    if (isCriticalHit && weapon.abilities.includes("Crit (2 Hits)")) {
+                        hits = 2;
+                        this.log(`<strong>CRITICAL! Crit (2 Hits) - scores 2 hits!</strong>`, 'critical');
                     }
 
-                    // Save Roll
-                    const saveRoll = this.rollD6();
-                    const modifiedSave = defender.save + attacker.rend;
+                    for (let h = 0; h < hits; h++) {
+                        // Wound Roll
+                        let woundRoll = this.rollD6();
+                        let autoWound = false;
 
-                    this.log(`Save Roll: <span class="dice-roll">${saveRoll}</span> (need ${modifiedSave}+ after -${attacker.rend} rend)`,
-                             saveRoll >= modifiedSave ? 'hit' : 'miss');
+                        // Handle Crit (Auto-wound) ability
+                        if (isCriticalHit && weapon.abilities.includes("Crit (Auto-wound)")) {
+                            this.log(`<strong>CRITICAL! Crit (Auto-wound) - automatically wounds!</strong>`, 'critical');
+                            autoWound = true;
+                        }
 
-                    if (saveRoll >= modifiedSave) {
-                        this.log('Saved!', 'hit');
-                        continue;
+                        if (!autoWound) {
+                            this.log(`Wound Roll: <span class="dice-roll">${woundRoll}</span> (need ${weapon.wound}+)`,
+                                     woundRoll >= weapon.wound ? 'hit' : 'miss');
+
+                            if (woundRoll === 1) {
+                                this.log('Unmodified 1 - auto fail!', 'miss');
+                                continue;
+                            }
+
+                            if (woundRoll < weapon.wound) {
+                                this.log('Failed to wound!', 'miss');
+                                continue;
+                            }
+                        }
+
+                        // Calculate rend (check for Anti-X abilities)
+                        let effectiveRend = weapon.rend;
+                        weapon.abilities.forEach(ability => {
+                            if (ability.startsWith("Anti-") && ability.includes("+1 Rend")) {
+                                const keyword = ability.match(/Anti-([A-Za-z]+)/)[1].toUpperCase();
+                                if (defender.keywords.some(k => k.toUpperCase().includes(keyword)) ||
+                                    defender.unitType.toUpperCase().includes(keyword)) {
+                                    effectiveRend += 1;
+                                    this.log(`<strong>Anti-${keyword} activated! +1 Rend</strong>`, 'critical');
+                                }
+                            }
+                        });
+
+                        // Save Roll
+                        const saveRoll = this.rollD6();
+                        const modifiedSave = defender.save + effectiveRend;
+
+                        this.log(`Save Roll: <span class="dice-roll">${saveRoll}</span> (need ${modifiedSave}+ after -${effectiveRend} rend)`,
+                                 saveRoll >= modifiedSave ? 'hit' : 'miss');
+
+                        if (saveRoll === 1) {
+                            this.log('Unmodified 1 - auto fail!', 'miss');
+                            // Continue to damage
+                        } else if (saveRoll >= modifiedSave) {
+                            this.log('Saved!', 'hit');
+                            continue;
+                        }
+
+                        // Calculate damage
+                        let damage = weapon.damage;
+
+                        // Handle Charge (+1 Damage) ability
+                        if (attacker.hasCharged && weapon.abilities.includes("Charge (+1 Damage)")) {
+                            damage += 1;
+                            this.log(`<strong>Charge (+1 Damage) activated!</strong>`, 'critical');
+                        }
+
+                        // Handle Crit (Mortal) ability
+                        if (isCriticalHit && weapon.abilities.some(a => a.startsWith("Crit (Mortal"))) {
+                            this.log(`<strong>CRITICAL! Crit (Mortal) - ${damage} mortal damage!</strong>`, 'critical');
+                            // Mortal damage bypasses ward saves in this simplified version
+                            defender.takeDamage(damage);
+                            this.log(`${damage} mortal damage dealt! ${defender.name} has ${defender.health} health remaining.`, 'hit');
+                        } else {
+                            // Normal damage - add to damage pool for ward saves
+                            damagePool.push(damage);
+                        }
                     }
-
-                    // Deal Damage
-                    let damage = attacker.damage;
-                    if (isCriticalHit || isCriticalWound) {
-                        damage += 1; // Critical hits deal extra damage
-                        this.log(`<strong>CRITICAL HIT! +1 damage!</strong>`, 'critical');
-                    }
-
-                    defender.takeDamage(damage);
-                    totalDamage += damage;
-                    this.log(`${damage} damage dealt! ${defender.name} has ${defender.health} health remaining.`, 'hit');
                 }
 
+                // Apply ward saves to damage pool
+                if (damagePool.length > 0 && defender.ward) {
+                    this.log(`Applying ward saves (${defender.ward}+)...`, 'hit');
+                    const survivingDamage = [];
+                    damagePool.forEach(dmg => {
+                        const wardRoll = this.rollD6();
+                        this.log(`Ward save: <span class="dice-roll">${wardRoll}</span> (need ${defender.ward}+)`,
+                                wardRoll >= defender.ward ? 'hit' : 'miss');
+                        if (wardRoll < defender.ward) {
+                            survivingDamage.push(dmg);
+                        } else {
+                            this.log('Ward save successful!', 'hit');
+                        }
+                    });
+                    damagePool = survivingDamage;
+                }
+
+                // Deal all damage from pool
+                const totalDamage = damagePool.reduce((sum, d) => sum + d, 0);
                 if (totalDamage > 0) {
-                    this.log(`<strong>Total damage: ${totalDamage}</strong>`, 'critical');
+                    defender.takeDamage(totalDamage);
+                    this.log(`<strong>${totalDamage} total damage dealt! ${defender.name} has ${defender.health} health remaining.</strong>`, 'critical');
                 }
 
                 if (!defender.isAlive()) {
                     this.log(`<strong>${defender.name} has been slain!</strong>`, 'critical');
                     this.checkVictory();
                 }
-
-                attacker.hasAttacked = true;
-                this.mode = null;
-                this.selectedUnit = null;
-                this.render();
-
-                // Check if phase is complete after attacking
-                this.checkPhaseCompletion();
             }
 
             checkVictory() {
@@ -1271,19 +1641,31 @@
             }
 
             nextPhase() {
+                // Handle Turn End Phase scoring
+                if (this.phase === 5) {
+                    this.scoreObjectives();
+                }
+
                 this.phase++;
 
                 if (this.phase >= this.phases.length) {
+                    // End of turn - switch players
                     this.phase = 0;
-                    this.currentPlayer = this.currentPlayer === 1 ? 2 : 1;
+                    this.turnInRound++;
 
-                    if (this.currentPlayer === 1) {
-                        this.turn++;
+                    if (this.turnInRound > 2) {
+                        // End of battle round
+                        this.battleRound++;
+                        this.turnInRound = 1;
+                        this.commandPoints = [4, 4]; // Reset command points
+                        this.log(`<strong>=== BATTLE ROUND ${this.battleRound} ===</strong>`, 'critical');
                     }
+
+                    this.currentPlayer = this.currentPlayer === 1 ? 2 : 1;
 
                     // Reset unit actions
                     this.units.forEach(u => u.reset());
-                    this.log(`<strong>Turn ${this.turn} - Player ${this.currentPlayer}'s turn begins</strong>`, 'critical');
+                    this.log(`<strong>Player ${this.currentPlayer}'s Turn (Round ${this.battleRound}, Turn ${this.turnInRound})</strong>`, 'critical');
                 }
 
                 this.updatePhaseDisplay();
@@ -1294,7 +1676,7 @@
 
                 if (!canAct) {
                     // Phase should be skipped immediately
-                    const phaseNames = ['Hero', 'Movement', 'Shooting', 'Charge', 'Combat'];
+                    const phaseNames = ['Hero', 'Movement', 'Shooting', 'Charge', 'Combat', 'Turn End'];
                     this.log(`${phaseNames[this.phase]} Phase - no valid actions, skipping immediately`, 'hit');
 
                     // Stop timer and show "Auto-skip"
@@ -1318,17 +1700,24 @@
 
             updatePhaseDisplay() {
                 document.getElementById('phase-name').textContent = this.phases[this.phase];
-                document.getElementById('turn-info').textContent = `Turn ${this.turn} - Player ${this.currentPlayer}`;
+                document.getElementById('turn-info').textContent = `Battle Round ${this.battleRound} - Turn ${this.turnInRound} - Player ${this.currentPlayer}`;
+
+                // Update VP and CP displays
+                document.getElementById('vp-p1').textContent = this.victoryPoints[0];
+                document.getElementById('vp-p2').textContent = this.victoryPoints[1];
+                document.getElementById('cp-p1').textContent = this.commandPoints[0];
+                document.getElementById('cp-p2').textContent = this.commandPoints[1];
 
                 // Update phase help text
                 const phaseHelpText = document.getElementById('phase-help-text');
                 const canAct = this.canAnyUnitActInCurrentPhase();
                 const phaseHelpMessages = [
                     'Hero Phase - No hero abilities available. Skipping in 1s...',
-                    'Movement Phase - Click your units, then click where to move them',
-                    canAct ? 'Shooting Phase - Click your unit, then click an enemy to shoot at' : 'Shooting Phase - No valid targets in range. Skipping in 1s...',
-                    canAct ? 'Charge Phase - Click your unit, then click near an enemy to charge' : 'Charge Phase - No enemies in charge range. Skipping in 1s...',
-                    canAct ? 'Combat Phase - Click your unit, then click an enemy within 3" to attack' : 'Combat Phase - No units in combat range. Skipping in 1s...'
+                    'Movement Phase - Click your units, then click where to move them (or Run/Retreat)',
+                    canAct ? 'Shooting Phase - Click your ranged unit, then click an enemy to shoot' : 'Shooting Phase - No valid targets in range. Skipping in 1s...',
+                    canAct ? 'Charge Phase - Roll 2D6 and charge toward an enemy' : 'Charge Phase - No enemies in charge range. Skipping in 1s...',
+                    canAct ? 'Combat Phase - Click your unit in combat, then click an enemy within 3" to fight' : 'Combat Phase - No units in combat range. Skipping in 1s...',
+                    'Turn End Phase - Scoring objectives... Skipping in 1s...'
                 ];
                 phaseHelpText.textContent = phaseHelpMessages[this.phase];
             }
@@ -1349,14 +1738,19 @@
             restart() {
                 this.stopTimer(); // Stop existing timer
                 this.units = [];
+                this.objectives = [];
                 this.selectedUnit = null;
-                this.turn = 1;
+                this.battleRound = 1;
+                this.turnInRound = 1;
                 this.currentPlayer = 1;
                 this.phase = 0;
                 this.mode = null;
                 this.timeRemaining = 30;
                 this.timerPaused = false;
                 this.autoAdvancing = false;
+                this.commandPoints = [4, 4];
+                this.victoryPoints = [0, 0];
+                this.chargeDistance = 0;
                 const btn = document.getElementById('timer-toggle-btn');
                 if (btn) btn.textContent = 'Pause Timer';
                 document.getElementById('victory-modal').classList.remove('active');
