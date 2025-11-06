@@ -1,0 +1,2039 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/General_gameplay_tips",
+  "title": "General gameplay tips - Project: Gorgon Wiki",
+  "main_content": "General gameplay tips\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nAuthor's note:\nThis page is fairly text-heavy but this is a compilation of mechanics used in the game.\nBear with us as you take the time to read this. It will save you some headaches later, we promise.\nContents\n1\nIntroduction\n2\nBasics\n2.1\nUser Interface\n2.2\nControls\n2.2.1\nPlayer Controls\n2.2.2\nGUI Controls\n2.3\nCombat\n2.4\nDamage Types\n2.4.1\nDamage Types by Skill\n2.4.1.1\nItems Which Alter Damage Type\n2.5\nAttacks\n2.6\nEvasion and Accuracy\n2.7\nLevels & Skills\n2.8\nDeath\n3\nInventory, Items, and Equipment Mods\n3.1\nStorage Basics\n3.1.1\nInventory Folders\n3.2\nCombat Items\n3.3\nLoot\n3.4\nEquipment Treasure Effects\n3.5\nSave Things!\n4\nNPC's Quests and Favors\n4.1\nGet every NPC on your side!\n4.2\nMerchants\n4.3\nHanging out\n4.4\nExtra Tips for NPC Favor\n5\nExtras\nIntroduction\nWelcome to the new player's guide! Here we will attempt to give you a running start at playing Project:Gorgon (abbreviated to PG) while showing you how and where to find things on the wiki. A few things to keep in mind, Project:Gorgon is a game under development and because of that changes will occur (fast and often at times). Don't be alarmed if something doesn't work! Just send a bug report and continue playing. Things are improving all the time and every reported bug helps.\nProject: Gorgon (PG) is a game that will give you the tools that you need, give advice, and tell you where to go or what you need to do to complete whatever task you have in mind. It will not hold your hand though. It leaves it to the player to find the tool, the quest/advice giver, and whatever else the player might need. So then, players should keep in mind that most NPC talk is laced with hints and will be useful for something. So be prepared to go backtracking and searching the wiki if you are a habitual text window closer! (Hint: We all do it.)\nNext! If PG gives a warning about a boss or skill or whatever it may be:\nBelieve it.\nThe warnings are there for a reason and may cause permanent changes to the player's character that\ncannot\nbe reversed. That being said...\nExploration is a major theme in PG; discover new places, new skills, new enemies, and new people. PG aims to give plenty of content for players to explore and enjoy at all stages of the game. We ask players to be considerate to others that may not know or not have discovered as much in the game. Everyone wants to have the thrill of discovering something new, so please try not to shout out spoilers if possible. If you do wish to answer a question, or ask a question that contains spoilers in chat, please use triple brackets around the text like this: [[[spoiler text in chat]]]\nUseful links for players:\n[\nWiki Main Page\n]\n[\nProject Gorgon Forums\n]\n[\nDeveloper blog\n]\nLatest Game Update Notes\n[\nDiscord Link\n]\nGood luck, and now to the good stuff!\nBasics\nUser Interface\nIn this picture, you can see a player's Inventory(top right), party window(bottom right), and player Chat on the left.\nFor the current\nUser Interface\na player has 3 main panels.\nThese are\nMain UI Bar\n,\nEquipped Skills\n, and your\nSpecial Abilities\n.\nMain UI Bar\nSupport\nA place to report bugs, Un-stuck toggle, Give Suggestion, Report Abuse.\nChat\nPanel for talking to other players.\nInventory\nShows players current carried items\nSkills & Abilities\nPanel that shows the players current skills and their level in each.\nMap\nShows the zone map in which the player is currently in, if applicable.\nQuest Log\nShows the players current quest, stuff to do, and a notepad.\nBooks & Lore\nBooks and Lore that the player has read.\nCrafting\nShows all recipes that the player has learned.\nPersona\nShows current Equipment, Player Statuses, and Player Abilities.\nOptions\nShows various options..\nkey commands,\nMouse and Movement Parameters,\nGraphics,\nGUI and Windows,\nSound,\nSpecial Settings,\nLogout,\nQuit Game.\nSocial\nShows players hunting group and Friends list.\nThe\nEquipped Skills\nbars, at the bottom of the screen, are where you can see your currently equipped skills, be they combat, animal, performance ect.\nThe\ndefault controls\nfor a player's\nEquipped Skills\nare:\nFor the top bar: numbers\n1\n⇒\n6\n.\nFor the bottom bar:\nCtrl\n+\n1\n⇒\n6\n.\nThese are the abilities that you will be using regularly.\nTo the left and the right of the\nEquipped Skills\nare two additional buttons:\nPets\nShows the players current pet(s).\nLoadouts\nShows the player's available Loadouts.\nThe\nSpecial Abilities\nbar, far left of the screen, holds special action skills such as\nFirst Aid\n,\nArmor Patching\n, and even items from your inventory, allowing you to use items instantly.\nThese generally have a longer cooldown times and have better long term effects special in that some cannot be used.\nNote: Players cannot switch armor or weapons if they are currently in combat!\nControls\nFor a complete listing see\nControls\n.\nPlayer Controls\nDefault player Controls\nCommand\nKey\nAlternate Key\nTurn Left\n←\nA\nTurn Right\n→\nD\nStrafe Left\nQ\nNone\nStrafe Right\nE\nNone\nMove Forward\n↑\nW\nMove Backwards\n↓\nS\nJump\nSpace\nNone\nRun\nLeft-Shift\nRight-Shift\nToggle Run/Walk\n'\nNone\nUse Ability 1⇒6\n1\n⇒\n6\nNone\nUse Ability 7⇒12\nCtrl\n+\n1\n⇒\n6\nNone\nDefault Movement Controls\nStandard WASD or Arrows Movement\nHolding\nRMB\n+\nLMB\nwill make your character move forward.\nGUI Controls\nDefault GUI Controls\nCommand\nKey\nAlternate Key\nShow Inventory Window\nI\nCtrl\n+\nI\nShow Chat Window\nC\nCtrl\n+\nC\nShow Persona Screen\nP\nNone\nShow Quest Screen\nNone\nNone\nShow Config Screen\nShift\n+\nO\nNone\nShow Map Window\nM\nCtrl\n+\nM\nClose Last Panel\nCan also open options menu.\nEscape\nNone\nSelect Next Enemy\nTab\nNone\nZoom Camera In\nNumeric Keypad:\n+\nScroll Wheel ⇑\nZoom Camera Out\nNumeric Keypad:\n-\nScroll Wheel ⇓\nSelect Next Non-Combatant\nNone\nNone\nUse Selected\nU\nNone\nScreenshot\nCtrl\n+\nP\nNone\nScreenshot: High-Res\nNone\nNone\nTurn On/Off GUI Windows\n=\nNone\nShow Label Above Interactibles\nAlt\nNone\nAt the bottom of the options panel, the player can see their current\nPing\n,\nFPS\n, and\nGame Version\n.\nTyping \"\n/wiki chicken\n\" in the game chat will open an internet browser and search this wiki for 'chicken', quite helpful when first starting. (\nYes, there is a chicken page.\n)\nSelect Next Non-Combatant\nis Useful for selecting ground items, especially if they are hidden in foliage. Highly Recommended\nUse Selected\nis Handy to use in tandem with Select Next/Previous Non-Combatant, to quickly loot ground items,\nor shuffle through a pile of dead mobs.\nFor High-Res Screenshots\nF12\nis suggested.\nFor capturing screenshots in general and in particular\nscreen portions\nLightshot\nis highly advised.\nEspecially with it's default\nPRT-SCR\nkey-usage.\nCombat\nShort and sweet version here check out\nCombat\nfor a full run through of all buffs/equipment/effects.\nAbove, you can see your characters Health (Red), Armor (Yellow), and Power (Blue) as shown in-game. These are the players main resources while in combat, used to stay alive, protect health, and use player skills, respectively. They can be regained through five diffrent ways: out-of-combat regain, in-combat regain, combat refresh, player skills, and consumable buffs. These diffrent types of in/out of combat are especially important to pay attention to as they have very diffrent rates.\nOut-of-Combat, is the regain when the player is not currently fighting any mobs. It is quite high compared to the other states, and it's free!\nIn-Combat is a markedly lower regain of stats state while the player is fighting enemies. It's low regain makes it necessary for players to efficiently use their Combat Refresh while fighting. *Some player skills are healing skills or can be modified to give heals when they are used.\nConsumables are the food, flower, statue, meditation, ect... They require a item to be (surprise!) consumed  or used to gain their buff, the better the item the better the buff, usually.\nCombat Refresh\nis the system used to restore armor, health, and power while in-combat. Activating a skill's basic attack will activate this, on a 10 second cool down, not all skills have basic attacks that will activate this however. See page for details.\nA chicken's Stats\nArmor, as a resource, plays an important but subtle function in combat, it mitigates 1 point of damage for every 25 points of armor remaining and is lost when mitigating damage. So then armored becomes more effective per point, the more you have of it.\nPower is consumed by most skills but there are some skills, like emergency abilities, that have no Power requirement, and typically have a longer cooldown. The amount of Power available and your ability to recover Power between encounters is very important if you hope to take on more than one enemy at once, or even solo dungeons. But be aware!\nRunning while in combat\nwill\ndrain power.\nThis goblin is in\nvulnerable\nstate as indicated by the overhead icon.\nRage is a special resource used by monsters to activate their special attacks. As you hit monsters or they hit you, they gather Rage, and when their meter is full (an orange looking hand), they user their super power. There are some skills that \"manage rage', as they decrease a mobs rage or slow its ability to produce rage somehow.\nVulnerability is another special mechanic for monsters, they periodically go into this vulnerable state and some abilities have a chance to cause it. Some attacks do extra damage against vulnerable monsters, so it’s sort of a whack-a-mole mechanic — you use your vuln-boost ability when you see the monster flashing vulnerable.\nClick on Expand to view currently available non-animal combat skills. Individual skill pages provide information on discovering these skills!\nSkill\nDescription\nAnimal Handling\nThe art of taming animals and teaching them to fight alongside you.\nArchery\nExpertise with using bows to hunt and kill.\nBard\nBardin'\nBattle Chemistry\nUsing alchemical concoctions in the heat of battle. Not for the faint of heart, or the particularly sane, this combat style specializes in area-effects of all types. Advanced practitioners can also ingest their formulae directly to take on new combat personalities. Masters can even create homonculi to serve them in battle.\nCow\nCows are fast and furious!\nCrossbow\nPew pew pew.\nDeer\nA majestic stag and doe.\nDruid\nDruidin'\nFairy Magic\nA sub-skill of Mentalism that focuses on psychic links to the fae realms.\nFire Magic\nUsing Fire to destroy your enemies. This is a very potent offensive skill, including long-range and area-effect attacks, and even some Cold attacks for versatility. However, there are drawbacks: Fire Magic is extremely Power-intensive; all creatures generate extra Rage when they are burned; and many creatures have some resistance to fire.\nGiant Bat\nSpooky, but vaguely adorable.\nHammer\nIf I had a hammer...\nIce Magic\nA specialization of Fire Magic that focuses entirely upon lowering temperature instead of raising it. It has protective and controlling abilities as well as offensive abilities.\nKnife Fighting\nUsing daggers and thrown knives in combat. Knife combat is extremely damaging, relying on traumatic injuries, poison, and subterfuge.\nLycanthropy\nSkill in fighting as a wolf beast. Also indicates your ability to control and suppress the beast mode.\nMentalism\nThe power of mind over matter: psychic powers! This combat skill focuses on recovery and restoration, but also has multiple damaging abilities.\nNecromancy\nNecromancy is control over the undead, along with other powers that trifle with mortality. To use necromantic abilities, you must be wielding or wearing a necromancy gem.\nPig\nAn example of a player pig.\nPriest\nOfficially the 'Priest of Arisetsu' skill, this represents your attunement with Arisetsu, the goddess of Warmth and Hope. When fighting alongside allies, you can bring hope to even the most impossible battles... but you cannot do it alone.\nPsychology\nUnderstanding the mind of sentient creatures. Also, using that knowledge in combat and other stressful situations.\nRabbit\nWhile rabbits usually come in brown or white varieties, some prefer to dye their fur.\nShield\nExpertise in the use of a shield, both as a weapon and as a defensive tool.\nSpider\nEw, they're icky!\nSpirit Fox\nMastery of the techniques of the spirit fox: an awakened fox with supernatural powers.\nStaff\nMastery of the staff as a martial weapon. Staff fighting has a mix of both offensive and defensive abilities.\nSword\nExpertise with swords, rapiers, and the like. Swords are very damaging and can reduce an opponent's rage.\nUnarmed\nThe skill of fighting with your body and minimal weapons.\nVampirism\nVampin'\nWarden\nSkill in using the secret powers of the Wardens.\nWeather Witching\nA rigorous magical discipline focusing on manipulating and engaging with the environment around you. Elves are the undisputed experts of the field, which causes some races to view it negatively. It is also sometimes mistaken for (illegal) Chaos Magic due to its chaotic and dangerous nature.\nGeneral tips for choosing between the combat skills:\n- As a newer player consider having 1 primary combat skill  and choose a support skill (e.g. Psychology or Mentalism) as your secondary. That will give much better ways to heal up during combat. There is also\nchart to indicate which combat skills can be used together\n.\n- As a newer player the Archery and Fire Magic can be very expensive to level in above level 10. (Archery requires specialized higher quality arrows for the higher level abilities. Those arrows are generally not available to be bought from vendors. You would have to also level Carpentry and Fletching to be able to make your own arrows.)\nDamage Types\nPhysical\nSlashing\nis a common physical damage type, often used by both combat skill abilities and creatures.\nSword\nand\nKnife Fighting\nhave many abilities that deal\nSlashing\ndamage.\nCanines\n,\nFelines\n, and\nRodents\ntend to use\nSlashing\nattacks.\nPiercing\nis a common physical damage type, often used by both combat skill abilities and creatures.\nArchery\n,\nStaff\n, and\nKnife Fighting\nhave abilities that deal\nPiercing\ndamage. Humanoid species like\nRakshasa\n, and some\nDinosaurs\ntend to use\nPiercing\nattacks.\nCrushing\nis a common physical damage type, often used by both combat skill abilities and creatures.\nStaff\n,\nHammer\n,\nCow\n, and\nUnarmed\nhave many abilities that deal\nCrushing\ndamage.\nCanines\n,\nGiants\n, and\nRuminants\ntend to deal\nCrushing\ndamage.\nElemental\nFire\nis a type of elemental damage commonly seen in combat skills, although some creatures posses\nFire\nattacks.\nFire Magic\nand\nPriest\nhave abilities that deal\nFire\ndamage.\nElementals\n,\nCrone-Kin\n, and humanoid mages tend to use\nFire\nattacks.\nCold\nis a type of elemental damage uncommonly seen in combat skills. Creatures in colder regions or dungeons are more likely to have\nCold\nattacks.\nIce Magic\nand\nFire Magic\nhave abilities that deal\nCold\ndamage.\nFungoids\nand\nElementals\ntend to use\nCold\nattacks.\nElectricity\nis a type of elemental damage commonly seen in combat skills, and rarely seen in creatures.\nHammer\n,\nMentalism\n,\nNecromancy\n, and\nWarden\nhave abilities that deal\nElectricity\ndamage.\nDinosaurs\nand\nElementals\nsometimes use\nElectricity\nattacks.\nInternal\nTrauma\nis a common internal damage type, often used by both combat skill abilities and creatures.\nSword\n,\nBard\n, and\nPsychology\nhave abilities that deal\nTrauma\ndamage.\nPlants\nand\nArthropods\ntend to use\nTrauma\nattacks.\nPoison\nis a type of internal damage, more common to creature attacks than combat skill abilities.\nBattle Chemistry\n,\nDruid\n, and\nKnife Fighting\nhave abilities that deal\nPoison\ndamage.\nAberrations\n,\nArthropods\n, and\nPlants\ntend to use\nPoison\nattacks.\nPsychic\nis a type of internal damage, often used by both combat skill abilities and creatures across Alharth.\nPsychology\n,\nPriest\n, and\nMentalism\nhave abilities that deal\nPsychic\ndamage.\nArthropods\ntend to use\nPsychic\nattacks.\nEsoteric\nAcid\nis an unusual type of damage.\nBattle Chemistry\nhas abilities that deal\nAcid\ndamage.\nFungoids\n,\nArthropods\n,\nFish and Snails\n, and\nAberrations\ntend to use\nAcid\nattacks.\nNature\nis a wild type of damage, tamed by only a few combat skills.\nDruid\n,\nBard\n,\nCow\n, and\nGiant Bat\nhave abilities that deal\nNature\ndamage.\nPlants\nand\nElementals\ntend to use\nNature\nattacks.\nDarkness\nis an unusual type of damage rarely seen in the light of day.\nNecromancy\n,\nVampirism\n, and\nSpirit Fox\nhave abilities that deal\nDarkness\ndamage.\nCrone-Kins\nand\nIncorporeal Creatures\ntend to use\nDarkness\nattacks.\nDamage Types by Skill\nThe following table displays the damage types of each skill in Project Gorgon.  Primary damage types are those that make up a bulk of the skill's damage, or are present on a large number of abilities.  Other damage dealt by the skill's abilities is considered secondary. The primary and secondary labels are subjective. (TE) indicates the damage type is only accessible for that skill through a Treasure Effect. Last updated for v341.\nChart of damage types, by Lenta\nSkill\nPrimary Damage Types\nSecondary Damage Types\nAnimal Handling\nVaries with pet\n(a)\nPsychic\nArchery\nPiercing\nAcid, Fire, Poison, Crushing\nBard\nNature\nTrauma, Psychic\nBattle Chemistry\nAcid, Poison, Nature\nCold, Fire (TE),\n(b)\nCow\nCrushing\nNature, Trauma (TE)\nDeer\nCrushing\nSlashing, Psychic\nDruid\nNature\nPoison, Trauma, Crushing\nFairy Magic\nElectricity\nFire (TE), Psychic\nFire Magic\nFire\nCold, Crushing, Darkness (TE)\nGiant Bat\nNature\nPiercing, Slashing, Darkness, Trauma (TE)\nHammer\nCrushing\nElectricity\nIce Magic\nCold\nTrauma, Electricity\nKnife Fighting\nSlashing, Piercing\nPoison, Trauma\nLycanthropy\nCrushing, Slashing\nTrauma\nMentalism\nElectricity\nPsychic\nNecromancy\nDarkness,\n(c)\nElectricity, Psychic (TE)\nPig\nCrushing\nNature, Trauma\nPriest\nPsychic, Fire\nPsychology\nPsychic\nTrauma\nRabbit\nSlashing, Crushing\nPsychic, Trauma, Cold (TE)\nShield\nCrushing\nFire\nSpider\nCrushing, Poison\nAcid, Piercing\nSpirit Fox\nDarkness, Crushing\nFire (TE)\nStaff\nCrushing, Piercing\nSlashing, Fire, Trauma\nSword\nSlashing\nPiercing, Trauma,\n(d)\nUnarmed\nCrushing\nTrauma, Slashing, Fire (TE)\nVampirism\nDarkness, Psychic, Trauma\nNature (TE)\nWarden\nElectricity\nFire, Acid\nWeather Witching\nElectricity, Nature\nCold, Darkness(Pet)\n(a): most common are Crushing, Slashing, and Poison\n(b): does not include Golem damage\n(c): does not include minion damage types\n(d): can deal Nature damage to Undead only\nItems Which Alter Damage Type\nSome items have implicit modifiers which can alter an ability's damage type:\nItem\nSkill\nAbilities Affected\nNew Damage Type\nRatkin Mining Pick\nHammer\nPound, Pound to Slag, Leaping Smash, Rib Shatter, Reckless Slam, Seismic Impact\nPiercing\nGuardian Trident\nStaff\nStaff Abilities that deal Crushing Damage\nSlashing\nTactician's Halberd\nStaff\nStaff Abilities that deal Crushing Damage\nSlashing\nFlaming Gazluk Sword\nSword\nSword Slash, Riposte, Windstrike, Finishing Blow\nFire\nAutofreeze Knife\nKnife\nKnife abilities that normally deal Slashing damage\nCold\nAutofreeze Shiv\nKnife\nKnife abilities that normally deal Slashing damage\nCold\nIcesnake\nKnife\nKnife abilities that normally deal Slashing damage\nCold\nAttacks\nThere are two categories of attacks,\nDirect\nand\nIndirect\n.\nDirect\nattacks are ones that are actively initiated by the attacker.  They can be:\nMelee\nattacks affect a single target with a range of 5m.  Typically these are physical damage types, but also include spells like\nFire Breath\nand\nChill\nProjectile\nattacks are ranged attacks of any damage type.  This is not just arrows and thrown knives, but spells like\nFireball\nand\nNecromancy\n's\nDeath's Hold\n.\nBurst\nattacks are typically magical area of effect (AoE) attacks that can strike 2+ targets at the same time.  Spells like\nIce Nova\nor\nBattle Chemistry\nbomb attacks are burst attacks.\nIndirect\nattacks are ones that either do damage over time (DoTs) or are the result of reflected damage.  For example,\nFire Breath\ndoes direct damage to a target, but also applies a DoT, doing damage every two seconds for 12 seconds.  That DoT is indirect damage.\nAnother source of indirect damage are abilities that damage a melee attacker, such as\nDruid\n's\nBrambleskin\nor\nFire Magic\n's\nMolten Veins\n.  These do damage to a melee attacker when the they strike you.  Some, like\nMolten Veins\n, even have a DoT component as well, but all the damage applied is indirect.  Note that these will not react to a burst or projectile attack unless otherwise stated.\nOften with physical attacks, if the target is being made to bleed for a period of time as a DoT, the damage is Trauma.\nThe environment of\nKur Mountains\nand\nGazluk\nis considered indirect cold damage, and gear/potions/abilities that give a bonus against indirect cold damage will slow the loss of body heat in those zones.\nEvasion and Accuracy\nSome monsters possess the ability to sometimes evade direct attacks.  There are also abilities and gear that can provide this protection to characters.  Monsters tend to have a general evasion stat that is applied to all types of direct attacks.  Character gear and abilities tend to be restricted to one category of direct attack, so melee evasion, projectile evasion or burst evasion.\nBeing stunned negates any evasion for the duration of the stun.\nAnother way to circumvent evasion is accuracy.  Some gear or abilities provide general accuracy, applicable to any type of direct attack.  Others only provide a bonus for one kind of direct attack.\nIndirect damage is not affected by evasion.  If a DoT is tied to a direct attack, the direct attack needs to hit first before the DoT can be applied, but evasion is not applied to each tick of the DoT.  Similarly reflected damage hits a melee attacker regardless of any evasion that they possess.\nLevels & Skills\nA short explanation: (see\nLevel\nfor a thorough walk-through)\nMost MMORPGs use a numeric Level system to indicate the power of players, NPCs, and mobs. Project Gorgon does not do this. Skills begin at level 0, and do not show in the player's skill panel. To get level 1 (and a usable skill), the player will need to find the appropriate NPC/quest or item that teaches/gives the skill they desire.\nSkills\nThese are what players use as abilities/skill/attributes that allows them to accomplish things in the game world. See:\nskills\nIn Project Gorgon skills are increased by using them, so the more a player uses a specific skill the higher their level will be in that skill.\nIt is important to note that if active skill levels are too far apart (more than 25 levels), abilities that are above the 25 level difference are grayed out on the skill bars and unavailable for use. The player simply needs to select lower level abilities in the skill in order to use the same abilities.\nTo change active skills (archery, sword, necro, etc) click the arrow button that is on the left side of the skill bar you would like to change.\nCombat Level:\nA player has two  combat-abilities they can bring to a fight, each with their own skill level, as well as the armor items that the player has equipped, this leads to a, hmm, 'hazy' view on what the effective level a player really is in combat. Generally players are considered on the levels of their two currently equipped skills with the assumption that they have equipment that is reasonably close to their skill's levels. NPC Foes are judged on a case-by-case basis, with none really having at true 'level', the player will have to make an educated guess by looking at the mob's stats, again see\nLevel\nfor complete details.\nFirst time's the charm\nMost events in the game reward bonus XP the first time you complete them. This applies to using recipes in various Trade Skills, to eating all types of foods (\nGourmand\n), slaying foes (both common and bosses), dying in different ways, and even Binding yourself to a Teleportation Circle!\nDeath\nDeath is a unique and new experience in PG for most experienced MMO players for a few reasons.\nDeath is a skill, as in, each death is unique and each time a player dies they get experience in the Death skill that does in fact give bonuses to some attributes and other useful abilities...\nThe game does have a Death Penalty, but only when fighting bosses. When a player falls in combat to a boss they will be cursed with that boss' unique curse, and the curses effects vary, from mildly amusing to being downright unpleasant. The player is then stuck with the curse until they defeat or find some other way to remove the curse.\nOtherwise when a player just dies, for whatever reason, they respawn at the entrance to the zone that they are in.\nOne last Note on Death, it is possible for there to be a Death Penalty at all times, players who enjoy this type of play style can check out\nHardcore Mode\n.\nTo activate a player must interact with the sign in\nSerbule Keep\n, and it is 100% voluntary.\nInventory, Items, and Equipment Mods\nStorage Basics\nHulon\nin\nSerbule Keep\nis the vaultmaster. You can use\nstorage\nin the main \"council storage\", and you can also use the nearby chest which is meant to transfer items between your characters on the same account.\nMany, many, NPCs offer storage once the player is their friend, this is very handy once the price of more bank slots becomes unmanageable. see:\nStorage\nSome skills, like\nEndurance\n, also give the players inventory slots as part of their level up reward.\nInventory Folders\nInventory folders are a new way to organize your inventory. Folders don't increase your inventory size -- they just let you split up your inventory into different \"bags\". (We've avoided calling them \"bags\" or \"packs\" because we want to make it more obvious that folders don't increase your inventory.)\nFolders are intended for mid- to high-level players, because that's when we think they're most important. So you unlock them by hitting various skill milestones, listed below. Note: you can unlock up to 4 folders, but there are a lot more than 4 skill-unlocks. That's just to give you flexibility!\nUnlock a folder by reaching any of these skill milestones: (up to 4 folders max)\nLore\n13\nAnatomy\n25\nCivic Pride\n25\nHolistic Wellness\n25\nIndustry\n25\nRetail Management\n25\nShamanic Infusion\n25\nBlacksmithing\n50\nDying\n50\nEndurance\n50\nSurvival Instincts\n50\nTailoring\n50\nCombat Items\nExample Purple item.\nCurrently, items come in 5 Tiers,\nCommon\n,\nUncommon\n,\nRare\n,\nExceptional\n,\nEpic\n,\nLegendary\n, see\nItems\n.\nWhen a mob is killed that has an item that is\nRare\n,\nExceptional\n,\nEpic\n, or\nLegendary\na small visual and sound effect will play.\nBelts\ngive a slight increase in chance to get magical gear rather than 'white' gear.\nStacking Item effects: All augments, flat or percent damage increase, stack. Augments with a chance to activate each roll their own chance separately. (So if you have two items that have 15% chance to activate, they\neach\nwill activate 15% of the time.)\nLoot\nVarious looting options become available once you have the required tool in your inventory. Burying a corpse (to reduce the respawn time of the creature),\nskinning\n,\nbutchering\n, and so on. Most of these items are available from the townsfolk of Serbule Keep.\nAutopsy Kit\nAllows figuring out \"how someone or something died\" with the\npathology\nskill. A simple Autopsy Kit is first obtained in the tutorial cave. Examining corpses will also raise related\nAnatomy\nskills such as \"Rodent Anatomy\" and \"Undead Anatomy\". As these skills increase you will be able to see more details about the enemies before engaging them, such as what abilities they use, and what type of weaknesses they have.\nButcher Knife\nAllows\nbutchering\nof corpses for organs and meat. Can be bought from\nFainor\n.\nHandsaw\nAllows harvesting wood. A Handsaw can be bought from\nTherese\nin Serbule.\nShovel\nGives the option of burying the corpses of deceased monsters, which makes replacement monsters appear more quickly.\nSimple Skinning Knife\nAllows removing fur or skin of an animal with the\nskinning\nskill.\nEquipment Treasure Effects\nMost crafted or looted equipment will have\nTreasure Effects\n.\nTreasure Effects\nmodify abilities, skills, and stats. The number of\nTreasure Effects\nfound on an item is based on the rarity of the item, while effectiveness is based on item level. While a Level 5 item may have a\nTreasure Effect\nwhich increase an ability's damage by 25%, the Level 60 version of the same\nTreasure Effect\ncould increase damage by 125%.\nTreasure Effects\ncan and will determine the majority of a character build once a character is able to obtain high-quality skill-specific equipment. Several skills have healing abilities, as well as damage dealing abilities, and buffs or debuffs. Equipping equipment with\nTreasure Effects\nthat focus on a desired ability type will vastly increase a character's output, be that health recovered, damage dealt, or buff/debuff strength/duration.\nBut To clarify:\nLower level characters should not worry about min/maxing their equipment\n, just use equipment that is appropriate for your current skill levels until you reach around level 50.\nOnce a character reaches mid range levels, it may be beneficial to keep an eye out for equipment that has\nTreasure Effects\nthat will work well together. As mobs become more dangerous, characters will need to have more combat power and survival techniques available to them to be able to deal with the higher damage and stronger defensive abilities of their opponents.\nAt high levels,\nTreasure Effects\ncan make a build deal tremendous damage, be able to mitigate damage received in combat, or use healing abilities to reverse damage taken. How well a build performs almost completely depends on the combinations of\nTreasure Effects\nchosen.\nSave Things!\nNearly everything that drops off enemies and harvestables are either useful in crafting or will earn you\nFavor\n(see below). As a new player make sure to use the \"Small Talk\" option with every new NPC you discover to learn about their likes and dislikes. Experiment by giving gifts to NPCs that have skills that you would like to level up. This will give you over time an idea of what's worth holding onto.\nIf you still are not sure or want to hold onto stacks of items to gift later, players have the option store it with Hulon and start buying additional vault slots once they run out.\nFor those what are worried about running out of room on their characters personal inv space, certain armor mods, skills and potions (temporarily) can increase the amount of space you have to carry items. Beware though! If you become overburdened with items you lose the ability to run.\nDo note that storing everything will lead to inventory problems! There are lots, and lots of items each with their specific use. While it may be helpful to have stacks and stacks of materials later, the space may be better used for items and materials that you can use with the skills you are working on at your level. If you do find yourself with not enough storage space, try to find an NPC that will take the extra items for favor, even if they are not in your arch of skills they may offer better prices or more down the road.\nNPC's Quests and Favors\nGet every NPC on your side!\nMost NPCs in Project: Gorgon have services and special rewards when you gain enough favor with them. They also offer additional quests. So for the player who is used to haveing a guiding \"main quest line\", this is where you can find some of your goals as you try to complete errands and earn favor from NPCs, which will send you to explore the world and the dungeons.\nIt is common that after completing a quest you'll find you still need to get a bit of favor to reach the next relationship level (for example you are 60% into \"Comfortable\" after doing an errand for the NPC, you still need 40% favor to move to \"Friends\" level). So if no more quests are available, check\nSmall Talk\nand learn about their likes and dislikes and collect\ngifts\nfor them.\nGetting Comfortable or higher with most NPCs can earn you significant benefits, such as the ability to Shop, additional Storage (ie. permanent storage for your items), more quests, special recipes, etc.\nOne important thing to note is that it is very possible for a player to receive a quest that they cannot currently do, be that because they are low-leveled, missing skills, or need to go to harder/different areas no worries! Just keep the quest in your quest log and when you can complete the quest the NPC will give you your reward once you return to them.\nMerchants\nJoeh: Always with a smirk of superiority.\nAll NPC merchants share one common mechanic: the better your relationship with them (through Favor), the bigger their money pool and the more they will pay for your items (so eventually you can sell loot at full value).\nThe 'Buy Used' tab shows items sold by other players! If you can afford it, you can often buy items required by a quest rather than craft/hunt/harvest everything on your own.\nHanging out\nRemember most NPCs give the option to \"hang out\" with them. Project: Gorgon also rewards you while you're offline, whether it is for 30 minutes or 8 hours! A good tip here is that you don't need to do that just before logging off. Chose the option at any time while you play, the last one you chose will always be active when you log out. You also don't have to worry about logging back in sooner. It won't cancel, it will just continue next time you log out.\nExtra Tips for NPC Favor\nBefriending the NPC\nJoeh\n, located in the central area of\nSerbule\n. He is one of the most helpful NPC's as he buys most gear you'll find within dungeons. Getting his Favor up is very easy, though a bit costly. One of his favorite and easiest things to acquire is\nBacon\n,\n, you can get this recipe from Fainor, located in the large Inn/Tavern style building. The fire near him is also where you can do a majority of cooking. The recipe only requires 2x Salt and 1x Pork Shoulder and gains +3 Favor per Bacon with Joeh.\nExtras\nMake sure to pick up all harvestables like mushrooms even if they don't seem useful yet. Leveling\nForaging\nwill unlock\nSeek Objective\nat level 5 which is an ability that will orient your character to face in the direction where your currently active quest objective is! (think \"tracking\" in good ol' EverQuest).\nPicking mushrooms does in fact NOT raise the\nForaging\nskill, only the\nMycology\nskill.\nWhen exiting the the east side of Serbule Keep village you may notice a circle patch of low level mushrooms to the right of you, they respawn often and usually contain enough mushrooms to get 16-18.\nIf you desire to raise your\nFishing\nskill the best place to start is the moat around\nSerbule\n. Start with\nCrabs\nuntil you reach the level required for\nClown Fish\n, from there it is mostly collecting a mixture of\nCrab\n,\nClown Fish\nand\nGrapefish\n.\nPerch\nand\nEel\nare very rare to find and are not optimal for leveling.\nEmpty bottles:\nTo fill an empty bottle with water you can either activate a water well (eg. in Serbule) or similar object, but you can also simply stand in a body of water outdoors and right click an empty bottle.\nThe road east of\nSerbule\nis where most Pigs spawn. They are easy to kill and always drop Pork Shoulder. Since Pork Shoulder is the main ingredient for bacon, it is extremely important for raising\nJoeh'\ns Favor fast.\nA player quote for first time visiters to the island, and when you first get to\nSerbule\n.\n“\nWhen you first start out, three things to remember if you want to enjoy PG:\n1. Explore everywhere (and take the time to read the NPC's responses!)\n2. Remember death isn't a penalty, it's a skill. And getting dying to level 10 is helpful!\n3. Have fun - try something different! And when you get stumped, /wiki <subject> (preferably in a spot you won't get attacked by a wandering monster)\nWhen you first get off the island, my biggest advice would be to curry favor with Marna. She is able to sell useful items needed for other NPC's quests, she's the only early source for disease cures, and she gives storage (others like Joeh also give storage but Marna lets you store anything). Plus it's fairly easy to work up her favor - you can give her skins (if you've gotten a skinning knife) but you may want to save those for tanning and leatherworking. It's actually pretty easy to start growing potatoes and onions (though onions do take fertilizer so may want to stay with just potatoes), cook them into an easy vegetarian dish, and give those to Marna.\nIt's also worth buying the following items to get some useful skills and bonuses: Autopsy kit Mushroom Jack), skinning knife (either from Kleave in the later zone Eltibule, as a reward from one of Ivyn's quests, or the easiest way is from another player), handsaw (Therese), butcher knife (another player). Autopsy kit lets you gain skill in pathology, skinning knife lets you skin animals you kill, handsaw lets you gather wood, and butcher knife lets you butcher corpses (but you can only skin or butcher a corpse, not both).\n—\nBoric\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=General_gameplay_tips&oldid=120262\n\"\nCategory\n:\nMechanics",
+  "tables": [
+    [
+      [
+        "",
+        "Author's note:This page is fairly text-heavy but this is a compilation of mechanics used in the game.Bear with us as you take the time to read this. It will save you some headaches later, we promise."
+      ]
+    ],
+    [
+      [
+        ""
+      ],
+      [
+        "Support",
+        "A place to report bugs, Un-stuck toggle, Give Suggestion, Report Abuse.",
+        "Chat",
+        "Panel for talking to other players."
+      ],
+      [
+        "Inventory",
+        "Shows players current carried items",
+        "Skills & Abilities",
+        "Panel that shows the players current skills and their level in each."
+      ],
+      [
+        "Map",
+        "Shows the zone map in which the player is currently in, if applicable.",
+        "Quest Log",
+        "Shows the players current quest, stuff to do, and a notepad."
+      ],
+      [
+        "Books & Lore",
+        "Books and Lore that the player has read.",
+        "Crafting",
+        "Shows all recipes that the player has learned."
+      ],
+      [
+        "Persona",
+        "Shows current Equipment, Player Statuses, and Player Abilities.",
+        "Options",
+        "Shows various options..key commands,Mouse and Movement Parameters,Graphics,GUI and Windows,Sound,Special Settings,Logout,Quit Game."
+      ],
+      [
+        "Social",
+        "Shows players hunting group and Friends list."
+      ]
+    ],
+    [
+      [
+        "Pets",
+        "Shows the players current pet(s)."
+      ],
+      [
+        "Loadouts",
+        "Shows the player's available Loadouts."
+      ]
+    ],
+    [
+      [
+        "",
+        "Default player Controls",
+        ""
+      ],
+      [
+        "Command",
+        "Key",
+        "Alternate Key"
+      ],
+      [
+        "Turn Left",
+        "←",
+        "A"
+      ],
+      [
+        "Turn Right",
+        "→",
+        "D"
+      ],
+      [
+        "Strafe Left",
+        "Q",
+        "None"
+      ],
+      [
+        "Strafe Right",
+        "E",
+        "None"
+      ],
+      [
+        "Move Forward",
+        "↑",
+        "W"
+      ],
+      [
+        "Move Backwards",
+        "↓",
+        "S"
+      ],
+      [
+        "Jump",
+        "Space",
+        "None"
+      ],
+      [
+        "Run",
+        "Left-Shift",
+        "Right-Shift"
+      ],
+      [
+        "Toggle Run/Walk",
+        "'",
+        "None"
+      ],
+      [
+        "Use Ability 1⇒6",
+        "1⇒6",
+        "None"
+      ],
+      [
+        "Use Ability 7⇒12",
+        "Ctrl+1⇒6",
+        "None"
+      ]
+    ],
+    [
+      [
+        "Default GUI Controls"
+      ],
+      [
+        "Command",
+        "Key",
+        "Alternate Key"
+      ],
+      [
+        "Show Inventory Window",
+        "I",
+        "Ctrl+I"
+      ],
+      [
+        "Show Chat Window",
+        "C",
+        "Ctrl+C"
+      ],
+      [
+        "Show Persona Screen",
+        "P",
+        "None"
+      ],
+      [
+        "Show Quest Screen",
+        "None",
+        "None"
+      ],
+      [
+        "Show Config Screen",
+        "Shift+O",
+        "None"
+      ],
+      [
+        "Show Map Window",
+        "M",
+        "Ctrl+M"
+      ],
+      [
+        "Close Last PanelCan also open options menu.",
+        "Escape",
+        "None"
+      ],
+      [
+        "Select Next Enemy",
+        "Tab",
+        "None"
+      ],
+      [
+        "Zoom Camera In",
+        "Numeric Keypad:+",
+        "Scroll Wheel ⇑"
+      ],
+      [
+        "Zoom Camera Out",
+        "Numeric Keypad:-",
+        "Scroll Wheel ⇓"
+      ],
+      [
+        "Select Next Non-Combatant",
+        "None",
+        "None"
+      ],
+      [
+        "Use Selected",
+        "U",
+        "None"
+      ],
+      [
+        "Screenshot",
+        "Ctrl+P",
+        "None"
+      ],
+      [
+        "Screenshot: High-Res",
+        "None",
+        "None"
+      ],
+      [
+        "Turn On/Off GUI Windows",
+        "=",
+        "None"
+      ],
+      [
+        "Show Label Above Interactibles",
+        "Alt",
+        "None"
+      ]
+    ],
+    [
+      [
+        "Skill",
+        "Description"
+      ],
+      [
+        "Animal Handling",
+        "The art of taming animals and teaching them to fight alongside you."
+      ],
+      [
+        "Archery",
+        "Expertise with using bows to hunt and kill."
+      ],
+      [
+        "Bard",
+        "Bardin'"
+      ],
+      [
+        "Battle Chemistry",
+        "Using alchemical concoctions in the heat of battle. Not for the faint of heart, or the particularly sane, this combat style specializes in area-effects of all types. Advanced practitioners can also ingest their formulae directly to take on new combat personalities. Masters can even create homonculi to serve them in battle."
+      ],
+      [
+        "Cow",
+        "Cows are fast and furious!"
+      ],
+      [
+        "Crossbow",
+        "Pew pew pew."
+      ],
+      [
+        "Deer",
+        "A majestic stag and doe."
+      ],
+      [
+        "Druid",
+        "Druidin'"
+      ],
+      [
+        "Fairy Magic",
+        "A sub-skill of Mentalism that focuses on psychic links to the fae realms."
+      ],
+      [
+        "Fire Magic",
+        "Using Fire to destroy your enemies. This is a very potent offensive skill, including long-range and area-effect attacks, and even some Cold attacks for versatility. However, there are drawbacks: Fire Magic is extremely Power-intensive; all creatures generate extra Rage when they are burned; and many creatures have some resistance to fire."
+      ],
+      [
+        "Giant Bat",
+        "Spooky, but vaguely adorable."
+      ],
+      [
+        "Hammer",
+        "If I had a hammer..."
+      ],
+      [
+        "Ice Magic",
+        "A specialization of Fire Magic that focuses entirely upon lowering temperature instead of raising it. It has protective and controlling abilities as well as offensive abilities."
+      ],
+      [
+        "Knife Fighting",
+        "Using daggers and thrown knives in combat. Knife combat is extremely damaging, relying on traumatic injuries, poison, and subterfuge."
+      ],
+      [
+        "Lycanthropy",
+        "Skill in fighting as a wolf beast. Also indicates your ability to control and suppress the beast mode."
+      ],
+      [
+        "Mentalism",
+        "The power of mind over matter: psychic powers! This combat skill focuses on recovery and restoration, but also has multiple damaging abilities."
+      ],
+      [
+        "Necromancy",
+        "Necromancy is control over the undead, along with other powers that trifle with mortality. To use necromantic abilities, you must be wielding or wearing a necromancy gem."
+      ],
+      [
+        "Pig",
+        "An example of a player pig."
+      ],
+      [
+        "Priest",
+        "Officially the 'Priest of Arisetsu' skill, this represents your attunement with Arisetsu, the goddess of Warmth and Hope. When fighting alongside allies, you can bring hope to even the most impossible battles... but you cannot do it alone."
+      ],
+      [
+        "Psychology",
+        "Understanding the mind of sentient creatures. Also, using that knowledge in combat and other stressful situations."
+      ],
+      [
+        "Rabbit",
+        "While rabbits usually come in brown or white varieties, some prefer to dye their fur."
+      ],
+      [
+        "Shield",
+        "Expertise in the use of a shield, both as a weapon and as a defensive tool."
+      ],
+      [
+        "Spider",
+        "Ew, they're icky!"
+      ],
+      [
+        "Spirit Fox",
+        "Mastery of the techniques of the spirit fox: an awakened fox with supernatural powers."
+      ],
+      [
+        "Staff",
+        "Mastery of the staff as a martial weapon. Staff fighting has a mix of both offensive and defensive abilities."
+      ],
+      [
+        "Sword",
+        "Expertise with swords, rapiers, and the like. Swords are very damaging and can reduce an opponent's rage."
+      ],
+      [
+        "Unarmed",
+        "The skill of fighting with your body and minimal weapons."
+      ],
+      [
+        "Vampirism",
+        "Vampin'"
+      ],
+      [
+        "Warden",
+        "Skill in using the secret powers of the Wardens."
+      ],
+      [
+        "Weather Witching",
+        "A rigorous magical discipline focusing on manipulating and engaging with the environment around you. Elves are the undisputed experts of the field, which causes some races to view it negatively. It is also sometimes mistaken for (illegal) Chaos Magic due to its chaotic and dangerous nature."
+      ]
+    ],
+    [
+      [
+        "",
+        "Slashingis a common physical damage type, often used by both combat skill abilities and creatures.SwordandKnife Fightinghave many abilities that dealSlashingdamage.Canines,Felines, andRodentstend to useSlashingattacks."
+      ],
+      [
+        "",
+        "Piercingis a common physical damage type, often used by both combat skill abilities and creatures.Archery,Staff, andKnife Fightinghave abilities that dealPiercingdamage. Humanoid species likeRakshasa, and someDinosaurstend to usePiercingattacks."
+      ],
+      [
+        "",
+        "Crushingis a common physical damage type, often used by both combat skill abilities and creatures.Staff,Hammer,Cow, andUnarmedhave many abilities that dealCrushingdamage.Canines,Giants, andRuminantstend to dealCrushingdamage."
+      ]
+    ],
+    [
+      [
+        "",
+        "Fireis a type of elemental damage commonly seen in combat skills, although some creatures possesFireattacks.Fire MagicandPriesthave abilities that dealFiredamage.Elementals,Crone-Kin, and humanoid mages tend to useFireattacks."
+      ],
+      [
+        "",
+        "Coldis a type of elemental damage uncommonly seen in combat skills. Creatures in colder regions or dungeons are more likely to haveColdattacks.Ice MagicandFire Magichave abilities that dealColddamage.FungoidsandElementalstend to useColdattacks."
+      ],
+      [
+        "",
+        "Electricityis a type of elemental damage commonly seen in combat skills, and rarely seen in creatures.Hammer,Mentalism,Necromancy, andWardenhave abilities that dealElectricitydamage.DinosaursandElementalssometimes useElectricityattacks."
+      ]
+    ],
+    [
+      [
+        "",
+        "Traumais a common internal damage type, often used by both combat skill abilities and creatures.Sword,Bard, andPsychologyhave abilities that dealTraumadamage.PlantsandArthropodstend to useTraumaattacks."
+      ],
+      [
+        "",
+        "Poisonis a type of internal damage, more common to creature attacks than combat skill abilities.Battle Chemistry,Druid, andKnife Fightinghave abilities that dealPoisondamage.Aberrations,Arthropods, andPlantstend to usePoisonattacks."
+      ],
+      [
+        "",
+        "Psychicis a type of internal damage, often used by both combat skill abilities and creatures across Alharth.Psychology,Priest, andMentalismhave abilities that dealPsychicdamage.Arthropodstend to usePsychicattacks."
+      ]
+    ],
+    [
+      [
+        "",
+        "Acidis an unusual type of damage.Battle Chemistryhas abilities that dealAciddamage.Fungoids,Arthropods,Fish and Snails, andAberrationstend to useAcidattacks."
+      ],
+      [
+        "",
+        "Natureis a wild type of damage, tamed by only a few combat skills.Druid,Bard,Cow, andGiant Bathave abilities that dealNaturedamage.PlantsandElementalstend to useNatureattacks."
+      ],
+      [
+        "",
+        "Darknessis an unusual type of damage rarely seen in the light of day.Necromancy,Vampirism, andSpirit Foxhave abilities that dealDarknessdamage.Crone-KinsandIncorporeal Creaturestend to useDarknessattacks."
+      ]
+    ],
+    [
+      [
+        "Skill",
+        "Primary Damage Types",
+        "Secondary Damage Types"
+      ],
+      [
+        "Animal Handling",
+        "Varies with pet(a)",
+        "Psychic"
+      ],
+      [
+        "Archery",
+        "Piercing",
+        "Acid, Fire, Poison, Crushing"
+      ],
+      [
+        "Bard",
+        "Nature",
+        "Trauma, Psychic"
+      ],
+      [
+        "Battle Chemistry",
+        "Acid, Poison, Nature",
+        "Cold, Fire (TE),(b)"
+      ],
+      [
+        "Cow",
+        "Crushing",
+        "Nature, Trauma (TE)"
+      ],
+      [
+        "Deer",
+        "Crushing",
+        "Slashing, Psychic"
+      ],
+      [
+        "Druid",
+        "Nature",
+        "Poison, Trauma, Crushing"
+      ],
+      [
+        "Fairy Magic",
+        "Electricity",
+        "Fire (TE), Psychic"
+      ],
+      [
+        "Fire Magic",
+        "Fire",
+        "Cold, Crushing, Darkness (TE)"
+      ],
+      [
+        "Giant Bat",
+        "Nature",
+        "Piercing, Slashing, Darkness, Trauma (TE)"
+      ],
+      [
+        "Hammer",
+        "Crushing",
+        "Electricity"
+      ],
+      [
+        "Ice Magic",
+        "Cold",
+        "Trauma, Electricity"
+      ],
+      [
+        "Knife Fighting",
+        "Slashing, Piercing",
+        "Poison, Trauma"
+      ],
+      [
+        "Lycanthropy",
+        "Crushing, Slashing",
+        "Trauma"
+      ],
+      [
+        "Mentalism",
+        "Electricity",
+        "Psychic"
+      ],
+      [
+        "Necromancy",
+        "Darkness,(c)",
+        "Electricity, Psychic (TE)"
+      ],
+      [
+        "Pig",
+        "Crushing",
+        "Nature, Trauma"
+      ],
+      [
+        "Priest",
+        "Psychic, Fire",
+        ""
+      ],
+      [
+        "Psychology",
+        "Psychic",
+        "Trauma"
+      ],
+      [
+        "Rabbit",
+        "Slashing, Crushing",
+        "Psychic, Trauma, Cold (TE)"
+      ],
+      [
+        "Shield",
+        "Crushing",
+        "Fire"
+      ],
+      [
+        "Spider",
+        "Crushing, Poison",
+        "Acid, Piercing"
+      ],
+      [
+        "Spirit Fox",
+        "Darkness, Crushing",
+        "Fire (TE)"
+      ],
+      [
+        "Staff",
+        "Crushing, Piercing",
+        "Slashing, Fire, Trauma"
+      ],
+      [
+        "Sword",
+        "Slashing",
+        "Piercing, Trauma,(d)"
+      ],
+      [
+        "Unarmed",
+        "Crushing",
+        "Trauma, Slashing, Fire (TE)"
+      ],
+      [
+        "Vampirism",
+        "Darkness, Psychic, Trauma",
+        "Nature (TE)"
+      ],
+      [
+        "Warden",
+        "Electricity",
+        "Fire, Acid"
+      ],
+      [
+        "Weather Witching",
+        "Electricity, Nature",
+        "Cold, Darkness(Pet)"
+      ]
+    ],
+    [
+      [
+        "Item",
+        "Skill",
+        "Abilities Affected",
+        "New Damage Type"
+      ],
+      [
+        "Ratkin Mining Pick",
+        "Hammer",
+        "Pound, Pound to Slag, Leaping Smash, Rib Shatter, Reckless Slam, Seismic Impact",
+        "Piercing"
+      ],
+      [
+        "Guardian Trident",
+        "Staff",
+        "Staff Abilities that deal Crushing Damage",
+        "Slashing"
+      ],
+      [
+        "Tactician's Halberd",
+        "Staff",
+        "Staff Abilities that deal Crushing Damage",
+        "Slashing"
+      ],
+      [
+        "Flaming Gazluk Sword",
+        "Sword",
+        "Sword Slash, Riposte, Windstrike, Finishing Blow",
+        "Fire"
+      ],
+      [
+        "Autofreeze Knife",
+        "Knife",
+        "Knife abilities that normally deal Slashing damage",
+        "Cold"
+      ],
+      [
+        "Autofreeze Shiv",
+        "Knife",
+        "Knife abilities that normally deal Slashing damage",
+        "Cold"
+      ],
+      [
+        "Icesnake",
+        "Knife",
+        "Knife abilities that normally deal Slashing damage",
+        "Cold"
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "1Introduction",
+      "2Basics2.1User Interface2.2Controls2.2.1Player Controls2.2.2GUI Controls2.3Combat2.4Damage Types2.4.1Damage Types by Skill2.4.1.1Items Which Alter Damage Type2.5Attacks2.6Evasion and Accuracy2.7Levels & Skills2.8Death",
+      "3Inventory, Items, and Equipment Mods3.1Storage Basics3.1.1Inventory Folders3.2Combat Items3.3Loot3.4Equipment Treasure Effects3.5Save Things!",
+      "4NPC's Quests and Favors4.1Get every NPC on your side!4.2Merchants4.3Hanging out4.4Extra Tips for NPC Favor",
+      "5Extras"
+    ],
+    [
+      "2.1User Interface",
+      "2.2Controls2.2.1Player Controls2.2.2GUI Controls",
+      "2.3Combat",
+      "2.4Damage Types2.4.1Damage Types by Skill2.4.1.1Items Which Alter Damage Type",
+      "2.5Attacks",
+      "2.6Evasion and Accuracy",
+      "2.7Levels & Skills",
+      "2.8Death"
+    ],
+    [
+      "2.2.1Player Controls",
+      "2.2.2GUI Controls"
+    ],
+    [
+      "2.4.1Damage Types by Skill2.4.1.1Items Which Alter Damage Type"
+    ],
+    [
+      "2.4.1.1Items Which Alter Damage Type"
+    ],
+    [
+      "3.1Storage Basics3.1.1Inventory Folders",
+      "3.2Combat Items",
+      "3.3Loot",
+      "3.4Equipment Treasure Effects",
+      "3.5Save Things!"
+    ],
+    [
+      "3.1.1Inventory Folders"
+    ],
+    [
+      "4.1Get every NPC on your side!",
+      "4.2Merchants",
+      "4.3Hanging out",
+      "4.4Extra Tips for NPC Favor"
+    ],
+    [
+      "Main UI BarSupportA place to report bugs, Un-stuck toggle, Give Suggestion, Report Abuse.ChatPanel for talking to other players.InventoryShows players current carried itemsSkills & AbilitiesPanel that shows the players current skills and their level in each.MapShows the zone map in which the player is currently in, if applicable.Quest LogShows the players current quest, stuff to do, and a notepad.Books & LoreBooks and Lore that the player has read.CraftingShows all recipes that the player has learned.PersonaShows current Equipment, Player Statuses, and Player Abilities.OptionsShows various options..key commands,Mouse and Movement Parameters,Graphics,GUI and Windows,Sound,Special Settings,Logout,Quit Game.SocialShows players hunting group and Friends list.",
+      "TheEquipped Skillsbars, at the bottom of the screen, are where you can see your currently equipped skills, be they combat, animal, performance ect.Thedefault controlsfor a player'sEquipped Skillsare:For the top bar: numbers1⇒6.For the bottom bar:Ctrl+1⇒6.These are the abilities that you will be using regularly.",
+      "TheSpecial Abilitiesbar, far left of the screen, holds special action skills such asFirst Aid,Armor Patching, and even items from your inventory, allowing you to use items instantly.These generally have a longer cooldown times and have better long term effects special in that some cannot be used.Note: Players cannot switch armor or weapons if they are currently in combat!"
+    ],
+    [
+      "key commands,",
+      "Mouse and Movement Parameters,",
+      "Graphics,",
+      "GUI and Windows,",
+      "Sound,",
+      "Special Settings,",
+      "Logout,",
+      "Quit Game."
+    ],
+    [
+      "For the top bar: numbers1⇒6.",
+      "For the bottom bar:Ctrl+1⇒6."
+    ],
+    [
+      "These generally have a longer cooldown times and have better long term effects special in that some cannot be used.",
+      "Note: Players cannot switch armor or weapons if they are currently in combat!"
+    ],
+    [
+      "Default Movement Controls",
+      "Standard WASD or Arrows Movement",
+      "HoldingRMB+LMBwill make your character move forward."
+    ],
+    [
+      "At the bottom of the options panel, the player can see their currentPing,FPS, andGame Version.",
+      "Typing \"/wiki chicken\" in the game chat will open an internet browser and search this wiki for 'chicken', quite helpful when first starting. (Yes, there is a chicken page.)",
+      "Select Next Non-Combatantis Useful for selecting ground items, especially if they are hidden in foliage. Highly Recommended",
+      "Use Selectedis Handy to use in tandem with Select Next/Previous Non-Combatant, to quickly loot ground items,or shuffle through a pile of dead mobs.",
+      "For High-Res ScreenshotsF12is suggested.",
+      "For capturing screenshots in general and in particularscreen portionsLightshotis highly advised.Especially with it's defaultPRT-SCRkey-usage."
+    ],
+    [
+      "Out-of-Combat, is the regain when the player is not currently fighting any mobs. It is quite high compared to the other states, and it's free!",
+      "In-Combat is a markedly lower regain of stats state while the player is fighting enemies. It's low regain makes it necessary for players to efficiently use their Combat Refresh while fighting. *Some player skills are healing skills or can be modified to give heals when they are used.",
+      "Consumables are the food, flower, statue, meditation, ect... They require a item to be (surprise!) consumed  or used to gain their buff, the better the item the better the buff, usually.",
+      "Combat Refreshis the system used to restore armor, health, and power while in-combat. Activating a skill's basic attack will activate this, on a 10 second cool down, not all skills have basic attacks that will activate this however. See page for details."
+    ],
+    [
+      "Meleeattacks affect a single target with a range of 5m.  Typically these are physical damage types, but also include spells likeFire BreathandChill",
+      "Projectileattacks are ranged attacks of any damage type.  This is not just arrows and thrown knives, but spells likeFireballandNecromancy'sDeath's Hold.",
+      "Burstattacks are typically magical area of effect (AoE) attacks that can strike 2+ targets at the same time.  Spells likeIce NovaorBattle Chemistrybomb attacks are burst attacks.",
+      "Indirectattacks are ones that either do damage over time (DoTs) or are the result of reflected damage.  For example,Fire Breathdoes direct damage to a target, but also applies a DoT, doing damage every two seconds for 12 seconds.  That DoT is indirect damage."
+    ],
+    [
+      "Often with physical attacks, if the target is being made to bleed for a period of time as a DoT, the damage is Trauma.",
+      "The environment ofKur MountainsandGazlukis considered indirect cold damage, and gear/potions/abilities that give a bonus against indirect cold damage will slow the loss of body heat in those zones."
+    ],
+    [
+      "A short explanation: (seeLevelfor a thorough walk-through)Most MMORPGs use a numeric Level system to indicate the power of players, NPCs, and mobs. Project Gorgon does not do this. Skills begin at level 0, and do not show in the player's skill panel. To get level 1 (and a usable skill), the player will need to find the appropriate NPC/quest or item that teaches/gives the skill they desire."
+    ],
+    [
+      "Most MMORPGs use a numeric Level system to indicate the power of players, NPCs, and mobs. Project Gorgon does not do this. Skills begin at level 0, and do not show in the player's skill panel. To get level 1 (and a usable skill), the player will need to find the appropriate NPC/quest or item that teaches/gives the skill they desire."
+    ],
+    [
+      "SkillsThese are what players use as abilities/skill/attributes that allows them to accomplish things in the game world. See:skillsIn Project Gorgon skills are increased by using them, so the more a player uses a specific skill the higher their level will be in that skill.It is important to note that if active skill levels are too far apart (more than 25 levels), abilities that are above the 25 level difference are grayed out on the skill bars and unavailable for use. The player simply needs to select lower level abilities in the skill in order to use the same abilities.To change active skills (archery, sword, necro, etc) click the arrow button that is on the left side of the skill bar you would like to change."
+    ],
+    [
+      "These are what players use as abilities/skill/attributes that allows them to accomplish things in the game world. See:skills",
+      "In Project Gorgon skills are increased by using them, so the more a player uses a specific skill the higher their level will be in that skill.",
+      "It is important to note that if active skill levels are too far apart (more than 25 levels), abilities that are above the 25 level difference are grayed out on the skill bars and unavailable for use. The player simply needs to select lower level abilities in the skill in order to use the same abilities.",
+      "To change active skills (archery, sword, necro, etc) click the arrow button that is on the left side of the skill bar you would like to change."
+    ],
+    [
+      "Combat Level:A player has two  combat-abilities they can bring to a fight, each with their own skill level, as well as the armor items that the player has equipped, this leads to a, hmm, 'hazy' view on what the effective level a player really is in combat. Generally players are considered on the levels of their two currently equipped skills with the assumption that they have equipment that is reasonably close to their skill's levels. NPC Foes are judged on a case-by-case basis, with none really having at true 'level', the player will have to make an educated guess by looking at the mob's stats, again seeLevelfor complete details."
+    ],
+    [
+      "A player has two  combat-abilities they can bring to a fight, each with their own skill level, as well as the armor items that the player has equipped, this leads to a, hmm, 'hazy' view on what the effective level a player really is in combat. Generally players are considered on the levels of their two currently equipped skills with the assumption that they have equipment that is reasonably close to their skill's levels. NPC Foes are judged on a case-by-case basis, with none really having at true 'level', the player will have to make an educated guess by looking at the mob's stats, again seeLevelfor complete details."
+    ],
+    [
+      "First time's the charmMost events in the game reward bonus XP the first time you complete them. This applies to using recipes in various Trade Skills, to eating all types of foods (Gourmand), slaying foes (both common and bosses), dying in different ways, and even Binding yourself to a Teleportation Circle!"
+    ],
+    [
+      "Most events in the game reward bonus XP the first time you complete them. This applies to using recipes in various Trade Skills, to eating all types of foods (Gourmand), slaying foes (both common and bosses), dying in different ways, and even Binding yourself to a Teleportation Circle!"
+    ],
+    [
+      "Death is a unique and new experience in PG for most experienced MMO players for a few reasons.",
+      "Death is a skill, as in, each death is unique and each time a player dies they get experience in the Death skill that does in fact give bonuses to some attributes and other useful abilities...",
+      "The game does have a Death Penalty, but only when fighting bosses. When a player falls in combat to a boss they will be cursed with that boss' unique curse, and the curses effects vary, from mildly amusing to being downright unpleasant. The player is then stuck with the curse until they defeat or find some other way to remove the curse.",
+      "Otherwise when a player just dies, for whatever reason, they respawn at the entrance to the zone that they are in.",
+      "One last Note on Death, it is possible for there to be a Death Penalty at all times, players who enjoy this type of play style can check outHardcore Mode.To activate a player must interact with the sign inSerbule Keep, and it is 100% voluntary."
+    ],
+    [
+      "To activate a player must interact with the sign inSerbule Keep, and it is 100% voluntary."
+    ],
+    [
+      "HuloninSerbule Keepis the vaultmaster. You can usestoragein the main \"council storage\", and you can also use the nearby chest which is meant to transfer items between your characters on the same account.",
+      "Many, many, NPCs offer storage once the player is their friend, this is very handy once the price of more bank slots becomes unmanageable. see:Storage",
+      "Some skills, likeEndurance, also give the players inventory slots as part of their level up reward."
+    ],
+    [
+      "Lore13",
+      "Anatomy25",
+      "Civic Pride25",
+      "Holistic Wellness25",
+      "Industry25",
+      "Retail Management25",
+      "Shamanic Infusion25",
+      "Blacksmithing50",
+      "Dying50",
+      "Endurance50",
+      "Survival Instincts50",
+      "Tailoring50"
+    ],
+    [
+      "Currently, items come in 5 Tiers,Common,Uncommon,Rare,Exceptional,Epic,Legendary, seeItems.",
+      "When a mob is killed that has an item that isRare,Exceptional,Epic, orLegendarya small visual and sound effect will play.",
+      "Beltsgive a slight increase in chance to get magical gear rather than 'white' gear.",
+      "Stacking Item effects: All augments, flat or percent damage increase, stack. Augments with a chance to activate each roll their own chance separately. (So if you have two items that have 15% chance to activate, theyeachwill activate 15% of the time.)"
+    ],
+    [
+      "Nearly everything that drops off enemies and harvestables are either useful in crafting or will earn youFavor(see below). As a new player make sure to use the \"Small Talk\" option with every new NPC you discover to learn about their likes and dislikes. Experiment by giving gifts to NPCs that have skills that you would like to level up. This will give you over time an idea of what's worth holding onto."
+    ],
+    [
+      "If you still are not sure or want to hold onto stacks of items to gift later, players have the option store it with Hulon and start buying additional vault slots once they run out."
+    ],
+    [
+      "For those what are worried about running out of room on their characters personal inv space, certain armor mods, skills and potions (temporarily) can increase the amount of space you have to carry items. Beware though! If you become overburdened with items you lose the ability to run."
+    ],
+    [
+      "Do note that storing everything will lead to inventory problems! There are lots, and lots of items each with their specific use. While it may be helpful to have stacks and stacks of materials later, the space may be better used for items and materials that you can use with the skills you are working on at your level. If you do find yourself with not enough storage space, try to find an NPC that will take the extra items for favor, even if they are not in your arch of skills they may offer better prices or more down the road."
+    ],
+    [
+      "Most NPCs in Project: Gorgon have services and special rewards when you gain enough favor with them. They also offer additional quests. So for the player who is used to haveing a guiding \"main quest line\", this is where you can find some of your goals as you try to complete errands and earn favor from NPCs, which will send you to explore the world and the dungeons."
+    ],
+    [
+      "It is common that after completing a quest you'll find you still need to get a bit of favor to reach the next relationship level (for example you are 60% into \"Comfortable\" after doing an errand for the NPC, you still need 40% favor to move to \"Friends\" level). So if no more quests are available, checkSmall Talkand learn about their likes and dislikes and collectgiftsfor them."
+    ],
+    [
+      "Getting Comfortable or higher with most NPCs can earn you significant benefits, such as the ability to Shop, additional Storage (ie. permanent storage for your items), more quests, special recipes, etc."
+    ],
+    [
+      "One important thing to note is that it is very possible for a player to receive a quest that they cannot currently do, be that because they are low-leveled, missing skills, or need to go to harder/different areas no worries! Just keep the quest in your quest log and when you can complete the quest the NPC will give you your reward once you return to them."
+    ],
+    [
+      "Make sure to pick up all harvestables like mushrooms even if they don't seem useful yet. LevelingForagingwill unlockSeek Objectiveat level 5 which is an ability that will orient your character to face in the direction where your currently active quest objective is! (think \"tracking\" in good ol' EverQuest)."
+    ],
+    [
+      "Picking mushrooms does in fact NOT raise theForagingskill, only theMycologyskill."
+    ],
+    [
+      "When exiting the the east side of Serbule Keep village you may notice a circle patch of low level mushrooms to the right of you, they respawn often and usually contain enough mushrooms to get 16-18."
+    ],
+    [
+      "If you desire to raise yourFishingskill the best place to start is the moat aroundSerbule. Start withCrabsuntil you reach the level required forClown Fish, from there it is mostly collecting a mixture ofCrab,Clown FishandGrapefish.PerchandEelare very rare to find and are not optimal for leveling."
+    ],
+    [
+      "Empty bottles:To fill an empty bottle with water you can either activate a water well (eg. in Serbule) or similar object, but you can also simply stand in a body of water outdoors and right click an empty bottle."
+    ],
+    [
+      "The road east ofSerbuleis where most Pigs spawn. They are easy to kill and always drop Pork Shoulder. Since Pork Shoulder is the main ingredient for bacon, it is extremely important for raisingJoeh's Favor fast.",
+      "A player quote for first time visiters to the island, and when you first get toSerbule."
+    ],
+    [
+      "Mechanics"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "1Introduction",
+      "href": "#Introduction"
+    },
+    {
+      "text": "2Basics",
+      "href": "#Basics"
+    },
+    {
+      "text": "2.1User Interface",
+      "href": "#User_Interface"
+    },
+    {
+      "text": "2.2Controls",
+      "href": "#Controls"
+    },
+    {
+      "text": "2.2.1Player Controls",
+      "href": "#Player_Controls"
+    },
+    {
+      "text": "2.2.2GUI Controls",
+      "href": "#GUI_Controls"
+    },
+    {
+      "text": "2.3Combat",
+      "href": "#Combat"
+    },
+    {
+      "text": "2.4Damage Types",
+      "href": "#Damage_Types"
+    },
+    {
+      "text": "2.4.1Damage Types by Skill",
+      "href": "#Damage_Types_by_Skill"
+    },
+    {
+      "text": "2.4.1.1Items Which Alter Damage Type",
+      "href": "#Items_Which_Alter_Damage_Type"
+    },
+    {
+      "text": "2.5Attacks",
+      "href": "#Attacks"
+    },
+    {
+      "text": "2.6Evasion and Accuracy",
+      "href": "#Evasion_and_Accuracy"
+    },
+    {
+      "text": "2.7Levels & Skills",
+      "href": "#Levels_.26_Skills"
+    },
+    {
+      "text": "2.8Death",
+      "href": "#Death"
+    },
+    {
+      "text": "3Inventory, Items, and Equipment Mods",
+      "href": "#Inventory.2C_Items.2C_and_Equipment_Mods"
+    },
+    {
+      "text": "3.1Storage Basics",
+      "href": "#Storage_Basics"
+    },
+    {
+      "text": "3.1.1Inventory Folders",
+      "href": "#Inventory_Folders"
+    },
+    {
+      "text": "3.2Combat Items",
+      "href": "#Combat_Items"
+    },
+    {
+      "text": "3.3Loot",
+      "href": "#Loot"
+    },
+    {
+      "text": "3.4Equipment Treasure Effects",
+      "href": "#Equipment_Treasure_Effects"
+    },
+    {
+      "text": "3.5Save Things!",
+      "href": "#Save_Things.21"
+    },
+    {
+      "text": "4NPC's Quests and Favors",
+      "href": "#NPC.27s_Quests_and_Favors"
+    },
+    {
+      "text": "4.1Get every NPC on your side!",
+      "href": "#Get_every_NPC_on_your_side.21"
+    },
+    {
+      "text": "4.2Merchants",
+      "href": "#Merchants"
+    },
+    {
+      "text": "4.3Hanging out",
+      "href": "#Hanging_out"
+    },
+    {
+      "text": "4.4Extra Tips for NPC Favor",
+      "href": "#Extra_Tips_for_NPC_Favor"
+    },
+    {
+      "text": "5Extras",
+      "href": "#Extras"
+    },
+    {
+      "text": "Wiki Main Page",
+      "href": "https://wiki.projectgorgon.com/wiki/Main_Page"
+    },
+    {
+      "text": "Project Gorgon Forums",
+      "href": "https://forum.projectgorgon.com/"
+    },
+    {
+      "text": "Developer blog",
+      "href": "https://forum.projectgorgon.com/blog.php/"
+    },
+    {
+      "text": "Latest Game Update Notes",
+      "href": "/wiki/Game_updates"
+    },
+    {
+      "text": "Discord Link",
+      "href": "https://discord.gg/av5VUsBUJ6"
+    },
+    {
+      "text": "Basics",
+      "href": "/wiki/General_gameplay_tips/Basics"
+    },
+    {
+      "text": "User Interface",
+      "href": "/wiki/User_Interface"
+    },
+    {
+      "text": "Equipped Skills",
+      "href": "/wiki/Skills"
+    },
+    {
+      "text": "default controls",
+      "href": "/wiki/Controls"
+    },
+    {
+      "text": "Equipped Skills",
+      "href": "/wiki/Skills"
+    },
+    {
+      "text": "First Aid",
+      "href": "/wiki/First_Aid"
+    },
+    {
+      "text": "Armor Patching",
+      "href": "/wiki/Armor_Patching"
+    },
+    {
+      "text": "Controls",
+      "href": "/wiki/Controls"
+    },
+    {
+      "text": "Ping",
+      "href": "https://en.wikipedia.org/wiki/Ping_(video_gaming)"
+    },
+    {
+      "text": "FPS",
+      "href": "https://en.wikipedia.org/wiki/Frame_rate"
+    },
+    {
+      "text": "Game Version",
+      "href": "/wiki/Game_updates"
+    },
+    {
+      "text": "Yes, there is a chicken page.",
+      "href": "/wiki/Chicken"
+    },
+    {
+      "text": "Lightshot",
+      "href": "http://app.prntscr.com/"
+    },
+    {
+      "text": "Combat",
+      "href": "/wiki/Combat"
+    },
+    {
+      "text": "Combat Refresh",
+      "href": "/wiki/Combat_Refresh"
+    },
+    {
+      "text": "Animal Handling",
+      "href": "/wiki/Animal_Handling"
+    },
+    {
+      "text": "Archery",
+      "href": "/wiki/Archery"
+    },
+    {
+      "text": "Bard",
+      "href": "/wiki/Bard"
+    },
+    {
+      "text": "Battle Chemistry",
+      "href": "/wiki/Battle_Chemistry"
+    },
+    {
+      "text": "Cow",
+      "href": "/wiki/Cow"
+    },
+    {
+      "text": "Crossbow",
+      "href": "/wiki/Crossbow"
+    },
+    {
+      "text": "Deer",
+      "href": "/wiki/Deer"
+    },
+    {
+      "text": "Druid",
+      "href": "/wiki/Druid"
+    },
+    {
+      "text": "Fairy Magic",
+      "href": "/wiki/Fairy_Magic"
+    },
+    {
+      "text": "Fire Magic",
+      "href": "/wiki/Fire_Magic"
+    },
+    {
+      "text": "Giant Bat",
+      "href": "/wiki/Giant_Bat"
+    },
+    {
+      "text": "Hammer",
+      "href": "/wiki/Hammer"
+    },
+    {
+      "text": "Ice Magic",
+      "href": "/wiki/Ice_Magic"
+    },
+    {
+      "text": "Knife Fighting",
+      "href": "/wiki/Knife_Fighting"
+    },
+    {
+      "text": "Lycanthropy",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Mentalism",
+      "href": "/wiki/Mentalism"
+    },
+    {
+      "text": "Necromancy",
+      "href": "/wiki/Necromancy"
+    },
+    {
+      "text": "Pig",
+      "href": "/wiki/Pig"
+    },
+    {
+      "text": "Priest",
+      "href": "/wiki/Priest"
+    },
+    {
+      "text": "Psychology",
+      "href": "/wiki/Psychology"
+    },
+    {
+      "text": "Rabbit",
+      "href": "/wiki/Rabbit"
+    },
+    {
+      "text": "Shield",
+      "href": "/wiki/Shield"
+    },
+    {
+      "text": "Spider",
+      "href": "/wiki/Spider"
+    },
+    {
+      "text": "Spirit Fox",
+      "href": "/wiki/Spirit_Fox"
+    },
+    {
+      "text": "Staff",
+      "href": "/wiki/Staff"
+    },
+    {
+      "text": "Sword",
+      "href": "/wiki/Sword"
+    },
+    {
+      "text": "Unarmed",
+      "href": "/wiki/Unarmed"
+    },
+    {
+      "text": "Vampirism",
+      "href": "/wiki/Vampirism"
+    },
+    {
+      "text": "Warden",
+      "href": "/wiki/Warden"
+    },
+    {
+      "text": "Weather Witching",
+      "href": "/wiki/Weather_Witching"
+    },
+    {
+      "text": "chart to indicate which combat skills can be used together",
+      "href": "/wiki/Skill_Compatibility_Chart"
+    },
+    {
+      "text": "Sword",
+      "href": "/wiki/Sword"
+    },
+    {
+      "text": "Knife Fighting",
+      "href": "/wiki/Knife_Fighting"
+    },
+    {
+      "text": "Canines",
+      "href": "/wiki/Canine"
+    },
+    {
+      "text": "Felines",
+      "href": "/wiki/Feline"
+    },
+    {
+      "text": "Rodents",
+      "href": "/wiki/Rodent"
+    },
+    {
+      "text": "Archery",
+      "href": "/wiki/Archery"
+    },
+    {
+      "text": "Staff",
+      "href": "/wiki/Staff"
+    },
+    {
+      "text": "Knife Fighting",
+      "href": "/wiki/Knife_Fighting"
+    },
+    {
+      "text": "Rakshasa",
+      "href": "/wiki/Rakshasa"
+    },
+    {
+      "text": "Dinosaurs",
+      "href": "/wiki/Dinosaur"
+    },
+    {
+      "text": "Staff",
+      "href": "/wiki/Staff"
+    },
+    {
+      "text": "Hammer",
+      "href": "/wiki/Hammer"
+    },
+    {
+      "text": "Cow",
+      "href": "/wiki/Cow"
+    },
+    {
+      "text": "Unarmed",
+      "href": "/wiki/Unarmed"
+    },
+    {
+      "text": "Canines",
+      "href": "/wiki/Canine"
+    },
+    {
+      "text": "Giants",
+      "href": "/wiki/Giant"
+    },
+    {
+      "text": "Ruminants",
+      "href": "/wiki/Ruminant"
+    },
+    {
+      "text": "Fire Magic",
+      "href": "/wiki/Fire_Magic"
+    },
+    {
+      "text": "Priest",
+      "href": "/wiki/Priest"
+    },
+    {
+      "text": "Elementals",
+      "href": "/wiki/Elemental"
+    },
+    {
+      "text": "Crone-Kin",
+      "href": "/wiki/Crone-Kin"
+    },
+    {
+      "text": "Ice Magic",
+      "href": "/wiki/Ice_Magic"
+    },
+    {
+      "text": "Fire Magic",
+      "href": "/wiki/Fire_Magic"
+    },
+    {
+      "text": "Fungoids",
+      "href": "/wiki/Fungoid"
+    },
+    {
+      "text": "Elementals",
+      "href": "/wiki/Elemental"
+    },
+    {
+      "text": "Hammer",
+      "href": "/wiki/Hammer"
+    },
+    {
+      "text": "Mentalism",
+      "href": "/wiki/Mentalism"
+    },
+    {
+      "text": "Necromancy",
+      "href": "/wiki/Necromancy"
+    },
+    {
+      "text": "Warden",
+      "href": "/wiki/Warden"
+    },
+    {
+      "text": "Dinosaurs",
+      "href": "/wiki/Dinosaur"
+    },
+    {
+      "text": "Elementals",
+      "href": "/wiki/Elemental"
+    },
+    {
+      "text": "Sword",
+      "href": "/wiki/Sword"
+    },
+    {
+      "text": "Bard",
+      "href": "/wiki/Bard"
+    },
+    {
+      "text": "Psychology",
+      "href": "/wiki/Psychology"
+    },
+    {
+      "text": "Plants",
+      "href": "/wiki/Plant"
+    },
+    {
+      "text": "Arthropods",
+      "href": "/wiki/Arthropod"
+    },
+    {
+      "text": "Battle Chemistry",
+      "href": "/wiki/Battle_Chemistry"
+    },
+    {
+      "text": "Druid",
+      "href": "/wiki/Druid"
+    },
+    {
+      "text": "Knife Fighting",
+      "href": "/wiki/Knife_Fighting"
+    },
+    {
+      "text": "Aberrations",
+      "href": "/wiki/Aberration"
+    },
+    {
+      "text": "Arthropods",
+      "href": "/wiki/Arthropod"
+    },
+    {
+      "text": "Plants",
+      "href": "/wiki/Plant"
+    },
+    {
+      "text": "Psychology",
+      "href": "/wiki/Psychology"
+    },
+    {
+      "text": "Priest",
+      "href": "/wiki/Priest"
+    },
+    {
+      "text": "Mentalism",
+      "href": "/wiki/Mentalism"
+    },
+    {
+      "text": "Arthropods",
+      "href": "/wiki/Arthropod"
+    },
+    {
+      "text": "Battle Chemistry",
+      "href": "/wiki/Battle_Chemistry"
+    },
+    {
+      "text": "Fungoids",
+      "href": "/wiki/Fungoid"
+    },
+    {
+      "text": "Arthropods",
+      "href": "/wiki/Arthropod"
+    },
+    {
+      "text": "Fish and Snails",
+      "href": "/wiki/Fish_and_Snail"
+    },
+    {
+      "text": "Aberrations",
+      "href": "/wiki/Aberration"
+    },
+    {
+      "text": "Druid",
+      "href": "/wiki/Druid"
+    },
+    {
+      "text": "Bard",
+      "href": "/wiki/Bard"
+    },
+    {
+      "text": "Cow",
+      "href": "/wiki/Cow"
+    },
+    {
+      "text": "Giant Bat",
+      "href": "/wiki/Giant_Bat"
+    },
+    {
+      "text": "Plants",
+      "href": "/wiki/Plant"
+    },
+    {
+      "text": "Elementals",
+      "href": "/wiki/Elemental"
+    },
+    {
+      "text": "Necromancy",
+      "href": "/wiki/Necromancy"
+    },
+    {
+      "text": "Vampirism",
+      "href": "/wiki/Vampirism"
+    },
+    {
+      "text": "Spirit Fox",
+      "href": "/wiki/Spirit_Fox"
+    },
+    {
+      "text": "Crone-Kins",
+      "href": "/wiki/Crone-Kin"
+    },
+    {
+      "text": "Incorporeal Creatures",
+      "href": "/wiki/Incorporeal_Creature"
+    },
+    {
+      "text": "Animal Handling",
+      "href": "/wiki/Animal_Handling"
+    },
+    {
+      "text": "Archery",
+      "href": "/wiki/Archery"
+    },
+    {
+      "text": "Bard",
+      "href": "/wiki/Bard"
+    },
+    {
+      "text": "Battle Chemistry",
+      "href": "/wiki/Battle_Chemistry"
+    },
+    {
+      "text": "Cow",
+      "href": "/wiki/Cow"
+    },
+    {
+      "text": "Deer",
+      "href": "/wiki/Deer"
+    },
+    {
+      "text": "Druid",
+      "href": "/wiki/Druid"
+    },
+    {
+      "text": "Fairy Magic",
+      "href": "/wiki/Fairy_Magic"
+    },
+    {
+      "text": "Fire Magic",
+      "href": "/wiki/Fire_Magic"
+    },
+    {
+      "text": "Giant Bat",
+      "href": "/wiki/Giant_Bat"
+    },
+    {
+      "text": "Hammer",
+      "href": "/wiki/Hammer"
+    },
+    {
+      "text": "Ice Magic",
+      "href": "/wiki/Ice_Magic"
+    },
+    {
+      "text": "Knife Fighting",
+      "href": "/wiki/Knife_Fighting"
+    },
+    {
+      "text": "Lycanthropy",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Mentalism",
+      "href": "/wiki/Mentalism"
+    },
+    {
+      "text": "Necromancy",
+      "href": "/wiki/Necromancy"
+    },
+    {
+      "text": "Pig",
+      "href": "/wiki/Pig"
+    },
+    {
+      "text": "Priest",
+      "href": "/wiki/Priest"
+    },
+    {
+      "text": "Psychology",
+      "href": "/wiki/Psychology"
+    },
+    {
+      "text": "Rabbit",
+      "href": "/wiki/Rabbit"
+    },
+    {
+      "text": "Shield",
+      "href": "/wiki/Shield"
+    },
+    {
+      "text": "Spider",
+      "href": "/wiki/Spider"
+    },
+    {
+      "text": "Spirit Fox",
+      "href": "/wiki/Spirit_Fox"
+    },
+    {
+      "text": "Staff",
+      "href": "/wiki/Staff"
+    },
+    {
+      "text": "Sword",
+      "href": "/wiki/Sword"
+    },
+    {
+      "text": "Unarmed",
+      "href": "/wiki/Unarmed"
+    },
+    {
+      "text": "Vampirism",
+      "href": "/wiki/Vampirism"
+    },
+    {
+      "text": "Warden",
+      "href": "/wiki/Warden"
+    },
+    {
+      "text": "Weather Witching",
+      "href": "/wiki/Weather_Witching"
+    },
+    {
+      "text": "Ratkin Mining Pick",
+      "href": "/wiki/Ratkin_Mining_Pick"
+    },
+    {
+      "text": "Guardian Trident",
+      "href": "/wiki/Guardian_Trident"
+    },
+    {
+      "text": "Tactician's Halberd",
+      "href": "/wiki/Tactician%27s_Halberd"
+    },
+    {
+      "text": "Flaming Gazluk Sword",
+      "href": "/wiki/Flaming_Gazluk_Sword"
+    },
+    {
+      "text": "Autofreeze Knife",
+      "href": "/wiki/Autofreeze_Knife"
+    },
+    {
+      "text": "Autofreeze Shiv",
+      "href": "/wiki/Autofreeze_Shiv"
+    },
+    {
+      "text": "Icesnake",
+      "href": "/wiki/Icesnake"
+    },
+    {
+      "text": "Fire Breath",
+      "href": "/wiki/Fire_Breath"
+    },
+    {
+      "text": "Chill",
+      "href": "/wiki/Chill"
+    },
+    {
+      "text": "Fireball",
+      "href": "/wiki/Fireball"
+    },
+    {
+      "text": "Necromancy",
+      "href": "/wiki/Necromancy"
+    },
+    {
+      "text": "Death's Hold",
+      "href": "/wiki/Death%27s_Hold"
+    },
+    {
+      "text": "Ice Nova",
+      "href": "/wiki/Ice_Nova"
+    },
+    {
+      "text": "Battle Chemistry",
+      "href": "/wiki/Battle_Chemistry"
+    },
+    {
+      "text": "Fire Breath",
+      "href": "/wiki/Fire_Breath"
+    },
+    {
+      "text": "Druid",
+      "href": "/wiki/Druid"
+    },
+    {
+      "text": "Brambleskin",
+      "href": "/wiki/Brambleskin"
+    },
+    {
+      "text": "Fire Magic",
+      "href": "/wiki/Fire_Magic"
+    },
+    {
+      "text": "Molten Veins",
+      "href": "/wiki/Molten_Veins"
+    },
+    {
+      "text": "Molten Veins",
+      "href": "/wiki/Molten_Veins"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Level",
+      "href": "/wiki/Level"
+    },
+    {
+      "text": "skills",
+      "href": "/wiki/Skills"
+    },
+    {
+      "text": "Level",
+      "href": "/wiki/Level"
+    },
+    {
+      "text": "Gourmand",
+      "href": "/wiki/Gourmand"
+    },
+    {
+      "text": "Hardcore Mode",
+      "href": "/wiki/Hardcore_Mode"
+    },
+    {
+      "text": "Serbule Keep",
+      "href": "/wiki/Serbule_Keep"
+    },
+    {
+      "text": "Inventory, Items, and Equipment Mods",
+      "href": "/wiki/General_gameplay_tips/Inventory_and_Items"
+    },
+    {
+      "text": "Hulon",
+      "href": "/wiki/Hulon"
+    },
+    {
+      "text": "Serbule Keep",
+      "href": "/wiki/Serbule_Keep"
+    },
+    {
+      "text": "storage",
+      "href": "/wiki/Storage"
+    },
+    {
+      "text": "Storage",
+      "href": "/wiki/Storage"
+    },
+    {
+      "text": "Endurance",
+      "href": "/wiki/Endurance"
+    },
+    {
+      "text": "Lore",
+      "href": "/wiki/Lore"
+    },
+    {
+      "text": "Anatomy",
+      "href": "/wiki/Anatomy"
+    },
+    {
+      "text": "Civic Pride",
+      "href": "/wiki/Civic_Pride"
+    },
+    {
+      "text": "Holistic Wellness",
+      "href": "/wiki/Holistic_Wellness"
+    },
+    {
+      "text": "Industry",
+      "href": "/wiki/Industry"
+    },
+    {
+      "text": "Retail Management",
+      "href": "/wiki/Retail_Management"
+    },
+    {
+      "text": "Shamanic Infusion",
+      "href": "/wiki/Shamanic_Infusion"
+    },
+    {
+      "text": "Blacksmithing",
+      "href": "/wiki/Blacksmithing"
+    },
+    {
+      "text": "Dying",
+      "href": "/wiki/Dying"
+    },
+    {
+      "text": "Endurance",
+      "href": "/wiki/Endurance"
+    },
+    {
+      "text": "Survival Instincts",
+      "href": "/wiki/Survival_Instincts"
+    },
+    {
+      "text": "Tailoring",
+      "href": "/wiki/Tailoring"
+    },
+    {
+      "text": "Items",
+      "href": "/wiki/Items"
+    },
+    {
+      "text": "Belts",
+      "href": "/wiki/Belt"
+    },
+    {
+      "text": "skinning",
+      "href": "/wiki/Skinning"
+    },
+    {
+      "text": "butchering",
+      "href": "/wiki/Butchering"
+    },
+    {
+      "text": "Autopsy Kit",
+      "href": "/wiki/Autopsy_Kit"
+    },
+    {
+      "text": "pathology",
+      "href": "/wiki/Pathology"
+    },
+    {
+      "text": "Butcher Knife",
+      "href": "/wiki/Butcher_Knife"
+    },
+    {
+      "text": "butchering",
+      "href": "/wiki/Butchering"
+    },
+    {
+      "text": "Fainor",
+      "href": "/wiki/Fainor"
+    },
+    {
+      "text": "Handsaw",
+      "href": "/wiki/Handsaw"
+    },
+    {
+      "text": "Therese",
+      "href": "/wiki/Therese"
+    },
+    {
+      "text": "Shovel",
+      "href": "/wiki/Shovel"
+    },
+    {
+      "text": "Simple Skinning Knife",
+      "href": "/wiki/Simple_Skinning_Knife"
+    },
+    {
+      "text": "skinning",
+      "href": "/wiki/Skinning"
+    },
+    {
+      "text": "Treasure Effects",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "Treasure Effects",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "Treasure Effects",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "Treasure Effect",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "Treasure Effect",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "Treasure Effects",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "Treasure Effects",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "Treasure Effects",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "Treasure Effects",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "Treasure Effects",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "Favor",
+      "href": "/wiki/Favor"
+    },
+    {
+      "text": "NPC's Quests and Favors",
+      "href": "/wiki/General_gameplay_tips/NPC%27s_Quests_and_Favors"
+    },
+    {
+      "text": "gifts",
+      "href": "/wiki/Gifting"
+    },
+    {
+      "text": "Joeh",
+      "href": "/wiki/Joeh"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Foraging",
+      "href": "/wiki/Foraging"
+    },
+    {
+      "text": "Foraging",
+      "href": "/wiki/Foraging"
+    },
+    {
+      "text": "Mycology",
+      "href": "/wiki/Mycology"
+    },
+    {
+      "text": "Fishing",
+      "href": "/wiki/Fishing"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Boric",
+      "href": "http://projectgorgon.com/forum/community-questions-answers/2513-suggestions-to-answer-the-question-i-just-got-off-the-island-what-next#13960"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=General_gameplay_tips&oldid=120262",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=General_gameplay_tips&oldid=120262"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Mechanics",
+      "href": "/wiki/Category:Mechanics"
+    }
+  ],
+  "images": [
+    {
+      "src": "/w/images/thumb/b/bc/Wiki.png/60px-Wiki.png",
+      "alt": "Wiki.png"
+    },
+    {
+      "src": "/w/images/thumb/4/42/PlayerUiScreenshot.png/500px-PlayerUiScreenshot.png",
+      "alt": "InGame"
+    },
+    {
+      "src": "/w/images/thumb/e/ef/User_interface_right_side.png/60px-User_interface_right_side.png",
+      "alt": "The Main UI."
+    },
+    {
+      "src": "/w/images/thumb/3/3c/AccountStatusIcon.png/60px-AccountStatusIcon.png",
+      "alt": "Account Status"
+    },
+    {
+      "src": "/w/images/thumb/d/d6/ChatIcon.png/60px-ChatIcon.png",
+      "alt": "Chat"
+    },
+    {
+      "src": "/w/images/thumb/e/e4/InventoryIcon.png/60px-InventoryIcon.png",
+      "alt": "Inventory"
+    },
+    {
+      "src": "/w/images/thumb/f/f6/SkillsIcon.png/60px-SkillsIcon.png",
+      "alt": "Skills"
+    },
+    {
+      "src": "/w/images/thumb/e/eb/MapIcon.png/60px-MapIcon.png",
+      "alt": "Map"
+    },
+    {
+      "src": "/w/images/thumb/1/1e/QuestIcon.png/60px-QuestIcon.png",
+      "alt": "Quest"
+    },
+    {
+      "src": "/w/images/thumb/b/bc/LoreIcon.png/60px-LoreIcon.png",
+      "alt": "Books & Lore"
+    },
+    {
+      "src": "/w/images/thumb/b/bd/RecipesIcon.png/60px-RecipesIcon.png",
+      "alt": "Recipes"
+    },
+    {
+      "src": "/w/images/thumb/a/af/PersonaIcon.png/60px-PersonaIcon.png",
+      "alt": "Persona"
+    },
+    {
+      "src": "/w/images/thumb/9/9b/OptionsIcon.png/60px-OptionsIcon.png",
+      "alt": "Options"
+    },
+    {
+      "src": "/w/images/thumb/b/b2/SocialIcon.png/60px-SocialIcon.png",
+      "alt": "Social"
+    },
+    {
+      "src": "/w/images/thumb/2/21/PetsIcon.png/60px-PetsIcon.png",
+      "alt": "Pets"
+    },
+    {
+      "src": "/w/images/thumb/c/cd/LoadoutsIcon.png/60px-LoadoutsIcon.png",
+      "alt": "Social"
+    },
+    {
+      "src": "/w/images/3/39/Armor_Health_and_Rage_indicators.jpg",
+      "alt": "Armor, Health and Power bars as of Beta Testing."
+    },
+    {
+      "src": "/w/images/thumb/d/d6/Chicken_power_level.jpg/150px-Chicken_power_level.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/w/images/thumb/e/e9/Foe_using_Special_Ability_%28Rage%29.jpg/130px-Foe_using_Special_Ability_%28Rage%29.jpg",
+      "alt": ""
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_2121.png",
+      "alt": "icon_2121.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3310.png",
+      "alt": "icon_3310.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3573.png",
+      "alt": "icon_3573.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_2107.png",
+      "alt": "icon_2107.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3491.png",
+      "alt": "icon_3491.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3070.png",
+      "alt": "icon_3070.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_2132.png",
+      "alt": "icon_2132.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3402.png",
+      "alt": "icon_3402.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3424.png",
+      "alt": "icon_3424.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3403.png",
+      "alt": "icon_3403.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3000.png",
+      "alt": "icon_3000.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3429.png",
+      "alt": "icon_3429.png"
+    },
+    {
+      "src": "/w/images/thumb/a/a5/Damage_Types.png/300px-Damage_Types.png",
+      "alt": ""
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_21002.png",
+      "alt": "icon_21002.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_18019.png",
+      "alt": "icon_18019.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_18017.png",
+      "alt": "icon_18017.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_15005.png",
+      "alt": "icon_15005.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_15216.png",
+      "alt": "icon_15216.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_15405.png",
+      "alt": "icon_15405.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_15216.png",
+      "alt": "icon_15216.png"
+    },
+    {
+      "src": "/w/images/thumb/7/7f/Items_%28example_of_a_purple_item%29.jpg/300px-Items_%28example_of_a_purple_item%29.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/w/images/c/cf/Item-icon-belt.png",
+      "alt": "Item-icon-belt.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_4004.png",
+      "alt": "icon_4004.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5401.png",
+      "alt": "icon_5401.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5094.png",
+      "alt": "icon_5094.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5358.png",
+      "alt": "icon_5358.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5169.png",
+      "alt": "icon_5169.png"
+    },
+    {
+      "src": "/w/images/thumb/5/55/Joeh.jpg/200px-Joeh.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/w/images/9/92/Item-icon-bacon.png",
+      "alt": "Item-icon-bacon.png"
+    },
+    {
+      "src": "/w/images/e/ec/Item-icon-bottle.png",
+      "alt": "Item-icon-bottle.png"
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

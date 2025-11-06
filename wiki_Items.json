@@ -1,0 +1,196 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Items",
+  "title": "Items - Project: Gorgon Wiki",
+  "main_content": "Items\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nContents\n1\nItem Tiers\n2\nAugments\n2.1\nStacking Effects\n2.2\nHow Skill Augments Apply\n3\nGear and Equipment Types\n4\nLegacy Information\n4.1\nTreasure Generation\n4.2\nLucky Belts\n5\nPrevious Max Enchanted\n6\nReferences\nItem Tiers\nAn example of an\nEpic\nitem. Notice the two intrinsic mods (to Inventory Slots and Sprint Speed) listed in white, and the four (due to its rarity tier) additional mods listed in green.\nItems come in six different rarity tiers, giving them 0-5\nmods\n(plus any intrinsic mods the base item has).\nAs can be seen in the illustration, the properties on high tier items can make a dramatic difference to a character's potential depending on ability specialization, from increasing damage output or the resilience of pets, \nto lowering the cost of spells or even increasing\nsprint speed\n!\nItem Tier\nProperties\nCommon\nThose are common, basic items.\nUncommon\nOne extra power, chosen as appropriate for the difficulty of the monsters.\nRare\nTwo modifiers.\nExceptional\nThree modifiers.\nEpic\nFour modifiers.\nLegendary\nFive modifiers.\nMastercrafted or Fortold\nFive modifiers with 160 crafting points.\nWhen a creature is slain, a special effect and distinctive sound indicates that there is\nRare\n,\nEpic\nor\nLegendary\nloot on them.\nAfter an items is dropped or crafted one additional mod may be added using\nAugmentation\n(or\nShamanic Infusion\n) without changing the Rarity.\nAugments\nFinding loot in Project: Gorgon is exciting because the game uses a \"random treasure\" system which is more commonly found in ARPG games. Players can occasionally strike gold with an amazing, game-balance-destroying item every now and again.\n[1]\nFor instance, if you’re an\nUnarmed\nfighter, you’ll love gauntlets that make your Punch attack heal you. You punch a lot, so that’s a huge power boost and very noticeable. On the other hand, you may prefer gauntlets that cause your Punch to do extra damage, or that cause your Cobra Strike to stun more reliably. But an amazing pair of gauntlets would do all three things.\nAugments come in levels. For instance, the first tier of Health-Enchantment gives you +5 max health. The next tier gives you +10 health. And so on.\nHere are a few examples of augments currently found in alpha:\n<ability> attacks heals you for 120\n<ability> causes your Sprint speed to increase by 10 for 10 seconds\n<ability> also restores 30 armor to you\n<ability> removes ongoing Poison effects (up to 30 dmg/sec)\nStacking Effects\nAll augments, flat or percent damage increase, stack. Augments with a chance to proc each roll their chances and may proc separately.\nHow Skill Augments Apply\nSkill augments such as \"Scintillating Flame restores 20 Power\" work as long as the item is equipped, irrelevant if the item's associated skill is currently in use. So for example if the aforementioned mod was on a Bow, but you do not have \"Archery\" active, the mod still applies if you have Fire Magic in use.\nGear and Equipment Types\nMain hand\nHammer\nStaff\nSword\nBeaker\nDagger\nCestus/Katar/Knuckles/Fist\nLute\nOff hand\nOrb : Orbs tend to have an augment that reduces the Power Cost of abilities up to -25%\nShield\nBow : Of notice,\nCritical Damage %\nthat comes with\nAnatomy\nskills appear to work only for Bows.\nFlask\nClaw\nHorn/Ocarina\nDirk\nArmor\nBelts\nBoots\nChest\nLegs\nHeadgear\nGloves\nNeck\nRing\nEarring\nNavel Gem\nLegacy Information\nTreasure Generation\n\"In October 2016, the dev. changed the gear system to make single skill gear legacy. Now gear is two skill gear or one skill with generics.\"\nLucky Belts\nLucky Belts\nused to attune the random-treasure system to specific skills. Wearing the proper belt made it so that the loot you find was much more likely to enhance your choice of primary and secondary skills.  This feature was changed in the 2015-12-06 patch.  See the\nBelt\narticle for more historical information.\nPrevious Max Enchanted\nIt was possible for an item to reach more than 5 treasure effects. Crafted gear can be crafted as \"max-enchanted\". Using the max-enchanted recipe gave the item one extra mod. For example, a second-from-the-top (\nEpic\n) tier item which normally has 4 mods would have 5 if max-enchanted.  This allowed an item to reach at most 6 modifiers upon being crafted (in the case that it is\nLegendary\n).\nAugmentation\n(or\nShamanic Infusion\n) was then used to reach the upper limit of 7 (looted gear, which can't be max-enchanted, can only reach 6 at most).\nReferences\n↑\nhttp://www.eldergame.com/2012/05/gorgon-random-treasure/\nGorgon Random Treasure\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Items&oldid=198786\n\"",
+  "tables": [
+    [
+      [
+        "Item Tier",
+        "Properties"
+      ],
+      [
+        "Common",
+        "Those are common, basic items."
+      ],
+      [
+        "Uncommon",
+        "One extra power, chosen as appropriate for the difficulty of the monsters."
+      ],
+      [
+        "Rare",
+        "Two modifiers."
+      ],
+      [
+        "Exceptional",
+        "Three modifiers."
+      ],
+      [
+        "Epic",
+        "Four modifiers."
+      ],
+      [
+        "Legendary",
+        "Five modifiers."
+      ],
+      [
+        "Mastercrafted or Fortold",
+        "Five modifiers with 160 crafting points."
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "1Item Tiers",
+      "2Augments2.1Stacking Effects2.2How Skill Augments Apply",
+      "3Gear and Equipment Types",
+      "4Legacy Information4.1Treasure Generation4.2Lucky Belts",
+      "5Previous Max Enchanted",
+      "6References"
+    ],
+    [
+      "2.1Stacking Effects",
+      "2.2How Skill Augments Apply"
+    ],
+    [
+      "4.1Treasure Generation",
+      "4.2Lucky Belts"
+    ],
+    [
+      "\"In October 2016, the dev. changed the gear system to make single skill gear legacy. Now gear is two skill gear or one skill with generics.\""
+    ],
+    [
+      "↑http://www.eldergame.com/2012/05/gorgon-random-treasure/Gorgon Random Treasure"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "1Item Tiers",
+      "href": "#Item_Tiers"
+    },
+    {
+      "text": "2Augments",
+      "href": "#Augments"
+    },
+    {
+      "text": "2.1Stacking Effects",
+      "href": "#Stacking_Effects"
+    },
+    {
+      "text": "2.2How Skill Augments Apply",
+      "href": "#How_Skill_Augments_Apply"
+    },
+    {
+      "text": "3Gear and Equipment Types",
+      "href": "#Gear_and_Equipment_Types"
+    },
+    {
+      "text": "4Legacy Information",
+      "href": "#Legacy_Information"
+    },
+    {
+      "text": "4.1Treasure Generation",
+      "href": "#Treasure_Generation"
+    },
+    {
+      "text": "4.2Lucky Belts",
+      "href": "#Lucky_Belts"
+    },
+    {
+      "text": "5Previous Max Enchanted",
+      "href": "#Previous_Max_Enchanted"
+    },
+    {
+      "text": "6References",
+      "href": "#References"
+    },
+    {
+      "text": "Epic",
+      "href": "/wiki/Items#Item_Tiers"
+    },
+    {
+      "text": "mods",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "sprint speed",
+      "href": "/wiki/Haste"
+    },
+    {
+      "text": "Augmentation",
+      "href": "/wiki/Augmentation"
+    },
+    {
+      "text": "Shamanic Infusion",
+      "href": "/wiki/Shamanic_Infusion"
+    },
+    {
+      "text": "[1]",
+      "href": "#cite_note-blog1-1"
+    },
+    {
+      "text": "Unarmed",
+      "href": "/wiki/Unarmed"
+    },
+    {
+      "text": "Armor",
+      "href": "/wiki/Armor"
+    },
+    {
+      "text": "Belts",
+      "href": "/wiki/Belt"
+    },
+    {
+      "text": "Lucky Belts",
+      "href": "/wiki/Belt"
+    },
+    {
+      "text": "Belt",
+      "href": "/wiki/Belt"
+    },
+    {
+      "text": "Epic",
+      "href": "/wiki/Items#Item_Tiers"
+    },
+    {
+      "text": "Legendary",
+      "href": "/wiki/Items#Item_Tiers"
+    },
+    {
+      "text": "Augmentation",
+      "href": "/wiki/Augmentation"
+    },
+    {
+      "text": "Shamanic Infusion",
+      "href": "/wiki/Shamanic_Infusion"
+    },
+    {
+      "text": "↑",
+      "href": "#cite_ref-blog1_1-0"
+    },
+    {
+      "text": "http://www.eldergame.com/2012/05/gorgon-random-treasure/",
+      "href": "http://www.eldergame.com/2012/05/gorgon-random-treasure/"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Items&oldid=198786",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Items&oldid=198786"
+    }
+  ],
+  "images": [
+    {
+      "src": "/w/images/thumb/7/7f/Items_%28example_of_a_purple_item%29.jpg/335px-Items_%28example_of_a_purple_item%29.jpg",
+      "alt": ""
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

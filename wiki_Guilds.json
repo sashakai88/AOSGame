@@ -1,0 +1,294 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Guilds",
+  "title": "Guilds - Project: Gorgon Wiki",
+  "main_content": "Guilds\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nA list of Player Guilds, and information on setting up Player Guild pages on the wiki, can be found at:\nPlayer Guilds\nGuild Roster - Looks like guilds can register here.\nContents\n1\nThe Guild Roster\n1.1\nGuild Creation\n1.2\nGuild Management\n1.2.1\nGuild Status\n1.2.2\nEdit Ranks\n1.2.3\nGuild Permissions\n1.2.4\nMisc Configuration\n1.3\nMembership Requirements\n1.3.1\nRequirement Penalties\n2\nGuild Levels\n3\nGuild Quests\n4\nGuild Storage\n4.1\nBuying Guild Storage Vault slots\n4.2\nGuild Storage Vault controls\n5\nGuild Halls\n6\nGuild Audit Logs\n6.1\nVault Logs\n7\nTrivia\nGuilds\nare an in-game option for players to organize themselves into groups. Guild membership grants various benefits such as the ability to earn Guild Credits, access to Guild Storage Vaults,\nGuild Quests\n, and\nGuild Halls\n. Each character can be a member of a single guild, although characters may leave a guild if they want and receive an invite to a new one.\nThe Guild Roster\nGuild creation and management is performed at a Guild Roster. There are two Guild Rosters in the game. One of them is a sign in Serbule and the other is a book in the Red Wing Casino.\nGuild Creation\nWhen players who are not in a guild interact with a Guild Roster, they are provided with the option to spend 10,000 Councils to create one.\nIf they pay the fee to begin the creation process, they will need to create a Guild Name. Guild Names \"are not permitted to use profanity, racism, or general dickishness in your guild name, guild titles, ect.\"\nThe individual who starts a guild is granted the rank of Guildmaster and can instantly start inviting other players to their guild. When examined, players who are not currently in a guild will display the option \"Invite to Guild.\"\nGuild Management\nPlayers in a guild will see up to ten options when interacting with a Guild Roster sign. With the strictest possible permissions, a character will only see Guild Status, Guild Roster, Spend Credits, and Quit Guild.\nGuild Status - Provides basic information on the Guild.\nGuild Roster - Shows the online status and rank of all players in the Guild.\nEdit Ranks - This option allows players with permission to edit the ranks of the guild.\nMoTD - Allows editing of a Message of The Day which is shown to guild members when they log in.\nMisc Configuration - Options which do not fit other categories.\nSpend Credits - A shop for spending guild credits. Shop contents and how Guilds earn credits can be found on the\nGuild Quests\npage.\nPromote Member - Allows a player to promote any member of a lower rank to any rank below their own (if ranking permissions are granted). A character ranked as Guildmaster can promote others to Guildmaster though.\nDemote Member - Allows a player to demote any member of a lower rank to any other lower rank (if ranking permissions are granted). A Guildmaster can demote other Guildmasters.\nEject Member - Allows a player to remove any lower ranked guild member from the guild (if ranking permissions are granted).\nQuit Guild - The option to quit a guild. Guild Credits are reset to zero when this option is used.\nGuild Status\nAll member of a guild are able to see the Guild Status option from the Guild Roster, which provides the following information:\n(Guild Name)\nX/250 members\nGuild Level: X\nGuild XP: X of X needed for next level\nMessage of the Day:\nThis is a basic example of a message of the day!\nGuild Created on Tue Sep 01 10:50:43 EDT 2015 by (Guildmaster)\nYour Guild Rank: (Guild Rank)\nEdit Ranks\nThis option allows players granted permission to edit the ranks of the guild. A newly created guild will have 10 ranks with default permissions already applied.\n“\nEach guild member is assigned to one of ten 'ranks'. Usually lower-numbered ranks have fewer privileges than higher ranks, but there's some flexibility to allow you to create whatever system you need. However, Rank 10 is Always the most important rank. The guild's creator is rank 10. Newer members are rank 3 by default, but you can change their starting rank.\nMost guilds won't actually use all ten ranks! You'll just use a few and ignore the rest. The others are there to give you flexibility as your guild grows and evolves.\nEach rank has a title (which you can change) and has permission to do certain things, like setting the Message of The Day or inviting new guild members.\nWe've set up a simple rank system by default. It works like this:\n- Rank 1 ('Probation') is a rank you can assign to people who are abusing their privileges. They have no special powers at all.\n- Rank 3 ('Member') is for regular members. They can invite new guild members.\n- Rank 5 ('Sheriff') can kick people out of the guild, as well as changing the ranks of lower-ranked members.\n- Rank 7 ('Lieutenant') has all the powers of the Sheriff and can also set the Message of The Day. THey can also promote/demote Sheriffs.\n- Rank 10 ('Guildmaster') can do everything, and can change these ranks to have different meanings.\nRank 3 is the default rank for new people, which means new players can invite other people into the guild. If you don't like that, you can change the default rank to 2 ('Novice'). This rank is just like 'Member', but they can't invite new people to the guild.\n— Guild Roster\nThe preset ranks are:\n1: Probation\n2: Novice\n3: Member\n4: Veteran\n5: Sheriff\n6: Elite\n7: Lieutenant\n8: Captain\n9: Guild Boss\n10: Guildmaster\nGuild Permissions\nInvite New Members - Members with this permission can invite anyone to join the guild.\nPromote Members - Members with this permission can increase the rank of other guild members -- but never to a rank higher than they are themselves (unless they are the Guildmaster).\nDemote Members - Members with this permission can decrease the rank of other guild members, but they can't change the rank of people higher-ranked than themselves.\nKick Members From Guild - Members with this permission can kick people out of the guild. Only people lower-ranked than they are can be kicked out.\nSet Message of The Day - Members with this permission can set the Message of The Day for the guild.\nChange Guild Configuration - Members with this permission can change the settings of the guild, including giving themselves new permissions! This should only be given to the most trusted members. Rank 10 always has this permission.\nDisplay Guild Identity - This permission causes guild members to automatically show their guild names and rank when they are examined by other players. (By default, all ranks have this permission.)\nView Guild Roster - Members with this permission can view a list of all guild members. (By default, all ranks have this permission).\nView Audit Logs - Members with this permission can view the Audit Logs for the guild.\nBuy Additional Vault Slots - Members with this permission can purchase additional Guild Storage Vault slots.\nSet Vault Descriptions - Members with this permission can edit the descriptions on each Guild Storage Vault.\nAccess Serbule Vault #1 (permissions exist for each vault) - Members with these permissions can add or remove items from a vault.\nAccept Guild Quests - Members with this permission can accept\nGuild Quests\n.\nCancel Guild Quests - Members with this permission can cancel a Guild Quest.\nMisc Configuration\nThis option allows guild members with the proper permissions to complete various actions.\nChange Requirements for Guild Membership\nCancel Active Guild Quest - Cancels the active Guild Quest.\nMembership Requirements\nGuilds can be established to have certain Membership Requirements, or users with high enough permissions can change their settings.\nHardcore Death Penalty\nPermanent Animal Form\nMembership Requirements can be toggled between \"Allowed\", \"Disallowed\", or \"Required\". Setting one of the Membership Requirements to Required grants a guild-wide bonus to Guild Credits earned from\nGuild Quests\n.\nIf one of the Membership Requirement is changed to \"Disallowed\" or \"Required,\" characters who do not meet the requirement(s) can not be invited to a guild.\nRequirement Penalties\nThe game systems run a check for active Membership Requirements every few minutes when a character is logged in. If a character in a guild no longer meets the requirements, a very large red error message will be displayed on their screen. The entire guild will also be put into a penalty mode until the situation is resolved (the character which no longer satisfies member requirements must either quickly meet those requirements or quit/be ejected from the guild.\nThe nonconforming guild member can not earn Guild Credits. They will get zero credits from Guild Quests.\nAll guild members are unable to access the Spend Credits option.\nNo new Guild Quests can be started.\nNo new invites can be sent out.\n“\nBy the way: the \"animal form\" requirement actually uses the same check that NPCs in Animal Town use, meaning that you need to \"smell\" like an animal. If you change out of animal form and back again, it will take 3 hours before you stop \"smelling like a person\" and register as an animal again.\n—\nGame updates/2016-05-23\nGuild Levels\nGuilds\ncan be leveled up through the completion of\nGuild Quests\n. Increasing the level of a guild raises the maximum number of guild members and unlocks the ability to purchase more slots in Guild Storage Vaults.\nLevel 0 through 5: 150 people\nLevel 6: 175 people\nLevel 7: 200 people\nLevel 8: 225 people\nLevel 9: 250 people\nLevel 10: 275 people\nLevel 11: 300 people\nLevel 12: 325 people\nLevel 13+: 350 people\nGuild Quests\nVisit the page\nGuild Quests\nfor more information.\nGuild Storage\nAfter a guild is created, all members gain access to six different Guild Storage Vaults across the world.\nSerbule\nand\nRahu\neach have two,\nAnimal Town\nand\nKur Mountains\nhave one each. The initial six Guild Storage Vaults start with 8 slots each, but additional slots can be purchased beginning at Guild Level 1. The number of new slots available for purchase depends on both the Guild Storage Vault location and the Guild Level.\nOther Guild Storage Vaults can be unlocked in the\nRed Wing Casino\n(2) and inside a\nGuild Hall\n(2).\nBuying Guild Storage Vault slots\nWhile each Guild Storage Vault starts with a low number of slots, additional slots can be purchased with prices based on the slot number and the vault location.\nBuy slot #9 in Serbule Vault #1 : 100 Councils\nBuy slot #9 in Serbule Vault #2 : 150 Councils\nBuy slot #? in Casino Vault #1: ??? Councils\nBuy slot #? in Casino Vault #2: ??? Councils\nBuy slot #9 in Animal Town Vault  : 125 Councils\nBuy slot #9 in Kur Mountains Vault : 150 Councils\nBuy slot #9 in Rahu Vault #1 : 150 Councils\nBuy slot #9 in Rahu Vault #2 : 200 Councils\nBuy slot #11 in Guild Hall Vault #1: 1500 Councils\nBuy slot #11 in Guild Hall Vault #2: 1500 Councils\nThe difference in costs between locations (and Vault #1 vs #2) should be considered with Guilds looking to expand their storage. An example of this difference is that Slot #38 in Casino Vault #1 costs 12,000 Councils, while slot #30 in Rahu Vault #2 costs 13,200 Councils.\nGuild Storage Vault controls\nMembers of a guild with proper permissions and a high rank can control the access of Guild Storage Vaults for lower ranked members.\nItems added and removed from a storage vault leave behind a record in a log viewable by members of a guild with permission to read them.\nGuild Halls\nVisit the page\nGuild Halls\nfor more information.\nGuild Audit Logs\nHigh-ranking members of a guild can view Audit Logs which shows changes to a guild. Ranks 9 and 10 have permission to view the Audit Logs by default.\nThe Audit Log for the current week can be accessed with the command\n/guild auditlogs\n. The log for the previous week can be seen by typing\n/guild auditlogs old\nand\n/guild auditlogs -2\nfor the week prior to the previous week. A new week begins each Monday (server time).\nAudit Logs can be saved to a text file using the \"Save a File\" button.\nContents of a log include:\nWho Joined (and who invited them).\nWho Quit.\nWho was Ejected (and by who).\nMessage of the Day changes (and who changed it).\nGuild settings changes (and who changed them).\nVault Logs\nAdditional logs can be viewed for each Guild Storage Vault...\nTrivia\nGuild created before May 23, 2016 (the day Guild Levels were changed to impact the membership cap) can have 250 players between Level 0 and Level 9.\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Guilds&oldid=203603\n\"\nCategory\n:\nMechanics",
+  "tables": [
+    [
+      [
+        "",
+        "A list of Player Guilds, and information on setting up Player Guild pages on the wiki, can be found at:Player Guilds"
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "1The Guild Roster1.1Guild Creation1.2Guild Management1.2.1Guild Status1.2.2Edit Ranks1.2.3Guild Permissions1.2.4Misc Configuration1.3Membership Requirements1.3.1Requirement Penalties",
+      "2Guild Levels",
+      "3Guild Quests",
+      "4Guild Storage4.1Buying Guild Storage Vault slots4.2Guild Storage Vault controls",
+      "5Guild Halls",
+      "6Guild Audit Logs6.1Vault Logs",
+      "7Trivia"
+    ],
+    [
+      "1.1Guild Creation",
+      "1.2Guild Management1.2.1Guild Status1.2.2Edit Ranks1.2.3Guild Permissions1.2.4Misc Configuration",
+      "1.3Membership Requirements1.3.1Requirement Penalties"
+    ],
+    [
+      "1.2.1Guild Status",
+      "1.2.2Edit Ranks",
+      "1.2.3Guild Permissions",
+      "1.2.4Misc Configuration"
+    ],
+    [
+      "1.3.1Requirement Penalties"
+    ],
+    [
+      "4.1Buying Guild Storage Vault slots",
+      "4.2Guild Storage Vault controls"
+    ],
+    [
+      "6.1Vault Logs"
+    ],
+    [
+      "Guild Status - Provides basic information on the Guild.",
+      "Guild Roster - Shows the online status and rank of all players in the Guild.",
+      "Edit Ranks - This option allows players with permission to edit the ranks of the guild.",
+      "MoTD - Allows editing of a Message of The Day which is shown to guild members when they log in.",
+      "Misc Configuration - Options which do not fit other categories.",
+      "Spend Credits - A shop for spending guild credits. Shop contents and how Guilds earn credits can be found on theGuild Questspage.",
+      "Promote Member - Allows a player to promote any member of a lower rank to any rank below their own (if ranking permissions are granted). A character ranked as Guildmaster can promote others to Guildmaster though.",
+      "Demote Member - Allows a player to demote any member of a lower rank to any other lower rank (if ranking permissions are granted). A Guildmaster can demote other Guildmasters.",
+      "Eject Member - Allows a player to remove any lower ranked guild member from the guild (if ranking permissions are granted).",
+      "Quit Guild - The option to quit a guild. Guild Credits are reset to zero when this option is used."
+    ],
+    [
+      "Invite New Members - Members with this permission can invite anyone to join the guild.",
+      "Promote Members - Members with this permission can increase the rank of other guild members -- but never to a rank higher than they are themselves (unless they are the Guildmaster).",
+      "Demote Members - Members with this permission can decrease the rank of other guild members, but they can't change the rank of people higher-ranked than themselves.",
+      "Kick Members From Guild - Members with this permission can kick people out of the guild. Only people lower-ranked than they are can be kicked out.",
+      "Set Message of The Day - Members with this permission can set the Message of The Day for the guild.",
+      "Change Guild Configuration - Members with this permission can change the settings of the guild, including giving themselves new permissions! This should only be given to the most trusted members. Rank 10 always has this permission.",
+      "Display Guild Identity - This permission causes guild members to automatically show their guild names and rank when they are examined by other players. (By default, all ranks have this permission.)",
+      "View Guild Roster - Members with this permission can view a list of all guild members. (By default, all ranks have this permission).",
+      "View Audit Logs - Members with this permission can view the Audit Logs for the guild.",
+      "Buy Additional Vault Slots - Members with this permission can purchase additional Guild Storage Vault slots.",
+      "Set Vault Descriptions - Members with this permission can edit the descriptions on each Guild Storage Vault.",
+      "Access Serbule Vault #1 (permissions exist for each vault) - Members with these permissions can add or remove items from a vault.",
+      "Accept Guild Quests - Members with this permission can acceptGuild Quests.",
+      "Cancel Guild Quests - Members with this permission can cancel a Guild Quest."
+    ],
+    [
+      "Change Requirements for Guild Membership",
+      "Cancel Active Guild Quest - Cancels the active Guild Quest."
+    ],
+    [
+      "Hardcore Death Penalty",
+      "Permanent Animal Form"
+    ],
+    [
+      "The nonconforming guild member can not earn Guild Credits. They will get zero credits from Guild Quests.",
+      "All guild members are unable to access the Spend Credits option.",
+      "No new Guild Quests can be started.",
+      "No new invites can be sent out."
+    ],
+    [
+      "Level 0 through 5: 150 people",
+      "Level 6: 175 people",
+      "Level 7: 200 people",
+      "Level 8: 225 people",
+      "Level 9: 250 people",
+      "Level 10: 275 people",
+      "Level 11: 300 people",
+      "Level 12: 325 people",
+      "Level 13+: 350 people"
+    ],
+    [
+      "Buy slot #9 in Serbule Vault #1 : 100 Councils",
+      "Buy slot #9 in Serbule Vault #2 : 150 Councils",
+      "Buy slot #? in Casino Vault #1: ??? Councils",
+      "Buy slot #? in Casino Vault #2: ??? Councils",
+      "Buy slot #9 in Animal Town Vault  : 125 Councils",
+      "Buy slot #9 in Kur Mountains Vault : 150 Councils",
+      "Buy slot #9 in Rahu Vault #1 : 150 Councils",
+      "Buy slot #9 in Rahu Vault #2 : 200 Councils",
+      "Buy slot #11 in Guild Hall Vault #1: 1500 Councils",
+      "Buy slot #11 in Guild Hall Vault #2: 1500 Councils"
+    ],
+    [
+      "Who Joined (and who invited them).",
+      "Who Quit.",
+      "Who was Ejected (and by who).",
+      "Message of the Day changes (and who changed it).",
+      "Guild settings changes (and who changed them)."
+    ],
+    [
+      "Guild created before May 23, 2016 (the day Guild Levels were changed to impact the membership cap) can have 250 players between Level 0 and Level 9."
+    ],
+    [
+      "Mechanics"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "Player Guilds",
+      "href": "/wiki/Player_Guilds"
+    },
+    {
+      "text": "1The Guild Roster",
+      "href": "#The_Guild_Roster"
+    },
+    {
+      "text": "1.1Guild Creation",
+      "href": "#Guild_Creation"
+    },
+    {
+      "text": "1.2Guild Management",
+      "href": "#Guild_Management"
+    },
+    {
+      "text": "1.2.1Guild Status",
+      "href": "#Guild_Status"
+    },
+    {
+      "text": "1.2.2Edit Ranks",
+      "href": "#Edit_Ranks"
+    },
+    {
+      "text": "1.2.3Guild Permissions",
+      "href": "#Guild_Permissions"
+    },
+    {
+      "text": "1.2.4Misc Configuration",
+      "href": "#Misc_Configuration"
+    },
+    {
+      "text": "1.3Membership Requirements",
+      "href": "#Membership_Requirements"
+    },
+    {
+      "text": "1.3.1Requirement Penalties",
+      "href": "#Requirement_Penalties"
+    },
+    {
+      "text": "2Guild Levels",
+      "href": "#Guild_Levels"
+    },
+    {
+      "text": "3Guild Quests",
+      "href": "#Guild_Quests"
+    },
+    {
+      "text": "4Guild Storage",
+      "href": "#Guild_Storage"
+    },
+    {
+      "text": "4.1Buying Guild Storage Vault slots",
+      "href": "#Buying_Guild_Storage_Vault_slots"
+    },
+    {
+      "text": "4.2Guild Storage Vault controls",
+      "href": "#Guild_Storage_Vault_controls"
+    },
+    {
+      "text": "5Guild Halls",
+      "href": "#Guild_Halls"
+    },
+    {
+      "text": "6Guild Audit Logs",
+      "href": "#Guild_Audit_Logs"
+    },
+    {
+      "text": "6.1Vault Logs",
+      "href": "#Vault_Logs"
+    },
+    {
+      "text": "7Trivia",
+      "href": "#Trivia"
+    },
+    {
+      "text": "Guild Quests",
+      "href": "/wiki/Guild_Quests"
+    },
+    {
+      "text": "Guild Halls",
+      "href": "/wiki/Guild_Hall"
+    },
+    {
+      "text": "Guild Quests",
+      "href": "/wiki/Guild_Quests"
+    },
+    {
+      "text": "Guild Quests",
+      "href": "/wiki/Guild_Quests"
+    },
+    {
+      "text": "Guild Quests",
+      "href": "/wiki/Guild_Quests"
+    },
+    {
+      "text": "Game updates/2016-05-23",
+      "href": "/wiki/Game_updates/2016-05-23"
+    },
+    {
+      "text": "Guild Quests",
+      "href": "/wiki/Guild_Quests"
+    },
+    {
+      "text": "Guild Quests",
+      "href": "/wiki/Guild_Quests"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Animal Town",
+      "href": "/wiki/Animal_Town"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Red Wing Casino",
+      "href": "/wiki/Red_Wing_Casino"
+    },
+    {
+      "text": "Guild Hall",
+      "href": "/wiki/Guild_Hall"
+    },
+    {
+      "text": "Guild Halls",
+      "href": "/wiki/Guild_Hall"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Guilds&oldid=203603",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Guilds&oldid=203603"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Mechanics",
+      "href": "/wiki/Category:Mechanics"
+    }
+  ],
+  "images": [
+    {
+      "src": "/w/images/thumb/b/bc/Wiki.png/60px-Wiki.png",
+      "alt": "Wiki.png"
+    },
+    {
+      "src": "/w/images/thumb/0/08/Guild_Rosters.png/600px-Guild_Rosters.png",
+      "alt": ""
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

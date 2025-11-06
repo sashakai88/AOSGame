@@ -1,0 +1,1312 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Guild_Quests",
+  "title": "Guild Quests - Project: Gorgon Wiki",
+  "main_content": "Guild Quests\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nContents\n1\nGuild Quests\n2\nGuild Quest Mechanics\n3\nGuild Credits\n3.1\nGuild Roster\n4\nGuild Levels and XP\n5\nList of Available Guild Quests\n5.1\nPercy's Gamble - given by Percy Evans\n5.2\nStorming the Nexus - given by Percy Evans\n5.3\nReclaiming Lydia - given by Percy Evans\n5.4\nResupply Animal Town - given by Spot\n5.5\nFox Outpost - given by Red\n5.6\nSecuring the Ilmari Desert - given by Nissim\n5.7\nMenace Beneath the Sand - given by The Sand Seer\n5.8\nSupport the War Effort - given by Ser Lorentz\n5.9\nJoin the War Effort - given by Ser Lorentz\n5.10\nAfraid of the Circus - given by Nelson Ballard\n5.10.1\nComplete Guild Quest List\nGuild Quests\nGuilds can undertake quests -- communal tasks where everybody in the guild can chip in. The guild can only undertake one guild quest at a time, and no more than 3 guild quests per week. An NPC who starts a guild quest will have a Guild Quests option on the left-hand side of the NPC window.  Some NPCs will require you have enough favor before they will give you the quests.  You can cancel the current guild quest from the Guild Roster in\nSerbule\n,\nRahu\n, or the\nCasino\nunder \"Misc Config\"\nGuild Quest Mechanics\nYou need to have the right permissions to accept guild quests on behalf of the guild. You will also need the right permissions to cancel guild quests. Both of these permissions default to guild ranks 9 and 10 but can be changed (assuming you have the right permissions to change permissions, of course).\nSeveral guild quests unlock other guild quests upon completion. They will only unlock the corresponding difficulty level of the next quest. For instance, completing the 25-person version of \"Resupply Animal Town\" unlocks the 25-person version of \"Fox Outpost\", but not the 10-person or 50-person versions of \"Fox Outpost\". So keep that in mind when you are choosing the quest version.\nSome quests ask you to \"give\" items to NPCs. This is done by gifting the item to them.\nGuild Credits\nCompleting guild quests also earns each member who logged in during the quest some Guild Credits. Guild Credits are a\npseudo-currency\nthat can be exchanged for items and new recipes at the Guild Roster in Serbule, Rahu, or the Casino. \nGuild Credits are tied to the guild, so if you leave your guild you lose any unspent credits.\n-\tThe 10-person version rewards 10 Guild Credits\n-\tThe 25-person version rewards 15 Guild Credits\n-\tThe 50-person version rewards 20 Guild Credits\nGuild Roster\nItem\nPrice (in Guild Credits)\nEnhanced Pineal Juice\n3\nAuk Gur-Horta\n3\nAugmented Bounceweed\n4\nPerfect Sharpen\n4\nHealing Potion Omega\n3\nArmor Potion Omega\n2\nPower Potion Omega\n4\nEternal Greens\n32\nGigantic Coin Sack\n2\nMemory Enhancer\n20\nPotent Stoneskin Potion\n10\nGardenmaster Potion\n7\nEdam Cheese\n11\nAmazing First Aid Kit\n3\nAmazing First Aid Bomb\n3\nAmazing Volatile Ink\n3\nAmazing Holistic Ink\n3\nAmazing Caustic Ink\n3\nTeleportation: Return to Guild Hall\n100\nFirst Aid: Resuscitate 2 (Guild)\n100\nFirst Aid: Resuscitate 2 (Hardcore, Guild)\n100\nFirst Aid: Resuscitate 2 (Animal, Guild)\n100\nPig's Disguise Kit\n30\nCow's Disguise Kit\n30\nDeer's Disguise Kit\n30\nFire Magic: Purple Fire Walls\n50\nGlamour Gourd\n30\nPortal Summoning Device - Goblin Dungeon\n50\nPortal Summoning Device - Kur Tower\n50\nPortal Summoning Device - Ilmari Labyrinth\n50\nPortal Summoning Device - Gazluk Keep\n50\nPortal Summoning Device - The Wintertide\n50\nPortal Summoning Device - Fungal Fortress\n50\nPortal Summoning Device - Nightmare Caves\n50\nGuild Hall Storage Chest #1\n50\nGuild Hall Storage Chest #2\n50\nGuild Storage Configurator\n25\nWall Torch\n3\nMemo Book\n8\nGuild Levels and XP\nCompleting guild quests earns Guild XP which will raise your guild's level. Guild Level will determine things like the maximum number of people in the guild, the maximum storage slots you can have, where your guild can set its home-point, and other things. Alternate guild hall locations are not currently implemented in game.\n-\tThe 10-person version gives 100 guild XP.\n-\tThe 25-person version gives 200 guild XP.\n-\tThe 50-person version gives 300 guild XP.\nList of Available Guild Quests\nPercy's Gamble - given by\nPercy Evans\nObjective\n10-person\n25-person\n50-person\nPick-Me-Up Juice\n120\n300\n600\nPerfect Memory Inhibitor\n25\n50\nKill Fae-Afflicted Animals\n100\nCompleting a version of\nPercy's Gamble\nunlocks the corresponding version of\nStorming the Nexus\n.\nStorming the Nexus - given by\nPercy Evans\nObjective\n10-person\n25-person\n50-person\nKill Winter Trolls in Winter Nexus\n60\n150\n200\nKill Ogres in Winter Nexus\n60\n150\n200\nKill Winter Worgs in Winter Nexus\n150\n200\nKill Winter Court Fae\n200\nKill the Despair Puck\n1\n1\n1\nGive the Soul to Percy\n1\n1\n1\nEach version of\nStorming the Nexus\nmust be unlocked by completing corresponding version of\nPercy's Gamble\n.\nCompleting a version of\nStorming the Nexus\nunlocks the corresponding version of\nReclaiming Lydia\n.\nReclaiming Lydia - given by\nPercy Evans\nObjective\n10-person\n25-person\n50-person\nLord Eltibule's Signet Ring\n1\n1\n1\nDragon Scales\n10\n25\n50\nPrisms\n20\n50\n100\nAntlers\n25\n50\nPowdered Mammals\n25\n50\nArm Bones\n25\nEach version of\nReclaiming Lydia\nmust be unlocked by completing the corresponding version of\nStorming the Nexus\n.\nResupply Animal Town - given by\nSpot\nObjective\n10-person\n25-person\n50-person\nGrass\n60\n150\n300\nRed Apples\n60\n150\n300\nCabbages\n60\n150\n300\nGrapefish\n25\n50\nBird Eggs\n50\n100\nRib Bones\n50\nLarge Strawberries\n50\nCompleting a version of\nResupply Animal Town\nunlocks the corresponding version of\nFox Outpost\n.\nFox Outpost - given by\nRed\nObjective\n10-person\n25-person\n50-person\nGrapes\n60\n150\n300\nPerch\n60\n150\n300\nKill Insane Werewolves in the Forest\n40\n150\n300\nKill Werewolves in Wolf Cave\n125\n250\nWolfsbane Bouquets\n100\nSilver\n25\n100\nKill Bleddyn the Werewolf\n1\n1\n1\nKill Timothy Elermion\n1\n1\nKill The Scion of Norala\n1\nEach version of\nFox Outpost\nmust be unlocked by completing the corresponding version of\nResupply Animal Town\n.\nSecuring the Ilmari Desert - given by\nNissim\nObjective\n10-person\n25-person\n50-person\nKill Rakshasa in the Desert\n100\n250\n500\nKill Drakeworms\n40\n100\n200\nKill Grimalkin\n100\n200\nKill Manticores\n50\nKill Sandhunter Scorpions\n50\nKill Hissy\n1\n1\nCompleting a version of\nSecuring the Ilmari Desert\nunlocks the corresponding version of\nMenace Beneath the Sand\n.\nMenace Beneath the Sand - given by\nThe Sand Seer\nObjective\n10-person\n25-person\n50-person\nKill Minotaurs Beneath the Sands\n60\n150\n300\nKill Giant Beetles Beneath the Sands\n50\n125\n250\nKill Flapskulls Beneath the Sands\n125\n250\nGive Minotaur Hammers to The Sand Seer\n25\n50\nGive Pemphredo Eyes to The Sand Seer\n100\nKill Asterion the Minotaur\n1\nEach version of\nMenace Beneath the Sand\nmust be unlocked by completing the corresponding version of\nSecuring the Ilmari Desert\n.\nSupport the War Effort - given by\nSer Lorentz\nObjective\n10-person\n25-person\n50-person\nSwords\n30\n75\n150\nShields\n30\n75\n150\nDecent Chainmail Coats\n30\n75\n150\nGreat Venison Jerky\n125\n250\nHealing Potion Omega\n50\n100\nSword Tuneup Kit\n100\nHellfreeze\n10\nEach version of\nSupport the War Effort\nmust be unlocked by completing the corresponding version of\nMenace Beneath the Sand\n.\nJoin the War Effort - given by\nSer Lorentz\nObjective\n10-person\n25-person\n50-person\nKill Demon Swarmers\n250\n625\n1250\nKill Demon Soldiers\n100\n250\n500\nKill Demon Scouts\n100\n250\n500\nKill Demonic Animals\n50\n125\n250\nKill Lesser Behemoths\n125\nKill Behemoths\n50\n100\nKill Demon Overseers and Justiciars\n50\nDemon Wisps\n250\nDemon Essences\n100\nDemonic Ores\n100\nEach version of\nJoin the War Effort\nmust be unlocked by completing the corresponding version of\nSupport the War Effort\n.\nAfraid of the Circus - given by\nNelson Ballard\nObjective\n10-person\n25-person\n50-person\nDecent Chairs\n20\n50\n100\nCanvas\n50\n125\n250\nCrab Rolls\n20\n50\n100\nCottage Pies\n10\n25\n100\nCheesy Veggie Delights\n25\n50\nLemonade\n25\n100\nSpoons\n50\nPaintings\n50\nComplete Guild Quest List\nGuild:Afraid of The Circus (10-person)\nGuild:Afraid of The Circus (25-person)\nGuild:Afraid of The Circus (50-person)\nGuild:Fox Outpost (10-person)\nGuild:Fox Outpost (25-person)\nGuild:Fox Outpost (50-person)\nGuild:Menace Beneath the Sand (10-person)\nGuild:Menace Beneath the Sand (25-person)\nGuild:Menace Beneath the Sand (50-person)\nGuild:Percy's Gamble (10-person)\nGuild:Percy's Gamble (25-person)\nGuild:Percy's Gamble (50-person)\nGuild:Reclaiming Lydia (10-person)\nGuild:Reclaiming Lydia (25-person)\nGuild:Reclaiming Lydia (50-person)\nGuild:Resupply Animal Town (10-person)\nGuild:Resupply Animal Town (25-person)\nGuild:Resupply Animal Town (50-person)\nGuild:Securing the Ilmari Desert (10-person)\nGuild:Securing the Ilmari Desert (25-person)\nGuild:Securing the Ilmari Desert (50-person)\nGuild:Storming the Nexus (10-person)\nGuild:Storming the Nexus (25-person)\nGuild:Storming the Nexus (50-person)\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Guild_Quests&oldid=203485\n\"\nCategory\n:\nMechanics",
+  "tables": [
+    [
+      [
+        "Item",
+        "Price (in Guild Credits)"
+      ],
+      [
+        "Enhanced Pineal Juice",
+        "3"
+      ],
+      [
+        "Auk Gur-Horta",
+        "3"
+      ],
+      [
+        "Augmented Bounceweed",
+        "4"
+      ],
+      [
+        "Perfect Sharpen",
+        "4"
+      ],
+      [
+        "Healing Potion Omega",
+        "3"
+      ],
+      [
+        "Armor Potion Omega",
+        "2"
+      ],
+      [
+        "Power Potion Omega",
+        "4"
+      ],
+      [
+        "Eternal Greens",
+        "32"
+      ],
+      [
+        "Gigantic Coin Sack",
+        "2"
+      ],
+      [
+        "Memory Enhancer",
+        "20"
+      ],
+      [
+        "Potent Stoneskin Potion",
+        "10"
+      ],
+      [
+        "Gardenmaster Potion",
+        "7"
+      ],
+      [
+        "Edam Cheese",
+        "11"
+      ],
+      [
+        "Amazing First Aid Kit",
+        "3"
+      ],
+      [
+        "Amazing First Aid Bomb",
+        "3"
+      ],
+      [
+        "Amazing Volatile Ink",
+        "3"
+      ],
+      [
+        "Amazing Holistic Ink",
+        "3"
+      ],
+      [
+        "Amazing Caustic Ink",
+        "3"
+      ],
+      [
+        "Teleportation: Return to Guild Hall",
+        "100"
+      ],
+      [
+        "First Aid: Resuscitate 2 (Guild)",
+        "100"
+      ],
+      [
+        "First Aid: Resuscitate 2 (Hardcore, Guild)",
+        "100"
+      ],
+      [
+        "First Aid: Resuscitate 2 (Animal, Guild)",
+        "100"
+      ],
+      [
+        "Pig's Disguise Kit",
+        "30"
+      ],
+      [
+        "Cow's Disguise Kit",
+        "30"
+      ],
+      [
+        "Deer's Disguise Kit",
+        "30"
+      ],
+      [
+        "Fire Magic: Purple Fire Walls",
+        "50"
+      ],
+      [
+        "Glamour Gourd",
+        "30"
+      ],
+      [
+        "Portal Summoning Device - Goblin Dungeon",
+        "50"
+      ],
+      [
+        "Portal Summoning Device - Kur Tower",
+        "50"
+      ],
+      [
+        "Portal Summoning Device - Ilmari Labyrinth",
+        "50"
+      ],
+      [
+        "Portal Summoning Device - Gazluk Keep",
+        "50"
+      ],
+      [
+        "Portal Summoning Device - The Wintertide",
+        "50"
+      ],
+      [
+        "Portal Summoning Device - Fungal Fortress",
+        "50"
+      ],
+      [
+        "Portal Summoning Device - Nightmare Caves",
+        "50"
+      ],
+      [
+        "Guild Hall Storage Chest #1",
+        "50"
+      ],
+      [
+        "Guild Hall Storage Chest #2",
+        "50"
+      ],
+      [
+        "Guild Storage Configurator",
+        "25"
+      ],
+      [
+        "Wall Torch",
+        "3"
+      ],
+      [
+        "Memo Book",
+        "8"
+      ]
+    ],
+    [
+      [
+        "Objective",
+        "10-person",
+        "25-person",
+        "50-person"
+      ],
+      [
+        "Pick-Me-Up Juice",
+        "120",
+        "300",
+        "600"
+      ],
+      [
+        "Perfect Memory Inhibitor",
+        "",
+        "25",
+        "50"
+      ],
+      [
+        "Kill Fae-Afflicted Animals",
+        "",
+        "",
+        "100"
+      ]
+    ],
+    [
+      [
+        "Objective",
+        "10-person",
+        "25-person",
+        "50-person"
+      ],
+      [
+        "Kill Winter Trolls in Winter Nexus",
+        "60",
+        "150",
+        "200"
+      ],
+      [
+        "Kill Ogres in Winter Nexus",
+        "60",
+        "150",
+        "200"
+      ],
+      [
+        "Kill Winter Worgs in Winter Nexus",
+        "",
+        "150",
+        "200"
+      ],
+      [
+        "Kill Winter Court Fae",
+        "",
+        "",
+        "200"
+      ],
+      [
+        "Kill the Despair Puck",
+        "1",
+        "1",
+        "1"
+      ],
+      [
+        "Give the Soul to Percy",
+        "1",
+        "1",
+        "1"
+      ]
+    ],
+    [
+      [
+        "Objective",
+        "10-person",
+        "25-person",
+        "50-person"
+      ],
+      [
+        "Lord Eltibule's Signet Ring",
+        "1",
+        "1",
+        "1"
+      ],
+      [
+        "Dragon Scales",
+        "10",
+        "25",
+        "50"
+      ],
+      [
+        "Prisms",
+        "20",
+        "50",
+        "100"
+      ],
+      [
+        "Antlers",
+        "",
+        "25",
+        "50"
+      ],
+      [
+        "Powdered Mammals",
+        "",
+        "25",
+        "50"
+      ],
+      [
+        "Arm Bones",
+        "",
+        "",
+        "25"
+      ]
+    ],
+    [
+      [
+        "Objective",
+        "10-person",
+        "25-person",
+        "50-person"
+      ],
+      [
+        "Grass",
+        "60",
+        "150",
+        "300"
+      ],
+      [
+        "Red Apples",
+        "60",
+        "150",
+        "300"
+      ],
+      [
+        "Cabbages",
+        "60",
+        "150",
+        "300"
+      ],
+      [
+        "Grapefish",
+        "",
+        "25",
+        "50"
+      ],
+      [
+        "Bird Eggs",
+        "",
+        "50",
+        "100"
+      ],
+      [
+        "Rib Bones",
+        "",
+        "",
+        "50"
+      ],
+      [
+        "Large Strawberries",
+        "",
+        "",
+        "50"
+      ]
+    ],
+    [
+      [
+        "Objective",
+        "10-person",
+        "25-person",
+        "50-person"
+      ],
+      [
+        "Grapes",
+        "60",
+        "150",
+        "300"
+      ],
+      [
+        "Perch",
+        "60",
+        "150",
+        "300"
+      ],
+      [
+        "Kill Insane Werewolves in the Forest",
+        "40",
+        "150",
+        "300"
+      ],
+      [
+        "Kill Werewolves in Wolf Cave",
+        "",
+        "125",
+        "250"
+      ],
+      [
+        "Wolfsbane Bouquets",
+        "",
+        "",
+        "100"
+      ],
+      [
+        "Silver",
+        "",
+        "25",
+        "100"
+      ],
+      [
+        "Kill Bleddyn the Werewolf",
+        "1",
+        "1",
+        "1"
+      ],
+      [
+        "Kill Timothy Elermion",
+        "",
+        "1",
+        "1"
+      ],
+      [
+        "Kill The Scion of Norala",
+        "",
+        "",
+        "1"
+      ]
+    ],
+    [
+      [
+        "Objective",
+        "10-person",
+        "25-person",
+        "50-person"
+      ],
+      [
+        "Kill Rakshasa in the Desert",
+        "100",
+        "250",
+        "500"
+      ],
+      [
+        "Kill Drakeworms",
+        "40",
+        "100",
+        "200"
+      ],
+      [
+        "Kill Grimalkin",
+        "",
+        "100",
+        "200"
+      ],
+      [
+        "Kill Manticores",
+        "",
+        "",
+        "50"
+      ],
+      [
+        "Kill Sandhunter Scorpions",
+        "",
+        "",
+        "50"
+      ],
+      [
+        "Kill Hissy",
+        "",
+        "1",
+        "1"
+      ]
+    ],
+    [
+      [
+        "Objective",
+        "10-person",
+        "25-person",
+        "50-person"
+      ],
+      [
+        "Kill Minotaurs Beneath the Sands",
+        "60",
+        "150",
+        "300"
+      ],
+      [
+        "Kill Giant Beetles Beneath the Sands",
+        "50",
+        "125",
+        "250"
+      ],
+      [
+        "Kill Flapskulls Beneath the Sands",
+        "",
+        "125",
+        "250"
+      ],
+      [
+        "Give Minotaur Hammers to The Sand Seer",
+        "",
+        "25",
+        "50"
+      ],
+      [
+        "Give Pemphredo Eyes to The Sand Seer",
+        "",
+        "",
+        "100"
+      ],
+      [
+        "Kill Asterion the Minotaur",
+        "",
+        "",
+        "1"
+      ]
+    ],
+    [
+      [
+        "Objective",
+        "10-person",
+        "25-person",
+        "50-person"
+      ],
+      [
+        "Swords",
+        "30",
+        "75",
+        "150"
+      ],
+      [
+        "Shields",
+        "30",
+        "75",
+        "150"
+      ],
+      [
+        "Decent Chainmail Coats",
+        "30",
+        "75",
+        "150"
+      ],
+      [
+        "Great Venison Jerky",
+        "",
+        "125",
+        "250"
+      ],
+      [
+        "Healing Potion Omega",
+        "",
+        "50",
+        "100"
+      ],
+      [
+        "Sword Tuneup Kit",
+        "",
+        "",
+        "100"
+      ],
+      [
+        "Hellfreeze",
+        "",
+        "",
+        "10"
+      ]
+    ],
+    [
+      [
+        "Objective",
+        "10-person",
+        "25-person",
+        "50-person"
+      ],
+      [
+        "Kill Demon Swarmers",
+        "250",
+        "625",
+        "1250"
+      ],
+      [
+        "Kill Demon Soldiers",
+        "100",
+        "250",
+        "500"
+      ],
+      [
+        "Kill Demon Scouts",
+        "100",
+        "250",
+        "500"
+      ],
+      [
+        "Kill Demonic Animals",
+        "50",
+        "125",
+        "250"
+      ],
+      [
+        "Kill Lesser Behemoths",
+        "",
+        "125",
+        ""
+      ],
+      [
+        "Kill Behemoths",
+        "",
+        "50",
+        "100"
+      ],
+      [
+        "Kill Demon Overseers and Justiciars",
+        "",
+        "",
+        "50"
+      ],
+      [
+        "Demon Wisps",
+        "",
+        "250",
+        ""
+      ],
+      [
+        "Demon Essences",
+        "",
+        "",
+        "100"
+      ],
+      [
+        "Demonic Ores",
+        "",
+        "",
+        "100"
+      ]
+    ],
+    [
+      [
+        "Objective",
+        "10-person",
+        "25-person",
+        "50-person"
+      ],
+      [
+        "Decent Chairs",
+        "20",
+        "50",
+        "100"
+      ],
+      [
+        "Canvas",
+        "50",
+        "125",
+        "250"
+      ],
+      [
+        "Crab Rolls",
+        "20",
+        "50",
+        "100"
+      ],
+      [
+        "Cottage Pies",
+        "10",
+        "25",
+        "100"
+      ],
+      [
+        "Cheesy Veggie Delights",
+        "",
+        "25",
+        "50"
+      ],
+      [
+        "Lemonade",
+        "",
+        "25",
+        "100"
+      ],
+      [
+        "Spoons",
+        "",
+        "",
+        "50"
+      ],
+      [
+        "Paintings",
+        "",
+        "",
+        "50"
+      ]
+    ],
+    [
+      [
+        "Guild:Afraid of The Circus (10-person)Guild:Afraid of The Circus (25-person)Guild:Afraid of The Circus (50-person)Guild:Fox Outpost (10-person)Guild:Fox Outpost (25-person)Guild:Fox Outpost (50-person)Guild:Menace Beneath the Sand (10-person)Guild:Menace Beneath the Sand (25-person)",
+        "Guild:Menace Beneath the Sand (50-person)Guild:Percy's Gamble (10-person)Guild:Percy's Gamble (25-person)Guild:Percy's Gamble (50-person)Guild:Reclaiming Lydia (10-person)Guild:Reclaiming Lydia (25-person)Guild:Reclaiming Lydia (50-person)Guild:Resupply Animal Town (10-person)",
+        "Guild:Resupply Animal Town (25-person)Guild:Resupply Animal Town (50-person)Guild:Securing the Ilmari Desert (10-person)Guild:Securing the Ilmari Desert (25-person)Guild:Securing the Ilmari Desert (50-person)Guild:Storming the Nexus (10-person)Guild:Storming the Nexus (25-person)Guild:Storming the Nexus (50-person)",
+        ""
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "1Guild Quests",
+      "2Guild Quest Mechanics",
+      "3Guild Credits3.1Guild Roster",
+      "4Guild Levels and XP",
+      "5List of Available Guild Quests5.1Percy's Gamble - given by Percy Evans5.2Storming the Nexus - given by Percy Evans5.3Reclaiming Lydia - given by Percy Evans5.4Resupply Animal Town - given by Spot5.5Fox Outpost - given by Red5.6Securing the Ilmari Desert - given by Nissim5.7Menace Beneath the Sand - given by The Sand Seer5.8Support the War Effort - given by Ser Lorentz5.9Join the War Effort - given by Ser Lorentz5.10Afraid of the Circus - given by Nelson Ballard5.10.1Complete Guild Quest List"
+    ],
+    [
+      "3.1Guild Roster"
+    ],
+    [
+      "5.1Percy's Gamble - given by Percy Evans",
+      "5.2Storming the Nexus - given by Percy Evans",
+      "5.3Reclaiming Lydia - given by Percy Evans",
+      "5.4Resupply Animal Town - given by Spot",
+      "5.5Fox Outpost - given by Red",
+      "5.6Securing the Ilmari Desert - given by Nissim",
+      "5.7Menace Beneath the Sand - given by The Sand Seer",
+      "5.8Support the War Effort - given by Ser Lorentz",
+      "5.9Join the War Effort - given by Ser Lorentz",
+      "5.10Afraid of the Circus - given by Nelson Ballard5.10.1Complete Guild Quest List"
+    ],
+    [
+      "5.10.1Complete Guild Quest List"
+    ],
+    [
+      "Completing a version ofPercy's Gambleunlocks the corresponding version ofStorming the Nexus."
+    ],
+    [
+      "Each version ofStorming the Nexusmust be unlocked by completing corresponding version ofPercy's Gamble.",
+      "Completing a version ofStorming the Nexusunlocks the corresponding version ofReclaiming Lydia."
+    ],
+    [
+      "Each version ofReclaiming Lydiamust be unlocked by completing the corresponding version ofStorming the Nexus."
+    ],
+    [
+      "Completing a version ofResupply Animal Townunlocks the corresponding version ofFox Outpost."
+    ],
+    [
+      "Each version ofFox Outpostmust be unlocked by completing the corresponding version ofResupply Animal Town."
+    ],
+    [
+      "Completing a version ofSecuring the Ilmari Desertunlocks the corresponding version ofMenace Beneath the Sand."
+    ],
+    [
+      "Each version ofMenace Beneath the Sandmust be unlocked by completing the corresponding version ofSecuring the Ilmari Desert."
+    ],
+    [
+      "Each version ofSupport the War Effortmust be unlocked by completing the corresponding version ofMenace Beneath the Sand."
+    ],
+    [
+      "Each version ofJoin the War Effortmust be unlocked by completing the corresponding version ofSupport the War Effort."
+    ],
+    [
+      "Guild:Afraid of The Circus (10-person)",
+      "Guild:Afraid of The Circus (25-person)",
+      "Guild:Afraid of The Circus (50-person)",
+      "Guild:Fox Outpost (10-person)",
+      "Guild:Fox Outpost (25-person)",
+      "Guild:Fox Outpost (50-person)",
+      "Guild:Menace Beneath the Sand (10-person)",
+      "Guild:Menace Beneath the Sand (25-person)"
+    ],
+    [
+      "Guild:Menace Beneath the Sand (50-person)",
+      "Guild:Percy's Gamble (10-person)",
+      "Guild:Percy's Gamble (25-person)",
+      "Guild:Percy's Gamble (50-person)",
+      "Guild:Reclaiming Lydia (10-person)",
+      "Guild:Reclaiming Lydia (25-person)",
+      "Guild:Reclaiming Lydia (50-person)",
+      "Guild:Resupply Animal Town (10-person)"
+    ],
+    [
+      "Guild:Resupply Animal Town (25-person)",
+      "Guild:Resupply Animal Town (50-person)",
+      "Guild:Securing the Ilmari Desert (10-person)",
+      "Guild:Securing the Ilmari Desert (25-person)",
+      "Guild:Securing the Ilmari Desert (50-person)",
+      "Guild:Storming the Nexus (10-person)",
+      "Guild:Storming the Nexus (25-person)",
+      "Guild:Storming the Nexus (50-person)"
+    ],
+    [
+      "Mechanics"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "1Guild Quests",
+      "href": "#Guild_Quests"
+    },
+    {
+      "text": "2Guild Quest Mechanics",
+      "href": "#Guild_Quest_Mechanics"
+    },
+    {
+      "text": "3Guild Credits",
+      "href": "#Guild_Credits"
+    },
+    {
+      "text": "3.1Guild Roster",
+      "href": "#Guild_Roster"
+    },
+    {
+      "text": "4Guild Levels and XP",
+      "href": "#Guild_Levels_and_XP"
+    },
+    {
+      "text": "5List of Available Guild Quests",
+      "href": "#List_of_Available_Guild_Quests"
+    },
+    {
+      "text": "5.1Percy's Gamble - given by Percy Evans",
+      "href": "#Percy.27s_Gamble_-_given_by_Percy_Evans"
+    },
+    {
+      "text": "5.2Storming the Nexus - given by Percy Evans",
+      "href": "#Storming_the_Nexus_-_given_by_Percy_Evans"
+    },
+    {
+      "text": "5.3Reclaiming Lydia - given by Percy Evans",
+      "href": "#Reclaiming_Lydia_-_given_by_Percy_Evans"
+    },
+    {
+      "text": "5.4Resupply Animal Town - given by Spot",
+      "href": "#Resupply_Animal_Town_-_given_by_Spot"
+    },
+    {
+      "text": "5.5Fox Outpost - given by Red",
+      "href": "#Fox_Outpost_-_given_by_Red"
+    },
+    {
+      "text": "5.6Securing the Ilmari Desert - given by Nissim",
+      "href": "#Securing_the_Ilmari_Desert_-_given_by_Nissim"
+    },
+    {
+      "text": "5.7Menace Beneath the Sand - given by The Sand Seer",
+      "href": "#Menace_Beneath_the_Sand_-_given_by_The_Sand_Seer"
+    },
+    {
+      "text": "5.8Support the War Effort - given by Ser Lorentz",
+      "href": "#Support_the_War_Effort_-_given_by_Ser_Lorentz"
+    },
+    {
+      "text": "5.9Join the War Effort - given by Ser Lorentz",
+      "href": "#Join_the_War_Effort_-_given_by_Ser_Lorentz"
+    },
+    {
+      "text": "5.10Afraid of the Circus - given by Nelson Ballard",
+      "href": "#Afraid_of_the_Circus_-_given_by_Nelson_Ballard"
+    },
+    {
+      "text": "5.10.1Complete Guild Quest List",
+      "href": "#Complete_Guild_Quest_List"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Casino",
+      "href": "/wiki/Casino"
+    },
+    {
+      "text": "pseudo-currency",
+      "href": "/wiki/Currencies"
+    },
+    {
+      "text": "Enhanced Pineal Juice",
+      "href": "/wiki/Enhanced_Pineal_Juice"
+    },
+    {
+      "text": "Auk Gur-Horta",
+      "href": "/wiki/Auk_Gur-Horta"
+    },
+    {
+      "text": "Augmented Bounceweed",
+      "href": "/wiki/Augmented_Bounceweed"
+    },
+    {
+      "text": "Perfect Sharpen",
+      "href": "/wiki/Perfect_Sharpen"
+    },
+    {
+      "text": "Healing Potion Omega",
+      "href": "/wiki/Healing_Potion_Omega"
+    },
+    {
+      "text": "Armor Potion Omega",
+      "href": "/wiki/Armor_Potion_Omega"
+    },
+    {
+      "text": "Power Potion Omega",
+      "href": "/wiki/Power_Potion_Omega"
+    },
+    {
+      "text": "Eternal Greens",
+      "href": "/wiki/Eternal_Greens"
+    },
+    {
+      "text": "Gigantic Coin Sack",
+      "href": "/wiki/Gigantic_Coin_Sack"
+    },
+    {
+      "text": "Memory Enhancer",
+      "href": "/wiki/Memory_Enhancer"
+    },
+    {
+      "text": "Potent Stoneskin Potion",
+      "href": "/wiki/Potent_Stoneskin_Potion"
+    },
+    {
+      "text": "Gardenmaster Potion",
+      "href": "/wiki/Gardenmaster_Potion"
+    },
+    {
+      "text": "Edam Cheese",
+      "href": "/wiki/Edam_Cheese"
+    },
+    {
+      "text": "Amazing First Aid Kit",
+      "href": "/wiki/Amazing_First_Aid_Kit"
+    },
+    {
+      "text": "Amazing First Aid Bomb",
+      "href": "/wiki/Amazing_First_Aid_Bomb"
+    },
+    {
+      "text": "Amazing Volatile Ink",
+      "href": "/wiki/Amazing_Volatile_Ink"
+    },
+    {
+      "text": "Amazing Holistic Ink",
+      "href": "/wiki/Amazing_Holistic_Ink"
+    },
+    {
+      "text": "Amazing Caustic Ink",
+      "href": "/wiki/Amazing_Caustic_Ink"
+    },
+    {
+      "text": "Teleportation: Return to Guild Hall",
+      "href": "/wiki/Teleportation:_Return_to_Guild_Hall"
+    },
+    {
+      "text": "First Aid: Resuscitate 2 (Guild)",
+      "href": "/wiki/First_Aid:_Resuscitate_2_(Guild)"
+    },
+    {
+      "text": "First Aid: Resuscitate 2 (Hardcore, Guild)",
+      "href": "/wiki/First_Aid:_Resuscitate_2_(Hardcore,_Guild)"
+    },
+    {
+      "text": "First Aid: Resuscitate 2 (Animal, Guild)",
+      "href": "/wiki/First_Aid:_Resuscitate_2_(Animal,_Guild)"
+    },
+    {
+      "text": "Pig's Disguise Kit",
+      "href": "/wiki/Pig%27s_Disguise_Kit"
+    },
+    {
+      "text": "Cow's Disguise Kit",
+      "href": "/wiki/Cow%27s_Disguise_Kit"
+    },
+    {
+      "text": "Deer's Disguise Kit",
+      "href": "/wiki/Deer%27s_Disguise_Kit"
+    },
+    {
+      "text": "Fire Magic: Purple Fire Walls",
+      "href": "/wiki/Fire_Magic:_Purple_Fire_Walls"
+    },
+    {
+      "text": "Glamour Gourd",
+      "href": "/wiki/Glamour_Gourd"
+    },
+    {
+      "text": "Portal Summoning Device - Goblin Dungeon",
+      "href": "/wiki/Portal_Summoning_Device_-_Goblin_Dungeon"
+    },
+    {
+      "text": "Portal Summoning Device - Kur Tower",
+      "href": "/wiki/Portal_Summoning_Device_-_Kur_Tower"
+    },
+    {
+      "text": "Portal Summoning Device - Ilmari Labyrinth",
+      "href": "/wiki/Portal_Summoning_Device_-_Ilmari_Labyrinth"
+    },
+    {
+      "text": "Portal Summoning Device - Gazluk Keep",
+      "href": "/wiki/Portal_Summoning_Device_-_Gazluk_Keep"
+    },
+    {
+      "text": "Portal Summoning Device - The Wintertide",
+      "href": "/wiki/Portal_Summoning_Device_-_The_Wintertide"
+    },
+    {
+      "text": "Portal Summoning Device - Fungal Fortress",
+      "href": "/wiki/Portal_Summoning_Device_-_Fungal_Fortress"
+    },
+    {
+      "text": "Portal Summoning Device - Nightmare Caves",
+      "href": "/wiki/Portal_Summoning_Device_-_Nightmare_Caves"
+    },
+    {
+      "text": "Guild Hall Storage Chest #1",
+      "href": "/w/index.php?title=Guild_Hall_Storage_Chest&action=edit&redlink=1"
+    },
+    {
+      "text": "Guild Hall Storage Chest #2",
+      "href": "/w/index.php?title=Guild_Hall_Storage_Chest&action=edit&redlink=1"
+    },
+    {
+      "text": "Guild Storage Configurator",
+      "href": "/w/index.php?title=Guild_Storage_Configurator&action=edit&redlink=1"
+    },
+    {
+      "text": "Wall Torch",
+      "href": "/w/index.php?title=Wall_Torch&action=edit&redlink=1"
+    },
+    {
+      "text": "Memo Book",
+      "href": "/w/index.php?title=Memo_Book&action=edit&redlink=1"
+    },
+    {
+      "text": "Percy Evans",
+      "href": "/wiki/Percy_Evans"
+    },
+    {
+      "text": "Percy Evans",
+      "href": "/wiki/Percy_Evans"
+    },
+    {
+      "text": "Percy Evans",
+      "href": "/wiki/Percy_Evans"
+    },
+    {
+      "text": "Spot",
+      "href": "/wiki/Spot"
+    },
+    {
+      "text": "Red",
+      "href": "/wiki/Red"
+    },
+    {
+      "text": "Nissim",
+      "href": "/wiki/Nissim"
+    },
+    {
+      "text": "The Sand Seer",
+      "href": "/wiki/The_Sand_Seer"
+    },
+    {
+      "text": "Ser Lorentz",
+      "href": "/wiki/Ser_Lorentz"
+    },
+    {
+      "text": "Ser Lorentz",
+      "href": "/wiki/Ser_Lorentz"
+    },
+    {
+      "text": "Nelson Ballard",
+      "href": "/wiki/Nelson_Ballard"
+    },
+    {
+      "text": "Guild:Afraid of The Circus (10-person)",
+      "href": "/wiki/Guild:Afraid_of_The_Circus_(10-person)"
+    },
+    {
+      "text": "Guild:Afraid of The Circus (25-person)",
+      "href": "/wiki/Guild:Afraid_of_The_Circus_(25-person)"
+    },
+    {
+      "text": "Guild:Afraid of The Circus (50-person)",
+      "href": "/wiki/Guild:Afraid_of_The_Circus_(50-person)"
+    },
+    {
+      "text": "Guild:Fox Outpost (10-person)",
+      "href": "/wiki/Guild:Fox_Outpost_(10-person)"
+    },
+    {
+      "text": "Guild:Fox Outpost (25-person)",
+      "href": "/wiki/Guild:Fox_Outpost_(25-person)"
+    },
+    {
+      "text": "Guild:Fox Outpost (50-person)",
+      "href": "/wiki/Guild:Fox_Outpost_(50-person)"
+    },
+    {
+      "text": "Guild:Menace Beneath the Sand (10-person)",
+      "href": "/wiki/Guild:Menace_Beneath_the_Sand_(10-person)"
+    },
+    {
+      "text": "Guild:Menace Beneath the Sand (25-person)",
+      "href": "/wiki/Guild:Menace_Beneath_the_Sand_(25-person)"
+    },
+    {
+      "text": "Guild:Menace Beneath the Sand (50-person)",
+      "href": "/wiki/Guild:Menace_Beneath_the_Sand_(50-person)"
+    },
+    {
+      "text": "Guild:Percy's Gamble (10-person)",
+      "href": "/wiki/Guild:Percy%27s_Gamble_(10-person)"
+    },
+    {
+      "text": "Guild:Percy's Gamble (25-person)",
+      "href": "/wiki/Guild:Percy%27s_Gamble_(25-person)"
+    },
+    {
+      "text": "Guild:Percy's Gamble (50-person)",
+      "href": "/wiki/Guild:Percy%27s_Gamble_(50-person)"
+    },
+    {
+      "text": "Guild:Reclaiming Lydia (10-person)",
+      "href": "/wiki/Guild:Reclaiming_Lydia_(10-person)"
+    },
+    {
+      "text": "Guild:Reclaiming Lydia (25-person)",
+      "href": "/wiki/Guild:Reclaiming_Lydia_(25-person)"
+    },
+    {
+      "text": "Guild:Reclaiming Lydia (50-person)",
+      "href": "/wiki/Guild:Reclaiming_Lydia_(50-person)"
+    },
+    {
+      "text": "Guild:Resupply Animal Town (10-person)",
+      "href": "/wiki/Guild:Resupply_Animal_Town_(10-person)"
+    },
+    {
+      "text": "Guild:Resupply Animal Town (25-person)",
+      "href": "/wiki/Guild:Resupply_Animal_Town_(25-person)"
+    },
+    {
+      "text": "Guild:Resupply Animal Town (50-person)",
+      "href": "/wiki/Guild:Resupply_Animal_Town_(50-person)"
+    },
+    {
+      "text": "Guild:Securing the Ilmari Desert (10-person)",
+      "href": "/wiki/Guild:Securing_the_Ilmari_Desert_(10-person)"
+    },
+    {
+      "text": "Guild:Securing the Ilmari Desert (25-person)",
+      "href": "/wiki/Guild:Securing_the_Ilmari_Desert_(25-person)"
+    },
+    {
+      "text": "Guild:Securing the Ilmari Desert (50-person)",
+      "href": "/wiki/Guild:Securing_the_Ilmari_Desert_(50-person)"
+    },
+    {
+      "text": "Guild:Storming the Nexus (10-person)",
+      "href": "/wiki/Guild:Storming_the_Nexus_(10-person)"
+    },
+    {
+      "text": "Guild:Storming the Nexus (25-person)",
+      "href": "/wiki/Guild:Storming_the_Nexus_(25-person)"
+    },
+    {
+      "text": "Guild:Storming the Nexus (50-person)",
+      "href": "/wiki/Guild:Storming_the_Nexus_(50-person)"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Guild_Quests&oldid=203485",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Guild_Quests&oldid=203485"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Mechanics",
+      "href": "/wiki/Category:Mechanics"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5898.png",
+      "alt": "icon_5898.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5428.png",
+      "alt": "icon_5428.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5548.png",
+      "alt": "icon_5548.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5550.png",
+      "alt": "icon_5550.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5957.png",
+      "alt": "icon_5957.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5965.png",
+      "alt": "icon_5965.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5961.png",
+      "alt": "icon_5961.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5383.png",
+      "alt": "icon_5383.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5475.png",
+      "alt": "icon_5475.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5432.png",
+      "alt": "icon_5432.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5430.png",
+      "alt": "icon_5430.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5435.png",
+      "alt": "icon_5435.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5337.png",
+      "alt": "icon_5337.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5060.png",
+      "alt": "icon_5060.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5549.png",
+      "alt": "icon_5549.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5884.png",
+      "alt": "icon_5884.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5885.png",
+      "alt": "icon_5885.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5886.png",
+      "alt": "icon_5886.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_4003.png",
+      "alt": "icon_4003.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_4003.png",
+      "alt": "icon_4003.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_4003.png",
+      "alt": "icon_4003.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_4003.png",
+      "alt": "icon_4003.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_16013.png",
+      "alt": "icon_16013.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_16013.png",
+      "alt": "icon_16013.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_16013.png",
+      "alt": "icon_16013.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_4003.png",
+      "alt": "icon_4003.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5973.png",
+      "alt": "icon_5973.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6389.png",
+      "alt": "icon_6389.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6389.png",
+      "alt": "icon_6389.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6389.png",
+      "alt": "icon_6389.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6389.png",
+      "alt": "icon_6389.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6389.png",
+      "alt": "icon_6389.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6389.png",
+      "alt": "icon_6389.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6389.png",
+      "alt": "icon_6389.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5116.png",
+      "alt": "icon_5116.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5116.png",
+      "alt": "icon_5116.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_4006.png",
+      "alt": "icon_4006.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6606.png",
+      "alt": "icon_6606.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6607.png",
+      "alt": "icon_6607.png"
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

@@ -1,0 +1,4691 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Favor",
+  "title": "Favor - Project: Gorgon Wiki",
+  "main_content": "Favor\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nFavor\nrepresents your relationship-status with NPCs. Favor is raised by giving specific\ngifts\nto NPC's, according to their likes and dislikes, and completing quests as well as\nhanging out\nwith them. Some NPC's favor requests are much harder than others, this is intended.\nRaising your favor with any given NPC can earn various benefits:\nTheir money pool increases so that you can sell more items before they run out of councils.\nAt the same time, they will pay a larger maximum amount for an item that they are willing to buy.\nVarious services, including:\nTraining in unique abilities and recipes not available elsewhere.\nConsignment\n- a sales service, somewhat similar to auction houses.\nStorage\n- 10 slots of storage.\nSelling prices\nUntil you reach high favor with a merchant NPC, a small exclamation mark icon (!) next to your items informs you that the NPC will not pay full price for this item.\nGenerally you'll want to gain high favor with most NPCs, however it is worth noting that some NPCs will buy a great variety of items, or buy items that sell for a good price (such as weapons and armor). The location nearby to a dungeon or a teleportation circles can also make certain NPC merchants much more useful.\nRelationship levels\nBy reaching 100% favor you'll take the relationship to the next stage. Each tier of relationship has diminishing returns. The different stages of relationship you can achieve with an NPC goes as follows:\nDespised\n⇐\nHated\n⇐\nDisliked\n⇐\nTolerated\n⇐\nNeutral\n(starting)\n⇒\nComfortable\n⇒\nFriends\n⇒\nClose Friends\n⇒\nBest Friends\n⇒\nLike Family\n⇒\nSoul Mates\nTo get from Neutral to Comfortable requires 100 favor.\nTo get from Comfortable to Friends requires 200 favor.\nTo get from Friends to Close Friends requires 300 favor.\nTo get from Close Friends to Best Friends requires 600 favor.\nTo get from Best Friends to Like Family requires 800 favor.\nTo get from Like Family to Soul Mates requires 1000 favor.\nTo get from Despised to Hated requires 1800 favor.\nTo get from Hated to Disliked takes 300 favor.\nTo get from Disliked to Tolerated takes 200 favor.\nTo get from Tolerated to Neutral takes 100 favor.\nTotal Favor\nThe total favor required to obtain each rank is:\nLevel\nFavor required\nDespised\n-600.1 or less\nHated\n-600 to -300.1\nDisliked\n-300 to -100.1\nTolerated\n-100 to -0.1\nNeutral\n0 to 99.9\nComfortable\n100 to 299.9\nFriends\n300 to 599.9\nClose Friends\n600 to 1199.9\nBest Friends\n1200 to 1999.9\nLike Family\n2000 to 2999.9\nSoul Mates\n3000 or greater\nHanging Out\nNPCs in Project: Gorgon are a cool bunch and most of them want to \"hang out\" with you! They will reward you with\nFavor\nas well as miscellaneous rewards in theme with the activity you selected.\nYou don't need to remember to do that every time you log off by the way. You can chose an \"Hang Out\" activity with any NPC as you play, and the last one you selected will be active once you log out. You also don't have to worry about logging back in sooner (whew), the activity will continue next time you log out.\nGifting Mechanics\nThere are two principal ways of gaining favor with an NPC. The secondary method is performing a limited number of\nQuests\n(favors). Once these are exhausted (or sooner if some quests are undesirable or too difficult to complete at some stage of the game), the player is left with the primary method of gaining favor: giving gifts.\nWhen the player engages in Small Talk with an NPC, she learns the NPC's loves, likes, and occasionally dislikes.  (Some of these preferences may remain hidden until a higher favor level is obtained).  Loves and likes correspond to Keyword Categories.  An item in a category the NPC like or loves will have a positive effect on Favor for that NPC, while a dislike or hatred will have the opposite effect.\nFor example,\nVelkort\n\"Likes Exotic Potions\", \"Likes Unusual Animal Trophies\", and \"Hates Food\".  (He also has a hidden like that the player doesn't discover until reaching\n[\nComfortable\n]\n.) In game mechanical terms, this means his favor will go up when presented with an item with the keywords \"Potion\" (\nCategory:Items/Potion\n) or \"CorpseTrophy\" (\nCategory:Items/CorpseTrophy\n) or down if offered a piece of\nCategory:Items/PreparedFood\n.\nThe amount of favor earned with an NPC for an item depends on the Keyword Category and is proportional to the value of the item. For example, Velkort gives around 6-7% of a potion's value in favor and about 4% of a corpse trophy's value.  (Anecdotally, e.g., 33 for a 500 value\nBasic Stoneskin Potion\nand 0.2 for a 5 value\nFeathers\n. The percentages quoted here are based on experimental results and are not exact.)  Perhaps surprisingly, this ratio does not seem to be necessarily higher for Loves than for Likes, even on the same NPC.\nThere are a few exceptions to this rule, as some items have Keywords that alter their value when used for gifting.  For example,\nLead Figurine of a Goblin\nin the category\nCategory:Items/Figurine\nhas the Keyword \"Figurine=50\", while\nBrass Figurine\nhas the Keyword \"Figurine\" (without an equals sign).  The value of the goblin figurine is 10, while the value of the brass figurine is 200.  When gifted, however, the goblin figurine will act as though it had a value of 50, so a single brass figurine will provide as much favor as only four goblin figurines, not twenty.\nFurther information on Keywords can be gathered from items.json and npcs.json in the public data at\nhttp://cdn.projectgorgon.com/\n, or possibly through third-party (generally player-authored) tools.\nFavor from gifting can also be increased by raising the statistic \"Favor Earned From Gifts\", viewable on the General Stats tab of the Persona screen.  Typical ways of increasing this stat are\nCivic Pride\n(offers 5% at the current maximum level of 50),\nNotoriety\n(up to 15% at level 93), and occasional Weekend Event bonuses.\nFavor Guide\nPlease note that some NPCs do not have favor options yet.\nNPC\nSmall Talk\nEdit Links\nAnagoge\nLawara\nLoves\nArt\nLoves\nBones\nHint\nLoves\nBread\nHint\n[\nEdit Small Talk\n]\nSerbule\nAzalak\nLoves Gems\nHint\nLoves Flowers\nHint\nLoves Books\nHint\nLoves Head Gear\nHint\n[\nEdit Small Talk\n]\nCharles_Thompson\nLoves Mushrooms of all Types\nHint\nLoves Combat Beakers and Flasks\nHint\nLoves Rare Alchemy Recipes\n[\nEdit Small Talk\n]\nFlia\nLoves Rare Recipes and Knowledge\nHint\nLoves Items With Interesting History\nHint\nLikes Potions\nHint\nAdditional Information at Higher Favor\nHates Food\n[\nClose Friends\n]\n[\nEdit Small Talk\n]\nIvyn\nLikes Prepared Food\nHint\nLoves Seeds\nLoves Seedlings\nHint\nSeedling\nCouncils\nFavor\nPotato Seedling\n7\n+3.2\nOnion Seedling\n9\n+3.9\nCabbage Leafling\n12\n+5.1\nBeet Seedling\n15\n+6.4\nSquash Seedling\n19\n+8.3\nBroccoli Seedling\n22\n+9.6\nCarrot Seedling\n27\n+11.6\nLikes Cooking Recipes\nHates Poetry\n[\nEdit Small Talk\n]\nLeonard_Allenson\nLoves Equipment with Battle Chemistry prerequisites\nLoves\nBrass Items\nHint\nLoves\nCitrines\nHint\n[\nEdit Small Talk\n]\nRoshun_the_Traitor\nLoves Staves\nHint\nLoves Orcish Cultural Artifacts\nHint\nLoves Gur-Horta\nHint\nHates Nature\n[\nEdit Small Talk\n]\nSerbule Keep\nBlanche\nLoves Crystals and\nGems\nLikes\nAntiques\nHint\nLoves Dairy\nHates Animal Skins\nLikes Fire Staves\n[\nEdit Small Talk\n]\nEchur\nLoves\nGems\nHint\nLoves\nFlowers\nLoves Books\nHint\nAdditional Information at Higher Favor\nLoves\nDrugs\n[\nFriends\n]\nHint\n[\nEdit Small Talk\n]\nElahil\nLikes Prepared Food\nHint\nLoves Magical Bows\nHint\nAdditional Information at Higher Favor\nLikes Rings\n[\nFriends\n]\nHint\nHates Drugs\n[\nFriends\n]\n[\nEdit Small Talk\n]\nFainor\nLoves\nFish\nLoves\nMeat\nHint\nLoves\nMilk\nand\nCheese\nHint\nLoves\nVegetables\nLoves\nPrepared Food\nHint\nAdditional Information at Higher Favor\nHates\nCrystals\nand\nGems\n[\nFriends\n]\n[\nEdit Small Talk\n]\nGisli\nLoves Fluorite Gems\nHint\nLoves Horseshoes (and other animal shoes)\nHint\nLoves Magic Equipment with Animal Handling Prerequisites\nHint\n[\nEdit Small Talk\n]\nHulon\nLikes Prepared Food\nHint\nLoves Seeds\nHint\nHint\nLoves Seedlings\nSeedling\nCouncils\nFavor\nBarley Seedling\n14\n+10\nPotato Seedling\n7\n+3.3\nOnion Seedling\n9\n+4\nCabbage Leafling\n12\n+5.3\nBeet Seedling\n15\n+6.6\nSquash Seedling\n19\n+8.6\nBroccoli Seedling\n22\n+9.9\nCarrot Seedling\n27\n+11.9\nLikes Cooking Recipes\nHates Poetry\n[\nEdit Small Talk\n]\nJoeh\nLoves Swords\nHint\nLoves Shields\nHint\nHates Jewelry\nLoves\nMeat\nHint\n[\nEdit Small Talk\n]\nLarsan\nLoves Fancy Rings\nHint\nLoves Precious Gems\nHint\nLoves Figurines\n[\nEdit Small Talk\n]\nMarna\nLoves Rare Recipes\nHint\nLoves Vegetarian Food\nHint\nHates Meat\nLikes Animal Skins\nHint\nLoves Fire Staves\nHint\n[\nEdit Small Talk\n]\nMushroom_Jack\nDislikes\nFood\nDislikes\nShoes\nLikes Miscellaneous Junk\nHint\nLoves\nMushrooms\nHint\nLikes\nHeadgear\nHint\nAdditional Information at Higher Favor\nLoves Body Parts\n[\nFriends\n]\n[\nEdit Small Talk\n]\nNelson Ballard\nLoves Hand-made Carpentry items\nHint\nLoves\nDrinks\nHint\nLoves Fashionable Shoes\nHint\n[\nBallard/Small_talk&action=edit Edit Small Talk\n]\nRita\nDislikes Food\nLikes Flowers\nHint\nLoves Slippers\nLoves Interesting Reading Material\n[\nEdit Small Talk\n]\nSir_Coth\nLoves All Art\nHint\nLoves Flawless Animal Skins\nHint\nLoves Ivory [Friends?]\nHint\nHates Potions [Friends?]\n[\nEdit Small Talk\n]\nTadion\nLikes Metal Armor\nHint\nLoves Good Metal Slabs (or higher)\nHint\nLikes Snail Shells\nHint\nLoves Ancient Coins\nHint\n[\nEdit Small Talk\n]\nTherese\nLikes\nPlants\nHint\nLikes Seeds\nHint\nHates Meat and Meat Dishes\nDislikes Fish and Fish Dishes\nLoves Necklaces\nHint\n[\nEdit Small Talk\n]\nVelkort\nLoves\nExotic Potions\nHint\nLikes\nUnusual Animal Trophies\nHint\nHates Food\nAdditional Information at Higher Favor\nLoves\nAntiques\n[\nComfortable\n]\nHint\n[\nEdit Small Talk\n]\nSerbule Crypt\nSir_Arif\nHates Fish\nLikes Anything Else Edible\nHint\nLikes Staves\nHint\nAdditional Information at Higher Favor\nAt\n[\nComfortable\n]\n: Likes Magic Leggings\n[\nEdit Small Talk\n]\nCarpal Tunnels\nZealo\nLikes Prepared Meat Dishes\nHint\nLikes Magic Rings\nHint\nLikes Myconian Heartshrooms\nHint\n[\nEdit Small Talk\n]\nMyconian Cave\nJaw\nLoves\nPlants\nHint\n-- Please note that flower seeds are not considered plants.\nLoves Raw\nVegetables\nHint\nLikes\nBrass Items\nHint\n[\nEdit Small Talk\n]\nMu\nLikes Heartshrooms\nHint\nLoves Blue Crystals\nHint\nAdditional Information at Higher Favor\nAt\n[\nFriends\n]\n: Likes Cranium Powder\nHint\n[\nEdit Small Talk\n]\nPoe\nLikes Mushrooms\nHint\nLoves Flowers\nHint\nLoves Ores and Unrefined Metals\nHint\n[\nEdit Small Talk\n]\nVoo\nLoves Mushrooms\nHint\nLoves Alchemical Concoctions.\n[\nEdit Small Talk\n]\nWay\nLikes Vendor Trash\nHint\nLikes Storage Crates\nHint\nLikes Textiles\nHint\n[\nEdit Small Talk\n]\nSerbule Hills\nBaroness_Marith_Felgard\nLikes Rings\nHint\nLikes Fashionable Clothing\nLikes Topaz Gems\nHint\n[\nEdit Small Talk\n]\nBrianna_Willer\nLoves Dahlias\nHint\nLoves Moss Agates\nHint\nLoves Barrels\nHint\n[\nEdit Small Talk\n]\nCleo_Conyer\nLikes\nVendor Trash\nHint\nLikes\nGoblin Armor\n[\nEdit Small Talk\n]\nDurstin_Tallow\nLoves\nFigurines\nHint\nLoves\nIvory\nHint\nLoves\nCalligraphy Recipe Scrolls\nHint\n[\nEdit Small Talk\n]\nGershok\nLikes Meditation Stools\nHint\nLikes Fish Dishes\nHint\n[\nEdit Small Talk\n]\nJaime_Fatholm\nLoves Magical Bows\nLoves Good Metal Slabs (or Higher)\nHint\nLoves\nGold\nHint\nLoves\nSilver\nLoves\nSardonyx\nHint\nHates\nPrepared Meals\n[\nEdit Small Talk\n]\nJulius_Patton\nLoves\nPlants\nHint\nLoves\nStrange Dirt\nHint\nLoves\nEggs\nHint\nLoves Egg Dishes\nHint\n[\nEdit Small Talk\n]\nLana_Songtree\nLikes\nWool\nLikes\nTailoring Recipes\nLikes\nPink Dye\n[\nEdit Small Talk\n]\nMerriana\nLoves\nEnchanted Druidic Plants and Seeds\nHint\nLoves Magic Dusts of all Varieties\nHint\n[\nEdit Small Talk\n]\nPaul_Vaughn\nLoves Perfect Pieces of Wood\nHint\nLoves Dessert Meals\nHint\nHint\nLikes Beer\nHint\n[\nEdit Small Talk\n]\nRappanel\nLikes Pickled Fish\nHint\nLoves Animal Horns\nHint\nLoves\nBoar Tusks\nHint\nLikes Fish Dishes\n[\nEdit Small Talk\n]\nSammie_Grimspine\nLoves Calligraphy Benches\nHint\nLikes Raw Meat\nHint\nLoves Grapes\nHint\n[\nEdit Small Talk\n]\nTrasen\nLoves\nRanalon Cultural Items\nHint\nLoves\nMagic Dusts of all Varieties\nHint\n[\nEdit Small Talk\n]\nTyler_Green\nLoves Gently-Used Shields\nHint\nLikes Armor Repair Kits\nHint\nLikes Ability Recipe Books\nLoves Citrus Fruits\nHint\n[\nEdit Small Talk\n]\nEltibule\nBraigon\nLikes\nCheese\nand\nDairy\nMeals\nHint\nLikes\nMilk\nHint\nLoves\nMagic Oils\nHint\n[\nEdit Small Talk\n]\nGeorge_Madler\nLikes Council Certificates\nHint\nLikes Unused Cloth\nHint\n[\nEdit Small Talk\n]\nGretchen_Salas\nLikes Chairs and Other Things To Sit On\nHint\nLikes Veggie-Heavy Dinners\nHint\nLoves Strange Dirt\nHint\n[\nEdit Small Talk\n]\nHelena_Veilmoor\nHates Stupid Crap\nHates Gross Monster Bits\nLoves Poetry\nHint\nLoves Extremely Valuable Things\nHint\nLoves Obsidian\nHint\n[\nEdit Small Talk\n]\nHogan\nLoves\nPoetry\nHint\nLoves Staves\nHint\nLoves\nRaw Fruit\nHint\n[\nEdit Small Talk\n]\nJesina\nLoves Clothing and Cloth Armor\nHint\nLoves Paintings\nHint\nAdditional Information at Higher Favor\nLikes Cooking Recipes\n[\nComfortable\n]\nHates Grisly Monster Trophies\n[\nComfortable\n]\n[\nEdit Small Talk\n]\nJumjab\nLikes Bones\nHint\nLoves Hearts\nLikes Equipment with Necromancy Prerequisites\n[\nEdit Small Talk\n]\nKalaba\nLikes Gauntlets and Gloves\nHint\nLoves\nBrass Items\nHint\nLoves\nRaw Fish\nHint\nAdditional Info at Higher Favor\nHates\nCitrus\n[\nComfortable\n]\n[\nEdit Small Talk\n]\nKleave\nHates Artwork\nLoves Onyx\nHint\nLikes Skins\nHint\nLikes Potions\nHint\n[\nEdit Small Talk\n]\nMythander\nLoves Goblin armor\nLoves Horseshoes\n[\nEdit Small Talk\n]\nPercy_Evans\nLikes Peridots\nHint\nLikes Fairy Wings\nHint\nLikes Magic Teeth\nLoves Drying Boxes of Arrows\nHint\nLikes Pick-Me-Up Juice\n[\nClose Friends\n]\nLikes Memory Inhibitor Potions\n[\nClose Friends\n]\n[\nEdit Small Talk\n]\nSie_Antry\nLoves\nSnail Shells\nHint\nLikes\nBloodstones\nHint\nAdditional Information at Higher Favor\nLikes\nFootwear\n[\nComfortable\n]\nHint\nHates\nPotions\n[\nComfortable\n]\n[\nEdit Small Talk\n]\nSuspicious_Cow\nHates Stupid Crap\nHates Gross Monster Bits\nLoves Poetry\nLikes Extremely Valuable Things\nHint\nLikes Obsidian\nHint\n[\nEdit Small Talk\n]\nThimble_Pete\nLoves Desserts\nHint\nHint\nLoves Tailoring Recipe Scrolls\nLoves Sexy Clothing\nLoves Spoons\nHint\n[\nEdit Small Talk\n]\nYasinda\nLoves Magic Necklaces\nHint\nLoves Onyx\nHint\nLoves Ancient Coins\nHint\nLoves Spleens\nHint\n[\nEdit Small Talk\n]\nYetta\nLoves Lapis Lazuli\nHint\nLoves Mushrooms\nHint\nAdditional Information at Higher Favor\nLikes Amulets\nHint\n[\nAbove Neutral\n]\n[\nEdit Small Talk\n]\nGoblin Dungeon\nYalox\nLikes First Aid Kits\nHint\nLikes Drugs\nHint\nLikes Garnets\nHint\nLikes Desserts\nHint\n[\nEdit Small Talk\n]\nHogan's Basement\nGorvessa\nLikes Pineal Juice\nHint\nLikes Hand-Made Furniture\nHint\nLoves Spoons\nHint\n[\nEdit Small Talk\n]\nGribburn\nLikes Meat Dishes\nLikes Cheesecloth\nHint\n[\nEdit Small Talk\n]\nMalvol\nLikes Swords\nHint\nLikes Equipment With Sword Requirements\nHint\nLoves Calligraphy Recipe Scrolls\n[\nEdit Small Talk\n]\nKur Mountains\nGloria_Stonecurl\nLoves Equipment with Holy Symbols\nHint\nLoves Lapis Lazuli\nHint\nLoves Mummy Wrappings\nHint\n[\nEdit Small Talk\n]\nGurki\nLoves Ethnic Jewelry and Ornaments\nHint\nLikes White Crystals\nHint\nLoves\nCranium Gel\nHint\n[\nEdit Small Talk\n]\nJace_Soral\nLikes Werewolf Oriented Magic Items\nHint\nLikes Raw Fish\nLikes Max-Health-Boosting Potions\n[\nEdit Small Talk\n]\nJanet_Lews\nLoves Swords\nLoves\nCarnelians\nHint\nLoves Fruit Dishes\nHint\n[\nEdit Small Talk\n]\nLamashu\nLoves\nMagic Oils\nHint\nLoves\nOnyx\nHint\nLikes\nWood\nHint\nLikes\nSexy Clothes\nHint\nLikes\nFashionable Shoes\nHint\n[\nEdit Small Talk\n]\nLandri_the_Cold\nLoves Ice Cores\nHint\nLoves Fire Staves\nLoves Anything with\nFire Magic\nenchantments\nHates Cloth Equipment\n[\nEdit Small Talk\n]\nLaura Neth\nLoves Anything Edible\nHint\nLoves Desserts\nHint\nAdditional Information at Higher Favor\nLoves Paintings\n[\nComfortable\n]\nHint\n[\nNeth/Small_talk&action=edit Edit Small Talk\n]\nMittens\nLikes Equipment with psychology prerequisites\nHint\nLikes Bounceweed\nHint\nLikes Tundra Lichen\nHint\n[\nEdit Small Talk\n]\nNightshade\nLoves\nTopaz\nHint\nLoves\nGur-Horta\nHint\nLoves\nGoldenrod Dye Pots\nHint\nHates\nOrgans and Body Parts\n[\nEdit Small Talk\n]\nRatuk_the_Thinker\nLikes\nTsavorite Gems\nHint\nLikes\nAquamarine Gems\nHint\nLikes\nAmethyst Gems\nHint\nLikes Magic Rings\nHint\nLoves Fresh Citrus Fruit\nHint\n[\nEdit Small Talk\n]\nRed\nLikes Fruit\nHint\nLoves Uncooked Fish\nHint\nLikes Raw Vegetables\nLoves Eggs\nHint\n[\nEdit Small Talk\n]\nSanja\nLikes Necklaces and Amulets\nHint\nLikes Moonstones\nHint\nLikes Unusual Animal Trophies\nHates Vegetables\n[\nEdit Small Talk\n]\nSyndra\nLoves Wood\nLoves Furniture\nLoves Leather Rolls\nHint\n[\nEdit Small Talk\n]\nUkorga\nLoves Trophy Animal Skins\nHint\nLoves Meaty Meals\nHint\nLikes Snail Shells\nHint\nLoves Ancient Coins\nHint\nHates Citrus\n[\nEdit Small Talk\n]\nKur Tower\nGlajur\nLoves Skulls of All Types\nHint\nLoves Brains of All Types\nLikes Cloth Armor\n[\nEdit Small Talk\n]\nWolf Cave\nMalgath\nLikes Shields\nLikes Equipment with Lycanthropy prerequisites\nLikes Fire Dust\n[\nEdit Small Talk\n]\nSacred Grotto\nBarnaby\nLikes Fresh Fruit\nHint\nLoves Carrots\nHint\nLoves Fashionable Hats\nHint\n[\nEdit Small Talk\n]\nCassie\nLoves\nRaw Rabbit Meat\n.\nLoves\nMeat\n.\nLoves\nFresh Fruit\n.\n[\nEdit Small Talk\n]\nMilton\nLikes Magic Equipment with Warden Prerequisites\nHint\nLikes Grass\nHint\nLoves Raw Peppers\nHint\n[\nEdit Small Talk\n]\nPickles\nLikes Gears\nHint\nLikes Wires, Weights, and Gizmos\nHint\nLikes Figurines\nHint\n[\nEdit Small Talk\n]\nRubi\nLoves\nRaw Rabbit Meat\n.\nLoves\nMeat\n.\nLoves\nFresh Fruit\n.\n[\nEdit Small Talk\n]\nSugar_(NPC)\nLikes Magic Equipment with Deer Prerequisites\nLoves Apples\nLoves Almonds and other nuts\nLikes Bounceweed\nHint\nHates Meat and Meat Dishes\n[\nEdit Small Talk\n]\nTangle\nLoves Raw Rabbit Meat\nHint\nLoves Other Raw Meat\nHint\nLikes Fresh Fruit\nHint\n[\nEdit Small Talk\n]\nSun Vale\nAgrashab\nLoves Fairy Wings\nHint\nLoves Magic Clubs\nHint\nHint\nLoves Ancient Coins\nHint\nHates Troll Flesh\n[\nEdit Small Talk\n]\nSquidlips\nLoves Fresh Fish\nHint\nLoves Seashells\nHint\nLoves Starfish\nHint\n[\nEdit Small Talk\n]\nAnimal Town\nCinnamon_the_rabbit\nLoves Carrots\nHint\nLikes Raw Vegetables\nHint\nLikes Equipment with Rabbit Prerequisites\n[\nEdit Small Talk\n]\nDaisy_(NPC)\nLikes Potions\nHint\nLoves Alchemy Recipes\nHint\nLikes Phlogiston, Fire Dust, Sulfur, and Saltpeter\nHint\n[\nEdit Small Talk\n]\nElaina\nLoves Cloth\nHint\nHint\nLoves Dyes\nHint\n[\nEdit Small Talk\n]\nJumper\nLikes Magic Equipment with Deer Prerequisites\nHint\nLoves Bounceweed\nHint\nLikes Vegetable-Laden Snack Foods\n[\nEdit Small Talk\n]\nKodan\nLikes Good Metal Slabs (or higher)\nHint\nHint\nLoves Figurines\nHint\n[\nEdit Small Talk\n]\nLegs\nLikes Corpse Trophies\nHint\nLoves Hooks and Stingers\nHint\n[\nEdit Small Talk\n]\nNorbert\nLikes Mushrooms\nHint\nLikes Necklaces\nHint\n[\nEdit Small Talk\n]\nRaul\nLikes Magic Equipment with Cow Prerequisites\nHint\nLoves Vegetarian Meals\nHint\nHates Meat and Meat Dishes\nHates Leather, Skins, and Leather Products\n[\nEdit Small Talk\n]\nSpot\nLikes Raw Meat\nLikes Shiny Crystals\nHint\n[\nEdit Small Talk\n]\nYavazek\nLoves Racial-Slot Equipment\nLikes Restorative Potions\nHint\nHint\n[\nEdit Small Talk\n]\nDruid Camp and the Giant Tree\nEleme\nLoves Magic Swords\nLoves Cooked Vegetable Meals\nHint\nLoves Winter Court Armor\n[\nEdit Small Talk\n]\nHiral\nLoves\nFresh Fruit\nHint\nLoves\nCheese\nHint\nHint\nLoves\nSpoons\nHint\nLoves\nFae Felt\n[\nEdit Small Talk\n]\nJake_the_Buckler\nLoves Good Metal Slabs (or higher)\nLoves Dye\n[\nEdit Small Talk\n]\nLisi\nLoves Enchanted Daggers\nLoves\nObsidian\nHint\nLoves Throwing Knives\n[\nEdit Small Talk\n]\nPreta\nLoves Odd Scrolls\nHint\nLoves\nGems\nand Crystals\nHint\nDislikes\nFae Felt\n[\nEdit Small Talk\n]\nRohina\nLoves Equipment with Mentalism prerequisites\nHint\nLoves Cloth Armor\nHint\nLoves Animal Horns\nHint\n[\nEdit Small Talk\n]\nSilvia\nLoves Chest Armor\nLoves Fruit Dishes\nHint\nLoves Equipment with Druid Prerequisites\nHint\n[\nEdit Small Talk\n]\nThe_Wombat\nLoves\nWood\nHint\nLoves\nWooden Equipment\nHint\nDislikes\nFootwear\nHates\nMetal Equipment\n[\nEdit Small Talk\n]\nYagreet\nLoves Magic Oils\nHint\nLoves Pineal Juice\nHint\nLoves Enchanted Mistletoe\nHint\nLikes Silver and Silver Items\nHint\nHint\n[\nEdit Small Talk\n]\nYogzi\nLoves Magic Rings\nLoves Skulls\nHint\nHates\nAntiques\n[\nEdit Small Talk\n]\nIlmari\nMakara\nLikes Rare or Better Magic Gear\nHint\nDislikes Non-Magical Equipment\n[\nEdit Small Talk\n]\nArlan\nLoves Skulls of All Types\nHint\nLoves Brains of All Types\nLoves Dragon Scales\nHint\n[\nEdit Small Talk\n]\nAmulna\nAlravesa_the_All-Hunter\nLoves Magic Equipment with Archery Prerequisites\nHint\nLikes Statues and Figurines\nHint\nHates Food\n[\nEdit Small Talk\n]\nFalkrin_Overstrike\nLoves Magic Equipment with Hammer Prerequisites\nLikes Moss Agates\nHint\nHates Leather Armor\n[\nEdit Small Talk\n]\nFiraki\nLoves Paintings\nLoves Fish Dishes\nHint\nHint\nLoves Silver Items\nHint\n[\nEdit Small Talk\n]\nKelim\nLoves Monster Corpse Trophies\nHint\nLoves Fish Meals\nHint\nHint\nLoves Dirt\nHint\n[\nEdit Small Talk\n]\nLumpfuzz\nLoves Raw Meat\nHint\nLoves Bounceweed\nLoves Spleens\n[\nEdit Small Talk\n]\nNissim\nLoves Skulls of All Types\nHint\nLoves Brains of All Types\nHint\nLoves Dragon Scales\nHint\n[\nEdit Small Talk\n]\nPasha\nLoves Turquoise Gems\nHint\nLoves Morganite Gems\nHint\nLoves Tiger's Eye Gems\nHint\nLoves Saddle Blankets\nHint\nHint\n[\nEdit Small Talk\n]\nSelaxi\nLoves Piles of Raw Meat\nHint\nLoves Ice Cores\nHint\nLoves Bloodstones\nHint\nLoves Exotic Cooking Recipes\n[\nEdit Small Talk\n]\nSir_Johnson\nLoves Shields\nLoves Off-Hand Augments\nLoves\nOnyx\nHint\n[\nEdit Small Talk\n]\nThe_Sand_Seer\nLoves Magic Equipment with\nFire Magic\nPrerequisites\nHint\nLoves Clothing and Cloth Armor\nHint\n[\nEdit Small Talk\n]\nUrzab\nLikes Crystals\nHint\nLoves Gems\nHint\nLikes Jewelry\nHint\n[\nEdit Small Talk\n]\nRahu\nAmutasa\nLoves\nMaximized Obsidian\nLoves\nSnail Shells\nHint\nLoves\nHeadgear with Hammer Prerequisites\nHint\n[\nEdit Small Talk\n]\nAshk_the_Answerer\nLoves Magic Equipment with\nMentalism\nprerequisites\nHint\nLoves Animal Horns\nHint\nLoves Animal Stingers\nHint\nLoves Animal Teeth\nHint\n[\nEdit Small Talk\n]\nDaniel_Murderdark\nLikes Bones\nHint\nLoves Ectoplasm\nHint\nLikes Serpentine Gems\nHint\n[\nEdit Small Talk\n]\nDhakmar\nLoves Barrels of Hard Liquor (Aged or Not)\nHint\nLoves Casks of Wine (Aged or Not)\nLoves Juniper Berries\nHint\n[\nEdit Small Talk\n]\nFurlak\nLoves Magical Unarmed Weapons\nLoves Egg Dishes\nHint\nLoves Exotic Alchemy Potions\nHint\n[\nEdit Small Talk\n]\nHirochi_the_Booklord\nLoves New combat textbooks (for any combat skill).\nHint\n[\nEdit Small Talk\n]\nIchin_the_Ice_Master\nLoves Mushrooms of all types\nHint\nLoves Equipment with Ice Magic prerequisites\nLoves Ice Cores\nLoves Tundra Lichen\nHint\n[\nEdit Small Talk\n]\nKohan\nLoves Carpentry Items\nHint\nLoves Exotic Potions\nHint\n[\nEdit Small Talk\n]\nLady_Windsong\nLikes Equipment with Druid Prerequisites\nLoves Enchanted Mistletoe\nLikes Garnets\nHint\n[\nEdit Small Talk\n]\nNishika\nLoves Raw Vegetables\nHint\nLoves Bloodstones\nHint\nLoves Leather Armor with Archery Prerequisites\nHint\n[\nEdit Small Talk\n]\nPercussa\nLoves Equipment with\nBard\nprerequisites.\nHint\nLoves Azurite Gems\nHint\nLoves Spider Silk\nHint\n[\nEdit Small Talk\n]\nRugen\nLoves Raw Fish\nHint\nLoves Magic Daggers\nHint\nLikes Paintings\nHint\n[\nEdit Small Talk\n]\nShirogin\nLoves\nAntiques\nHint\nLoves Carded Cotton\nHint\nLoves Cinnabar\nHint\n[\nEdit Small Talk\n]\nSirine\nLoves Cheese\nHint\nLikes Skins\nHint\n[\nEdit Small Talk\n]\nUfkar\nLikes\nCarpentry Items\nHint\nLikes\nExotic Potions\nHint\n[\nEdit Small Talk\n]\nWintria_Irasce\nLoves New textbooks (for any skill EXCEPT combat skills).\nHint\n[\nEdit Small Talk\n]\nZhao\nLoves Flower Seeds\nHint\nLikes Flowers, Arrangements & Displays\nHint\nLoves Paladium Ore\nHint\nLoves Pyrite Ore\nHint\n[\nEdit Small Talk\n]\nGazluk\nAralorn\nLoves Beer\nHint\nLoves Glowy Yellow Crystals\nHint\nLoves Fruit\nHint\n[\nEdit Small Talk\n]\nFluffikins\nLoves Egg Dishes\nLoves Glowy Yellow Crystal\nHint\nLoves Figurines\nHint\n[\nEdit Small Talk\n]\nTrekker\nLoves Iocane Mushrooms\nLoves Groxmax Mushrooms\nHint\nLoves Porcini Mushrooms\nHint\nLoves Black Foot Morels\nLoves Pixie's Parasol Mushrooms\nHint\n[\nEdit Small Talk\n]\nNew Prestonbule Cave\nBellema_Deftwhisper\nLoves Drinks\nLoves Magic Crossbows\nLoves\nPeridots\nHint\n[\nEdit Small Talk\n]\nGasu'um\nLoves Pyrite\nHint\nLikes Delicate Tack Hammers\nLikes Opals\nHint\n[\nEdit Small Talk\n]\nHemmit_Magmagrip\nLikes Fully Assembled Mushroom Boxes\nHint\nLikes\nPorcini Mushrooms\nHint\nLikes\nBlack Foot Morels\nHint\n[\nEdit Small Talk\n]\nMox_Warcut\nLoves Equipment with Battle Chemistry prerequisites\nHint\nLoves Resistance Potions (any damage type)\nHint\n,\nHint\nLoves Alchemy Recipes\nHint\nLoves Mummy Wrappings\nHint\n[\nEdit Small Talk\n]\nRick_Snapley\nLoves Poisons\nHint\nLoves Poisoned Food and Drink\nHint\nLoves Magic Knives\nHint\n[\nEdit Small Talk\n]\nSona\nLoves Clothing and Cloth Armor\nHint\nLoves Phlogiston\nHint\n[\nEdit Small Talk\n]\nTorgan\nLikes\nAstounding\nand\nSuperb Metal Slabs\n(Superb Metal Slabs are possibly called Awesome Metal Slabs in the small talk text).\nLoves\nSpruce Wood\n[\nEdit Small Talk\n]\nGazluk Keep\nMelandria\nLoves Gazluk Officer's Rings\nLikes Gur-Horta\nHint\nLikes Opals\nHint\n[\nEdit Small Talk\n]\nGazluk Shadow Cave\nSem\nLoves\nHeartshroom\nHint\nLoves Blue Crystals\nHint\nLoves Cranium Powder (at Friends)\nHint\n[\nEdit Small Talk\n]\nRed Wing Casino\nArianna_Fangblade\nLoves Equipment with Animal Handling Prerequisites\nLoves Barrels of Hard Liquor\n[\nEdit Small Talk\n]\nEveline_Rastin\nLoves All Art\nHint\nLoves Carded Cotton\nHint\n[\nEdit Small Talk\n]\nIrkima\nLikes Ivory Trophies\nHint\nLoves Raw Fish\nHint\nFish\nWhole\nFillet\nCrab\n+0.6\n+1.9\nClownfish\n+0.6\n+1.0\nGrapefish\n+1.0\n+2.24\nPerch\n+1.3\n+1.6\nEel\n+1.9\n+2.2\nShark\n+2.9\n+3.2\nFlounder\n+3.7\nCavefish\n+4.6\nSharkFin\n+12.3\nLikes Potions that Boost Damage from Specific Skills\n[\nEdit Small Talk\n]\nKib_the_Unkillable\nLoves Swords\nHint\nLoves Shields\nHint\nLoves Fire Staves\nHint\nLoves Trophy Animal Hides\nHint\n[\nEdit Small Talk\n]\nMandibles\nLoves Cooking Recipe Scrolls\nHint\nLoves Cooking Ingredients\nHint\nHint\n[\nEdit Small Talk\n]\nOtis\nLoves Meat-Heavy Prepared Meals\nHint\nLoves Clubs\nHint\nLoves Hammers\nHint\n[\nEdit Small Talk\n]\nQatik\nLoves Chairs and Benches\nLoves Leather Rolls\nLoves\nPerfect Lumber\n[\nEdit Small Talk\n]\nRagabir\nLoves Alchemy Recipes\nLoves Bones\nHint\nLoves Alchemy Ingredients\nHint\n[\nEdit Small Talk\n]\nTavilak\nLoves Fresh\nMarigolds\nHint\nLoves\nPerfect Lumber\nHint\n[\nEdit Small Talk\n]\nWillem_Fangblade\nLoves Green Crystals\nHint\nLoves Brass Items\nHint\n[\nEdit Small Talk\n]\nPovus\nBrugo_the_Wise\nLoves\nAncient Bones\nLoves\nWood\nHint\n[\nEdit Small Talk\n]\nDachak_the_Digger\nLikes\nMushroom Boxes\nHint\nLikes\nFalse Agaric\nHint\nLikes\nEscarole\nHint\n[\nEdit Small Talk\n]\nDog_Ear\nLikes\nFish\nHint\nLikes\nInsect Meat\n[\nEdit Small Talk\n]\nErrruka_the_Benefactor\nLoves Live Frogs\nLikes Remains of Deceased Scray\nHint\n[\nEdit Small Talk\n]\nFerand_Deftwhisper\nLikes\nMetal Chest Armor\nLikes\nMetal Gloves and Gauntlets\n[\nEdit Small Talk\n]\nGerrux\nLikes\nSwords\nLikes\nDirks\n[\nEdit Small Talk\n]\nGrakelsput\nLikes\nAncient Bones\nHint\nLoves Equipment with Necromancy Gems\n[\nEdit Small Talk\n]\nLeah_Bowman\nLikes Equipment with Animal Handling Prerequisites\nHint\nLikes\nStorage Crates\nLikes\nPoppies\n[\nEdit Small Talk\n]\nMope\nLoves Recovered\nHeartshrooms\nHint\n[\nEdit Small Talk\n]\nTremmond_Blackhammer\nLikes Armor Stakes\nHint\nLikes Good Metal Slabs (or higher)\nHint\n[\nEdit Small Talk\n]\nFae Realm\nBackfat\nLoves\nRaw Venison\nHint\nLoves\nMeals with Venison\nLoves\nPixie's Parasol\nMushrooms\nHint\nLoves\nFly Amanita\nMushrooms\nHint\n[\nEdit Small Talk\n]\nBendith_the_Banished\nLoves Brined Cheese\nHint\nLoves\nCharged Mycelium\nMushrooms\nHint\nAdditional Information at Higher Favor\nAt\n[\nFriends\n]\n: Likes Pixie Antlers\n[\nEdit Small Talk\n]\nCrelpin\nLoves Magical Equipment with\nAnimal Handling\nPrerequisites\nHint\nLoves\nLac\nand\nUltra Lac\nHint\nLoves\nWool\nHint\n[\nEdit Small Talk\n]\nFelmer\nLoves Enchanted Elvish Jewelry\nHint\nLoves Enchanted Elvish-Style Armor and Weapons\nHint\nLoves\nTiger's Eye\nGems\nHint\nLoves\nFae Felt\n[\nEdit Small Talk\n]\nFloxie\nLoves Cooked Vegetarian Meals\nHint\nLoves Magic Bows\nHint\nLoves Magic Crossbows\nHint\n[\nEdit Small Talk\n]\nMidge_the_Apothecary\nLoves Mercury\nHint\nLoves Cranium Powder\nHint\nLoves Insect Wings\nHint\n[\nEdit Small Talk\n]\nNoita_the_Green\nLoves Max-Health-Boosting Potions\nHint\nLoves Trophy Animal Hides\nHint\nLoves Trophy Cat Hides\nHint\n[\nEdit Small Talk\n]\nPegast\nLoves Magical Dirks\nHint\nLoves Metal Helms\nHint\nLoves Beer\n[\nEdit Small Talk\n]\nRaina\nLoves\nArtwork\nHint\nLoves\nCalligraphy Recipes\nHint\n[\nEdit Small Talk\n]\nSolgribue\nLoves\nGood Metal Slabs (or higher)\nLoves Necklaces\nLoves Rings\nHint\n[\nEdit Small Talk\n]\nWinter Nexus\nCorey_The_Croaker\nLikes Weird Junk\nHint\nLikes Cloth Armor\nHint\nLoves Fairy Wings\nHint\n[\nEdit Small Talk\n]\nFazzi\nLikes Orange and Red Gems\nHint\nLikes Flowers\nHint\n[\nEdit Small Talk\n]\nUseful Links & Guides\nMerchants\nBartering\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Favor&oldid=198798\n\"\nCategory\n:\nMechanics",
+  "tables": [
+    [
+      [
+        "Despised",
+        "⇐",
+        "Hated",
+        "⇐",
+        "Disliked",
+        "⇐",
+        "Tolerated",
+        "⇐",
+        "Neutral(starting)",
+        "⇒",
+        "Comfortable",
+        "⇒",
+        "Friends",
+        "⇒",
+        "Close Friends",
+        "⇒",
+        "Best Friends",
+        "⇒",
+        "Like Family",
+        "⇒",
+        "Soul Mates"
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Favor required"
+      ],
+      [
+        "Despised",
+        "-600.1 or less"
+      ],
+      [
+        "Hated",
+        "-600 to -300.1"
+      ],
+      [
+        "Disliked",
+        "-300 to -100.1"
+      ],
+      [
+        "Tolerated",
+        "-100 to -0.1"
+      ],
+      [
+        "Neutral",
+        "0 to 99.9"
+      ],
+      [
+        "Comfortable",
+        "100 to 299.9"
+      ],
+      [
+        "Friends",
+        "300 to 599.9"
+      ],
+      [
+        "Close Friends",
+        "600 to 1199.9"
+      ],
+      [
+        "Best Friends",
+        "1200 to 1999.9"
+      ],
+      [
+        "Like Family",
+        "2000 to 2999.9"
+      ],
+      [
+        "Soul Mates",
+        "3000 or greater"
+      ]
+    ],
+    [
+      [
+        "NPC",
+        "Small Talk",
+        "Edit Links"
+      ],
+      [
+        "Anagoge"
+      ],
+      [
+        "Lawara",
+        "LovesArtLovesBonesHintLovesBreadHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Serbule"
+      ],
+      [
+        "Azalak",
+        "Loves GemsHintLoves FlowersHintLoves BooksHintLoves Head GearHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Charles_Thompson",
+        "Loves Mushrooms of all TypesHintLoves Combat Beakers and FlasksHintLoves Rare Alchemy Recipes",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Flia",
+        "Loves Rare Recipes and KnowledgeHintLoves Items With Interesting HistoryHintLikes PotionsHintAdditional Information at Higher FavorHates Food[Close Friends]",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Ivyn",
+        "Likes Prepared FoodHintLoves SeedsLoves SeedlingsHintSeedlingCouncilsFavorPotato Seedling7+3.2Onion Seedling9+3.9Cabbage Leafling12+5.1Beet Seedling15+6.4Squash Seedling19+8.3Broccoli Seedling22+9.6Carrot Seedling27+11.6Likes Cooking RecipesHates Poetry",
+        "Seedling",
+        "Councils",
+        "Favor",
+        "Potato Seedling",
+        "7",
+        "+3.2",
+        "Onion Seedling",
+        "9",
+        "+3.9",
+        "Cabbage Leafling",
+        "12",
+        "+5.1",
+        "Beet Seedling",
+        "15",
+        "+6.4",
+        "Squash Seedling",
+        "19",
+        "+8.3",
+        "Broccoli Seedling",
+        "22",
+        "+9.6",
+        "Carrot Seedling",
+        "27",
+        "+11.6",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Seedling",
+        "Councils",
+        "Favor"
+      ],
+      [
+        "Potato Seedling",
+        "7",
+        "+3.2"
+      ],
+      [
+        "Onion Seedling",
+        "9",
+        "+3.9"
+      ],
+      [
+        "Cabbage Leafling",
+        "12",
+        "+5.1"
+      ],
+      [
+        "Beet Seedling",
+        "15",
+        "+6.4"
+      ],
+      [
+        "Squash Seedling",
+        "19",
+        "+8.3"
+      ],
+      [
+        "Broccoli Seedling",
+        "22",
+        "+9.6"
+      ],
+      [
+        "Carrot Seedling",
+        "27",
+        "+11.6"
+      ],
+      [
+        "Leonard_Allenson",
+        "Loves Equipment with Battle Chemistry prerequisitesLovesBrass ItemsHintLovesCitrinesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Roshun_the_Traitor",
+        "Loves StavesHintLoves Orcish Cultural ArtifactsHintLoves Gur-HortaHintHates Nature",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Serbule Keep"
+      ],
+      [
+        "Blanche",
+        "Loves Crystals andGemsLikesAntiquesHintLoves DairyHates Animal SkinsLikes Fire Staves",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Echur",
+        "LovesGemsHintLovesFlowersLoves BooksHintAdditional Information at Higher FavorLovesDrugs[Friends]Hint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Elahil",
+        "Likes Prepared FoodHintLoves Magical BowsHintAdditional Information at Higher FavorLikes Rings[Friends]HintHates Drugs[Friends]",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Fainor",
+        "LovesFishLovesMeatHintLovesMilkandCheeseHintLovesVegetablesLovesPrepared FoodHintAdditional Information at Higher FavorHatesCrystalsandGems[Friends]",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Gisli",
+        "Loves Fluorite GemsHintLoves Horseshoes (and other animal shoes)HintLoves Magic Equipment with Animal Handling PrerequisitesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Hulon",
+        "Likes Prepared FoodHintLoves SeedsHintHintLoves SeedlingsSeedlingCouncilsFavorBarley Seedling14+10Potato Seedling7+3.3Onion Seedling9+4Cabbage Leafling12+5.3Beet Seedling15+6.6Squash Seedling19+8.6Broccoli Seedling22+9.9Carrot Seedling27+11.9Likes Cooking RecipesHates Poetry",
+        "Seedling",
+        "Councils",
+        "Favor",
+        "Barley Seedling",
+        "14",
+        "+10",
+        "Potato Seedling",
+        "7",
+        "+3.3",
+        "Onion Seedling",
+        "9",
+        "+4",
+        "Cabbage Leafling",
+        "12",
+        "+5.3",
+        "Beet Seedling",
+        "15",
+        "+6.6",
+        "Squash Seedling",
+        "19",
+        "+8.6",
+        "Broccoli Seedling",
+        "22",
+        "+9.9",
+        "Carrot Seedling",
+        "27",
+        "+11.9",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Seedling",
+        "Councils",
+        "Favor"
+      ],
+      [
+        "Barley Seedling",
+        "14",
+        "+10"
+      ],
+      [
+        "Potato Seedling",
+        "7",
+        "+3.3"
+      ],
+      [
+        "Onion Seedling",
+        "9",
+        "+4"
+      ],
+      [
+        "Cabbage Leafling",
+        "12",
+        "+5.3"
+      ],
+      [
+        "Beet Seedling",
+        "15",
+        "+6.6"
+      ],
+      [
+        "Squash Seedling",
+        "19",
+        "+8.6"
+      ],
+      [
+        "Broccoli Seedling",
+        "22",
+        "+9.9"
+      ],
+      [
+        "Carrot Seedling",
+        "27",
+        "+11.9"
+      ],
+      [
+        "Joeh",
+        "Loves SwordsHintLoves ShieldsHintHates JewelryLovesMeatHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Larsan",
+        "Loves Fancy RingsHintLoves Precious GemsHintLoves Figurines",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Marna",
+        "Loves Rare RecipesHintLoves Vegetarian FoodHintHates MeatLikes Animal SkinsHintLoves Fire StavesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Mushroom_Jack",
+        "DislikesFoodDislikesShoesLikes Miscellaneous JunkHintLovesMushroomsHintLikesHeadgearHintAdditional Information at Higher FavorLoves Body Parts[Friends]",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Nelson Ballard",
+        "Loves Hand-made Carpentry itemsHintLovesDrinksHintLoves Fashionable ShoesHint",
+        "[Ballard/Small_talk&action=edit Edit Small Talk]"
+      ],
+      [
+        "Rita",
+        "Dislikes FoodLikes FlowersHintLoves SlippersLoves Interesting Reading Material",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Sir_Coth",
+        "Loves All ArtHintLoves Flawless Animal SkinsHintLoves Ivory [Friends?]HintHates Potions [Friends?]",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Tadion",
+        "Likes Metal ArmorHintLoves Good Metal Slabs (or higher)HintLikes Snail ShellsHintLoves Ancient CoinsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Therese",
+        "LikesPlantsHintLikes SeedsHintHates Meat and Meat DishesDislikes Fish and Fish DishesLoves NecklacesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Velkort",
+        "LovesExotic PotionsHintLikesUnusual Animal TrophiesHintHates FoodAdditional Information at Higher FavorLovesAntiques[Comfortable]Hint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Serbule Crypt"
+      ],
+      [
+        "Sir_Arif",
+        "Hates FishLikes Anything Else EdibleHintLikes StavesHintAdditional Information at Higher FavorAt[Comfortable]: Likes Magic Leggings",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Carpal Tunnels"
+      ],
+      [
+        "Zealo",
+        "Likes Prepared Meat DishesHintLikes Magic RingsHintLikes Myconian HeartshroomsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Myconian Cave"
+      ],
+      [
+        "Jaw",
+        "LovesPlantsHint-- Please note that flower seeds are not considered plants.Loves RawVegetablesHintLikesBrass ItemsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Mu",
+        "Likes HeartshroomsHintLoves Blue CrystalsHintAdditional Information at Higher FavorAt[Friends]: Likes Cranium PowderHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Poe",
+        "Likes MushroomsHintLoves FlowersHintLoves Ores and Unrefined MetalsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Voo",
+        "Loves MushroomsHintLoves Alchemical Concoctions.",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Way",
+        "Likes Vendor TrashHintLikes Storage CratesHintLikes TextilesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Serbule Hills"
+      ],
+      [
+        "Baroness_Marith_Felgard",
+        "Likes RingsHintLikes Fashionable ClothingLikes Topaz GemsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Brianna_Willer",
+        "Loves DahliasHintLoves Moss AgatesHintLoves BarrelsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Cleo_Conyer",
+        "LikesVendor TrashHintLikesGoblin Armor",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Durstin_Tallow",
+        "LovesFigurinesHintLovesIvoryHintLovesCalligraphy Recipe ScrollsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Gershok",
+        "Likes Meditation StoolsHintLikes Fish DishesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Jaime_Fatholm",
+        "Loves Magical BowsLoves Good Metal Slabs (or Higher)HintLovesGoldHintLovesSilverLovesSardonyxHintHatesPrepared Meals",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Julius_Patton",
+        "LovesPlantsHintLovesStrange DirtHintLovesEggsHintLoves Egg DishesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Lana_Songtree",
+        "LikesWoolLikesTailoring RecipesLikesPink Dye",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Merriana",
+        "LovesEnchanted Druidic Plants and SeedsHintLoves Magic Dusts of all VarietiesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Paul_Vaughn",
+        "Loves Perfect Pieces of WoodHintLoves Dessert MealsHintHintLikes BeerHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Rappanel",
+        "Likes Pickled FishHintLoves Animal HornsHintLovesBoar TusksHintLikes Fish Dishes",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Sammie_Grimspine",
+        "Loves Calligraphy BenchesHintLikes Raw MeatHintLoves GrapesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Trasen",
+        "LovesRanalon Cultural ItemsHintLovesMagic Dusts of all VarietiesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Tyler_Green",
+        "Loves Gently-Used ShieldsHintLikes Armor Repair KitsHintLikes Ability Recipe BooksLoves Citrus FruitsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Eltibule"
+      ],
+      [
+        "Braigon",
+        "LikesCheeseandDairyMealsHintLikesMilkHintLovesMagic OilsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "George_Madler",
+        "Likes Council CertificatesHintLikes Unused ClothHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Gretchen_Salas",
+        "Likes Chairs and Other Things To Sit OnHintLikes Veggie-Heavy DinnersHintLoves Strange DirtHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Helena_Veilmoor",
+        "Hates Stupid CrapHates Gross Monster BitsLoves PoetryHintLoves Extremely Valuable ThingsHintLoves ObsidianHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Hogan",
+        "LovesPoetryHintLoves StavesHintLovesRaw FruitHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Jesina",
+        "Loves Clothing and Cloth ArmorHintLoves PaintingsHintAdditional Information at Higher FavorLikes Cooking Recipes[Comfortable]Hates Grisly Monster Trophies[Comfortable]",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Jumjab",
+        "Likes BonesHintLoves HeartsLikes Equipment with Necromancy Prerequisites",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Kalaba",
+        "Likes Gauntlets and GlovesHintLovesBrass ItemsHintLovesRaw FishHintAdditional Info at Higher FavorHatesCitrus[Comfortable]",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Kleave",
+        "Hates ArtworkLoves OnyxHintLikes SkinsHintLikes PotionsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Mythander",
+        "Loves Goblin armorLoves Horseshoes",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Percy_Evans",
+        "Likes PeridotsHintLikes Fairy WingsHintLikes Magic TeethLoves Drying Boxes of ArrowsHintLikes Pick-Me-Up Juice[Close Friends]Likes Memory Inhibitor Potions[Close Friends]",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Sie_Antry",
+        "LovesSnail ShellsHintLikesBloodstonesHintAdditional Information at Higher FavorLikesFootwear[Comfortable]HintHatesPotions[Comfortable]",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Suspicious_Cow",
+        "Hates Stupid CrapHates Gross Monster BitsLoves PoetryLikes Extremely Valuable ThingsHintLikes ObsidianHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Thimble_Pete",
+        "Loves DessertsHintHintLoves Tailoring Recipe ScrollsLoves Sexy ClothingLoves SpoonsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Yasinda",
+        "Loves Magic NecklacesHintLoves OnyxHintLoves Ancient CoinsHintLoves SpleensHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Yetta",
+        "Loves Lapis LazuliHintLoves MushroomsHintAdditional Information at Higher FavorLikes AmuletsHint[Above Neutral]",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Goblin Dungeon"
+      ],
+      [
+        "Yalox",
+        "Likes First Aid KitsHintLikes DrugsHintLikes GarnetsHintLikes DessertsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Hogan's Basement"
+      ],
+      [
+        "Gorvessa",
+        "Likes Pineal JuiceHintLikes Hand-Made FurnitureHintLoves SpoonsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Gribburn",
+        "Likes Meat DishesLikes CheeseclothHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Malvol",
+        "Likes SwordsHintLikes Equipment With Sword RequirementsHintLoves Calligraphy Recipe Scrolls",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Kur Mountains"
+      ],
+      [
+        "Gloria_Stonecurl",
+        "Loves Equipment with Holy SymbolsHintLoves Lapis LazuliHintLoves Mummy WrappingsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Gurki",
+        "Loves Ethnic Jewelry and OrnamentsHintLikes White CrystalsHintLovesCranium GelHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Jace_Soral",
+        "Likes Werewolf Oriented Magic ItemsHintLikes Raw FishLikes Max-Health-Boosting Potions",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Janet_Lews",
+        "Loves SwordsLovesCarneliansHintLoves Fruit DishesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Lamashu",
+        "LovesMagic OilsHintLovesOnyxHintLikesWoodHintLikesSexy ClothesHintLikesFashionable ShoesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Landri_the_Cold",
+        "Loves Ice CoresHintLoves Fire StavesLoves Anything withFire MagicenchantmentsHates Cloth Equipment",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Laura Neth",
+        "Loves Anything EdibleHintLoves DessertsHintAdditional Information at Higher FavorLoves Paintings[Comfortable]Hint",
+        "[Neth/Small_talk&action=edit Edit Small Talk]"
+      ],
+      [
+        "Mittens",
+        "Likes Equipment with psychology prerequisitesHintLikes BounceweedHintLikes Tundra LichenHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Nightshade",
+        "LovesTopazHintLovesGur-HortaHintLovesGoldenrod Dye PotsHintHatesOrgans and Body Parts",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Ratuk_the_Thinker",
+        "LikesTsavorite GemsHintLikesAquamarine GemsHintLikesAmethyst GemsHintLikes Magic RingsHintLoves Fresh Citrus FruitHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Red",
+        "Likes FruitHintLoves Uncooked FishHintLikes Raw VegetablesLoves EggsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Sanja",
+        "Likes Necklaces and AmuletsHintLikes MoonstonesHintLikes Unusual Animal TrophiesHates Vegetables",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Syndra",
+        "Loves WoodLoves FurnitureLoves Leather RollsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Ukorga",
+        "Loves Trophy Animal SkinsHintLoves Meaty MealsHintLikes Snail ShellsHintLoves Ancient CoinsHintHates Citrus",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Kur Tower"
+      ],
+      [
+        "Glajur",
+        "Loves Skulls of All TypesHintLoves Brains of All TypesLikes Cloth Armor",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Wolf Cave"
+      ],
+      [
+        "Malgath",
+        "Likes ShieldsLikes Equipment with Lycanthropy prerequisitesLikes Fire Dust",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Sacred Grotto"
+      ],
+      [
+        "Barnaby",
+        "Likes Fresh FruitHintLoves CarrotsHintLoves Fashionable HatsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Cassie",
+        "LovesRaw Rabbit Meat.LovesMeat.LovesFresh Fruit.",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Milton",
+        "Likes Magic Equipment with Warden PrerequisitesHintLikes GrassHintLoves Raw PeppersHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Pickles",
+        "Likes GearsHintLikes Wires, Weights, and GizmosHintLikes FigurinesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Rubi",
+        "LovesRaw Rabbit Meat.LovesMeat.LovesFresh Fruit.",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Sugar_(NPC)",
+        "Likes Magic Equipment with Deer PrerequisitesLoves ApplesLoves Almonds and other nutsLikes BounceweedHintHates Meat and Meat Dishes",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Tangle",
+        "Loves Raw Rabbit MeatHintLoves Other Raw MeatHintLikes Fresh FruitHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Sun Vale"
+      ],
+      [
+        "Agrashab",
+        "Loves Fairy WingsHintLoves Magic ClubsHintHintLoves Ancient CoinsHintHates Troll Flesh",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Squidlips",
+        "Loves Fresh FishHintLoves SeashellsHintLoves StarfishHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Animal Town"
+      ],
+      [
+        "Cinnamon_the_rabbit",
+        "Loves CarrotsHintLikes Raw VegetablesHintLikes Equipment with Rabbit Prerequisites",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Daisy_(NPC)",
+        "Likes PotionsHintLoves Alchemy RecipesHintLikes Phlogiston, Fire Dust, Sulfur, and SaltpeterHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Elaina",
+        "Loves ClothHintHintLoves DyesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Jumper",
+        "Likes Magic Equipment with Deer PrerequisitesHintLoves BounceweedHintLikes Vegetable-Laden Snack Foods",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Kodan",
+        "Likes Good Metal Slabs (or higher)HintHintLoves FigurinesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Legs",
+        "Likes Corpse TrophiesHintLoves Hooks and StingersHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Norbert",
+        "Likes MushroomsHintLikes NecklacesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Raul",
+        "Likes Magic Equipment with Cow PrerequisitesHintLoves Vegetarian MealsHintHates Meat and Meat DishesHates Leather, Skins, and Leather Products",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Spot",
+        "Likes Raw MeatLikes Shiny CrystalsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Yavazek",
+        "Loves Racial-Slot EquipmentLikes Restorative PotionsHintHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Druid Camp and the Giant Tree"
+      ],
+      [
+        "Eleme",
+        "Loves Magic SwordsLoves Cooked Vegetable MealsHintLoves Winter Court Armor",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Hiral",
+        "LovesFresh FruitHintLovesCheeseHintHintLovesSpoonsHintLovesFae Felt",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Jake_the_Buckler",
+        "Loves Good Metal Slabs (or higher)Loves Dye",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Lisi",
+        "Loves Enchanted DaggersLovesObsidianHintLoves Throwing Knives",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Preta",
+        "Loves Odd ScrollsHintLovesGemsand CrystalsHintDislikesFae Felt",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Rohina",
+        "Loves Equipment with Mentalism prerequisitesHintLoves Cloth ArmorHintLoves Animal HornsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Silvia",
+        "Loves Chest ArmorLoves Fruit DishesHintLoves Equipment with Druid PrerequisitesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "The_Wombat",
+        "LovesWoodHintLovesWooden EquipmentHintDislikesFootwearHatesMetal Equipment",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Yagreet",
+        "Loves Magic OilsHintLoves Pineal JuiceHintLoves Enchanted MistletoeHintLikes Silver and Silver ItemsHintHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Yogzi",
+        "Loves Magic RingsLoves SkullsHintHatesAntiques",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Ilmari"
+      ],
+      [
+        "Makara",
+        "Likes Rare or Better Magic GearHintDislikes Non-Magical Equipment",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Arlan",
+        "Loves Skulls of All TypesHintLoves Brains of All TypesLoves Dragon ScalesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Amulna"
+      ],
+      [
+        "Alravesa_the_All-Hunter",
+        "Loves Magic Equipment with Archery PrerequisitesHintLikes Statues and FigurinesHintHates Food",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Falkrin_Overstrike",
+        "Loves Magic Equipment with Hammer PrerequisitesLikes Moss AgatesHintHates Leather Armor",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Firaki",
+        "Loves PaintingsLoves Fish DishesHintHintLoves Silver ItemsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Kelim",
+        "Loves Monster Corpse TrophiesHintLoves Fish MealsHintHintLoves DirtHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Lumpfuzz",
+        "Loves Raw MeatHintLoves BounceweedLoves Spleens",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Nissim",
+        "Loves Skulls of All TypesHintLoves Brains of All TypesHintLoves Dragon ScalesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Pasha",
+        "Loves Turquoise GemsHintLoves Morganite GemsHintLoves Tiger's Eye GemsHintLoves Saddle BlanketsHintHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Selaxi",
+        "Loves Piles of Raw MeatHintLoves Ice CoresHintLoves BloodstonesHintLoves Exotic Cooking Recipes",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Sir_Johnson",
+        "Loves ShieldsLoves Off-Hand AugmentsLovesOnyxHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "The_Sand_Seer",
+        "Loves Magic Equipment withFire MagicPrerequisitesHintLoves Clothing and Cloth ArmorHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Urzab",
+        "Likes CrystalsHintLoves GemsHintLikes JewelryHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Rahu"
+      ],
+      [
+        "Amutasa",
+        "LovesMaximized ObsidianLovesSnail ShellsHintLovesHeadgear with Hammer PrerequisitesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Ashk_the_Answerer",
+        "Loves Magic Equipment withMentalismprerequisitesHintLoves Animal HornsHintLoves Animal StingersHintLoves Animal TeethHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Daniel_Murderdark",
+        "Likes BonesHintLoves EctoplasmHintLikes Serpentine GemsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Dhakmar",
+        "Loves Barrels of Hard Liquor (Aged or Not)HintLoves Casks of Wine (Aged or Not)Loves Juniper BerriesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Furlak",
+        "Loves Magical Unarmed WeaponsLoves Egg DishesHintLoves Exotic Alchemy PotionsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Hirochi_the_Booklord",
+        "Loves New combat textbooks (for any combat skill).Hint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Ichin_the_Ice_Master",
+        "Loves Mushrooms of all typesHintLoves Equipment with Ice Magic prerequisitesLoves Ice CoresLoves Tundra LichenHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Kohan",
+        "Loves Carpentry ItemsHintLoves Exotic PotionsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Lady_Windsong",
+        "Likes Equipment with Druid PrerequisitesLoves Enchanted MistletoeLikes GarnetsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Nishika",
+        "Loves Raw VegetablesHintLoves BloodstonesHintLoves Leather Armor with Archery PrerequisitesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Percussa",
+        "Loves Equipment withBardprerequisites.HintLoves Azurite GemsHintLoves Spider SilkHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Rugen",
+        "Loves Raw FishHintLoves Magic DaggersHintLikes PaintingsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Shirogin",
+        "LovesAntiquesHintLoves Carded CottonHintLoves CinnabarHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Sirine",
+        "Loves CheeseHintLikes SkinsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Ufkar",
+        "LikesCarpentry ItemsHintLikesExotic PotionsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Wintria_Irasce",
+        "Loves New textbooks (for any skill EXCEPT combat skills).Hint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Zhao",
+        "Loves Flower SeedsHintLikes Flowers, Arrangements & DisplaysHintLoves Paladium OreHintLoves Pyrite OreHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Gazluk"
+      ],
+      [
+        "Aralorn",
+        "Loves BeerHintLoves Glowy Yellow CrystalsHintLoves FruitHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Fluffikins",
+        "Loves Egg DishesLoves Glowy Yellow CrystalHintLoves FigurinesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Trekker",
+        "Loves Iocane MushroomsLoves Groxmax MushroomsHintLoves Porcini MushroomsHintLoves Black Foot MorelsLoves Pixie's Parasol MushroomsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "New Prestonbule Cave"
+      ],
+      [
+        "Bellema_Deftwhisper",
+        "Loves DrinksLoves Magic CrossbowsLovesPeridotsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Gasu'um",
+        "Loves PyriteHintLikes Delicate Tack HammersLikes OpalsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Hemmit_Magmagrip",
+        "Likes Fully Assembled Mushroom BoxesHintLikesPorcini MushroomsHintLikesBlack Foot MorelsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Mox_Warcut",
+        "Loves Equipment with Battle Chemistry prerequisitesHintLoves Resistance Potions (any damage type)Hint,HintLoves Alchemy RecipesHintLoves Mummy WrappingsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Rick_Snapley",
+        "Loves PoisonsHintLoves Poisoned Food and DrinkHintLoves Magic KnivesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Sona",
+        "Loves Clothing and Cloth ArmorHintLoves PhlogistonHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Torgan",
+        "LikesAstoundingandSuperb Metal Slabs(Superb Metal Slabs are possibly called Awesome Metal Slabs in the small talk text).LovesSpruce Wood",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Gazluk Keep"
+      ],
+      [
+        "Melandria",
+        "Loves Gazluk Officer's RingsLikes Gur-HortaHintLikes OpalsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Gazluk Shadow Cave"
+      ],
+      [
+        "Sem",
+        "LovesHeartshroomHintLoves Blue CrystalsHintLoves Cranium Powder (at Friends)Hint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Red Wing Casino"
+      ],
+      [
+        "Arianna_Fangblade",
+        "Loves Equipment with Animal Handling PrerequisitesLoves Barrels of Hard Liquor",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Eveline_Rastin",
+        "Loves All ArtHintLoves Carded CottonHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Irkima",
+        "Likes Ivory TrophiesHintLoves Raw FishHintFishWholeFilletCrab+0.6+1.9Clownfish+0.6+1.0Grapefish+1.0+2.24Perch+1.3+1.6Eel+1.9+2.2Shark+2.9+3.2Flounder+3.7Cavefish+4.6SharkFin+12.3Likes Potions that Boost Damage from Specific Skills",
+        "Fish",
+        "Whole",
+        "Fillet",
+        "Crab",
+        "+0.6",
+        "+1.9",
+        "Clownfish",
+        "+0.6",
+        "+1.0",
+        "Grapefish",
+        "+1.0",
+        "+2.24",
+        "Perch",
+        "+1.3",
+        "+1.6",
+        "Eel",
+        "+1.9",
+        "+2.2",
+        "Shark",
+        "+2.9",
+        "+3.2",
+        "Flounder",
+        "",
+        "+3.7",
+        "Cavefish",
+        "",
+        "+4.6",
+        "SharkFin",
+        "",
+        "+12.3",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Fish",
+        "Whole",
+        "Fillet"
+      ],
+      [
+        "Crab",
+        "+0.6",
+        "+1.9"
+      ],
+      [
+        "Clownfish",
+        "+0.6",
+        "+1.0"
+      ],
+      [
+        "Grapefish",
+        "+1.0",
+        "+2.24"
+      ],
+      [
+        "Perch",
+        "+1.3",
+        "+1.6"
+      ],
+      [
+        "Eel",
+        "+1.9",
+        "+2.2"
+      ],
+      [
+        "Shark",
+        "+2.9",
+        "+3.2"
+      ],
+      [
+        "Flounder",
+        "",
+        "+3.7"
+      ],
+      [
+        "Cavefish",
+        "",
+        "+4.6"
+      ],
+      [
+        "SharkFin",
+        "",
+        "+12.3"
+      ],
+      [
+        "Kib_the_Unkillable",
+        "Loves SwordsHintLoves ShieldsHintLoves Fire StavesHintLoves Trophy Animal HidesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Mandibles",
+        "Loves Cooking Recipe ScrollsHintLoves Cooking IngredientsHintHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Otis",
+        "Loves Meat-Heavy Prepared MealsHintLoves ClubsHintLoves HammersHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Qatik",
+        "Loves Chairs and BenchesLoves Leather RollsLovesPerfect Lumber",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Ragabir",
+        "Loves Alchemy RecipesLoves BonesHintLoves Alchemy IngredientsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Tavilak",
+        "Loves FreshMarigoldsHintLovesPerfect LumberHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Willem_Fangblade",
+        "Loves Green CrystalsHintLoves Brass ItemsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Povus"
+      ],
+      [
+        "Brugo_the_Wise",
+        "LovesAncient BonesLovesWoodHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Dachak_the_Digger",
+        "LikesMushroom BoxesHintLikesFalse AgaricHintLikesEscaroleHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Dog_Ear",
+        "LikesFishHintLikesInsect Meat",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Errruka_the_Benefactor",
+        "Loves Live FrogsLikes Remains of Deceased ScrayHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Ferand_Deftwhisper",
+        "LikesMetal Chest ArmorLikesMetal Gloves and Gauntlets",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Gerrux",
+        "LikesSwordsLikesDirks",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Grakelsput",
+        "LikesAncient BonesHintLoves Equipment with Necromancy Gems",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Leah_Bowman",
+        "Likes Equipment with Animal Handling PrerequisitesHintLikesStorage CratesLikesPoppies",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Mope",
+        "Loves RecoveredHeartshroomsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Tremmond_Blackhammer",
+        "Likes Armor StakesHintLikes Good Metal Slabs (or higher)Hint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Fae Realm"
+      ],
+      [
+        "Backfat",
+        "LovesRaw VenisonHintLovesMeals with VenisonLovesPixie's ParasolMushroomsHintLovesFly AmanitaMushroomsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Bendith_the_Banished",
+        "Loves Brined CheeseHintLovesCharged MyceliumMushroomsHintAdditional Information at Higher FavorAt[Friends]: Likes Pixie Antlers",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Crelpin",
+        "Loves Magical Equipment withAnimal HandlingPrerequisitesHintLovesLacandUltra LacHintLovesWoolHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Felmer",
+        "Loves Enchanted Elvish JewelryHintLoves Enchanted Elvish-Style Armor and WeaponsHintLovesTiger's EyeGemsHintLovesFae Felt",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Floxie",
+        "Loves Cooked Vegetarian MealsHintLoves Magic BowsHintLoves Magic CrossbowsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Midge_the_Apothecary",
+        "Loves MercuryHintLoves Cranium PowderHintLoves Insect WingsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Noita_the_Green",
+        "Loves Max-Health-Boosting PotionsHintLoves Trophy Animal HidesHintLoves Trophy Cat HidesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Pegast",
+        "Loves Magical DirksHintLoves Metal HelmsHintLoves Beer",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Raina",
+        "LovesArtworkHintLovesCalligraphy RecipesHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Solgribue",
+        "LovesGood Metal Slabs (or higher)Loves NecklacesLoves RingsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Winter Nexus"
+      ],
+      [
+        "Corey_The_Croaker",
+        "Likes Weird JunkHintLikes Cloth ArmorHintLoves Fairy WingsHint",
+        "[Edit Small Talk]"
+      ],
+      [
+        "Fazzi",
+        "Likes Orange and Red GemsHintLikes FlowersHint",
+        "[Edit Small Talk]"
+      ]
+    ],
+    [
+      [
+        "Seedling",
+        "Councils",
+        "Favor"
+      ],
+      [
+        "Potato Seedling",
+        "7",
+        "+3.2"
+      ],
+      [
+        "Onion Seedling",
+        "9",
+        "+3.9"
+      ],
+      [
+        "Cabbage Leafling",
+        "12",
+        "+5.1"
+      ],
+      [
+        "Beet Seedling",
+        "15",
+        "+6.4"
+      ],
+      [
+        "Squash Seedling",
+        "19",
+        "+8.3"
+      ],
+      [
+        "Broccoli Seedling",
+        "22",
+        "+9.6"
+      ],
+      [
+        "Carrot Seedling",
+        "27",
+        "+11.6"
+      ]
+    ],
+    [
+      [
+        "Seedling",
+        "Councils",
+        "Favor"
+      ],
+      [
+        "Barley Seedling",
+        "14",
+        "+10"
+      ],
+      [
+        "Potato Seedling",
+        "7",
+        "+3.3"
+      ],
+      [
+        "Onion Seedling",
+        "9",
+        "+4"
+      ],
+      [
+        "Cabbage Leafling",
+        "12",
+        "+5.3"
+      ],
+      [
+        "Beet Seedling",
+        "15",
+        "+6.6"
+      ],
+      [
+        "Squash Seedling",
+        "19",
+        "+8.6"
+      ],
+      [
+        "Broccoli Seedling",
+        "22",
+        "+9.9"
+      ],
+      [
+        "Carrot Seedling",
+        "27",
+        "+11.9"
+      ]
+    ],
+    [
+      [
+        "Fish",
+        "Whole",
+        "Fillet"
+      ],
+      [
+        "Crab",
+        "+0.6",
+        "+1.9"
+      ],
+      [
+        "Clownfish",
+        "+0.6",
+        "+1.0"
+      ],
+      [
+        "Grapefish",
+        "+1.0",
+        "+2.24"
+      ],
+      [
+        "Perch",
+        "+1.3",
+        "+1.6"
+      ],
+      [
+        "Eel",
+        "+1.9",
+        "+2.2"
+      ],
+      [
+        "Shark",
+        "+2.9",
+        "+3.2"
+      ],
+      [
+        "Flounder",
+        "",
+        "+3.7"
+      ],
+      [
+        "Cavefish",
+        "",
+        "+4.6"
+      ],
+      [
+        "SharkFin",
+        "",
+        "+12.3"
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "Their money pool increases so that you can sell more items before they run out of councils.",
+      "At the same time, they will pay a larger maximum amount for an item that they are willing to buy.",
+      "Various services, including:Training in unique abilities and recipes not available elsewhere.Consignment- a sales service, somewhat similar to auction houses.Storage- 10 slots of storage."
+    ],
+    [
+      "Training in unique abilities and recipes not available elsewhere.",
+      "Consignment- a sales service, somewhat similar to auction houses.",
+      "Storage- 10 slots of storage."
+    ],
+    [
+      "LovesArt",
+      "LovesBonesHint",
+      "LovesBreadHint"
+    ],
+    [
+      "Loves GemsHint",
+      "Loves FlowersHint",
+      "Loves BooksHint",
+      "Loves Head GearHint"
+    ],
+    [
+      "Loves Mushrooms of all TypesHint",
+      "Loves Combat Beakers and FlasksHint",
+      "Loves Rare Alchemy Recipes"
+    ],
+    [
+      "Loves Rare Recipes and KnowledgeHint",
+      "Loves Items With Interesting HistoryHint",
+      "Likes PotionsHint"
+    ],
+    [
+      "Likes Prepared FoodHint",
+      "Loves Seeds",
+      "Loves SeedlingsHint"
+    ],
+    [
+      "Likes Cooking Recipes",
+      "Hates Poetry"
+    ],
+    [
+      "Loves Equipment with Battle Chemistry prerequisites",
+      "LovesBrass ItemsHint",
+      "LovesCitrinesHint"
+    ],
+    [
+      "Loves StavesHint",
+      "Loves Orcish Cultural ArtifactsHint",
+      "Loves Gur-HortaHint",
+      "Hates Nature"
+    ],
+    [
+      "Loves Crystals andGems",
+      "LikesAntiquesHint",
+      "Loves Dairy",
+      "Hates Animal Skins",
+      "Likes Fire Staves"
+    ],
+    [
+      "LovesGemsHint",
+      "LovesFlowers",
+      "Loves BooksHint"
+    ],
+    [
+      "Likes Prepared FoodHint",
+      "Loves Magical BowsHint"
+    ],
+    [
+      "LovesFish",
+      "LovesMeatHint",
+      "LovesMilkandCheeseHint",
+      "LovesVegetables",
+      "LovesPrepared FoodHint"
+    ],
+    [
+      "HatesCrystalsandGems[Friends]"
+    ],
+    [
+      "Loves Fluorite GemsHint",
+      "Loves Horseshoes (and other animal shoes)Hint",
+      "Loves Magic Equipment with Animal Handling PrerequisitesHint"
+    ],
+    [
+      "Likes Prepared FoodHint",
+      "Loves SeedsHintHint",
+      "Loves Seedlings"
+    ],
+    [
+      "Likes Cooking Recipes",
+      "Hates Poetry"
+    ],
+    [
+      "Loves SwordsHint",
+      "Loves ShieldsHint",
+      "Hates Jewelry",
+      "LovesMeatHint"
+    ],
+    [
+      "Loves Fancy RingsHint",
+      "Loves Precious GemsHint",
+      "Loves Figurines"
+    ],
+    [
+      "Loves Rare RecipesHint",
+      "Loves Vegetarian FoodHint",
+      "Hates Meat",
+      "Likes Animal SkinsHint",
+      "Loves Fire StavesHint"
+    ],
+    [
+      "DislikesFood",
+      "DislikesShoes",
+      "Likes Miscellaneous JunkHint",
+      "LovesMushroomsHint",
+      "LikesHeadgearHint"
+    ],
+    [
+      "Loves Hand-made Carpentry itemsHint",
+      "LovesDrinksHint",
+      "Loves Fashionable ShoesHint"
+    ],
+    [
+      "Dislikes Food",
+      "Likes FlowersHint",
+      "Loves Slippers",
+      "Loves Interesting Reading Material"
+    ],
+    [
+      "Loves All ArtHint",
+      "Loves Flawless Animal SkinsHint",
+      "Loves Ivory [Friends?]Hint",
+      "Hates Potions [Friends?]"
+    ],
+    [
+      "Likes Metal ArmorHint",
+      "Loves Good Metal Slabs (or higher)Hint",
+      "Likes Snail ShellsHint",
+      "Loves Ancient CoinsHint"
+    ],
+    [
+      "LikesPlantsHint",
+      "Likes SeedsHint",
+      "Hates Meat and Meat Dishes",
+      "Dislikes Fish and Fish Dishes",
+      "Loves NecklacesHint"
+    ],
+    [
+      "LovesExotic PotionsHint",
+      "LikesUnusual Animal TrophiesHint",
+      "Hates Food"
+    ],
+    [
+      "Hates Fish",
+      "Likes Anything Else EdibleHint",
+      "Likes StavesHint"
+    ],
+    [
+      "Likes Prepared Meat DishesHint",
+      "Likes Magic RingsHint",
+      "Likes Myconian HeartshroomsHint"
+    ],
+    [
+      "LovesPlantsHint-- Please note that flower seeds are not considered plants.",
+      "Loves RawVegetablesHint",
+      "LikesBrass ItemsHint"
+    ],
+    [
+      "Likes HeartshroomsHint",
+      "Loves Blue CrystalsHint"
+    ],
+    [
+      "Likes MushroomsHint",
+      "Loves FlowersHint",
+      "Loves Ores and Unrefined MetalsHint"
+    ],
+    [
+      "Loves MushroomsHint",
+      "Loves Alchemical Concoctions."
+    ],
+    [
+      "Likes Vendor TrashHint",
+      "Likes Storage CratesHint",
+      "Likes TextilesHint"
+    ],
+    [
+      "Likes RingsHint",
+      "Likes Fashionable Clothing",
+      "Likes Topaz GemsHint"
+    ],
+    [
+      "Loves DahliasHint",
+      "Loves Moss AgatesHint",
+      "Loves BarrelsHint"
+    ],
+    [
+      "LikesVendor TrashHint",
+      "LikesGoblin Armor"
+    ],
+    [
+      "LovesFigurinesHint",
+      "LovesIvoryHint",
+      "LovesCalligraphy Recipe ScrollsHint"
+    ],
+    [
+      "Likes Meditation StoolsHint",
+      "Likes Fish DishesHint"
+    ],
+    [
+      "Loves Magical Bows",
+      "Loves Good Metal Slabs (or Higher)Hint",
+      "LovesGoldHint",
+      "LovesSilver",
+      "LovesSardonyxHint",
+      "HatesPrepared Meals"
+    ],
+    [
+      "LovesPlantsHint",
+      "LovesStrange DirtHint",
+      "LovesEggsHint",
+      "Loves Egg DishesHint"
+    ],
+    [
+      "LikesWool",
+      "LikesTailoring Recipes",
+      "LikesPink Dye"
+    ],
+    [
+      "LovesEnchanted Druidic Plants and SeedsHint",
+      "Loves Magic Dusts of all VarietiesHint"
+    ],
+    [
+      "Loves Perfect Pieces of WoodHint",
+      "Loves Dessert MealsHintHint",
+      "Likes BeerHint"
+    ],
+    [
+      "Likes Pickled FishHint",
+      "Loves Animal HornsHint",
+      "LovesBoar TusksHint",
+      "Likes Fish Dishes"
+    ],
+    [
+      "Loves Calligraphy BenchesHint",
+      "Likes Raw MeatHint",
+      "Loves GrapesHint"
+    ],
+    [
+      "LovesRanalon Cultural ItemsHint",
+      "LovesMagic Dusts of all VarietiesHint"
+    ],
+    [
+      "Loves Gently-Used ShieldsHint",
+      "Likes Armor Repair KitsHint",
+      "Likes Ability Recipe Books",
+      "Loves Citrus FruitsHint"
+    ],
+    [
+      "LikesCheeseandDairyMealsHint",
+      "LikesMilkHint",
+      "LovesMagic OilsHint"
+    ],
+    [
+      "Likes Council CertificatesHint",
+      "Likes Unused ClothHint"
+    ],
+    [
+      "Likes Chairs and Other Things To Sit OnHint",
+      "Likes Veggie-Heavy DinnersHint",
+      "Loves Strange DirtHint"
+    ],
+    [
+      "Hates Stupid Crap",
+      "Hates Gross Monster Bits",
+      "Loves PoetryHint",
+      "Loves Extremely Valuable ThingsHint",
+      "Loves ObsidianHint"
+    ],
+    [
+      "LovesPoetryHint",
+      "Loves StavesHint",
+      "LovesRaw FruitHint"
+    ],
+    [
+      "Loves Clothing and Cloth ArmorHint",
+      "Loves PaintingsHint"
+    ],
+    [
+      "Likes BonesHint",
+      "Loves Hearts",
+      "Likes Equipment with Necromancy Prerequisites"
+    ],
+    [
+      "Likes Gauntlets and GlovesHint",
+      "LovesBrass ItemsHint",
+      "LovesRaw FishHint"
+    ],
+    [
+      "Hates Artwork",
+      "Loves OnyxHint",
+      "Likes SkinsHint",
+      "Likes PotionsHint"
+    ],
+    [
+      "Loves Goblin armor",
+      "Loves Horseshoes"
+    ],
+    [
+      "Likes PeridotsHint",
+      "Likes Fairy WingsHint",
+      "Likes Magic Teeth",
+      "Loves Drying Boxes of ArrowsHint",
+      "Likes Pick-Me-Up Juice[Close Friends]",
+      "Likes Memory Inhibitor Potions[Close Friends]"
+    ],
+    [
+      "LovesSnail ShellsHint",
+      "LikesBloodstonesHint"
+    ],
+    [
+      "Hates Stupid Crap",
+      "Hates Gross Monster Bits",
+      "Loves Poetry",
+      "Likes Extremely Valuable ThingsHint",
+      "Likes ObsidianHint"
+    ],
+    [
+      "Loves DessertsHintHint",
+      "Loves Tailoring Recipe Scrolls",
+      "Loves Sexy Clothing",
+      "Loves SpoonsHint"
+    ],
+    [
+      "Loves Magic NecklacesHint",
+      "Loves OnyxHint",
+      "Loves Ancient CoinsHint",
+      "Loves SpleensHint"
+    ],
+    [
+      "Loves Lapis LazuliHint",
+      "Loves MushroomsHint"
+    ],
+    [
+      "Likes First Aid KitsHint",
+      "Likes DrugsHint",
+      "Likes GarnetsHint",
+      "Likes DessertsHint"
+    ],
+    [
+      "Likes Pineal JuiceHint",
+      "Likes Hand-Made FurnitureHint",
+      "Loves SpoonsHint"
+    ],
+    [
+      "Likes Meat Dishes",
+      "Likes CheeseclothHint"
+    ],
+    [
+      "Likes SwordsHint",
+      "Likes Equipment With Sword RequirementsHint",
+      "Loves Calligraphy Recipe Scrolls"
+    ],
+    [
+      "Loves Equipment with Holy SymbolsHint",
+      "Loves Lapis LazuliHint",
+      "Loves Mummy WrappingsHint"
+    ],
+    [
+      "Loves Ethnic Jewelry and OrnamentsHint",
+      "Likes White CrystalsHint",
+      "LovesCranium GelHint"
+    ],
+    [
+      "Likes Werewolf Oriented Magic ItemsHint",
+      "Likes Raw Fish",
+      "Likes Max-Health-Boosting Potions"
+    ],
+    [
+      "Loves Swords",
+      "LovesCarneliansHint",
+      "Loves Fruit DishesHint"
+    ],
+    [
+      "LovesMagic OilsHint",
+      "LovesOnyxHint",
+      "LikesWoodHint",
+      "LikesSexy ClothesHint",
+      "LikesFashionable ShoesHint"
+    ],
+    [
+      "Loves Ice CoresHint",
+      "Loves Fire Staves",
+      "Loves Anything withFire Magicenchantments",
+      "Hates Cloth Equipment"
+    ],
+    [
+      "Loves Anything EdibleHint",
+      "Loves DessertsHint"
+    ],
+    [
+      "Likes Equipment with psychology prerequisitesHint",
+      "Likes BounceweedHint",
+      "Likes Tundra LichenHint"
+    ],
+    [
+      "LovesTopazHint",
+      "LovesGur-HortaHint",
+      "LovesGoldenrod Dye PotsHint",
+      "HatesOrgans and Body Parts"
+    ],
+    [
+      "LikesTsavorite GemsHint",
+      "LikesAquamarine GemsHint",
+      "LikesAmethyst GemsHint",
+      "Likes Magic RingsHint",
+      "Loves Fresh Citrus FruitHint"
+    ],
+    [
+      "Likes FruitHint",
+      "Loves Uncooked FishHint",
+      "Likes Raw Vegetables",
+      "Loves EggsHint"
+    ],
+    [
+      "Likes Necklaces and AmuletsHint",
+      "Likes MoonstonesHint",
+      "Likes Unusual Animal Trophies",
+      "Hates Vegetables"
+    ],
+    [
+      "Loves Wood",
+      "Loves Furniture",
+      "Loves Leather RollsHint"
+    ],
+    [
+      "Loves Trophy Animal SkinsHint",
+      "Loves Meaty MealsHint",
+      "Likes Snail ShellsHint",
+      "Loves Ancient CoinsHint",
+      "Hates Citrus"
+    ],
+    [
+      "Loves Skulls of All TypesHint",
+      "Loves Brains of All Types",
+      "Likes Cloth Armor"
+    ],
+    [
+      "Likes Shields",
+      "Likes Equipment with Lycanthropy prerequisites",
+      "Likes Fire Dust"
+    ],
+    [
+      "Likes Fresh FruitHint",
+      "Loves CarrotsHint",
+      "Loves Fashionable HatsHint"
+    ],
+    [
+      "LovesRaw Rabbit Meat.",
+      "LovesMeat.",
+      "LovesFresh Fruit."
+    ],
+    [
+      "Likes Magic Equipment with Warden PrerequisitesHint",
+      "Likes GrassHint",
+      "Loves Raw PeppersHint"
+    ],
+    [
+      "Likes GearsHint",
+      "Likes Wires, Weights, and GizmosHint",
+      "Likes FigurinesHint"
+    ],
+    [
+      "LovesRaw Rabbit Meat.",
+      "LovesMeat.",
+      "LovesFresh Fruit."
+    ],
+    [
+      "Likes Magic Equipment with Deer Prerequisites",
+      "Loves Apples",
+      "Loves Almonds and other nuts",
+      "Likes BounceweedHint",
+      "Hates Meat and Meat Dishes"
+    ],
+    [
+      "Loves Raw Rabbit MeatHint",
+      "Loves Other Raw MeatHint",
+      "Likes Fresh FruitHint"
+    ],
+    [
+      "Loves Fairy WingsHint",
+      "Loves Magic ClubsHintHint",
+      "Loves Ancient CoinsHint",
+      "Hates Troll Flesh"
+    ],
+    [
+      "Loves Fresh FishHint",
+      "Loves SeashellsHint",
+      "Loves StarfishHint"
+    ],
+    [
+      "Loves CarrotsHint",
+      "Likes Raw VegetablesHint",
+      "Likes Equipment with Rabbit Prerequisites"
+    ],
+    [
+      "Likes PotionsHint",
+      "Loves Alchemy RecipesHint",
+      "Likes Phlogiston, Fire Dust, Sulfur, and SaltpeterHint"
+    ],
+    [
+      "Loves ClothHintHint",
+      "Loves DyesHint"
+    ],
+    [
+      "Likes Magic Equipment with Deer PrerequisitesHint",
+      "Loves BounceweedHint",
+      "Likes Vegetable-Laden Snack Foods"
+    ],
+    [
+      "Likes Good Metal Slabs (or higher)HintHint",
+      "Loves FigurinesHint"
+    ],
+    [
+      "Likes Corpse TrophiesHint",
+      "Loves Hooks and StingersHint"
+    ],
+    [
+      "Likes MushroomsHint",
+      "Likes NecklacesHint"
+    ],
+    [
+      "Likes Magic Equipment with Cow PrerequisitesHint",
+      "Loves Vegetarian MealsHint",
+      "Hates Meat and Meat Dishes",
+      "Hates Leather, Skins, and Leather Products"
+    ],
+    [
+      "Likes Raw Meat",
+      "Likes Shiny CrystalsHint"
+    ],
+    [
+      "Loves Racial-Slot Equipment",
+      "Likes Restorative PotionsHintHint"
+    ],
+    [
+      "Loves Magic Swords",
+      "Loves Cooked Vegetable MealsHint",
+      "Loves Winter Court Armor"
+    ],
+    [
+      "LovesFresh FruitHint",
+      "LovesCheeseHintHint",
+      "LovesSpoonsHint",
+      "LovesFae Felt"
+    ],
+    [
+      "Loves Good Metal Slabs (or higher)",
+      "Loves Dye"
+    ],
+    [
+      "Loves Enchanted Daggers",
+      "LovesObsidianHint",
+      "Loves Throwing Knives"
+    ],
+    [
+      "Loves Odd ScrollsHint",
+      "LovesGemsand CrystalsHint",
+      "DislikesFae Felt"
+    ],
+    [
+      "Loves Equipment with Mentalism prerequisitesHint",
+      "Loves Cloth ArmorHint",
+      "Loves Animal HornsHint"
+    ],
+    [
+      "Loves Chest Armor",
+      "Loves Fruit DishesHint",
+      "Loves Equipment with Druid PrerequisitesHint"
+    ],
+    [
+      "LovesWoodHint",
+      "LovesWooden EquipmentHint",
+      "DislikesFootwear",
+      "HatesMetal Equipment"
+    ],
+    [
+      "Loves Magic OilsHint",
+      "Loves Pineal JuiceHint",
+      "Loves Enchanted MistletoeHint",
+      "Likes Silver and Silver ItemsHintHint"
+    ],
+    [
+      "Loves Magic Rings",
+      "Loves SkullsHint",
+      "HatesAntiques"
+    ],
+    [
+      "Likes Rare or Better Magic GearHint",
+      "Dislikes Non-Magical Equipment"
+    ],
+    [
+      "Loves Skulls of All TypesHint",
+      "Loves Brains of All Types",
+      "Loves Dragon ScalesHint"
+    ],
+    [
+      "Loves Magic Equipment with Archery PrerequisitesHint",
+      "Likes Statues and FigurinesHint",
+      "Hates Food"
+    ],
+    [
+      "Loves Magic Equipment with Hammer Prerequisites",
+      "Likes Moss AgatesHint",
+      "Hates Leather Armor"
+    ],
+    [
+      "Loves Paintings",
+      "Loves Fish DishesHintHint",
+      "Loves Silver ItemsHint"
+    ],
+    [
+      "Loves Monster Corpse TrophiesHint",
+      "Loves Fish MealsHintHint",
+      "Loves DirtHint"
+    ],
+    [
+      "Loves Raw MeatHint",
+      "Loves Bounceweed",
+      "Loves Spleens"
+    ],
+    [
+      "Loves Skulls of All TypesHint",
+      "Loves Brains of All TypesHint",
+      "Loves Dragon ScalesHint"
+    ],
+    [
+      "Loves Turquoise GemsHint",
+      "Loves Morganite GemsHint",
+      "Loves Tiger's Eye GemsHint",
+      "Loves Saddle BlanketsHintHint"
+    ],
+    [
+      "Loves Piles of Raw MeatHint",
+      "Loves Ice CoresHint",
+      "Loves BloodstonesHint",
+      "Loves Exotic Cooking Recipes"
+    ],
+    [
+      "Loves Shields",
+      "Loves Off-Hand Augments",
+      "LovesOnyxHint"
+    ],
+    [
+      "Loves Magic Equipment withFire MagicPrerequisitesHint",
+      "Loves Clothing and Cloth ArmorHint"
+    ],
+    [
+      "Likes CrystalsHint",
+      "Loves GemsHint",
+      "Likes JewelryHint"
+    ],
+    [
+      "LovesMaximized Obsidian",
+      "LovesSnail ShellsHint",
+      "LovesHeadgear with Hammer PrerequisitesHint"
+    ],
+    [
+      "Loves Magic Equipment withMentalismprerequisitesHint",
+      "Loves Animal HornsHint",
+      "Loves Animal StingersHint",
+      "Loves Animal TeethHint"
+    ],
+    [
+      "Likes BonesHint",
+      "Loves EctoplasmHint",
+      "Likes Serpentine GemsHint"
+    ],
+    [
+      "Loves Barrels of Hard Liquor (Aged or Not)Hint",
+      "Loves Casks of Wine (Aged or Not)",
+      "Loves Juniper BerriesHint"
+    ],
+    [
+      "Loves Magical Unarmed Weapons",
+      "Loves Egg DishesHint",
+      "Loves Exotic Alchemy PotionsHint"
+    ],
+    [
+      "Loves New combat textbooks (for any combat skill).Hint"
+    ],
+    [
+      "Loves Mushrooms of all typesHint",
+      "Loves Equipment with Ice Magic prerequisites",
+      "Loves Ice Cores",
+      "Loves Tundra LichenHint"
+    ],
+    [
+      "Loves Carpentry ItemsHint",
+      "Loves Exotic PotionsHint"
+    ],
+    [
+      "Likes Equipment with Druid Prerequisites",
+      "Loves Enchanted Mistletoe",
+      "Likes GarnetsHint"
+    ],
+    [
+      "Loves Raw VegetablesHint",
+      "Loves BloodstonesHint",
+      "Loves Leather Armor with Archery PrerequisitesHint"
+    ],
+    [
+      "Loves Equipment withBardprerequisites.Hint",
+      "Loves Azurite GemsHint",
+      "Loves Spider SilkHint"
+    ],
+    [
+      "Loves Raw FishHint",
+      "Loves Magic DaggersHint",
+      "Likes PaintingsHint"
+    ],
+    [
+      "LovesAntiquesHint",
+      "Loves Carded CottonHint",
+      "Loves CinnabarHint"
+    ],
+    [
+      "Loves CheeseHint",
+      "Likes SkinsHint"
+    ],
+    [
+      "LikesCarpentry ItemsHint",
+      "LikesExotic PotionsHint"
+    ],
+    [
+      "Loves New textbooks (for any skill EXCEPT combat skills).Hint"
+    ],
+    [
+      "Loves Flower SeedsHint",
+      "Likes Flowers, Arrangements & DisplaysHint",
+      "Loves Paladium OreHint",
+      "Loves Pyrite OreHint"
+    ],
+    [
+      "Loves BeerHint",
+      "Loves Glowy Yellow CrystalsHint",
+      "Loves FruitHint"
+    ],
+    [
+      "Loves Egg Dishes",
+      "Loves Glowy Yellow CrystalHint",
+      "Loves FigurinesHint"
+    ],
+    [
+      "Loves Iocane Mushrooms",
+      "Loves Groxmax MushroomsHint",
+      "Loves Porcini MushroomsHint",
+      "Loves Black Foot Morels",
+      "Loves Pixie's Parasol MushroomsHint"
+    ],
+    [
+      "Loves Drinks",
+      "Loves Magic Crossbows",
+      "LovesPeridotsHint"
+    ],
+    [
+      "Loves PyriteHint",
+      "Likes Delicate Tack Hammers",
+      "Likes OpalsHint"
+    ],
+    [
+      "Likes Fully Assembled Mushroom BoxesHint",
+      "LikesPorcini MushroomsHint",
+      "LikesBlack Foot MorelsHint"
+    ],
+    [
+      "Loves Equipment with Battle Chemistry prerequisitesHint",
+      "Loves Resistance Potions (any damage type)Hint,Hint",
+      "Loves Alchemy RecipesHint",
+      "Loves Mummy WrappingsHint"
+    ],
+    [
+      "Loves PoisonsHint",
+      "Loves Poisoned Food and DrinkHint",
+      "Loves Magic KnivesHint"
+    ],
+    [
+      "Loves Clothing and Cloth ArmorHint",
+      "Loves PhlogistonHint"
+    ],
+    [
+      "LikesAstoundingandSuperb Metal Slabs(Superb Metal Slabs are possibly called Awesome Metal Slabs in the small talk text).",
+      "LovesSpruce Wood"
+    ],
+    [
+      "Loves Gazluk Officer's Rings",
+      "Likes Gur-HortaHint",
+      "Likes OpalsHint"
+    ],
+    [
+      "LovesHeartshroomHint",
+      "Loves Blue CrystalsHint",
+      "Loves Cranium Powder (at Friends)Hint"
+    ],
+    [
+      "Loves Equipment with Animal Handling Prerequisites",
+      "Loves Barrels of Hard Liquor"
+    ],
+    [
+      "Loves All ArtHint",
+      "Loves Carded CottonHint"
+    ],
+    [
+      "Likes Ivory TrophiesHint",
+      "Loves Raw FishHint"
+    ],
+    [
+      "Likes Potions that Boost Damage from Specific Skills"
+    ],
+    [
+      "Loves SwordsHint",
+      "Loves ShieldsHint",
+      "Loves Fire StavesHint",
+      "Loves Trophy Animal HidesHint"
+    ],
+    [
+      "Loves Cooking Recipe ScrollsHint",
+      "Loves Cooking IngredientsHintHint"
+    ],
+    [
+      "Loves Meat-Heavy Prepared MealsHint",
+      "Loves ClubsHint",
+      "Loves HammersHint"
+    ],
+    [
+      "Loves Chairs and Benches",
+      "Loves Leather Rolls",
+      "LovesPerfect Lumber"
+    ],
+    [
+      "Loves Alchemy Recipes",
+      "Loves BonesHint",
+      "Loves Alchemy IngredientsHint"
+    ],
+    [
+      "Loves FreshMarigoldsHint",
+      "LovesPerfect LumberHint"
+    ],
+    [
+      "Loves Green CrystalsHint",
+      "Loves Brass ItemsHint"
+    ],
+    [
+      "LovesAncient Bones",
+      "LovesWoodHint"
+    ],
+    [
+      "LikesMushroom BoxesHint",
+      "LikesFalse AgaricHint",
+      "LikesEscaroleHint"
+    ],
+    [
+      "LikesFishHint",
+      "LikesInsect Meat"
+    ],
+    [
+      "Loves Live Frogs",
+      "Likes Remains of Deceased ScrayHint"
+    ],
+    [
+      "LikesMetal Chest Armor",
+      "LikesMetal Gloves and Gauntlets"
+    ],
+    [
+      "LikesSwords",
+      "LikesDirks"
+    ],
+    [
+      "LikesAncient BonesHint",
+      "Loves Equipment with Necromancy Gems"
+    ],
+    [
+      "Likes Equipment with Animal Handling PrerequisitesHint",
+      "LikesStorage Crates",
+      "LikesPoppies"
+    ],
+    [
+      "Loves RecoveredHeartshroomsHint"
+    ],
+    [
+      "Likes Armor StakesHint",
+      "Likes Good Metal Slabs (or higher)Hint"
+    ],
+    [
+      "LovesRaw VenisonHint",
+      "LovesMeals with Venison",
+      "LovesPixie's ParasolMushroomsHint",
+      "LovesFly AmanitaMushroomsHint"
+    ],
+    [
+      "Loves Brined CheeseHint",
+      "LovesCharged MyceliumMushroomsHint"
+    ],
+    [
+      "Loves Magical Equipment withAnimal HandlingPrerequisitesHint",
+      "LovesLacandUltra LacHint",
+      "LovesWoolHint"
+    ],
+    [
+      "Loves Enchanted Elvish JewelryHint",
+      "Loves Enchanted Elvish-Style Armor and WeaponsHint",
+      "LovesTiger's EyeGemsHint",
+      "LovesFae Felt"
+    ],
+    [
+      "Loves Cooked Vegetarian MealsHint",
+      "Loves Magic BowsHint",
+      "Loves Magic CrossbowsHint"
+    ],
+    [
+      "Loves MercuryHint",
+      "Loves Cranium PowderHint",
+      "Loves Insect WingsHint"
+    ],
+    [
+      "Loves Max-Health-Boosting PotionsHint",
+      "Loves Trophy Animal HidesHint",
+      "Loves Trophy Cat HidesHint"
+    ],
+    [
+      "Loves Magical DirksHint",
+      "Loves Metal HelmsHint",
+      "Loves Beer"
+    ],
+    [
+      "LovesArtworkHint",
+      "LovesCalligraphy RecipesHint"
+    ],
+    [
+      "LovesGood Metal Slabs (or higher)",
+      "Loves Necklaces",
+      "Loves RingsHint"
+    ],
+    [
+      "Likes Weird JunkHint",
+      "Likes Cloth ArmorHint",
+      "Loves Fairy WingsHint"
+    ],
+    [
+      "Likes Orange and Red GemsHint",
+      "Likes FlowersHint"
+    ],
+    [
+      "Merchants",
+      "Bartering"
+    ],
+    [
+      "Mechanics"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "gifts",
+      "href": "/wiki/Gifting"
+    },
+    {
+      "text": "hanging out",
+      "href": "/wiki/Hang_Outs"
+    },
+    {
+      "text": "Consignment",
+      "href": "/wiki/Consignment"
+    },
+    {
+      "text": "Storage",
+      "href": "/wiki/Storage"
+    },
+    {
+      "text": "Quests",
+      "href": "/wiki/Quests"
+    },
+    {
+      "text": "Velkort",
+      "href": "/wiki/Velkort"
+    },
+    {
+      "text": "Category:Items/Potion",
+      "href": "/wiki/Category:Items/Potion"
+    },
+    {
+      "text": "Category:Items/CorpseTrophy",
+      "href": "/wiki/Category:Items/CorpseTrophy"
+    },
+    {
+      "text": "Category:Items/PreparedFood",
+      "href": "/wiki/Category:Items/PreparedFood"
+    },
+    {
+      "text": "Basic Stoneskin Potion",
+      "href": "/wiki/Basic_Stoneskin_Potion"
+    },
+    {
+      "text": "Feathers",
+      "href": "/wiki/Feathers"
+    },
+    {
+      "text": "Lead Figurine of a Goblin",
+      "href": "/wiki/Lead_Figurine_of_a_Goblin"
+    },
+    {
+      "text": "Category:Items/Figurine",
+      "href": "/wiki/Category:Items/Figurine"
+    },
+    {
+      "text": "Brass Figurine",
+      "href": "/wiki/Brass_Figurine"
+    },
+    {
+      "text": "http://cdn.projectgorgon.com/",
+      "href": "http://cdn.projectgorgon.com/"
+    },
+    {
+      "text": "Civic Pride",
+      "href": "/wiki/Civic_Pride"
+    },
+    {
+      "text": "Notoriety",
+      "href": "/wiki/Notoriety"
+    },
+    {
+      "text": "Anagoge",
+      "href": "/wiki/Anagoge"
+    },
+    {
+      "text": "Lawara",
+      "href": "/wiki/Lawara"
+    },
+    {
+      "text": "Art",
+      "href": "/wiki/Category:Items/Artwork"
+    },
+    {
+      "text": "Bones",
+      "href": "/wiki/Category:Items/Bone"
+    },
+    {
+      "text": "Bread",
+      "href": "/wiki/Category:Items/BreadDish"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Lawara/Small_talk&action=edit"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Azalak",
+      "href": "/wiki/Azalak"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Azalak/Small_talk&action=edit"
+    },
+    {
+      "text": "Charles_Thompson",
+      "href": "/wiki/Charles_Thompson"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Charles_Thompson/Small_talk&action=edit"
+    },
+    {
+      "text": "Flia",
+      "href": "/wiki/Flia"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Flia/Small_talk&action=edit"
+    },
+    {
+      "text": "Ivyn",
+      "href": "/wiki/Ivyn"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Ivyn/Small_talk&action=edit"
+    },
+    {
+      "text": "Leonard_Allenson",
+      "href": "/wiki/Leonard_Allenson"
+    },
+    {
+      "text": "Brass Items",
+      "href": "/wiki/Category:Items/Brass"
+    },
+    {
+      "text": "Citrines",
+      "href": "/wiki/Category:Items/Citrine"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Leonard_Allenson/Small_talk&action=edit"
+    },
+    {
+      "text": "Roshun_the_Traitor",
+      "href": "/wiki/Roshun_the_Traitor"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Roshun_the_Traitor/Small_talk&action=edit"
+    },
+    {
+      "text": "Serbule Keep",
+      "href": "/wiki/Serbule_Keep"
+    },
+    {
+      "text": "Blanche",
+      "href": "/wiki/Blanche"
+    },
+    {
+      "text": "Gems",
+      "href": "/wiki/Gems"
+    },
+    {
+      "text": "Antiques",
+      "href": "/wiki/Category:Items/Antique"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Blanche/Small_talk&action=edit"
+    },
+    {
+      "text": "Echur",
+      "href": "/wiki/Echur"
+    },
+    {
+      "text": "Gems",
+      "href": "/wiki/Gems"
+    },
+    {
+      "text": "Flowers",
+      "href": "/wiki/Flowers"
+    },
+    {
+      "text": "Drugs",
+      "href": "/wiki/Category:Items/Drug"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Echur/Small_talk&action=edit"
+    },
+    {
+      "text": "Elahil",
+      "href": "/wiki/Elahil"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Elahil/Small_talk&action=edit"
+    },
+    {
+      "text": "Fainor",
+      "href": "/wiki/Fainor"
+    },
+    {
+      "text": "Fish",
+      "href": "/wiki/Category:Items/Fish"
+    },
+    {
+      "text": "Meat",
+      "href": "/wiki/Category:Items/Meat"
+    },
+    {
+      "text": "Milk",
+      "href": "/wiki/Category:Items/Milk"
+    },
+    {
+      "text": "Cheese",
+      "href": "/wiki/Category:Items/Cheese"
+    },
+    {
+      "text": "Vegetables",
+      "href": "/wiki/Category:Items/Vegetable"
+    },
+    {
+      "text": "Prepared Food",
+      "href": "/wiki/Category:Items/PreparedFood"
+    },
+    {
+      "text": "Crystals",
+      "href": "/wiki/Category:Items/Crystal"
+    },
+    {
+      "text": "Gems",
+      "href": "/wiki/Gems"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Fainor/Small_talk&action=edit"
+    },
+    {
+      "text": "Gisli",
+      "href": "/wiki/Gisli"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Gisli/Small_talk&action=edit"
+    },
+    {
+      "text": "Hulon",
+      "href": "/wiki/Hulon"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Hulon/Small_talk&action=edit"
+    },
+    {
+      "text": "Joeh",
+      "href": "/wiki/Joeh"
+    },
+    {
+      "text": "Meat",
+      "href": "/wiki/Category:Items/Meat"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Joeh/Small_talk&action=edit"
+    },
+    {
+      "text": "Larsan",
+      "href": "/wiki/Larsan"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Larsan/Small_talk&action=edit"
+    },
+    {
+      "text": "Marna",
+      "href": "/wiki/Marna"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Marna/Small_talk&action=edit"
+    },
+    {
+      "text": "Mushroom_Jack",
+      "href": "/wiki/Mushroom_Jack"
+    },
+    {
+      "text": "Food",
+      "href": "/wiki/Gourmand#Types_of_Foods"
+    },
+    {
+      "text": "Shoes",
+      "href": "/wiki/Category:Items/Feet"
+    },
+    {
+      "text": "Mushrooms",
+      "href": "/wiki/Category:Items/Mushroom"
+    },
+    {
+      "text": "Headgear",
+      "href": "/wiki/Category:Items/Head"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Mushroom_Jack/Small_talk&action=edit"
+    },
+    {
+      "text": "Nelson Ballard",
+      "href": "/wiki/Nelson_Ballard"
+    },
+    {
+      "text": "Drinks",
+      "href": "/wiki/Category:Items/Drink"
+    },
+    {
+      "text": "Ballard/Small_talk&action=edit Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Nelson"
+    },
+    {
+      "text": "Rita",
+      "href": "/wiki/Rita"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Rita/Small_talk&action=edit"
+    },
+    {
+      "text": "Sir_Coth",
+      "href": "/wiki/Sir_Coth"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Sir_Coth/Small_talk&action=edit"
+    },
+    {
+      "text": "Tadion",
+      "href": "/wiki/Tadion"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Tadion/Small_talk&action=edit"
+    },
+    {
+      "text": "Therese",
+      "href": "/wiki/Therese"
+    },
+    {
+      "text": "Plants",
+      "href": "/wiki/Category:Items/Plant"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Therese/Small_talk&action=edit"
+    },
+    {
+      "text": "Velkort",
+      "href": "/wiki/Velkort"
+    },
+    {
+      "text": "Exotic Potions",
+      "href": "/wiki/Category:Items/ExoticPotion"
+    },
+    {
+      "text": "Unusual Animal Trophies",
+      "href": "/wiki/Category:Items/CorpseTrophy"
+    },
+    {
+      "text": "Antiques",
+      "href": "/wiki/Category:Items/Antique"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Velkort/Small_talk&action=edit"
+    },
+    {
+      "text": "Serbule Crypt",
+      "href": "/wiki/Serbule_Crypt"
+    },
+    {
+      "text": "Sir_Arif",
+      "href": "/wiki/Sir_Arif"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Sir_Arif/Small_talk&action=edit"
+    },
+    {
+      "text": "Carpal Tunnels",
+      "href": "/wiki/Carpal_Tunnels"
+    },
+    {
+      "text": "Zealo",
+      "href": "/wiki/Zealo"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Zealo/Small_talk&action=edit"
+    },
+    {
+      "text": "Myconian Cave",
+      "href": "/wiki/Myconian_Cave"
+    },
+    {
+      "text": "Jaw",
+      "href": "/wiki/Jaw"
+    },
+    {
+      "text": "Plants",
+      "href": "/wiki/Category:Items/Plant"
+    },
+    {
+      "text": "Vegetables",
+      "href": "/wiki/Category:Items/Vegetable"
+    },
+    {
+      "text": "Brass Items",
+      "href": "/wiki/Category:Items/Brass"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Jaw/Small_talk&action=edit"
+    },
+    {
+      "text": "Mu",
+      "href": "/wiki/Mu"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Mu/Small_talk&action=edit"
+    },
+    {
+      "text": "Poe",
+      "href": "/wiki/Poe"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Poe/Small_talk&action=edit"
+    },
+    {
+      "text": "Voo",
+      "href": "/wiki/Voo"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Voo/Small_talk&action=edit"
+    },
+    {
+      "text": "Way",
+      "href": "/wiki/Way"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Way/Small_talk&action=edit"
+    },
+    {
+      "text": "Serbule Hills",
+      "href": "/wiki/Serbule_Hills"
+    },
+    {
+      "text": "Baroness_Marith_Felgard",
+      "href": "/wiki/Baroness_Marith_Felgard"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Baroness_Marith_Felgard/Small_talk&action=edit"
+    },
+    {
+      "text": "Brianna_Willer",
+      "href": "/wiki/Brianna_Willer"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Brianna_Willer/Small_talk&action=edit"
+    },
+    {
+      "text": "Cleo_Conyer",
+      "href": "/wiki/Cleo_Conyer"
+    },
+    {
+      "text": "Vendor Trash",
+      "href": "/wiki/Category:Items/VendorTrash"
+    },
+    {
+      "text": "Goblin Armor",
+      "href": "/wiki/Category:Items/GoblinArmor"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Cleo_Conyer/Small_talk&action=edit"
+    },
+    {
+      "text": "Durstin_Tallow",
+      "href": "/wiki/Durstin_Tallow"
+    },
+    {
+      "text": "Figurines",
+      "href": "/wiki/Category:Items/Figurine"
+    },
+    {
+      "text": "Ivory",
+      "href": "/wiki/Category:Items/IvoryTrophy"
+    },
+    {
+      "text": "Calligraphy Recipe Scrolls",
+      "href": "/wiki/Category:Items/CalligraphyRecipe"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Durstin_Tallow/Small_talk&action=edit"
+    },
+    {
+      "text": "Gershok",
+      "href": "/wiki/Gershok"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Gershok/Small_talk&action=edit"
+    },
+    {
+      "text": "Jaime_Fatholm",
+      "href": "/wiki/Jaime_Fatholm"
+    },
+    {
+      "text": "Gold",
+      "href": "/wiki/Category:Items/Gold"
+    },
+    {
+      "text": "Silver",
+      "href": "/wiki/Category:Items/Silver"
+    },
+    {
+      "text": "Sardonyx",
+      "href": "/wiki/Category:Items/Sardonyx"
+    },
+    {
+      "text": "Prepared Meals",
+      "href": "/wiki/Category:Items/PreparedFood"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Jaime_Fatholm/Small_talk&action=edit"
+    },
+    {
+      "text": "Julius_Patton",
+      "href": "/wiki/Julius_Patton"
+    },
+    {
+      "text": "Plants",
+      "href": "/wiki/Category:Items/Plant"
+    },
+    {
+      "text": "Strange Dirt",
+      "href": "/wiki/Strange_Dirt"
+    },
+    {
+      "text": "Eggs",
+      "href": "/wiki/Egg"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Julius_Patton/Small_talk&action=edit"
+    },
+    {
+      "text": "Lana_Songtree",
+      "href": "/wiki/Lana_Songtree"
+    },
+    {
+      "text": "Wool",
+      "href": "/wiki/Wool"
+    },
+    {
+      "text": "Tailoring Recipes",
+      "href": "/wiki/Category:Items/TailoringRecipe"
+    },
+    {
+      "text": "Pink Dye",
+      "href": "/wiki/Category:Items/PinkDye"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Lana_Songtree/Small_talk&action=edit"
+    },
+    {
+      "text": "Merriana",
+      "href": "/wiki/Merriana"
+    },
+    {
+      "text": "Enchanted Druidic Plants and Seeds",
+      "href": "/wiki/Category:Items/Druidic"
+    },
+    {
+      "text": "Loves Magic Dusts of all Varieties",
+      "href": "/wiki/Category:Items/MagicDust"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Merriana/Small_talk&action=edit"
+    },
+    {
+      "text": "Paul_Vaughn",
+      "href": "/wiki/Paul_Vaughn"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Paul_Vaughn/Small_talk&action=edit"
+    },
+    {
+      "text": "Rappanel",
+      "href": "/wiki/Rappanel"
+    },
+    {
+      "text": "Boar Tusks",
+      "href": "/wiki/Boar_Tusk"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Rappanel/Small_talk&action=edit"
+    },
+    {
+      "text": "Sammie_Grimspine",
+      "href": "/wiki/Sammie_Grimspine"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Sammie_Grimspine/Small_talk&action=edit"
+    },
+    {
+      "text": "Trasen",
+      "href": "/wiki/Trasen"
+    },
+    {
+      "text": "Ranalon Cultural Items",
+      "href": "/wiki/Category:Items/RanalonCulture"
+    },
+    {
+      "text": "Magic Dusts of all Varieties",
+      "href": "/wiki/Category:Items/MagicDust"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Trasen/Small_talk&action=edit"
+    },
+    {
+      "text": "Tyler_Green",
+      "href": "/wiki/Tyler_Green"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Tyler_Green/Small_talk&action=edit"
+    },
+    {
+      "text": "Eltibule",
+      "href": "/wiki/Eltibule"
+    },
+    {
+      "text": "Braigon",
+      "href": "/wiki/Braigon"
+    },
+    {
+      "text": "Cheese",
+      "href": "/wiki/Category:Items/Cheese"
+    },
+    {
+      "text": "Dairy",
+      "href": "/wiki/Category:Items/DairyDish"
+    },
+    {
+      "text": "Milk",
+      "href": "/wiki/Bottle_of_Milk"
+    },
+    {
+      "text": "Magic Oils",
+      "href": "/wiki/Category:Items/MagicOil"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Braigon/Small_talk&action=edit"
+    },
+    {
+      "text": "George_Madler",
+      "href": "/wiki/George_Madler"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=George_Madler/Small_talk&action=edit"
+    },
+    {
+      "text": "Gretchen_Salas",
+      "href": "/wiki/Gretchen_Salas"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Gretchen_Salas/Small_talk&action=edit"
+    },
+    {
+      "text": "Helena_Veilmoor",
+      "href": "/wiki/Helena_Veilmoor"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Helena_Veilmoor/Small_talk&action=edit"
+    },
+    {
+      "text": "Hogan",
+      "href": "/wiki/Hogan"
+    },
+    {
+      "text": "Poetry",
+      "href": "/wiki/Category:Items/Poetry"
+    },
+    {
+      "text": "Raw Fruit",
+      "href": "/wiki/Category:Items/Fruit"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Hogan/Small_talk&action=edit"
+    },
+    {
+      "text": "Jesina",
+      "href": "/wiki/Jesina"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Jesina/Small_talk&action=edit"
+    },
+    {
+      "text": "Jumjab",
+      "href": "/wiki/Jumjab"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Jumjab/Small_talk&action=edit"
+    },
+    {
+      "text": "Kalaba",
+      "href": "/wiki/Kalaba"
+    },
+    {
+      "text": "Brass Items",
+      "href": "/wiki/Category:Items/Brass"
+    },
+    {
+      "text": "Raw Fish",
+      "href": "/wiki/Category:Items/Fish"
+    },
+    {
+      "text": "Citrus",
+      "href": "/wiki/Category:Items/Citrus"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Kalaba/Small_talk&action=edit"
+    },
+    {
+      "text": "Kleave",
+      "href": "/wiki/Kleave"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Kleave/Small_talk&action=edit"
+    },
+    {
+      "text": "Mythander",
+      "href": "/wiki/Mythander"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Mythander/Small_talk&action=edit"
+    },
+    {
+      "text": "Percy_Evans",
+      "href": "/wiki/Percy_Evans"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Percy_Evans/Small_talk&action=edit"
+    },
+    {
+      "text": "Sie_Antry",
+      "href": "/wiki/Sie_Antry"
+    },
+    {
+      "text": "Snail Shells",
+      "href": "/wiki/Category:Items/SnailShell"
+    },
+    {
+      "text": "Bloodstones",
+      "href": "/wiki/Category:Items/Bloodstone"
+    },
+    {
+      "text": "Footwear",
+      "href": "/wiki/Category:Items/Feet"
+    },
+    {
+      "text": "Potions",
+      "href": "/wiki/Category:Items/Potion"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Sie_Antry/Small_talk&action=edit"
+    },
+    {
+      "text": "Suspicious_Cow",
+      "href": "/wiki/Suspicious_Cow"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Suspicious_Cow/Small_talk&action=edit"
+    },
+    {
+      "text": "Thimble_Pete",
+      "href": "/wiki/Thimble_Pete"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Thimble_Pete/Small_talk&action=edit"
+    },
+    {
+      "text": "Yasinda",
+      "href": "/wiki/Yasinda"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Yasinda/Small_talk&action=edit"
+    },
+    {
+      "text": "Yetta",
+      "href": "/wiki/Yetta"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Yetta/Small_talk&action=edit"
+    },
+    {
+      "text": "Goblin Dungeon",
+      "href": "/wiki/Goblin_Dungeon"
+    },
+    {
+      "text": "Yalox",
+      "href": "/wiki/Yalox"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Yalox/Small_talk&action=edit"
+    },
+    {
+      "text": "Hogan's Basement",
+      "href": "/wiki/Hogan%27s_Basement"
+    },
+    {
+      "text": "Gorvessa",
+      "href": "/wiki/Gorvessa"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Gorvessa/Small_talk&action=edit"
+    },
+    {
+      "text": "Gribburn",
+      "href": "/wiki/Gribburn"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Gribburn/Small_talk&action=edit"
+    },
+    {
+      "text": "Malvol",
+      "href": "/wiki/Malvol"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Malvol/Small_talk&action=edit"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Gloria_Stonecurl",
+      "href": "/wiki/Gloria_Stonecurl"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Gloria_Stonecurl/Small_talk&action=edit"
+    },
+    {
+      "text": "Gurki",
+      "href": "/wiki/Gurki"
+    },
+    {
+      "text": "Cranium Gel",
+      "href": "/wiki/Cranium_Gel"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Gurki/Small_talk&action=edit"
+    },
+    {
+      "text": "Jace_Soral",
+      "href": "/wiki/Jace_Soral"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Jace_Soral/Small_talk&action=edit"
+    },
+    {
+      "text": "Janet_Lews",
+      "href": "/wiki/Janet_Lews"
+    },
+    {
+      "text": "Carnelians",
+      "href": "/wiki/Carnelian"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Janet_Lews/Small_talk&action=edit"
+    },
+    {
+      "text": "Lamashu",
+      "href": "/wiki/Lamashu"
+    },
+    {
+      "text": "Magic Oils",
+      "href": "/wiki/Category:Items/MagicOil"
+    },
+    {
+      "text": "Onyx",
+      "href": "/wiki/Category:Items/Onyx"
+    },
+    {
+      "text": "Wood",
+      "href": "/wiki/Category:Items/Wood"
+    },
+    {
+      "text": "Sexy Clothes",
+      "href": "/wiki/Category:Items/SexyClothing"
+    },
+    {
+      "text": "Fashionable Shoes",
+      "href": "/wiki/Fashionable_Shoes"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Lamashu/Small_talk&action=edit"
+    },
+    {
+      "text": "Landri_the_Cold",
+      "href": "/wiki/Landri_the_Cold"
+    },
+    {
+      "text": "Fire Magic",
+      "href": "/wiki/Fire_Magic"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Landri_the_Cold/Small_talk&action=edit"
+    },
+    {
+      "text": "Laura Neth",
+      "href": "/wiki/Laura_Neth"
+    },
+    {
+      "text": "Neth/Small_talk&action=edit Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Laura"
+    },
+    {
+      "text": "Mittens",
+      "href": "/wiki/Mittens"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Mittens/Small_talk&action=edit"
+    },
+    {
+      "text": "Nightshade",
+      "href": "/wiki/Nightshade"
+    },
+    {
+      "text": "Topaz",
+      "href": "/wiki/Topaz"
+    },
+    {
+      "text": "Gur-Horta",
+      "href": "/wiki/Gur-Horta"
+    },
+    {
+      "text": "Goldenrod Dye Pots",
+      "href": "/wiki/Category:Items/GoldenRodDye"
+    },
+    {
+      "text": "Organs and Body Parts",
+      "href": "/wiki/Category:Items/BodyOrgan"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Nightshade/Small_talk&action=edit"
+    },
+    {
+      "text": "Ratuk_the_Thinker",
+      "href": "/wiki/Ratuk_the_Thinker"
+    },
+    {
+      "text": "Tsavorite Gems",
+      "href": "/wiki/Tsavorite"
+    },
+    {
+      "text": "Aquamarine Gems",
+      "href": "/wiki/Aquamarine"
+    },
+    {
+      "text": "Amethyst Gems",
+      "href": "/wiki/Amethyst"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Ratuk_the_Thinker/Small_talk&action=edit"
+    },
+    {
+      "text": "Red",
+      "href": "/wiki/Red"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Red/Small_talk&action=edit"
+    },
+    {
+      "text": "Sanja",
+      "href": "/wiki/Sanja"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Sanja/Small_talk&action=edit"
+    },
+    {
+      "text": "Syndra",
+      "href": "/wiki/Syndra"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Syndra/Small_talk&action=edit"
+    },
+    {
+      "text": "Ukorga",
+      "href": "/wiki/Ukorga"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Ukorga/Small_talk&action=edit"
+    },
+    {
+      "text": "Kur Tower",
+      "href": "/wiki/Kur_Tower"
+    },
+    {
+      "text": "Glajur",
+      "href": "/wiki/Glajur"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Glajur/Small_talk&action=edit"
+    },
+    {
+      "text": "Wolf Cave",
+      "href": "/wiki/Wolf_Cave"
+    },
+    {
+      "text": "Malgath",
+      "href": "/wiki/Malgath"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Malgath/Small_talk&action=edit"
+    },
+    {
+      "text": "Sacred Grotto",
+      "href": "/wiki/Sacred_Grotto"
+    },
+    {
+      "text": "Barnaby",
+      "href": "/wiki/Barnaby"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Barnaby/Small_talk&action=edit"
+    },
+    {
+      "text": "Cassie",
+      "href": "/wiki/Cassie"
+    },
+    {
+      "text": "Raw Rabbit Meat",
+      "href": "/wiki/Category:Items/RawRabbitMeat"
+    },
+    {
+      "text": "Meat",
+      "href": "/wiki/Category:Items/Meat"
+    },
+    {
+      "text": "Fresh Fruit",
+      "href": "/wiki/Category:Items/Fruit"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Cassie/Small_talk&action=edit"
+    },
+    {
+      "text": "Milton",
+      "href": "/wiki/Milton"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Milton/Small_talk&action=edit"
+    },
+    {
+      "text": "Pickles",
+      "href": "/wiki/Pickles"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Pickles/Small_talk&action=edit"
+    },
+    {
+      "text": "Rubi",
+      "href": "/wiki/Rubi"
+    },
+    {
+      "text": "Raw Rabbit Meat",
+      "href": "/wiki/Category:Items/RawRabbitMeat"
+    },
+    {
+      "text": "Meat",
+      "href": "/wiki/Category:Items/Meat"
+    },
+    {
+      "text": "Fresh Fruit",
+      "href": "/wiki/Category:Items/Fruit"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Rubi/Small_talk&action=edit"
+    },
+    {
+      "text": "Sugar_(NPC)",
+      "href": "/wiki/Sugar_(NPC)"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Sugar_(NPC)/Small_talk&action=edit"
+    },
+    {
+      "text": "Tangle",
+      "href": "/wiki/Tangle"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Tangle/Small_talk&action=edit"
+    },
+    {
+      "text": "Sun Vale",
+      "href": "/wiki/Sun_Vale"
+    },
+    {
+      "text": "Agrashab",
+      "href": "/wiki/Agrashab"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Agrashab/Small_talk&action=edit"
+    },
+    {
+      "text": "Squidlips",
+      "href": "/wiki/Squidlips"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Squidlips/Small_talk&action=edit"
+    },
+    {
+      "text": "Animal Town",
+      "href": "/wiki/Animal_Town"
+    },
+    {
+      "text": "Cinnamon_the_rabbit",
+      "href": "/wiki/Cinnamon_the_rabbit"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Cinnamon_the_rabbit/Small_talk&action=edit"
+    },
+    {
+      "text": "Daisy_(NPC)",
+      "href": "/wiki/Daisy_(NPC)"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Daisy_(NPC)/Small_talk&action=edit"
+    },
+    {
+      "text": "Elaina",
+      "href": "/wiki/Elaina"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Elaina/Small_talk&action=edit"
+    },
+    {
+      "text": "Jumper",
+      "href": "/wiki/Jumper"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Jumper/Small_talk&action=edit"
+    },
+    {
+      "text": "Kodan",
+      "href": "/wiki/Kodan"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Kodan/Small_talk&action=edit"
+    },
+    {
+      "text": "Legs",
+      "href": "/wiki/Legs"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Legs/Small_talk&action=edit"
+    },
+    {
+      "text": "Norbert",
+      "href": "/wiki/Norbert"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Norbert/Small_talk&action=edit"
+    },
+    {
+      "text": "Raul",
+      "href": "/wiki/Raul"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Raul/Small_talk&action=edit"
+    },
+    {
+      "text": "Spot",
+      "href": "/wiki/Spot"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Spot/Small_talk&action=edit"
+    },
+    {
+      "text": "Yavazek",
+      "href": "/wiki/Yavazek"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Yavazek/Small_talk&action=edit"
+    },
+    {
+      "text": "Druid Camp and the Giant Tree",
+      "href": "/wiki/Sun_Vale"
+    },
+    {
+      "text": "Eleme",
+      "href": "/wiki/Eleme"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Eleme/Small_talk&action=edit"
+    },
+    {
+      "text": "Hiral",
+      "href": "/wiki/Hiral"
+    },
+    {
+      "text": "Fresh Fruit",
+      "href": "/wiki/Category:Items/Fruit"
+    },
+    {
+      "text": "Cheese",
+      "href": "/wiki/Category:Items/Cheese"
+    },
+    {
+      "text": "Spoons",
+      "href": "/wiki/Category:Items/Spoon"
+    },
+    {
+      "text": "Fae Felt",
+      "href": "/wiki/Fae_Felt"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Hiral/Small_talk&action=edit"
+    },
+    {
+      "text": "Jake_the_Buckler",
+      "href": "/wiki/Jake_the_Buckler"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Jake_the_Buckler/Small_talk&action=edit"
+    },
+    {
+      "text": "Lisi",
+      "href": "/wiki/Lisi"
+    },
+    {
+      "text": "Obsidian",
+      "href": "/wiki/Obsidian"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Lisi/Small_talk&action=edit"
+    },
+    {
+      "text": "Preta",
+      "href": "/wiki/Preta"
+    },
+    {
+      "text": "Gems",
+      "href": "/wiki/Gems"
+    },
+    {
+      "text": "Fae Felt",
+      "href": "/wiki/Fae_Felt"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Preta/Small_talk&action=edit"
+    },
+    {
+      "text": "Rohina",
+      "href": "/wiki/Rohina"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Rohina/Small_talk&action=edit"
+    },
+    {
+      "text": "Silvia",
+      "href": "/wiki/Silvia"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Silvia/Small_talk&action=edit"
+    },
+    {
+      "text": "The_Wombat",
+      "href": "/wiki/The_Wombat"
+    },
+    {
+      "text": "Wood",
+      "href": "/wiki/Category:Items/Wood"
+    },
+    {
+      "text": "Wooden Equipment",
+      "href": "/wiki/Wooden_Equipment"
+    },
+    {
+      "text": "Footwear",
+      "href": "/wiki/Category:Items/Feet"
+    },
+    {
+      "text": "Metal Equipment",
+      "href": "/wiki/Metal_Equipment"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=The_Wombat/Small_talk&action=edit"
+    },
+    {
+      "text": "Yagreet",
+      "href": "/wiki/Yagreet"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Yagreet/Small_talk&action=edit"
+    },
+    {
+      "text": "Yogzi",
+      "href": "/wiki/Yogzi"
+    },
+    {
+      "text": "Antiques",
+      "href": "/wiki/Category:Items/Antique"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Yogzi/Small_talk&action=edit"
+    },
+    {
+      "text": "Ilmari",
+      "href": "/wiki/Ilmari"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Makara/Small_talk&action=edit"
+    },
+    {
+      "text": "Arlan",
+      "href": "/wiki/Arlan"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Arlan/Small_talk&action=edit"
+    },
+    {
+      "text": "Amulna",
+      "href": "/wiki/Amulna"
+    },
+    {
+      "text": "Alravesa_the_All-Hunter",
+      "href": "/wiki/Alravesa_the_All-Hunter"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Alravesa_the_All-Hunter/Small_talk&action=edit"
+    },
+    {
+      "text": "Falkrin_Overstrike",
+      "href": "/wiki/Falkrin_Overstrike"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Falkrin_Overstrike/Small_talk&action=edit"
+    },
+    {
+      "text": "Firaki",
+      "href": "/wiki/Firaki"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Firaki/Small_talk&action=edit"
+    },
+    {
+      "text": "Kelim",
+      "href": "/wiki/Kelim"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Kelim/Small_talk&action=edit"
+    },
+    {
+      "text": "Lumpfuzz",
+      "href": "/wiki/Lumpfuzz"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Lumpfuzz/Small_talk&action=edit"
+    },
+    {
+      "text": "Nissim",
+      "href": "/wiki/Nissim"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Nissim/Small_talk&action=edit"
+    },
+    {
+      "text": "Pasha",
+      "href": "/wiki/Pasha"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Pasha/Small_talk&action=edit"
+    },
+    {
+      "text": "Selaxi",
+      "href": "/wiki/Selaxi"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Selaxi/Small_talk&action=edit"
+    },
+    {
+      "text": "Sir_Johnson",
+      "href": "/wiki/Sir_Johnson"
+    },
+    {
+      "text": "Onyx",
+      "href": "/wiki/Onyx"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Sir_Johnson/Small_talk&action=edit"
+    },
+    {
+      "text": "The_Sand_Seer",
+      "href": "/wiki/The_Sand_Seer"
+    },
+    {
+      "text": "Fire Magic",
+      "href": "/wiki/Fire_Magic"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=The_Sand_Seer/Small_talk&action=edit"
+    },
+    {
+      "text": "Urzab",
+      "href": "/wiki/Urzab"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Urzab/Small_talk&action=edit"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Amutasa",
+      "href": "/wiki/Amutasa"
+    },
+    {
+      "text": "Maximized Obsidian",
+      "href": "/wiki/Maximized_Obsidian"
+    },
+    {
+      "text": "Snail Shells",
+      "href": "/wiki/Category:Items/SnailShell"
+    },
+    {
+      "text": "Headgear with Hammer Prerequisites",
+      "href": "/wiki/Headgear_with_Hammer_Prerequisites"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Amutasa/Small_talk&action=edit"
+    },
+    {
+      "text": "Ashk_the_Answerer",
+      "href": "/wiki/Ashk_the_Answerer"
+    },
+    {
+      "text": "Mentalism",
+      "href": "/wiki/Mentalism"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Ashk_the_Answerer/Small_talk&action=edit"
+    },
+    {
+      "text": "Daniel_Murderdark",
+      "href": "/wiki/Daniel_Murderdark"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Daniel_Murderdark/Small_talk&action=edit"
+    },
+    {
+      "text": "Dhakmar",
+      "href": "/wiki/Dhakmar"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Dhakmar/Small_talk&action=edit"
+    },
+    {
+      "text": "Furlak",
+      "href": "/wiki/Furlak"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Furlak/Small_talk&action=edit"
+    },
+    {
+      "text": "Hirochi_the_Booklord",
+      "href": "/wiki/Hirochi_the_Booklord"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Hirochi_the_Booklord/Small_talk&action=edit"
+    },
+    {
+      "text": "Ichin_the_Ice_Master",
+      "href": "/wiki/Ichin_the_Ice_Master"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Ichin_the_Ice_Master/Small_talk&action=edit"
+    },
+    {
+      "text": "Kohan",
+      "href": "/wiki/Kohan"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Kohan/Small_talk&action=edit"
+    },
+    {
+      "text": "Lady_Windsong",
+      "href": "/wiki/Lady_Windsong"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Lady_Windsong/Small_talk&action=edit"
+    },
+    {
+      "text": "Nishika",
+      "href": "/wiki/Nishika"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Nishika/Small_talk&action=edit"
+    },
+    {
+      "text": "Percussa",
+      "href": "/wiki/Percussa"
+    },
+    {
+      "text": "Bard",
+      "href": "/wiki/Bard"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Percussa/Small_talk&action=edit"
+    },
+    {
+      "text": "Rugen",
+      "href": "/wiki/Rugen"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Rugen/Small_talk&action=edit"
+    },
+    {
+      "text": "Shirogin",
+      "href": "/wiki/Shirogin"
+    },
+    {
+      "text": "Antiques",
+      "href": "/wiki/Category:Items/Antique"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Shirogin/Small_talk&action=edit"
+    },
+    {
+      "text": "Sirine",
+      "href": "/wiki/Sirine"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Sirine/Small_talk&action=edit"
+    },
+    {
+      "text": "Ufkar",
+      "href": "/wiki/Ufkar"
+    },
+    {
+      "text": "Carpentry Items",
+      "href": "/wiki/Category:Items/Carpentry"
+    },
+    {
+      "text": "Exotic Potions",
+      "href": "/wiki/Category:Items/ExoticPotion"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Ufkar/Small_talk&action=edit"
+    },
+    {
+      "text": "Wintria_Irasce",
+      "href": "/wiki/Wintria_Irasce"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Wintria_Irasce/Small_talk&action=edit"
+    },
+    {
+      "text": "Zhao",
+      "href": "/wiki/Zhao"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Zhao/Small_talk&action=edit"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Aralorn",
+      "href": "/wiki/Aralorn"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Aralorn/Small_talk&action=edit"
+    },
+    {
+      "text": "Fluffikins",
+      "href": "/wiki/Fluffikins"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Fluffikins/Small_talk&action=edit"
+    },
+    {
+      "text": "Trekker",
+      "href": "/wiki/Trekker"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Trekker/Small_talk&action=edit"
+    },
+    {
+      "text": "New Prestonbule Cave",
+      "href": "/wiki/New_Prestonbule_Cave"
+    },
+    {
+      "text": "Bellema_Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Peridots",
+      "href": "/wiki/Category:Items/Peridot"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Bellema_Deftwhisper/Small_talk&action=edit"
+    },
+    {
+      "text": "Gasu'um",
+      "href": "/wiki/Gasu%27um"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Gasu'um/Small_talk&action=edit"
+    },
+    {
+      "text": "Hemmit_Magmagrip",
+      "href": "/wiki/Hemmit_Magmagrip"
+    },
+    {
+      "text": "Porcini Mushrooms",
+      "href": "/wiki/Porcini_Mushroom"
+    },
+    {
+      "text": "Black Foot Morels",
+      "href": "/wiki/Black_Foot_Morel"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Hemmit_Magmagrip/Small_talk&action=edit"
+    },
+    {
+      "text": "Mox_Warcut",
+      "href": "/wiki/Mox_Warcut"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Mox_Warcut/Small_talk&action=edit"
+    },
+    {
+      "text": "Rick_Snapley",
+      "href": "/wiki/Rick_Snapley"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Rick_Snapley/Small_talk&action=edit"
+    },
+    {
+      "text": "Sona",
+      "href": "/wiki/Sona"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Sona/Small_talk&action=edit"
+    },
+    {
+      "text": "Torgan",
+      "href": "/wiki/Torgan"
+    },
+    {
+      "text": "Astounding",
+      "href": "/wiki/Astounding_Metal_Slab"
+    },
+    {
+      "text": "Superb Metal Slabs",
+      "href": "/wiki/Superb_Metal_Slab"
+    },
+    {
+      "text": "Spruce Wood",
+      "href": "/wiki/Spruce_Wood"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Torgan/Small_talk&action=edit"
+    },
+    {
+      "text": "Gazluk Keep",
+      "href": "/wiki/Gazluk_Keep"
+    },
+    {
+      "text": "Melandria",
+      "href": "/wiki/Melandria"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Melandria/Small_talk&action=edit"
+    },
+    {
+      "text": "Gazluk Shadow Cave",
+      "href": "/wiki/Gazluk_Shadow_Cave"
+    },
+    {
+      "text": "Sem",
+      "href": "/wiki/Sem"
+    },
+    {
+      "text": "Heartshroom",
+      "href": "/wiki/Heartshroom"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Sem/Small_talk&action=edit"
+    },
+    {
+      "text": "Red Wing Casino",
+      "href": "/wiki/Red_Wing_Casino"
+    },
+    {
+      "text": "Arianna_Fangblade",
+      "href": "/wiki/Arianna_Fangblade"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Arianna_Fangblade/Small_talk&action=edit"
+    },
+    {
+      "text": "Eveline_Rastin",
+      "href": "/wiki/Eveline_Rastin"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Eveline_Rastin/Small_talk&action=edit"
+    },
+    {
+      "text": "Irkima",
+      "href": "/wiki/Irkima"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Irkima/Small_talk&action=edit"
+    },
+    {
+      "text": "Kib_the_Unkillable",
+      "href": "/wiki/Kib_the_Unkillable"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Kib_the_Unkillable/Small_talk&action=edit"
+    },
+    {
+      "text": "Mandibles",
+      "href": "/wiki/Mandibles"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Mandibles/Small_talk&action=edit"
+    },
+    {
+      "text": "Otis",
+      "href": "/wiki/Otis"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Otis/Small_talk&action=edit"
+    },
+    {
+      "text": "Qatik",
+      "href": "/wiki/Qatik"
+    },
+    {
+      "text": "Perfect Lumber",
+      "href": "/wiki/List_of_Perfect_Lumber"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Qatik/Small_talk&action=edit"
+    },
+    {
+      "text": "Ragabir",
+      "href": "/wiki/Ragabir"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Ragabir/Small_talk&action=edit"
+    },
+    {
+      "text": "Tavilak",
+      "href": "/wiki/Tavilak"
+    },
+    {
+      "text": "Marigolds",
+      "href": "/wiki/Category:Items/Marigold"
+    },
+    {
+      "text": "Perfect Lumber",
+      "href": "/wiki/List_of_Perfect_Lumber"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Tavilak/Small_talk&action=edit"
+    },
+    {
+      "text": "Willem_Fangblade",
+      "href": "/wiki/Willem_Fangblade"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Willem_Fangblade/Small_talk&action=edit"
+    },
+    {
+      "text": "Povus",
+      "href": "/wiki/Povus"
+    },
+    {
+      "text": "Brugo_the_Wise",
+      "href": "/wiki/Brugo_the_Wise"
+    },
+    {
+      "text": "Ancient Bones",
+      "href": "/wiki/Category:Items/PaleontologyBone"
+    },
+    {
+      "text": "Wood",
+      "href": "/wiki/Category:Items/Wood"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Brugo_the_Wise/Small_talk&action=edit"
+    },
+    {
+      "text": "Dachak_the_Digger",
+      "href": "/wiki/Dachak_the_Digger"
+    },
+    {
+      "text": "Mushroom Boxes",
+      "href": "/wiki/Category:Items/MushroomBox"
+    },
+    {
+      "text": "False Agaric",
+      "href": "/wiki/False_Agaric"
+    },
+    {
+      "text": "Escarole",
+      "href": "/wiki/Escarole"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Dachak_the_Digger/Small_talk&action=edit"
+    },
+    {
+      "text": "Dog_Ear",
+      "href": "/wiki/Dog_Ear"
+    },
+    {
+      "text": "Fish",
+      "href": "/wiki/Category:Items/Fish"
+    },
+    {
+      "text": "Insect Meat",
+      "href": "/wiki/Category:Items/InsectMeat"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Dog_Ear/Small_talk&action=edit"
+    },
+    {
+      "text": "Errruka_the_Benefactor",
+      "href": "/wiki/Errruka_the_Benefactor"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Errruka_the_Benefactor/Small_talk&action=edit"
+    },
+    {
+      "text": "Ferand_Deftwhisper",
+      "href": "/wiki/Ferand_Deftwhisper"
+    },
+    {
+      "text": "Metal Chest Armor",
+      "href": "/wiki/Category:Items/MetalShirt"
+    },
+    {
+      "text": "Metal Gloves and Gauntlets",
+      "href": "/wiki/Category:Items/MetalGloves"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Ferand_Deftwhisper/Small_talk&action=edit"
+    },
+    {
+      "text": "Gerrux",
+      "href": "/wiki/Gerrux"
+    },
+    {
+      "text": "Swords",
+      "href": "/wiki/Category:Items/Sword"
+    },
+    {
+      "text": "Dirks",
+      "href": "/wiki/Category:Items/Dirk"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Gerrux/Small_talk&action=edit"
+    },
+    {
+      "text": "Grakelsput",
+      "href": "/wiki/Grakelsput"
+    },
+    {
+      "text": "Ancient Bones",
+      "href": "/wiki/Category:Items/PaleontologyBone"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Grakelsput/Small_talk&action=edit"
+    },
+    {
+      "text": "Leah_Bowman",
+      "href": "/wiki/Leah_Bowman"
+    },
+    {
+      "text": "Storage Crates",
+      "href": "/wiki/Category:Items/StorageCrate"
+    },
+    {
+      "text": "Poppies",
+      "href": "/wiki/Category:Items/Poppy"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Leah_Bowman/Small_talk&action=edit"
+    },
+    {
+      "text": "Mope",
+      "href": "/wiki/Mope"
+    },
+    {
+      "text": "Heartshrooms",
+      "href": "/wiki/Heartshroom"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Mope/Small_talk&action=edit"
+    },
+    {
+      "text": "Tremmond_Blackhammer",
+      "href": "/wiki/Tremmond_Blackhammer"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Tremmond_Blackhammer/Small_talk&action=edit"
+    },
+    {
+      "text": "Fae Realm",
+      "href": "/wiki/Fae_Realm"
+    },
+    {
+      "text": "Backfat",
+      "href": "/wiki/Backfat"
+    },
+    {
+      "text": "Raw Venison",
+      "href": "/wiki/Category:Items/RawDeerMeat"
+    },
+    {
+      "text": "Meals with Venison",
+      "href": "/wiki/Category:Items/DeerMeat"
+    },
+    {
+      "text": "Pixie's Parasol",
+      "href": "/wiki/Pixie%27s_Parasol"
+    },
+    {
+      "text": "Fly Amanita",
+      "href": "/wiki/Fly_Amanita"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Backfat/Small_talk&action=edit"
+    },
+    {
+      "text": "Bendith_the_Banished",
+      "href": "/wiki/Bendith_the_Banished"
+    },
+    {
+      "text": "Charged Mycelium",
+      "href": "/wiki/Charged_Mycelium"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Bendith_the_Banished/Small_talk&action=edit"
+    },
+    {
+      "text": "Crelpin",
+      "href": "/wiki/Crelpin"
+    },
+    {
+      "text": "Animal Handling",
+      "href": "/wiki/Animal_Handling"
+    },
+    {
+      "text": "Lac",
+      "href": "/wiki/Lac"
+    },
+    {
+      "text": "Ultra Lac",
+      "href": "/wiki/Ultra_Lac"
+    },
+    {
+      "text": "Wool",
+      "href": "/wiki/Wool"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Crelpin/Small_talk&action=edit"
+    },
+    {
+      "text": "Felmer",
+      "href": "/wiki/Felmer"
+    },
+    {
+      "text": "Tiger's Eye",
+      "href": "/wiki/Category:Items/TigersEye"
+    },
+    {
+      "text": "Fae Felt",
+      "href": "/wiki/Category:Items/FaeFelt"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Felmer/Small_talk&action=edit"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Floxie/Small_talk&action=edit"
+    },
+    {
+      "text": "Midge_the_Apothecary",
+      "href": "/wiki/Midge_the_Apothecary"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Midge_the_Apothecary/Small_talk&action=edit"
+    },
+    {
+      "text": "Noita_the_Green",
+      "href": "/wiki/Noita_the_Green"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Noita_the_Green/Small_talk&action=edit"
+    },
+    {
+      "text": "Pegast",
+      "href": "/wiki/Pegast"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Pegast/Small_talk&action=edit"
+    },
+    {
+      "text": "Raina",
+      "href": "/wiki/Raina"
+    },
+    {
+      "text": "Artwork",
+      "href": "/wiki/Category:Items/Artwork"
+    },
+    {
+      "text": "Calligraphy Recipes",
+      "href": "/wiki/Category:Items/CalligraphyRecipe"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Raina/Small_talk&action=edit"
+    },
+    {
+      "text": "Solgribue",
+      "href": "/wiki/Solgribue"
+    },
+    {
+      "text": "Good Metal Slabs (or higher)",
+      "href": "/wiki/Category:Items/ValuableMetalSlab"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Solgribue/Small_talk&action=edit"
+    },
+    {
+      "text": "Winter Nexus",
+      "href": "/wiki/Winter_Nexus"
+    },
+    {
+      "text": "Corey_The_Croaker",
+      "href": "/wiki/Corey_The_Croaker"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Corey_The_Croaker/Small_talk&action=edit"
+    },
+    {
+      "text": "Fazzi",
+      "href": "/wiki/Fazzi"
+    },
+    {
+      "text": "Edit Small Talk",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Fazzi/Small_talk&action=edit"
+    },
+    {
+      "text": "Merchants",
+      "href": "/wiki/Merchants"
+    },
+    {
+      "text": "Bartering",
+      "href": "/wiki/Bartering"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Favor&oldid=198798",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Favor&oldid=198798"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Mechanics",
+      "href": "/wiki/Category:Mechanics"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5430.png",
+      "alt": "icon_5430.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5226.png",
+      "alt": "icon_5226.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5414.png",
+      "alt": "icon_5414.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5415.png",
+      "alt": "icon_5415.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5782.png",
+      "alt": "icon_5782.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6281.png",
+      "alt": "icon_6281.png"
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

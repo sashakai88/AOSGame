@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>User Interface - Project: Gorgon Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"User_Interface","wgTitle":"User Interface","wgCurRevisionId":121841,"wgRevisionId":121841,"wgArticleId":112,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Mechanics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"User_Interface","wgRelevantArticleId":112,"wgRequestId":"492a325f1b3df1570f303729","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1ec17ag",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.2"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Project: Gorgon Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.projectgorgon.com/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="Project: Gorgon Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-User_Interface rootpage-User_Interface skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">User Interface</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Project: Gorgon Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div style="float: right; clear: right; margin-bottom: .5em; padding: .5em 0 .8em 1.4em; background: transparent; max-width: 20em;"><div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Quest_window"><span class="tocnumber">1</span> <span class="toctext">Quest window</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Inventory"><span class="tocnumber">2</span> <span class="toctext">Inventory</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Buying_and_selling"><span class="tocnumber">3</span> <span class="toctext">Buying and selling</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Map"><span class="tocnumber">4</span> <span class="toctext">Map</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Grouping"><span class="tocnumber">5</span> <span class="toctext">Grouping</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#The_Chat_Window_and_Commands"><span class="tocnumber">6</span> <span class="toctext">The Chat Window and Commands</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Linking_items_in_chat"><span class="tocnumber">6.1</span> <span class="toctext">Linking items in chat</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Ghost-chat"><span class="tocnumber">6.2</span> <span class="toctext">Ghost-chat</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Command_List"><span class="tocnumber">6.3</span> <span class="toctext">Command List</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Chat_Rooms"><span class="tocnumber">6.4</span> <span class="toctext">Chat Rooms</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Social"><span class="tocnumber">6.5</span> <span class="toctext">Social</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Dealing_with_Other_Players"><span class="tocnumber">6.6</span> <span class="toctext">Dealing with Other Players</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Guilds"><span class="tocnumber">6.7</span> <span class="toctext">Guilds</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Hunting_Groups"><span class="tocnumber">6.8</span> <span class="toctext">Hunting Groups</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Other_Commands"><span class="tocnumber">6.9</span> <span class="toctext">Other Commands</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Emotes"><span class="tocnumber">6.10</span> <span class="toctext">Emotes</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Unlisted_Commands"><span class="tocnumber">6.11</span> <span class="toctext">Unlisted Commands</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Quest_window">Quest window</span></h2>
+<p>The Quest window actually features three tabs that can be easily missed:
+</p>
+<ul><li> <b>Quests and Favors</b>: Your typical quest log. As of the alpha it currently does not distinguish completed quests. However, a notification appears on the screen along with a distinctive sound whenever you progress on a quest objective.</li>
+<li> <b>Stuff to Do</b>&#160;: Provides a list of objectives with basic hints. This is a nice feature for players who want to try and discover a lot on their own. Note that many of those objectives are out of the reach of a new player and will require some time to complete!</li>
+<li> <b>Notepad</b>&#160;: An easily missed feature, the notepad lets you jot down notes in-game. This can be useful to remember <a href="/wiki/Words_of_Power" title="Words of Power">Words of Power</a> that you may want to use later, and can be useful to remember key information for several quests. Note that there is NOT a Control-Z (undo) feature, so be careful.</li></ul>
+<h2><span class="mw-headline" id="Inventory">Inventory</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Inventory_(user_interface).jpg" class="image"><img alt="" src="/w/images/thumb/b/b8/Inventory_%28user_interface%29.jpg/300px-Inventory_%28user_interface%29.jpg" width="300" height="437" class="thumbimage" srcset="/w/images/b/b8/Inventory_%28user_interface%29.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Inventory_(user_interface).jpg" class="internal" title="Enlarge"></a></div>An illustration of a typical adventurer's backpack.</div></div></div>
+<p>The Inventory window can be resized however you want. The size of the items can be changed via <b>Options &gt; GUI and Windows &gt; Inventory Item Icon Size</b>.
+</p><p>As your character grows, you will gain additional <b>Inventory slots</b> through skills like <a href="/wiki/Endurance" title="Endurance">Endurance</a> (permanent), through certain recipes (this appears to be a temporary effect), and sometimes granted by item properties (also temporary).
+</p><p>The <b>Sort</b> option can be useful because the game currently does not allow to reorganize your backpack contents by drag and drop. The sort option will place all combat gear first (armor and weapons), which makes it easier to switch between weapons and armor as you switch between skills. Sometimes it can be useful also to drop items on the ground, then quickly pick them up, as this will move them to the end of the inventory. It is also possible to exchange the position of items, by dragging one item onto another.
+</p><p>The items in your inventory with the <b>red E</b> are the ones that you have currently equipped, items with red borders are quest items.
+</p><p>To <b>drop an item</b> click and drag the item onto the panel below that appears below the inventory. Be aware that any items dropped in this way can be picked up by players nearby!
+</p><p>To <b>split a stack</b> of items left click the item while holding the shift key.
+</p>
+<h2><span class="mw-headline" id="Buying_and_selling">Buying and selling</span></h2>
+<p>Press <kbd>shift</kbd> when buying to buy more than one unit of an item at once.
+</p><p>Press <kbd>shift</kbd> when selling to sell a single item instead of the whole stack.
+</p><p>I you go the the Sell-tab for a NPC, you can hover your mouse over the amount of money the NPC has left, to see when the money for that NPC will reset to it's begin amount.
+</p>
+<h2><span class="mw-headline" id="Map">Map</span></h2>
+<p>Press <kbd>M</kbd> or use the button on the sidebar to open the map.
+The map of the area you are in can be resized.
+Currently, not all locations have maps.
+</p><p>You can place markers on the map, for places of interest you may want to remember (this can also be useful for planning a route among multiple mining surveys).
+The markers can be renamed or removed by clicking on them.
+</p>
+<h2><span class="mw-headline" id="Grouping">Grouping</span></h2>
+<p>After inviting someone to your group<sup>(party)</sup> (and them accepting), or after accepting a group-invitation yourself, you can open the Social window, to see who is grouped with you.
+This also allows you to see their armor and health (some classes have abilities that allow them to heal other players).
+</p>
+<h2><span class="mw-headline" id="The_Chat_Window_and_Commands">The Chat Window and Commands</span></h2>
+<p>Slash commands are typed in the console.
+These always start with a forward slash (EG. <kbd>/wiki</kbd>).
+</p>
+<h3><span class="mw-headline" id="Linking_items_in_chat">Linking items in chat</span></h3>
+<p>To link items in chat, simply drag and drop one or more items to the chat window while you have a message typed.
+</p>
+<h3><span class="mw-headline" id="Ghost-chat">Ghost-chat</span></h3>
+<p>To enable ghost chat simply click the little red cross.
+That is, click the close button instead of using the chat toggle key.
+From there on, the chat will only appear when someone talks, and will disappear again after a few seconds.
+In addition, the chat appears somewhat transparent.
+It reduces clutter and adds a little to immersion.
+You can configure how long the ghost-chat should last in Options &gt; GUI and Windows, along with the transparency level.
+</p>
+<h3><span class="mw-headline" id="Command_List">Command List</span></h3>
+<table class="table">
+
+<tr>
+<td style="white-space:nowrap;"> <kbd>/help</kbd>
+</td>
+<td> Provides an in-game reminder of the available commands.
+</td></tr></table>
+<h3><span class="mw-headline" id="Chat_Rooms">Chat Rooms</span></h3>
+<p>You can create and join chat rooms. Users automatically start in the "Trade" and "Help" channels. You can: 
+</p>
+<table class="table">
+
+<tr>
+<td style="white-space:nowrap;"> <kbd>/rooms</kbd>
+</td>
+<td> Displays a list of public chat rooms.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/join</kbd> <kbd>Custom1</kbd>
+</td>
+<td> Joins the room "Custom1". If no one is in that channel, it will create it for you.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/join</kbd> <kbd>-Custom1</kbd>
+</td>
+<td> Joins/creates the private chat room "Custom1". Anyone can still join it, but it won't show up under <kbd>/rooms</kbd>.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/leave</kbd> <kbd>Custom1</kbd>
+</td>
+<td> Leaves a chat room.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/c hi everybody!
+</td>
+<td> Speak in the last custom chat room you joined/used
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/c OtherRoom hi everybody!</kbd>
+</td>
+<td> Speak in the custom chat room named 'OtherRoom'
+</td></tr></table>
+<h3><span class="mw-headline" id="Social">Social</span></h3>
+<p>The default message mode is shown left of the line where you type messages in.
+Left click it to cycle between 'GLOBAL', 'NEARBY' and 'GROUP'.
+</p>
+<table class="table">
+
+<tr>
+<td style="white-space:nowrap;"> <kbd>/t</kbd> <kbd>PlayerName</kbd> <kbd>hi</kbd>
+</td>
+<td> Tell player <var>PlayerName</var> the message 'hi'.
+<p>(Private message aka PM)
+</p>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/r</kbd> <kbd>hello</kbd>
+</td>
+<td> Reply to whoever last talked to you with <kbd>/t</kbd>.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/g</kbd> <kbd>morning!</kbd>
+</td>
+<td> Send a message on the global chat (across all game zones).
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/n</kbd> <kbd>hello</kbd>
+</td>
+<td> Talk to nearby players so they can hear you say 'hello'.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/p</kbd> <kbd>hello</kbd>
+</td>
+<td> Talk to your current group members and say 'hello'.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/a</kbd> <kbd>hello</kbd>
+</td>
+<td> Directly message your guild!
+</td></tr></table>
+<h3><span class="mw-headline" id="Dealing_with_Other_Players">Dealing with Other Players</span></h3>
+<p>These commands are used to impact how you interact with other players!
+</p>
+<table class="table">
+
+<tr>
+<td style="white-space:nowrap;"> <kbd>/friend</kbd> <kbd>PlayerName</kbd>
+</td>
+<td> Ask <var>PlayerName</var> if you may add him/her to your friends list.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/unfriend</kbd> <kbd>PlayerName</kbd>
+</td>
+<td> Stop being friends with <var>PlayerName</var>.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/ignore</kbd>
+</td>
+<td> Show all players that you're ignoring.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/ignore</kbd> <kbd>PlayerName</kbd>
+</td>
+<td> Ignore all communication from player <var>PlayerName</var>.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/unignore</kbd> <kbd>PlayerName</kbd>
+</td>
+<td> Hear what <var>PlayerName</var> has to say again.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/incognito</kbd>
+</td>
+<td> Toggle incognito mode on/off. This will stay between logins.
+<p>While incognito you are hiding from social features.<br />
+eg. You won't be listed in online lists.
+</p>
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/who</kbd>
+</td>
+<td> Show players in the same map-area as you (it is indeed area such as "AreaTutorialCave", not the full zone).
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/who all</kbd>
+</td>
+<td> Show all players logged in (up to 100).
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/restrict</kbd>
+</td>
+<td> Provides a list of options. With the /restrict command, you can prevent other players from interacting with you in various ways. Use "/restrict &lt;type&gt; [on/off]". For instance, to stop other players from inviting you to their guild, use "/restrict GuildInvite on". Change the 'on' to 'off' to turn off that restriction. For more information about what a particular restriction means, use it by itself, like "/restrict GuildInvite"
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/restrict FriendInvite</kbd>
+</td>
+<td> When this restriction is active, players who try to become your friend will be told that you are not accepting friend-invites right now.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/restrict GroupInvite</kbd>
+</td>
+<td> When this restriction is active, players who try to invite you to their hunting group will be told that you are already in a hunting group (whether or not you are).
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/restrict GuildInvite</kbd>
+</td>
+<td> When this restriction is active, players who try to invite you to their guild will be told that you are already in a guild (whether or not you are).
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/restrict Trade</kbd>
+</td>
+<td> When this restriction is active, players who try to trade with you will be told that you aren't interested in trading right now.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/restrict ReceiveTips</kbd>
+</td>
+<td> When this restriction is active, players who try to tip you will receive a message that you aren't accepting tips right now.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/restrict PickUpOthersItems</kbd>
+</td>
+<td> When active, you will be unable to pick up items on the ground, except for items that you personally dropped. This unusual restriction is intended for 'challenge mode' characters who do not want to accidentally receive outside help.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/restrict BeMilked</kbd>
+</td>
+<td> When this restriction is active, players that try to milk you will be told that you are too busy to be milked. Note: this restriction is only relevant if you have been cursed into cow form.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/restrict HearOration</kbd>
+</td>
+<td> When this restriction is active, you will not see other players' oration. For instance, you will not be prompted to critique player poetry.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/tip</kbd> <kbd>PlayerName</kbd> <kbd>100</kbd>
+</td>
+<td> Send 100 coins to <var>PlayerName</var>. Must be nearby!
+</td></tr></table>
+<h3><span class="mw-headline" id="Guilds">Guilds</span></h3>
+<p>These commands are available to guilds.
+</p>
+<table class="table">
+
+<tr>
+<td style="white-space:nowrap;"> <kbd>/guild help</kbd>
+</td>
+<td> See a list of guild commands you have permission to use
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/guild</kbd> <kbd>who</kbd>
+</td>
+<td> See guild members that are online. If they are /incognito the guild member will not show up on this list.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/guild</kbd> <kbd>invite</kbd> <kbd>PlayerName</kbd>
+</td>
+<td> Invite a player to join your guild.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/guild</kbd> <kbd>kick</kbd> <kbd>PlayerName</kbd>
+</td>
+<td> Kick a player from your guild (must have kick privileges, and can only kick players of lower rank).
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/guild</kbd> <kbd>message</kbd> <kbd>something</kbd>
+</td>
+<td> Sets the guild's message of the day to <var>something</var> (must have message privileges).
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/guild</kbd> <kbd>rank</kbd> <kbd>PlayerName</kbd> <kbd>Member</kbd>
+</td>
+<td> Sets <var>PlayerName</var>'s rank to "Member" (must have privileges, can't promote to a higher rank them themselves, can't demote higher-ranked players).
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/guild</kbd> <kbd>auditlogs</kbd>
+</td>
+<td> Displays guild logs for Rank 9 or 10 guild members by default. /guild auditlogs old will show the previous week's logs.
+</td></tr></table>
+<h3><span class="mw-headline" id="Hunting_Groups">Hunting Groups</span></h3>
+<table class="table">
+
+<tr>
+<td style="white-space:nowrap;"> <kbd>/invite</kbd> <kbd>PlayerName</kbd>
+</td>
+<td> Invite <var>PlayerName</var> to join your party.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/loot</kbd> <kbd>free</kbd>
+</td>
+<td> Everyone in your group will be able to loot every corpse.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/loot</kbd> <kbd>turns</kbd>
+</td>
+<td> Your group will take turns getting permission to loot non-Elites.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/loot</kbd> <kbd>unchecked</kbd>
+</td>
+<td> Anyone may loot corpses, even players outside your group.
+</td></tr></table>
+<h3><span class="mw-headline" id="Other_Commands">Other Commands</span></h3>
+<p>These commands, listed in-game, do various things.
+</p>
+<table class="table">
+
+<tr>
+<td style="white-space:nowrap;"> <kbd>/age</kbd>
+</td>
+<td> Show statistics about your character such as when the character was created, time online, number of deaths, damage taken, damaged dealt.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/blog</kbd>
+</td>
+<td> View the development-blog web page
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/forum</kbd> <kbd>something</kbd>
+</td>
+<td> View or search the game's forum for 'something' (this will open a page in your default browser).  Just /forum will go to the forum's base page.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/wiki</kbd> <kbd>something</kbd>
+</td>
+<td> Search this wiki for 'something' (this will open a page in your default browser).
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/swiki</kbd> <kbd>something</kbd>
+</td>
+<td> Search this wiki for 'something' (this will open a page in steam browser).
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/isearch</kbd>
+</td>
+<td> This command searches all external storage, such as the storage provided by NPCs for chests you find in dungeons. Specify the name of an item to search for it. (NOTE: This command does not search account-wide storage or guild storage).
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/isearch</kbd> <kbd> Salt</kbd>
+</td>
+<td> This command would find items with the name Salt, Salty Cakes, and Bassalt.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/isearch</kbd><kbd> +Salt</kbd>
+</td>
+<td> This command uses Exact Searching, and will search for the exact item after the plus. Only Salt will be found.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/messages</kbd>
+</td>
+<td> Will show the current message of the day set by the game administrator along with some "system" messages, such as admin messages sent to you or cancellation/fulfillment notices of player work orders.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/motd</kbd>
+</td>
+<td> Displays the system message of the day
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/redeem</kbd>
+</td>
+<td> Provides a list of special item vouchers you may be able to redeem.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/roll</kbd> <kbd>2d6</kbd>
+</td>
+<td> Roll two six-sided dice and announce the results.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/status</kbd>
+</td>
+<td> Show the server status including the last time the server was restarted, the amount of time you have been online and ping time.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/stuck</kbd>
+</td>
+<td> Try to re-adjust your character if you're stuck
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/wordhunt</kbd>
+</td>
+<td> Play the word-hunt minigame
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/entitle</kbd> <kbd>Bob</kbd>
+</td>
+<td> Give your unique custom title to player 'Bob'. Must be nearby!
+</td></tr></table>
+<h3><span class="mw-headline" id="Emotes">Emotes</span></h3>
+<p>The following commands cause your character to animate for roleplaying purposes. They don't actually have any real effect. (For instance, using /nap is not the same as actually napping in a bed).
+</p>
+<table class="table">
+
+<tr>
+<td style="white-space:nowrap;"> <kbd>/brag</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/cheer</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/cry</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/howl</kbd>
+</td>
+<td> Plays a short animation. Howls with rage in nearby chat.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/jeer</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/laugh</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/nap</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/read</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/sit</kbd>
+</td>
+<td> Plays a short animation. This is just visual and doesn't increase your regeneration rate, sorry EverQuest fans!
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/smith</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/stretch</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/taunt</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/thank</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/wave</kbd>
+</td>
+<td> Plays a short animation.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/e</kbd> or <kbd>/em</kbd>
+</td>
+<td> Perform a custom emote. Can be targeted with <kbd>%t</kbd>
+</td></tr></table>
+<h3><span class="mw-headline" id="Unlisted_Commands">Unlisted Commands</span></h3>
+<p>The following commands exist, but are not displayed in the in-game help window.
+</p>
+<table class="table">
+
+<tr>
+<td style="white-space:nowrap;"> <kbd>/mapclear</kbd>
+</td>
+<td> Removes map pins from all maps.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/unstickchar</kbd> <kbd>&lt;name of character&gt;</kbd>
+</td>
+<td> Used when it seems impossible to log into a character, typing this command on another character of the same account will transport the stuck character to Anagoge.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/behaviorreport</kbd>
+</td>
+<td> Displays a Behavior Report window for the character. This displays lots of information that could be used for player-run Challenges.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/zapresources</kbd><kbd>icefishing</kbd>
+</td>
+<td> Removes all of a character's icefishing traps from the world. The removed items are gone. You can also use this on other craft items. Add the appropriate word to the zap command: brewing, fletching, cheesemaking, icefishing, mushroomfarming. The game will give you a message to confirm along with a code number. If you're sure, type the command again with the code number and everything deployed for that item will be deleted. Game advises only using this when the craft item is stuck (can't select it). Game may also advise you not to deploy items too close to the edge of a zone to avoid getting items stuck.
+</td></tr>
+<tr>
+<td style="white-space:nowrap;"> <kbd>/particlespam</kbd>
+</td>
+<td> Toggles on/off some particle effects.  Useful during world boss events. Produces an info-message in chat stating whether effects have been ENABLED or DISABLED.
+</td></tr></table></kbd>
+
+<!-- 
+NewPP limit report
+Cached time: 20251105103829
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.020 seconds
+Real time usage: 0.023 seconds
+Preprocessor visited node count: 99/1000000
+Preprocessor generated node count: 180/1000000
+Post‐expand include size: 271/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    3.764      1 -total
+ 46.57%    1.753      1 Template:TOCright
+ 26.08%    0.982      9 Template:STDT
+-->
+
+<!-- Saved in parser cache with key pg_wiki-pg_:pcache:idhash:112-0!*!0!!en!5!* and timestamp 20251105103829 and revision id 121841
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://wiki.projectgorgon.com/w/index.php?title=User_Interface&amp;oldid=121841">http://wiki.projectgorgon.com/w/index.php?title=User_Interface&amp;oldid=121841</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:Mechanics" title="Category:Mechanics">Mechanics</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=User+Interface" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=User+Interface" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/User_Interface"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:User_Interface&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/User_Interface" >Read</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=User_Interface&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=User_Interface&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Project: Gorgon Wiki" title="Search Project: Gorgon Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/User_Interface" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/User_Interface" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=User_Interface&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/w/index.php?title=User_Interface&amp;oldid=121841" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=User_Interface&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 23 November 2022, at 12:58.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Project_Gorgon:Privacy_policy" title="Project Gorgon:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Project_Gorgon:About" title="Project Gorgon:About">About Project: Gorgon Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Project_Gorgon:General_disclaimer" title="Project Gorgon:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://wiki.projectgorgon.com/w/index.php?title=User_Interface&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.023","ppvisitednodes":{"value":99,"limit":1000000},"ppgeneratednodes":{"value":180,"limit":1000000},"postexpandincludesize":{"value":271,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    3.764      1 -total"," 46.57%    1.753      1 Template:TOCright"," 26.08%    0.982      9 Template:STDT"]},"cachereport":{"timestamp":"20251105103829","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":23});});</script>
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"64cfefc7eff14b26b15b01ca553b8193","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

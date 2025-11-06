@@ -1,0 +1,4475 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Beast_Forms",
+  "title": "Beast Forms - Project: Gorgon Wiki",
+  "main_content": "Beast Forms\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nBeast Forms\nare a unique feature of the skill system in Project: Gorgon.\nBeast Forms\nare transformations which can be discovered from consuming potions, failing to defeat specific bosses, participating in events, or leveling skills. While technically curses, many consider\nBeast Forms\nto be viable, powerful alternatives to living life in a humanoid form.\nSkill Characterization\nCow\nCows are viewed as a traditional tank archetype. Abilities such as\nTough Hoof\nand\nChew Cud\nhelp Cows improve their survivability in longer fights. Cows also have the\nsprint\nability\nMoo of Determination\n, and the the ability to produce their own milk.\nBottle of Milk\nis a valuable item used in crafting skills such as\nCooking\nand\nCheesemaking\n. Cows with a\nVegetarian badge\ncan produce milk faster than cows with a varied diet, however skill level and the version of\nCollect Milk\nused also impact collection times.\nAdventurers can also milk cows, however consent must be given.\nDeer\nDeer is considered to be a good foundation for an off-tank. While cows receive overt tank abilities, survivability in deer primarily comes from Deer Treasure Effects on equipment. Deer have the ability to jump faster and higher than other land-based\nBeast Forms\nusing\nBounding Escape\n. They also have AoE taunts, while cows only have single target taunts.\nDeer can use the ability\nSummon Deer\nto summon a wild deer to help them in battle.\nSome deer are actually\nDruids\n, using the\nDeer Form\ntoggle ability.\nSpider\nSpider form is useful for DPS/Assassin type builds. Spiders deal predominantly Crushing and Poison damage to quickly defeat enemies. Many spiders rely on\nIncubate\n, an ability that injects eggs inside enemies, dealing massive damage and spawning a pet spider. Spiders spawned through this ability will aid their parent in battle.\nSpiders have the ability to use\nInsidious Illusion\nto temporarily talk with Animal Hating NPCs. This ability has a 20 minute cooldown and consumes a\nMoonstone\neach time it is used.\nSpiderweb\ncan be produced by Level 60 Spiders using\nWebspin\n. This ability can give spiders an advantage in\nTextile Creation\nand\nTailoring\n, which is helpful if they want to craft the spider-form\nSpider Casing\nequipment.\nPig\nPigs are often equipped for supporting roles. While they can hold their own individually, they shine in groups as healers or buff builders using a combination of\nMudbath\n,\nFrenzy\n, and\nPorcine Alertness\n.\nThe speed-boosting sidebar ability\nTerror Dash\nis often used by pigs escaping dangerous situations, or traveling across large regions of Alharth.\nA variety of mushrooms can be found by pigs using the\nTruffle Sniff\nabilities.\nRabbit\nNormally, rabbits are stealthy creatures. Using\nPlay Dead\n, a rabbit can force enemies to ignore it for a few seconds. Traveling through dangerous areas, rabbits may alternate between the speed-increasing\nHare Dash\nand the speed-reducing\nLong Ear\n, which slows a rabbit down in exchange for reducing the detection range of nearby foes.\nRabbits are the only\nBeast Form\ncapable of using\nIce Magic\n. A special headgear item is required to activate this synergy.\nGiant Bat\nGiant Bats have access to a variety of tools, including knock-back, recovery, heavy damage, and concussion abilities. These options made Giant Bat compatible with many skills.\nGiant Bats can use\nEcholocation\n, which allows them to see in the dark. This ability is especially useful in area like the deeper parts of the\nLabyrinth\nin\nIlmari\n.\nGiant Bats also have the ability to fly, and to infect others in PVP with a disease which will eventually turn them into a bat.\nLycanthropy\nLycanthropy is unusual among the\nBeast Forms\n, as it is a\npermanent alteration.\nThere will\nnever\nbe a method to remove Lycanthropy from a character, so be sure to understand the risks and rewards before accepting the blessing of\nNorala\n.\nIndividuals infected with Lycanthropy can switch between humanoid and wolf form without too much effort, however they will be locked into wolf form during the Full Moon.\nWhile in wolf form, Lycanthropes have access to powerful slashing, crushing, and trauma attacks.\nHowl Mode\nallows packs of wolf-form lycanthropes to build up impressive combat-improving buffs.\nSpirit Fox\nSpirit Fox are tricksters, using abilities including\nDimensional Snare\nto immobilize targets and\nBlur Step\nto boost their melee evasion during combat. In combat, Spirit Fox deal mostly Crushing and Darkness damage.\nSpirit Fox can use\nIllusive Guise\nto disguise themselves in a humanoid projection for a short time. This allows them to interact with Animal Hating NPCs.\nDruid Forms\nDruids\ncan magically project themselves as\nDeer\n, as well as a variety of birds including\nRaven\nand\nMallard\n. However, these are NOT\nBeast Forms\n.\nBeast Form Mechanics\nFamiliar's Recall\nIcon\nLevel\nName\nDescription\nSpecial\nEffects\nStats\nSource\n0\nFamiliar's Recall\nSends you back to your master. You must be a long-term animal with a bonded master, and you must be wearing a Familiar Recall Collar.\nCan Be On Sidebar\nPower Cost:\n50\nRange:\n5\nCooldown:\n1800\n???\nUsing a Recall Collar, a character using one of the\nBeast Forms\nmay directly teleport to their master using the Familiar's Recall ability.  This ability can be used from anywhere, as long as the player has been in animal form for the past 3 hours of in-game real time.\nThis ability is learned from their master:\nCinnamon the rabbit\nin\nAnimal Town\nis currently the only NPC offering a bond, but he implies that other NPCs will offer this service in the future.\nRecall Collars\nAmazing Familiar Recall Collar\nA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)\nAstounding Familiar Recall Collar\nA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)\nCrude Familiar Recall Collar\nA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)\nDecent Familiar Recall Collar\nA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)\nGreat Familiar Recall Collar\nA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)\nNice Familiar Recall Collar\nA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)\nQuality Familiar Recall Collar\nA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)\nRough Familiar Recall Collar\nA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)\nShoddy Familiar Recall Collar\nA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)\nBeast Skills\nBeast Speech\nOne of the disadvantages of becoming a\nBeast Form\nis\nBeast Speech\n. When the skill is low, random words spoken in chat will be replaced by an animal sound of the same length. For example, a cow sending \"\nI need help, can you meet me at the Serbule Well\n\" might be sent as \"\nI moooo moooo, can moo meet me at the moooooooo moooo?\n\", which is rather inconvenient! The words replaced are random, and as Beast Speech is leveled, the frequency of swapped words is reduced dramatically.\nSpirit Fox\nare not afflicted with\nBeast Speech\n, as their transformation results is something not-quite a physical form.\nSurvival Instincts\nSurvival Instincts\nis a utility skill which provides sidebar abilities.\nToughen Up\nprovides an alternative to\nArmor Patching\n.\nToxic Flesh\ncauses incoming melee attacks to inflict the attacker with poison.\nLend Grace\nimproves evasion and regenerates power.\nBeast Metabolism\nBeast Metabolism\nis a skill used only by\nLycanthropes\n. This skill levels as they consume the corpses of defeated enemies.\nWarden\nWarden\nis a combat skill exclusively available to\nBeast Forms\n. This skill deals Electricity, Fire, and Acid damage.\nTo learn the Warden skill you must have\n[\nFriends\n]\nor higher favor with\nSuspicious Cow\nin Eltibule,\nRed\nin Kur, or\nNorbert\nin Animal Town in Sun Vale. Speak with one of those NPCs with whom you have sufficient favor, and complete a series of quests to become a Warden\nBeast Form Equipment\nLook Marna, No Hands!\nAs an animal, you no longer have the ability to use skills that require handheld weapons, such as\nSword\n,\nFire Magic\n, or\nShield\n.\nThe lack of hands also prevents animals from gathering wood and collecting  milk from milkable animals.\nBeast Forms\nseeking to use\nNecromancy\nor\nPriest\nwill be unable to use common\nNecromancy\nOrbs or\nPriest\nStaffs. Necklaces with Necromancy Gems or Holy Symbols can be used by animals.\nCrafting Equipment for Beast Forms\nWhen magical equipment is crafted, two gemstones are required to select the skills that Treasure Effects will be generated for. While most skills have\ngems\neasily obtained through surveying, animals require an additional step, rune-infused gems.\nSigil Scripting\nrecipes taught by\nPreta\nin\nSun Vale\nmust be used to attune common gems to\nBeast Forms\n. Level 25\nSigil Scripting\nis required to produce the inscribed rune-infused gems.\nBat Malachite\nCow Malachite\nDeer Malachite\nPig Malachite\nRabbit Malachite\nSpider Malachite\nSpirit Fox Lapis\nAnimal-Specific Equipment\nMost\nBeast Forms\nhave armor or equipment that can only be worn by that form. Usually, this includes\nRacial Jewelry\n, however some forms have armor that changes them visually. Check individual pages of the\nBeast Forms\nfor complete lists of their special equipment.\nCows\nhave access to crafted Champron (headwear) & Barding(chest armor), which gives them the appearance of an armored cow.\nDeer\ncan equip Alicorns such as\nGreenberg's Horn\n, which add a centered horn to their forehead.\nSpiders\ncan wear crafted Spider Casings, which can change their carapace color if Decent quality or better.\nPigs\ncan wear Porkpie Hats created through\nTailoring\n.\nRabbit\n- No visual equipment.\nGiant Bats\ncan equip Witch Hats crafted through\nTailoring\n.\nLycanthropy\nafflicted characters can wear a complete set of five armor pieces while in wolf form. This armor is crafted through\nBlacksmithing\n.\nSpirit Fox\n- No visual equipment.\nAnimal Transformation\nCow\nMethods of turning into a Cow\nReceive damage from the Rage Attack\nCrushing Knockback Curse\nby\nMaronesa\nin the\nCrystal Cavern\n. Transformation begins after 120 seconds if\nMaronesa\nis still alive, or at the time of her target's death. Defeating her will remove the curse, so do not do that if you are trying to become a cow!\nEncounter the\nStrange Pig\nduring a weeklong Special Event.\nMethods of removing Cow form\nDefeat\nMaronesa\nin the\nCrystal Cavern\nto undo her curse.\nComplete the one-time quest\nUn-cow-ification\nto receive a\nMinor Panacea\n.\nSpeak a\nWord of Power: Cure Bovinity.\nDrink a very rare\nMinor Panacea\n.\nEncounter the\nStrange Pig\nduring a weeklong Special Event.\nDeer\nMethods of turning into a Deer\nReceive damage from the Rage Attack\nHeavy Burst Darkness Damage and Curse\nby\nCiervos The Shadow\nin the\nGoblin Dungeon\n. Transformation occurs immediately. Defeating Ciervos will remove the curse, so do not do that if you are trying to become a Deer!\nDrink\nDeer Juice\n.\nAs a\nDruid\n, reach Level 25.\nReceive damage from the Rage Attack of\nWorld Boss Ciervos\nor\nIncursion Boss Ciervos\nduring events.\nMethods of removing Deer form\nDefeat\nCiervos The Shadow\nor one of his event variants.\nDrink\nUn-Deer Juice\n.\nAs a\nDruid\n, reach Level 25.\nSpeak a\nWord of Power: Cure Deeriness.\nDrink a very rare\nMinor Panacea\n.\nSpider\nMethods of turning into a Spider\nDrink\nSpider Juice\n. (You should buy an Un-Spider Juice from the NPC at the same time!)\nEncounter\nAkhisa's Herald\nduring a weeklong Special Event.\nMethods of removing Spider form\nDrink\nUn-Spider Juice\n.\nSpeak a\nWord of Power: Cure Arachnia.\nDrink a very rare\nMinor Panacea\n.\nEncounter\nAkhisa's Herald\nduring a weeklong Special Event.\nPig\nMethods of turning into a Pig\nDrink\nPig Juice\n.\nEncounter the\nStrange Pig\nduring a weeklong Special Event.\nMethods of removing Pig form\nDrink\nUn-Pig Juice\n.\nSpeak a\nWord of Power: Cure Pigification.\nEncounter the\nStrange Pig\nduring a weeklong Special Event.\nRabbit\nMethods of turning into a Rabbit\nDrink\nError: Item not found\nBunny Juice\n.\nObtainable during the Seasonal Events\nGarden Invasion\n,\nBun-Fu Training\n.\nMethods of removing Rabbit form\nDrink\nUn-Bunny Juice\n.\nObtainable during the Seasonal Events\nGarden Invasion\n,\nBun-Fu Training\n.\nDrink a very rare\nMinor Panacea\n.\nGiant Bat\nMethods of turning into a Giant Bat\nBecome infected with\nFevered Trismus\n. If untreated, transformation after two hours.\nSources\n- Bite by a\nGiant Bat\ncharacter using\nVirulent Bite\nin a PVP-enabled area.\n- Rage attacks from\nDisease-Crazed Giant Bat\n,\nPet Battlebat\n,\nSickly Giant Bat\n, or\nAngry Giant Bat\n.\nMethods of removing Giant Bat form\nDrink\nUn-Bat Juice\n.\nDrink a very rare\nMinor Panacea\n.\nLycanthropy\nPlease see the\nLycanthropy\npage for more information.\nSpirit Fox\nMethods of turning into a Spirit Fox\nGift the\nCompletely Normal Fox\nin the\nWolf Cave\na\nSpirit Stone\n.\nDirectly trade a\nSpirit Stone\nto another\nSpirit Fox\ncharacter.\nMethods of removing Spirit Fox form\nReceive a directly traded\nSpirit Stone\nfrom another character.\nDrink a very rare\nMinor Panacea\n.\nBeast Forms and NPCs\nNot every NPC in Project: Gorgon is friendly to\nBeast Forms\n. Newly transformed\nBeast Forms\nquickly discover that many shopkeepers shun animals, refusing to speak with them. In the town of\nSerbule\n, shopping and training services once offered in humanoid form will be rescinded by\nMarna\n,\nJoeh\n,\nElahil\n, and\nTadion\n. If humanoid form is regained, normal access to animal-hating NPCs will return.\nSome NPCs can be bribed to speak with animals, such as\nHulon\nin\nSerbule\n. The method to bribe NPCs varies. Sometimes the NPCs offer a quest, at other times they want a bribe of Councils.\nNPCs that refuse to speak to\nBeast Forms\ncan be picky. They may shun only \"scary\" forms, usually\nSpider\n,\nLycanthrope\n, and\nGiant Bat\n.\nBoth\nSpider\nand\nSpirit Fox\ngain access to abilities allowing them to temporarily appear humanoid.\nDiscoverable\nWords of Power\nexist that can temporarily project a humanoid form.\n-\nWord of Power: Human Illusion ... Speaking this word makes you look like a human for 90 seconds. Townsfolk and shopkeepers will perceive you as a human and their memories will be temporarily altered so that they think you've always been a human.\n-\nWord of Power: Elf Illusion ... Speaking this word makes you look like an elf for 120 seconds. Townsfolk and shopkeepers will perceive you as an elf and their memories will be temporarily altered so that they thing you've always been an elf.\n-\nWord of Power: Rakshasa Illusion ... Speaking this word makes you look like a rakshasa for 150 seconds. Townsfolk and shopkeepers will perceive you as a rakshasa and their memories will be temporarily altered so that they think you've always been a rakshasa.\nWhile some NPCs shun\nBeast Forms\n, others will only be willing to interact with them. There are\nAwakened\nanimals in small camps and outposts across Alharth that offer alternative places to train and shop.\nAnimal Town\nAnimal Town\nis a hidden refuge in\nSun Vale\npopulated by various species of talking animals. Some of the residents are\nAwakened\n, while others are were-creatures, or were granted intelligence by unknown methods. Humans, Rakshasa, Orcs, Fairies, and Elves are forbidden from entering the town, and will be forcibly removed by the deadly\nSummoned Guardians\n.\nIndividuals who have recently transformed into one of the\nBeast Forms\nwill find themselves unable to speak with most NPCs in\nAnimal Town\nuntil 180 real-world minutes have been played. If you loose track of the time you transformed,\nNorbert\nthe pig can tell you when the other residents will tolerate talking with you!\nBefriending the residents of\nAnimal Town\nis highly encouraged for all\nBeast Forms\nwho wish to remain in their forms long-term. The NPCs of the town offer training of\nBeast Skills\n, abilities, and provide storage exclusive to\nBeast Forms\n.\nAnimal Outposts\nKur Mountains\nNorth of\nKur Tower\non the far side of the river, a small crystal-guarded outpost run by foxes watches over the region.\nInside a cavern carved into a mountain, a group of\nWardens\nstay safe and plan for their future. This cavern is magically-sealed to outsiders and those in humanoid forms.\nGazluk\nIn the northeast mountains of the inner ring, a small Animal Camp provides a warm refuge from the cold.\nUseful NPCs to Befriend\nOutside of animal-run towns and outposts, there are a few NPCs that Animal Forms should become acquainted with.\nSerbule\nFlia\n- A fairy east of Serbule Keep, she offers shopkeeper services in any easy to reach location for lower-level\nBeast Forms\n.\nHarry the Wolf\n- A Lycanthrope shopkeeper in the Serbule garden, Harry speaks with\nBeast Forms\nnaturally, but requires extra effort by humanoid forms who want to converse with him.\nEltibule\nSuspicious Cow\n- Grazing outside of Eltibule Keep, this guardian of the region offers training and shopkeeper services.\nKur Mountains\nAlong the northwestern beach, Lycanthropes\nSanja\nand\nJace Soral\nguard a small camp and campfire.\nIlmari\nLumpfuzz\n- A traveling Elven Spellhound and merchant.\nNPC Shopkeepers that speak to Beast Forms\nNPC Name\nZone\nSpeak\nAnimals spoken to.\nAgrashab/Sun Vale\nSun Vale\nYes\nAll\nAmutasa\nRahu\nYes\nAll\nArlan\nIlmari\nYes\nAll\nAshk the Answerer\nRahu\nYes\nAll\nAven\nGazluk\nYes\nAll\nAzalak\nSerbule\nYes\nAll\nBaroness Marith Felgard\nSerbule Hills\nYes\nAll\nBellema Deftwhisper\nGazluk\nNo\nBendith the Banished\nFae Realm\nYes\nAll\nBraigon\nEltibule\nYes\nOnly Cow\nBrianna Willer\nSerbule Hills\nYes\nAll\nCharles Thompson\nSerbule\nYes\nAll\nCheb\nPovus\nYes\nAll\nCinnamon the rabbit\nSun Vale\nYes\nAnyone in animal form for 3+ hours\nCleo Conyer\nSerbule Hills\nYes\nCorey The Croaker\nSun Vale\nYes\nAll\nDachak the Digger\nPovus\nAll\nDhakmar\nRahu\nYes\nAll\nDog Ear\nPovus\nYes\nDrummond Stonecurl\nVidaria\nTemporarily\nDurstin Tallow\nSerbule Hills\nYes\nAll after bribe.\nEchur\nSerbule\nYes\nAll\nElahil\nSerbule\nNo\nEleme\nSun Vale\nYes\nAll\nEngineer Crall\nVidaria\nYes\nAll\nErrruka the Benefactor\nPovus\nNo\nEveline Rastin\nRed Wing Casino\nYes\nAll\nFainor\nSerbule\nYes\nAll after bribe.\nFazzi\nSun Vale\nYes\nAll\nFelmer\nFae Realm\nYes\nAll\nFerand Deftwhisper\nPovus\nYes\nAll\nFerris Blueheart\nVidaria\nTemporarily\nFiraki\nIlmari\nYes\nAll\nFlia\nSerbule\nYes\nAll\nFloxie\nFae Realm\nYes\nAll\nGasu'um\nGazluk\nYes\n???\nGeorge Madler\nEltibule\nNo\nGerrux\nPovus\nyes\nGlajur\nKur Mountains\nYes\nAll\nHarry the Wolf\nSerbule\nYes\nAll\nHelena Veilmoor\nEltibule\nNo\nHiral\nSun Vale\nYes\nAll\nHirochi the Booklord\nRahu\nYes\nAll\nHogan\nEltibule\nYes\nAll\nHulon\nSerbule\nYes\nAll, after bribe.\nIchin the Ice Master\nRahu\nYes\nAll\nIrkima\nRed Wing Casino\nYes\nAll\nJace Soral\nKur Mountains\nYes\nNon-Human or Lycan\nJaime Fatholm\nSerbule Hills\nYes\nAll, after bribe to\nDurstin Tallow\nJesina\nEltibule\nYes\nNo Bats, Spiders, or Wolves\n(Until quest completed).\nJoeh\nSerbule\nNo\nJulius Patton\nSerbule Hills\nYes\nAll\nJumjab\nEltibule\nYes\nAll\nKalaba\nEltibule\nNo\nKelim\nIlmari\nYes\nAll\nKib the Unkillable\nRed Wing Casino\nYes\nAll\nKleave\nEltibule\nYes\nAll\nKodan\nSun Vale\nYes\nAnyone in animal form for 3+ hours / Werewolves\nKohan\nRahu\nYes\nAll\nKorbok\nVidaria\nYes\nAll\nLamashu\nKur Mountains\nNo\nLarsan\nSerbule\nYes\nAll\nLaura Neth\nKur Mountains\nNo\nLegs\nSun Vale\nYes\nAll, if animal form 3+ hours.\nLeonard Allenson\nSerbule\nYes\nAll\nLisi\nSun Vale\nYes\nAll\nLucinnea\nVidaria\nYes\nAll\nLumpfuzz\nIlmari\nYes\nAll\nMandibles\nRed Wing Casino\nYes\nAll\nMarna\nSerbule\nNo\nMilton\nKur Mountains\nYes\nAll\nMox Warcut\nGazluk\nYes\n???\nMushroom Jack\nSerbule\nYes\nAll\nNishika\nRahu\nYes\nAll\nNorbert\nSun Vale\nYes\nBe in animal form for 3+ hours\nOtis\nRed Wing Casino\nYes\nAll\nPasha\nIlmari\nYes\nAll\nPaul Vaughn\nSerbule Hills\nYes\nAll\nPegast\nFae Realm\nYes\nAll\nPitre Ferrence\nVidaria\nYes\nAll\nPreta\nSun Vale\nYes\nAll\nQatik\nRed Wing Casino\nYes\nAll\nRagabir\nRed Wing Casino\nYes\nRaina\nFae Realm\nYes\nAll\nRed\nKur Mountains\nYes\nNo Scary\nRichter\nHeavenly Sewers\nYes\nAll\nRick Snapley\nGazluk\nYes\nAll\nRoshun the Traitor\nSerbule\nYes\nAll\nRugen\nRahu\nYes\nAll\nSammie Grimspine\nSerbule Hills\nYes\nAll\nSelaxi\nIlmari\nYes\nAll, after bribe\nShirogin\nRahu\nYes\nAll\nSie Antry\nEltibule\nYes\nAll\nSir Arif\nSerbule\nNo\nSir Coth\nSerbule\nNo\nSirine\nRahu\nYes\nAll\nSolgribue\nFae Realm\nSona\nGazluk\nYes\nAll\nSpot\nSun Vale\nYes\nAll\nStrange Spider\nSerbule\nYes\nAll\nSuspicious Cow\nEltibule\nYes\nAll\nTadion\nSerbule\nNo\nTavilak\nRed Wing Casino\nYes\nAll\nThe Wombat\nSun Vale\nYes\n???\nTherese\nSerbule\nYes\nAll\nTrasen\nSerbule Hills\nYes\nTryaka\nPovus\nYes\nAll\nUfkar\nRahu\nYes\nAll\nUkorga\nKur Mountains\nNo\nUrzab\nIlmari\nYes\nAll\nVelkort\nSerbule\nYes\nAll\nVendor Fox\nYes\nAll\nWay\nSerbule\nYes\nAll\nWillem Fangblade\nRed Wing Casino\nYes\nAll\nWintria Irasce\nRahu\nYes\nAll\nYagreet\nSun Vale\nYes\nAll\nYavazek\nSun Vale\nYes\nAll\nYetta\nEltibule\nNo\nYogzi\nSun Vale\nYes\nAll\nZhao\nRahu\nYes\nAll\nNPCs that speak to Beast Forms and are not Shopkeepers\nNPC Name\nZone\nSpeak\nAnimals spoken to.\nAceri\nRed Wing Casino\nYes\nAll\nAgrashab/Fae Realm\nFae Realm\nYes\nAll\nAilred\nPovus\nYes\nAll\nAkhisa's Herald\nSerbule\nYes\nAll\nAlravesa the All-Hunter\nIlmari\nYes\nAll\nAralorn\nGazluk\nYes\nAll\nArianna Fangblade\nRed Wing Casino\nYes\nAll\nBackfat\nFae Realm\nYes\nAll\nBahdba\nSerbule\nYes\nAll\nBarnaby\nKur Mountains\nYes\nAll\nBeehive\nFae Realm\nYes\nOnly if Fairy\nBlanche\nSerbule\nNo\nBogaku\nRahu\nYes\nAll\nBrandon Mellus\nIlmari\nYes\nAll\nBroken Glowing Sphere\nKur Mountains\nYes\nAll\nBrugo the Wise\nPovus\nNo\nCasino Greeter\nRed Wing Casino\nYes\nAll\nCassie\nKur Mountains\nYes\nAll\nChaf Springfield\nRed Wing Casino\nYes\nAll\nChief Glortok\nRahu\nYes\nAll\nChirrra\nSerbule Hills\nYes\nAll\nCreepy Alchemist\nSerbule\nYes\nAll\nCrelpin\nFae Realm\nYes\n???\nCurious Creature\nGazluk\nYes\nAll\nDaisy (NPC)\nSun Vale\nYes\nAll if animal form for 3+ hours\nDaniel Murderdark\nRahu\nYes\nAll\nDelia\nRed Wing Casino\nYes\nAll\nDenton Razor\nVidaria\nTemporarily\nDeville\nSun Vale\nYes\nAll\nDorimir Fangblade\nRed Wing Casino\nYes\nAll\nDrima\nIlmari\nYes\nAll\nDye Monster\nSerbule\nYes\nAll\nEaster Bunny\nEltibule\nYes\nAll\nElaina\nSun Vale\nYes\nAll\nElmetaph\nAnagoge\nYes\nAll\nEnsign Cricket\nFae Realm\nYes\nAll\nFalkrin Overstrike\nIlmari\nYes\nAll\nFiddler\nRed Wing Casino\nYes\nAll\nFitz the Boatman\nSerbule\nYes\nAll\nFluffikins\nGazluk\nYes\nAll\nFurlak\nRahu\nYes\nAll\nGarad\nRed Wing Casino\nYes\nAll\nGershok\nSerbule Hills\nYes\nAll\nGhost Orc\nPovus\nGisli\nSerbule\nYes\nAll\nGloria Stonecurl\nKur Mountains\nYes\nAll\nGlowing Sphere\nKur Mountains\nGlowing Sphere\nFae Realm\nYes\nYes\nAll\nAll\nGorvessa\nEltibule\nYes\nAll\nGozzaroon\nSun Vale\nYes\nAll\nGrakelsput\nPovus\nYes\nAll\nGremix\nIlmari\nYes\nAll\nGretchen Salas\nEltibule\nNo\nGribburn\nEltibule\nYes\nAll\nGurki\nKur Mountains\nNo\nHappy-Go-Lucky Bat\nSerbule\nYes\nAll\nHemmit Magmagrip\nGazluk\nYes\n???\nInella\nElven Judgement\nYes\nAll\nIshiko\nPovus\nYes\nAll\nIvyn\nSerbule\nNo\nJake the Buckler\nSun Vale\nYes\nCows, Pigs, Wolves, Deer, Bats.\nJanet Lews\nKur Mountains\nNo\nJara\nSerbule\nNo\nJaw\nSerbule\nYes\nAll\nJopol\nRed Wing Casino\nYes\nAll\nJumper\nSun Vale\nYes\nAll, if animal for 3+ hours.\nJurl the Boatman\nSerbule\nYes\nAll\nJustin Fargold\nPovus\nYes\nAll\nKalrod\nRed Wing Casino\nYes\nAll\nKatarina Eltibule\nKimeta\nPovus\nYes\nAll\nKimoc\nRed Wing Casino\nYes\nAll\nKinira\nRed Wing Casino\nYes\nAll\nKuzavek\nRed Wing Casino\nYes\nAll\nLady Alethina\nRed Wing Casino\nYes\nAll\nLady Windsong\nRahu\nYes\n???\nLakrea\nRahu\nYes\nAll\nLana Songtree\nSerbule Hills\nYes\nAll, after bribing\nDurstin Tallow\n.\nLandri the Cold\nKur Mountains\nYes\nAll\nLawara\nAnagoge\nYes\nAll\nLeah Bowman\nPovus\n?\nLegacy Item Replacer\nSerbule\nYes\nAll\nLiamu the Watchful\nVidaria\nYes\nAll\nLincha\nPovus\nYes\nAll\nLoche\nRed Wing Casino\nYes\nAll\nLugnir\nSerbule\nYes\nAll\nMakara\nIlmari\nYes\nAll\nMalgath\nKur Mountains\nYes\nAll\nMalvol\nEltibule\nYes\nAll\nMelandria\nGazluk\nYes\nAll\nMerriana\nSerbule Hills\nYes\nMessage Starfish\nSun Vale\nYes\nAll\nMidge the Apothecary\nFae Realm\nYes\nAll\nMirror\nGazluk\nYes\nAll\nMittens\nKur Mountains\nYes\n???\nMoku\nPovus\nYes\nAll\nMope\nPovus\n???\nMoxie\nRed Wing Casino\nYes\nAll\nMu\nSerbule\nYes\nAll\nMythander\nEltibule\nYes\nNPCs by Area\nNPCs by Special\nNelson Ballard\nSerbule\nNo\nNightshade\nKur Mountains\nYes\n???\nNissim\nIlmari\nYes\nAll\nNoita the Green\nFae Realm\nYes\nAll\nNorbert/Strange Pig\nSerbule\nYes\nAll\nOgamboe\nFae Realm\nYes\nAll\nOritania\nEltibule\nNo\nOrran\nRed Wing Casino\nYes\nAll\nOrrrilund\nSerbule Hills\nYes\nAll\nPennoc\nSerbule\nYes\nAll\nPercussa\nRahu\nYes\nAll\nPercy Evans\nEltibule\nYes\nAll\nPickles\nKur Mountains\nYes\n???\nPoe\nSerbule\nYes\nAll\nPuffy Ben\nSun Vale\nYes\nAll\nQuest Hag\nKur Mountains\nYes\nAll\nRaim\nRed Wing Casino\nYes\nAll\nRappanel\nSerbule Hills\nYes\nAll, after bribing\nDurstin Tallow\n.\nRatuk the Thinker\nKur Mountains\nYes\n???\nRaul\nSun Vale\nYes\nAll, if in animal form for 3+ hours.\nRayar\nRed Wing Casino\nYes\nAll\nRecords Golem A\nAnagoge\nYes\nAll\nRecords Golem B\nAnagoge\nYes\nAll\nRecords Golem C\nAnagoge\nYes\nAll\nRecords Golem D\nAnagoge\nYes\nAll\nRicatu\nPovus\nYes\nAll\nRiger\nAnagoge\nYes\nAll\nRiston\nRed Wing Casino\nYes\nAll\nRita\nSerbule\nNo\nRixie\nPovus\nYes\nAnyone\nRohina\nSun Vale\nYes\nAll\nRubi\nKur Mountains\nYes\nAll\nSanja\nKur Mountains\nYes\nAll\nSarina\nEltibule\nYes\nAll\nSelphie\nSerbule\nNo\nSem\nGazluk\nYes\nAll\nSentient Flame\nSerbule\nNo\nSer Lorentz\nVidaria\n???\nSergeant Ultaka\nRahu\nYes\nAll\nSerrold\nRed Wing Casino\nYes\nAll\nShala\nPovus\nYes\nAll\nSheyna\nRahu\nYes\nAll\nShovel Dispenser\nFae Realm\nYes\nAll\nSilvia\nSun Vale\nYes\nAll\nSir Johnson\nIlmari\nYes\nAll\nSir Taggart\nVidaria\n???\nSnowleaf\nKur Mountains\nYes\nAll\nSquidlips\nSun Vale\nYes\nAll\nStables Golem\nSerbule Hills\n?\n?\nStephie Blackhammer\nPovus\nYes\nAll\nStulza\nRahu\nYes\nAll\nSugar (NPC)\nKur Mountains\nYes\nAnimals Only\nSyndra\nKur Mountains\nYes\nAll\nTangle\nKur Mountains\nYes\nAll, but he finds wolves scary\nTantai\nRed Wing Casino\nYes\nAll\nTeleportation Attendant\nRed Wing Casino\nYes\nThe Bat in the Hat\nYes\nAll\nThe Floriculturist\nVidaria\nYes\nAll\nThe Sand Seer\nIlmari\nYes\nAll\nThedar\nRed Wing Casino\nYes\nAll\nThimble Pete\nEltibule\nNo\nThree-Eyes\nRahu\nYes\nAll\nTorana\nRed Wing Casino\nYes\nAll\nTorgan\nGazluk\nYes\nAll\nTrekker\nGazluk\nYes\nAll\nTremmond Blackhammer\nPovus\n?\nTruxartis\nVidaria\nYes\nAll\nTyler Green\nSerbule Hills\nYes\n???\nUltashk\nEltibule\nYes\n???\nUmarak\nPovus\nYes\nAll\nUrglemarg\nSun Vale\nYes\nAll\nUriana\nFae Realm\nYes\nAll\nVerac\nRed Wing Casino\nYes\nAll\nViedesi\nSun Vale\nYes\nAll\nVoo\nSerbule\nYes\n???\nWobbuk\nPovus\nYes\nAll\nYalox\nEltibule\nYes\nAll\nYasinda\nEltibule\nYes\n???\nYoy\nSerbule\nYes\nAll\nYurra\nSerbule\nYes\nAll\nZazzamath\nVidaria\nYes\nAll\nZealo\nSerbule\nYes\nAll\nZeratak\nSerbule\nYes\nAll\nGeneral Tips for Beast Forms\nIt is advised that new characters wait to become a\nBeast Form\n, especially a\nLycanthrope\n, until they have explored\nSerbule\n,\nSerbule Hills\n, and\nEltibule\n. For characters with low-level Combat Skills, transforming into a\nBeast Form\nand losing access to many shopkeepers and other services can be a surprise. Until\nfavor\nis built up with NPC Shopkeepers that speak to animals, income and progress will likely temporarily plummet.\nIf a\nBeast Form\nsounds fun to try, it may be wise to obtain a method of removing the form before transformation. If an unprepared character drinks a\nSpider Juice\n, they will need to fight their way through the entire\nSerbule Crypt\nto reach the NPC selling the\nUn-Spider Juice\n... or rely on a helpful adventurer.\nBeast Forms\nstack. If a Rakshasa cursed by\nMaronesa\ninto a\nCow\ndrinks a\nDeer Juice\n, they will transform into a\nDeer\nand loose access to have Cow abilities active in combat. When they drink an\nUn-Deer Juice\n, they will return to Cow form instead of Rakshasa. If that Rakshasa also happens to be a\nLycanthrope\n, they will be forced from either Cow or Deer forms into wolf during the full moon. When the moon ends, they will return to whichever form they were before the moon phase began.\nA common method to improve\nBeast Speech\nis to send a message in a private channel every five minutes or so. This will raise Beast Speech without Global having to hear sentences of just Moo/Baa/Naa which can happen at very low levels of\nBeast Speech\n.\nNewly transformed\nBeast Forms\nmay have a surplus of armor after exploring a dungeon, as they no longer have access to\nJoeh\nas a shopkeeper. The Orc merchant\nRoshun the Traitor\n, living in a building near the\nEltibule\nportal, speaks with animals and buys equipment.\nAlthough most storage-offering NPCs in\nSerbule\nshun animals, storage spaces unlocked on them while in humanoid form can be accessed from the bookshelf in the building between\nMarna\nand\nHulon\n's shops. (Note: This may change in the future).\nUsing the associated Combat Skill for a\nBeast Form\nis not required. A\nCow\n-form character could have\nPsychology\nand\nMentalism\nas its active skills.\nTrivia\nBeast Forms\n(and specifically Cow  at first), were at first 'a fluke' by the Developers.\nCitan originally only intended the Beast Forms to be a very temporary curse, intended only as 'punishment' and to be cured ASAP.\nHe was surprised to find that certain players wanted to continue playing in their animal forms, and subsequently the different animal forms and their abilities and playstyle were further developed.\nSources\nMaking Armor Pt 2\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Beast_Forms&oldid=101289\n\"\nCategory\n:\nMechanics",
+  "tables": [
+    [
+      [
+        "Icon",
+        "Level",
+        "Name",
+        "Description",
+        "Special",
+        "Effects",
+        "Stats",
+        "Source"
+      ],
+      [
+        "",
+        "0",
+        "Familiar's Recall",
+        "Sends you back to your master. You must be a long-term animal with a bonded master, and you must be wearing a Familiar Recall Collar.",
+        "Can Be On Sidebar",
+        "",
+        "Power Cost:50Range:5Cooldown:1800",
+        "???"
+      ]
+    ],
+    [
+      [
+        "Amazing Familiar Recall CollarA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)Astounding Familiar Recall CollarA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)Crude Familiar Recall CollarA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)",
+        "Decent Familiar Recall CollarA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)Great Familiar Recall CollarA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)Nice Familiar Recall CollarA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)",
+        "Quality Familiar Recall CollarA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)Rough Familiar Recall CollarA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)Shoddy Familiar Recall CollarA collar for a wizard's familiar. This model is used on familiars that tend to run away. (You must be an animal to wear this collar.)",
+        ""
+      ]
+    ],
+    [
+      [
+        "Bat Malachite",
+        "Cow Malachite",
+        "Deer Malachite"
+      ],
+      [
+        "Pig Malachite",
+        "Rabbit Malachite",
+        "Spider Malachite"
+      ],
+      [
+        "Spirit Fox Lapis"
+      ]
+    ],
+    [
+      [
+        "NPC Name",
+        "Zone",
+        "Speak",
+        "Animals spoken to."
+      ],
+      [
+        "Agrashab/Sun Vale",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Amutasa",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Arlan",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ashk the Answerer",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Aven",
+        "Gazluk",
+        "Yes",
+        "All"
+      ],
+      [
+        "Azalak",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Baroness Marith Felgard",
+        "Serbule Hills",
+        "Yes",
+        "All"
+      ],
+      [
+        "Bellema Deftwhisper",
+        "Gazluk",
+        "No",
+        ""
+      ],
+      [
+        "Bendith the Banished",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Braigon",
+        "Eltibule",
+        "Yes",
+        "Only Cow"
+      ],
+      [
+        "Brianna Willer",
+        "Serbule Hills",
+        "Yes",
+        "All"
+      ],
+      [
+        "Charles Thompson",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Cheb",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Cinnamon the rabbit",
+        "Sun Vale",
+        "Yes",
+        "Anyone in animal form for 3+ hours"
+      ],
+      [
+        "Cleo Conyer",
+        "Serbule Hills",
+        "Yes",
+        ""
+      ],
+      [
+        "Corey The Croaker",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Dachak the Digger",
+        "Povus",
+        "All",
+        ""
+      ],
+      [
+        "Dhakmar",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Dog Ear",
+        "Povus",
+        "Yes",
+        ""
+      ],
+      [
+        "Drummond Stonecurl",
+        "Vidaria",
+        "Temporarily",
+        ""
+      ],
+      [
+        "Durstin Tallow",
+        "Serbule Hills",
+        "Yes",
+        "All after bribe."
+      ],
+      [
+        "Echur",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Elahil",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Eleme",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Engineer Crall",
+        "Vidaria",
+        "Yes",
+        "All"
+      ],
+      [
+        "Errruka the Benefactor",
+        "Povus",
+        "No",
+        ""
+      ],
+      [
+        "Eveline Rastin",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Fainor",
+        "Serbule",
+        "Yes",
+        "All after bribe."
+      ],
+      [
+        "Fazzi",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Felmer",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ferand Deftwhisper",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ferris Blueheart",
+        "Vidaria",
+        "Temporarily",
+        ""
+      ],
+      [
+        "Firaki",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Flia",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Floxie",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Gasu'um",
+        "Gazluk",
+        "Yes",
+        "???"
+      ],
+      [
+        "George Madler",
+        "Eltibule",
+        "No",
+        ""
+      ],
+      [
+        "Gerrux",
+        "Povus",
+        "yes",
+        ""
+      ],
+      [
+        "Glajur",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Harry the Wolf",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Helena Veilmoor",
+        "Eltibule",
+        "No",
+        ""
+      ],
+      [
+        "Hiral",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Hirochi the Booklord",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Hogan",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Hulon",
+        "Serbule",
+        "Yes",
+        "All, after bribe."
+      ],
+      [
+        "Ichin the Ice Master",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Irkima",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Jace Soral",
+        "Kur Mountains",
+        "Yes",
+        "Non-Human or Lycan"
+      ],
+      [
+        "Jaime Fatholm",
+        "Serbule Hills",
+        "Yes",
+        "All, after bribe toDurstin Tallow"
+      ],
+      [
+        "Jesina",
+        "Eltibule",
+        "Yes",
+        "No Bats, Spiders, or Wolves(Until quest completed)."
+      ],
+      [
+        "Joeh",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Julius Patton",
+        "Serbule Hills",
+        "Yes",
+        "All"
+      ],
+      [
+        "Jumjab",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Kalaba",
+        "Eltibule",
+        "No",
+        ""
+      ],
+      [
+        "Kelim",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Kib the Unkillable",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Kleave",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Kodan",
+        "Sun Vale",
+        "Yes",
+        "Anyone in animal form for 3+ hours / Werewolves"
+      ],
+      [
+        "Kohan",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Korbok",
+        "Vidaria",
+        "Yes",
+        "All"
+      ],
+      [
+        "Lamashu",
+        "Kur Mountains",
+        "No",
+        ""
+      ],
+      [
+        "Larsan",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Laura Neth",
+        "Kur Mountains",
+        "No",
+        ""
+      ],
+      [
+        "Legs",
+        "Sun Vale",
+        "Yes",
+        "All, if animal form 3+ hours."
+      ],
+      [
+        "Leonard Allenson",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Lisi",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Lucinnea",
+        "Vidaria",
+        "Yes",
+        "All"
+      ],
+      [
+        "Lumpfuzz",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Mandibles",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Marna",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Milton",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Mox Warcut",
+        "Gazluk",
+        "Yes",
+        "???"
+      ],
+      [
+        "Mushroom Jack",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Nishika",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Norbert",
+        "Sun Vale",
+        "Yes",
+        "Be in animal form for 3+ hours"
+      ],
+      [
+        "Otis",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Pasha",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Paul Vaughn",
+        "Serbule Hills",
+        "Yes",
+        "All"
+      ],
+      [
+        "Pegast",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Pitre Ferrence",
+        "Vidaria",
+        "Yes",
+        "All"
+      ],
+      [
+        "Preta",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Qatik",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ragabir",
+        "Red Wing Casino",
+        "Yes",
+        ""
+      ],
+      [
+        "Raina",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Red",
+        "Kur Mountains",
+        "Yes",
+        "No Scary"
+      ],
+      [
+        "Richter",
+        "Heavenly Sewers",
+        "Yes",
+        "All"
+      ],
+      [
+        "Rick Snapley",
+        "Gazluk",
+        "Yes",
+        "All"
+      ],
+      [
+        "Roshun the Traitor",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Rugen",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Sammie Grimspine",
+        "Serbule Hills",
+        "Yes",
+        "All"
+      ],
+      [
+        "Selaxi",
+        "Ilmari",
+        "Yes",
+        "All, after bribe"
+      ],
+      [
+        "Shirogin",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Sie Antry",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Sir Arif",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Sir Coth",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Sirine",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Solgribue",
+        "Fae Realm",
+        "",
+        ""
+      ],
+      [
+        "Sona",
+        "Gazluk",
+        "Yes",
+        "All"
+      ],
+      [
+        "Spot",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Strange Spider",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Suspicious Cow",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Tadion",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Tavilak",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "The Wombat",
+        "Sun Vale",
+        "Yes",
+        "???"
+      ],
+      [
+        "Therese",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Trasen",
+        "Serbule Hills",
+        "Yes",
+        ""
+      ],
+      [
+        "Tryaka",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ufkar",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ukorga",
+        "Kur Mountains",
+        "No",
+        ""
+      ],
+      [
+        "Urzab",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Velkort",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Vendor Fox",
+        "",
+        "Yes",
+        "All"
+      ],
+      [
+        "Way",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Willem Fangblade",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Wintria Irasce",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Yagreet",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Yavazek",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Yetta",
+        "Eltibule",
+        "No",
+        ""
+      ],
+      [
+        "Yogzi",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Zhao",
+        "Rahu",
+        "Yes",
+        "All"
+      ]
+    ],
+    [
+      [
+        "NPC Name",
+        "Zone",
+        "Speak",
+        "Animals spoken to."
+      ],
+      [
+        "Aceri",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Agrashab/Fae Realm",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ailred",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Akhisa's Herald",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Alravesa the All-Hunter",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Aralorn",
+        "Gazluk",
+        "Yes",
+        "All"
+      ],
+      [
+        "Arianna Fangblade",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Backfat",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Bahdba",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Barnaby",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Beehive",
+        "Fae Realm",
+        "Yes",
+        "Only if Fairy"
+      ],
+      [
+        "Blanche",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Bogaku",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Brandon Mellus",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Broken Glowing Sphere",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Brugo the Wise",
+        "Povus",
+        "No",
+        ""
+      ],
+      [
+        "Casino Greeter",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Cassie",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Chaf Springfield",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Chief Glortok",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Chirrra",
+        "Serbule Hills",
+        "Yes",
+        "All"
+      ],
+      [
+        "Creepy Alchemist",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Crelpin",
+        "Fae Realm",
+        "Yes",
+        "???"
+      ],
+      [
+        "Curious Creature",
+        "Gazluk",
+        "Yes",
+        "All"
+      ],
+      [
+        "Daisy (NPC)",
+        "Sun Vale",
+        "Yes",
+        "All if animal form for 3+ hours"
+      ],
+      [
+        "Daniel Murderdark",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Delia",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Denton Razor",
+        "Vidaria",
+        "Temporarily",
+        ""
+      ],
+      [
+        "Deville",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Dorimir Fangblade",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Drima",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Dye Monster",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Easter Bunny",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Elaina",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Elmetaph",
+        "Anagoge",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ensign Cricket",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Falkrin Overstrike",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Fiddler",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Fitz the Boatman",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Fluffikins",
+        "Gazluk",
+        "Yes",
+        "All"
+      ],
+      [
+        "Furlak",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Garad",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Gershok",
+        "Serbule Hills",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ghost Orc",
+        "Povus",
+        "",
+        ""
+      ],
+      [
+        "Gisli",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Gloria Stonecurl",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Glowing Sphere",
+        "Kur Mountains"
+      ],
+      [
+        "Glowing Sphere",
+        "Fae Realm",
+        "YesYes",
+        "AllAll"
+      ],
+      [
+        "Gorvessa",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Gozzaroon",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Grakelsput",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Gremix",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Gretchen Salas",
+        "Eltibule",
+        "No",
+        ""
+      ],
+      [
+        "Gribburn",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Gurki",
+        "Kur Mountains",
+        "No",
+        ""
+      ],
+      [
+        "Happy-Go-Lucky Bat",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Hemmit Magmagrip",
+        "Gazluk",
+        "Yes",
+        "???"
+      ],
+      [
+        "Inella",
+        "Elven Judgement",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ishiko",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ivyn",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Jake the Buckler",
+        "Sun Vale",
+        "Yes",
+        "Cows, Pigs, Wolves, Deer, Bats."
+      ],
+      [
+        "Janet Lews",
+        "Kur Mountains",
+        "No",
+        ""
+      ],
+      [
+        "Jara",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Jaw",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Jopol",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Jumper",
+        "Sun Vale",
+        "Yes",
+        "All, if animal for 3+ hours."
+      ],
+      [
+        "Jurl the Boatman",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Justin Fargold",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Kalrod",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Katarina Eltibule",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kimeta",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Kimoc",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Kinira",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Kuzavek",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Lady Alethina",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Lady Windsong",
+        "Rahu",
+        "Yes",
+        "???"
+      ],
+      [
+        "Lakrea",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Lana Songtree",
+        "Serbule Hills",
+        "Yes",
+        "All, after bribingDurstin Tallow."
+      ],
+      [
+        "Landri the Cold",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Lawara",
+        "Anagoge",
+        "Yes",
+        "All"
+      ],
+      [
+        "Leah Bowman",
+        "Povus",
+        "?",
+        ""
+      ],
+      [
+        "Legacy Item Replacer",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Liamu the Watchful",
+        "Vidaria",
+        "Yes",
+        "All"
+      ],
+      [
+        "Lincha",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Loche",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Lugnir",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Makara",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Malgath",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Malvol",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Melandria",
+        "Gazluk",
+        "Yes",
+        "All"
+      ],
+      [
+        "Merriana",
+        "Serbule Hills",
+        "Yes",
+        ""
+      ],
+      [
+        "Message Starfish",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Midge the Apothecary",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Mirror",
+        "Gazluk",
+        "Yes",
+        "All"
+      ],
+      [
+        "Mittens",
+        "Kur Mountains",
+        "Yes",
+        "???"
+      ],
+      [
+        "Moku",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Mope",
+        "Povus",
+        "???",
+        ""
+      ],
+      [
+        "Moxie",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Mu",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Mythander",
+        "Eltibule",
+        "Yes",
+        ""
+      ],
+      [
+        "NPCs by Area",
+        "",
+        "",
+        ""
+      ],
+      [
+        "NPCs by Special",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nelson Ballard",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Nightshade",
+        "Kur Mountains",
+        "Yes",
+        "???"
+      ],
+      [
+        "Nissim",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Noita the Green",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Norbert/Strange Pig",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ogamboe",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Oritania",
+        "Eltibule",
+        "No",
+        ""
+      ],
+      [
+        "Orran",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Orrrilund",
+        "Serbule Hills",
+        "Yes",
+        "All"
+      ],
+      [
+        "Pennoc",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Percussa",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Percy Evans",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Pickles",
+        "Kur Mountains",
+        "Yes",
+        "???"
+      ],
+      [
+        "Poe",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Puffy Ben",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Quest Hag",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Raim",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Rappanel",
+        "Serbule Hills",
+        "Yes",
+        "All, after bribingDurstin Tallow."
+      ],
+      [
+        "Ratuk the Thinker",
+        "Kur Mountains",
+        "Yes",
+        "???"
+      ],
+      [
+        "Raul",
+        "Sun Vale",
+        "Yes",
+        "All, if in animal form for 3+ hours."
+      ],
+      [
+        "Rayar",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Records Golem A",
+        "Anagoge",
+        "Yes",
+        "All"
+      ],
+      [
+        "Records Golem B",
+        "Anagoge",
+        "Yes",
+        "All"
+      ],
+      [
+        "Records Golem C",
+        "Anagoge",
+        "Yes",
+        "All"
+      ],
+      [
+        "Records Golem D",
+        "Anagoge",
+        "Yes",
+        "All"
+      ],
+      [
+        "Ricatu",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Riger",
+        "Anagoge",
+        "Yes",
+        "All"
+      ],
+      [
+        "Riston",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Rita",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Rixie",
+        "Povus",
+        "Yes",
+        "Anyone"
+      ],
+      [
+        "Rohina",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Rubi",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Sanja",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Sarina",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Selphie",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Sem",
+        "Gazluk",
+        "Yes",
+        "All"
+      ],
+      [
+        "Sentient Flame",
+        "Serbule",
+        "No",
+        ""
+      ],
+      [
+        "Ser Lorentz",
+        "Vidaria",
+        "???",
+        ""
+      ],
+      [
+        "Sergeant Ultaka",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Serrold",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Shala",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Sheyna",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Shovel Dispenser",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Silvia",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Sir Johnson",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Sir Taggart",
+        "Vidaria",
+        "???",
+        ""
+      ],
+      [
+        "Snowleaf",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Squidlips",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Stables Golem",
+        "Serbule Hills",
+        "?",
+        "?"
+      ],
+      [
+        "Stephie Blackhammer",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Stulza",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Sugar (NPC)",
+        "Kur Mountains",
+        "Yes",
+        "Animals Only"
+      ],
+      [
+        "Syndra",
+        "Kur Mountains",
+        "Yes",
+        "All"
+      ],
+      [
+        "Tangle",
+        "Kur Mountains",
+        "Yes",
+        "All, but he finds wolves scary"
+      ],
+      [
+        "Tantai",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Teleportation Attendant",
+        "Red Wing Casino",
+        "Yes",
+        ""
+      ],
+      [
+        "The Bat in the Hat",
+        "",
+        "Yes",
+        "All"
+      ],
+      [
+        "The Floriculturist",
+        "Vidaria",
+        "Yes",
+        "All"
+      ],
+      [
+        "The Sand Seer",
+        "Ilmari",
+        "Yes",
+        "All"
+      ],
+      [
+        "Thedar",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Thimble Pete",
+        "Eltibule",
+        "No",
+        ""
+      ],
+      [
+        "Three-Eyes",
+        "Rahu",
+        "Yes",
+        "All"
+      ],
+      [
+        "Torana",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Torgan",
+        "Gazluk",
+        "Yes",
+        "All"
+      ],
+      [
+        "Trekker",
+        "Gazluk",
+        "Yes",
+        "All"
+      ],
+      [
+        "Tremmond Blackhammer",
+        "Povus",
+        "?",
+        ""
+      ],
+      [
+        "Truxartis",
+        "Vidaria",
+        "Yes",
+        "All"
+      ],
+      [
+        "Tyler Green",
+        "Serbule Hills",
+        "Yes",
+        "???"
+      ],
+      [
+        "Ultashk",
+        "Eltibule",
+        "Yes",
+        "???"
+      ],
+      [
+        "Umarak",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Urglemarg",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Uriana",
+        "Fae Realm",
+        "Yes",
+        "All"
+      ],
+      [
+        "Verac",
+        "Red Wing Casino",
+        "Yes",
+        "All"
+      ],
+      [
+        "Viedesi",
+        "Sun Vale",
+        "Yes",
+        "All"
+      ],
+      [
+        "Voo",
+        "Serbule",
+        "Yes",
+        "???"
+      ],
+      [
+        "Wobbuk",
+        "Povus",
+        "Yes",
+        "All"
+      ],
+      [
+        "Yalox",
+        "Eltibule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Yasinda",
+        "Eltibule",
+        "Yes",
+        "???"
+      ],
+      [
+        "Yoy",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Yurra",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Zazzamath",
+        "Vidaria",
+        "Yes",
+        "All"
+      ],
+      [
+        "Zealo",
+        "Serbule",
+        "Yes",
+        "All"
+      ],
+      [
+        "Zeratak",
+        "Serbule",
+        "Yes",
+        "All"
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "Cows are viewed as a traditional tank archetype. Abilities such asTough HoofandChew Cudhelp Cows improve their survivability in longer fights. Cows also have thesprintabilityMoo of Determination, and the the ability to produce their own milk.",
+      "Bottle of Milkis a valuable item used in crafting skills such asCookingandCheesemaking. Cows with aVegetarian badgecan produce milk faster than cows with a varied diet, however skill level and the version ofCollect Milkused also impact collection times.",
+      "Adventurers can also milk cows, however consent must be given."
+    ],
+    [
+      "Deer is considered to be a good foundation for an off-tank. While cows receive overt tank abilities, survivability in deer primarily comes from Deer Treasure Effects on equipment. Deer have the ability to jump faster and higher than other land-basedBeast FormsusingBounding Escape. They also have AoE taunts, while cows only have single target taunts.",
+      "Deer can use the abilitySummon Deerto summon a wild deer to help them in battle.",
+      "Some deer are actuallyDruids, using theDeer Formtoggle ability."
+    ],
+    [
+      "Spider form is useful for DPS/Assassin type builds. Spiders deal predominantly Crushing and Poison damage to quickly defeat enemies. Many spiders rely onIncubate, an ability that injects eggs inside enemies, dealing massive damage and spawning a pet spider. Spiders spawned through this ability will aid their parent in battle.",
+      "Spiders have the ability to useInsidious Illusionto temporarily talk with Animal Hating NPCs. This ability has a 20 minute cooldown and consumes aMoonstoneeach time it is used.",
+      "Spiderwebcan be produced by Level 60 Spiders usingWebspin. This ability can give spiders an advantage inTextile CreationandTailoring, which is helpful if they want to craft the spider-formSpider Casingequipment."
+    ],
+    [
+      "Pigs are often equipped for supporting roles. While they can hold their own individually, they shine in groups as healers or buff builders using a combination ofMudbath,Frenzy, andPorcine Alertness.",
+      "The speed-boosting sidebar abilityTerror Dashis often used by pigs escaping dangerous situations, or traveling across large regions of Alharth.",
+      "A variety of mushrooms can be found by pigs using theTruffle Sniffabilities."
+    ],
+    [
+      "Normally, rabbits are stealthy creatures. UsingPlay Dead, a rabbit can force enemies to ignore it for a few seconds. Traveling through dangerous areas, rabbits may alternate between the speed-increasingHare Dashand the speed-reducingLong Ear, which slows a rabbit down in exchange for reducing the detection range of nearby foes.",
+      "Rabbits are the onlyBeast Formcapable of usingIce Magic. A special headgear item is required to activate this synergy."
+    ],
+    [
+      "Giant Bats have access to a variety of tools, including knock-back, recovery, heavy damage, and concussion abilities. These options made Giant Bat compatible with many skills.",
+      "Giant Bats can useEcholocation, which allows them to see in the dark. This ability is especially useful in area like the deeper parts of theLabyrinthinIlmari.",
+      "Giant Bats also have the ability to fly, and to infect others in PVP with a disease which will eventually turn them into a bat."
+    ],
+    [
+      "Lycanthropy is unusual among theBeast Forms, as it is apermanent alteration.There willneverbe a method to remove Lycanthropy from a character, so be sure to understand the risks and rewards before accepting the blessing ofNorala.",
+      "Individuals infected with Lycanthropy can switch between humanoid and wolf form without too much effort, however they will be locked into wolf form during the Full Moon.",
+      "While in wolf form, Lycanthropes have access to powerful slashing, crushing, and trauma attacks.",
+      "Howl Modeallows packs of wolf-form lycanthropes to build up impressive combat-improving buffs."
+    ],
+    [
+      "Spirit Fox are tricksters, using abilities includingDimensional Snareto immobilize targets andBlur Stepto boost their melee evasion during combat. In combat, Spirit Fox deal mostly Crushing and Darkness damage.",
+      "Spirit Fox can useIllusive Guiseto disguise themselves in a humanoid projection for a short time. This allows them to interact with Animal Hating NPCs."
+    ],
+    [
+      "Druidscan magically project themselves asDeer, as well as a variety of birds includingRavenandMallard. However, these are NOTBeast Forms."
+    ],
+    [
+      "Cinnamon the rabbitinAnimal Townis currently the only NPC offering a bond, but he implies that other NPCs will offer this service in the future."
+    ],
+    [
+      "Amazing Familiar Recall Collar"
+    ],
+    [
+      "Astounding Familiar Recall Collar"
+    ],
+    [
+      "Crude Familiar Recall Collar"
+    ],
+    [
+      "Decent Familiar Recall Collar"
+    ],
+    [
+      "Great Familiar Recall Collar"
+    ],
+    [
+      "Nice Familiar Recall Collar"
+    ],
+    [
+      "Quality Familiar Recall Collar"
+    ],
+    [
+      "Rough Familiar Recall Collar"
+    ],
+    [
+      "Shoddy Familiar Recall Collar"
+    ],
+    [
+      "Spirit Foxare not afflicted withBeast Speech, as their transformation results is something not-quite a physical form."
+    ],
+    [
+      "Toughen Upprovides an alternative toArmor Patching.",
+      "Toxic Fleshcauses incoming melee attacks to inflict the attacker with poison.",
+      "Lend Graceimproves evasion and regenerates power."
+    ],
+    [
+      "To learn the Warden skill you must have[Friends]or higher favor withSuspicious Cowin Eltibule,Redin Kur, orNorbertin Animal Town in Sun Vale. Speak with one of those NPCs with whom you have sufficient favor, and complete a series of quests to become a Warden"
+    ],
+    [
+      "The lack of hands also prevents animals from gathering wood and collecting  milk from milkable animals.",
+      "Beast Formsseeking to useNecromancyorPriestwill be unable to use commonNecromancyOrbs orPriestStaffs. Necklaces with Necromancy Gems or Holy Symbols can be used by animals."
+    ],
+    [
+      "Sigil Scriptingrecipes taught byPretainSun Valemust be used to attune common gems toBeast Forms. Level 25Sigil Scriptingis required to produce the inscribed rune-infused gems."
+    ],
+    [
+      "Cowshave access to crafted Champron (headwear) & Barding(chest armor), which gives them the appearance of an armored cow.",
+      "Deercan equip Alicorns such asGreenberg's Horn, which add a centered horn to their forehead.",
+      "Spiderscan wear crafted Spider Casings, which can change their carapace color if Decent quality or better.",
+      "Pigscan wear Porkpie Hats created throughTailoring.",
+      "Rabbit- No visual equipment.",
+      "Giant Batscan equip Witch Hats crafted throughTailoring.",
+      "Lycanthropyafflicted characters can wear a complete set of five armor pieces while in wolf form. This armor is crafted throughBlacksmithing.",
+      "Spirit Fox- No visual equipment."
+    ],
+    [
+      "Receive damage from the Rage AttackCrushing Knockback CursebyMaronesain theCrystal Cavern. Transformation begins after 120 seconds ifMaronesais still alive, or at the time of her target's death. Defeating her will remove the curse, so do not do that if you are trying to become a cow!",
+      "Encounter theStrange Pigduring a weeklong Special Event."
+    ],
+    [
+      "DefeatMaronesain theCrystal Cavernto undo her curse.",
+      "Complete the one-time questUn-cow-ificationto receive aMinor Panacea.",
+      "Speak aWord of Power: Cure Bovinity.",
+      "Drink a very rareMinor Panacea.",
+      "Encounter theStrange Pigduring a weeklong Special Event."
+    ],
+    [
+      "Receive damage from the Rage AttackHeavy Burst Darkness Damage and CursebyCiervos The Shadowin theGoblin Dungeon. Transformation occurs immediately. Defeating Ciervos will remove the curse, so do not do that if you are trying to become a Deer!",
+      "DrinkDeer Juice.",
+      "As aDruid, reach Level 25.",
+      "Receive damage from the Rage Attack ofWorld Boss CiervosorIncursion Boss Ciervosduring events."
+    ],
+    [
+      "DefeatCiervos The Shadowor one of his event variants.",
+      "DrinkUn-Deer Juice.",
+      "As aDruid, reach Level 25.",
+      "Speak aWord of Power: Cure Deeriness.",
+      "Drink a very rareMinor Panacea."
+    ],
+    [
+      "DrinkSpider Juice. (You should buy an Un-Spider Juice from the NPC at the same time!)",
+      "EncounterAkhisa's Heraldduring a weeklong Special Event."
+    ],
+    [
+      "DrinkUn-Spider Juice.",
+      "Speak aWord of Power: Cure Arachnia.",
+      "Drink a very rareMinor Panacea.",
+      "EncounterAkhisa's Heraldduring a weeklong Special Event."
+    ],
+    [
+      "DrinkPig Juice.",
+      "Encounter theStrange Pigduring a weeklong Special Event."
+    ],
+    [
+      "DrinkUn-Pig Juice.",
+      "Speak aWord of Power: Cure Pigification.",
+      "Encounter theStrange Pigduring a weeklong Special Event."
+    ],
+    [
+      "DrinkError: Item not foundBunny Juice."
+    ],
+    [
+      "DrinkUn-Bunny Juice."
+    ],
+    [
+      "Drink a very rareMinor Panacea."
+    ],
+    [
+      "Become infected withFevered Trismus. If untreated, transformation after two hours."
+    ],
+    [
+      "DrinkUn-Bat Juice.",
+      "Drink a very rareMinor Panacea."
+    ],
+    [
+      "Please see theLycanthropypage for more information."
+    ],
+    [
+      "Gift theCompletely Normal Foxin theWolf CaveaSpirit Stone.",
+      "Directly trade aSpirit Stoneto anotherSpirit Foxcharacter."
+    ],
+    [
+      "Receive a directly tradedSpirit Stonefrom another character.",
+      "Drink a very rareMinor Panacea."
+    ],
+    [
+      "Some NPCs can be bribed to speak with animals, such asHuloninSerbule. The method to bribe NPCs varies. Sometimes the NPCs offer a quest, at other times they want a bribe of Councils.",
+      "NPCs that refuse to speak toBeast Formscan be picky. They may shun only \"scary\" forms, usuallySpider,Lycanthrope, andGiant Bat.",
+      "BothSpiderandSpirit Foxgain access to abilities allowing them to temporarily appear humanoid.",
+      "DiscoverableWords of Powerexist that can temporarily project a humanoid form."
+    ],
+    [
+      "Befriending the residents ofAnimal Townis highly encouraged for allBeast Formswho wish to remain in their forms long-term. The NPCs of the town offer training ofBeast Skills, abilities, and provide storage exclusive toBeast Forms."
+    ],
+    [
+      "Flia- A fairy east of Serbule Keep, she offers shopkeeper services in any easy to reach location for lower-levelBeast Forms.",
+      "Harry the Wolf- A Lycanthrope shopkeeper in the Serbule garden, Harry speaks withBeast Formsnaturally, but requires extra effort by humanoid forms who want to converse with him."
+    ],
+    [
+      "Suspicious Cow- Grazing outside of Eltibule Keep, this guardian of the region offers training and shopkeeper services."
+    ],
+    [
+      "Along the northwestern beach, LycanthropesSanjaandJace Soralguard a small camp and campfire."
+    ],
+    [
+      "Lumpfuzz- A traveling Elven Spellhound and merchant."
+    ],
+    [
+      "It is advised that new characters wait to become aBeast Form, especially aLycanthrope, until they have exploredSerbule,Serbule Hills, andEltibule. For characters with low-level Combat Skills, transforming into aBeast Formand losing access to many shopkeepers and other services can be a surprise. Untilfavoris built up with NPC Shopkeepers that speak to animals, income and progress will likely temporarily plummet."
+    ],
+    [
+      "If aBeast Formsounds fun to try, it may be wise to obtain a method of removing the form before transformation. If an unprepared character drinks aSpider Juice, they will need to fight their way through the entireSerbule Cryptto reach the NPC selling theUn-Spider Juice... or rely on a helpful adventurer."
+    ],
+    [
+      "Beast Formsstack. If a Rakshasa cursed byMaronesainto aCowdrinks aDeer Juice, they will transform into aDeerand loose access to have Cow abilities active in combat. When they drink anUn-Deer Juice, they will return to Cow form instead of Rakshasa. If that Rakshasa also happens to be aLycanthrope, they will be forced from either Cow or Deer forms into wolf during the full moon. When the moon ends, they will return to whichever form they were before the moon phase began."
+    ],
+    [
+      "A common method to improveBeast Speechis to send a message in a private channel every five minutes or so. This will raise Beast Speech without Global having to hear sentences of just Moo/Baa/Naa which can happen at very low levels ofBeast Speech."
+    ],
+    [
+      "Newly transformedBeast Formsmay have a surplus of armor after exploring a dungeon, as they no longer have access toJoehas a shopkeeper. The Orc merchantRoshun the Traitor, living in a building near theEltibuleportal, speaks with animals and buys equipment."
+    ],
+    [
+      "Although most storage-offering NPCs inSerbuleshun animals, storage spaces unlocked on them while in humanoid form can be accessed from the bookshelf in the building betweenMarnaandHulon's shops. (Note: This may change in the future)."
+    ],
+    [
+      "Using the associated Combat Skill for aBeast Formis not required. ACow-form character could havePsychologyandMentalismas its active skills."
+    ],
+    [
+      "Beast Forms(and specifically Cow  at first), were at first 'a fluke' by the Developers."
+    ],
+    [
+      "Making Armor Pt 2"
+    ],
+    [
+      "Mechanics"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "Cow",
+      "href": "/wiki/Cow"
+    },
+    {
+      "text": "Tough Hoof",
+      "href": "/wiki/Tough_Hoof"
+    },
+    {
+      "text": "Chew Cud",
+      "href": "/wiki/Chew_Cud"
+    },
+    {
+      "text": "sprint",
+      "href": "/wiki/Haste"
+    },
+    {
+      "text": "Moo of Determination",
+      "href": "/wiki/Moo_of_Determination"
+    },
+    {
+      "text": "Bottle of Milk",
+      "href": "/wiki/Bottle_of_Milk"
+    },
+    {
+      "text": "Cooking",
+      "href": "/wiki/Cooking"
+    },
+    {
+      "text": "Cheesemaking",
+      "href": "/wiki/Cheesemaking"
+    },
+    {
+      "text": "Vegetarian badge",
+      "href": "/wiki/Special_Behavior_Badges"
+    },
+    {
+      "text": "Collect Milk",
+      "href": "/wiki/Collect_Milk"
+    },
+    {
+      "text": "Deer",
+      "href": "/wiki/Deer"
+    },
+    {
+      "text": "Bounding Escape",
+      "href": "/wiki/Bounding_Escape"
+    },
+    {
+      "text": "Summon Deer",
+      "href": "/wiki/Summon_Deer"
+    },
+    {
+      "text": "Druids",
+      "href": "/wiki/Druid"
+    },
+    {
+      "text": "Deer Form",
+      "href": "/wiki/Deer_Form"
+    },
+    {
+      "text": "Spider",
+      "href": "/wiki/Spider"
+    },
+    {
+      "text": "Incubate",
+      "href": "/wiki/Incubate"
+    },
+    {
+      "text": "Insidious Illusion",
+      "href": "/wiki/Insidious_Illusion"
+    },
+    {
+      "text": "Moonstone",
+      "href": "/wiki/Moonstone"
+    },
+    {
+      "text": "Spiderweb",
+      "href": "/wiki/Spiderweb"
+    },
+    {
+      "text": "Webspin",
+      "href": "/wiki/Webspin"
+    },
+    {
+      "text": "Textile Creation",
+      "href": "/wiki/Textile_Creation"
+    },
+    {
+      "text": "Tailoring",
+      "href": "/wiki/Tailoring"
+    },
+    {
+      "text": "Spider Casing",
+      "href": "/wiki/Tailoring"
+    },
+    {
+      "text": "Pig",
+      "href": "/wiki/Pig"
+    },
+    {
+      "text": "Mudbath",
+      "href": "/wiki/Mudbath"
+    },
+    {
+      "text": "Frenzy",
+      "href": "/wiki/Frenzy"
+    },
+    {
+      "text": "Porcine Alertness",
+      "href": "/wiki/Porcine_Alertness"
+    },
+    {
+      "text": "Terror Dash",
+      "href": "/wiki/Terror_Dash"
+    },
+    {
+      "text": "Truffle Sniff",
+      "href": "/wiki/Truffle_Sniff"
+    },
+    {
+      "text": "Rabbit",
+      "href": "/wiki/Rabbit"
+    },
+    {
+      "text": "Play Dead",
+      "href": "/wiki/Play_Dead"
+    },
+    {
+      "text": "Hare Dash",
+      "href": "/wiki/Hare_Dash"
+    },
+    {
+      "text": "Long Ear",
+      "href": "/wiki/Long_Ear"
+    },
+    {
+      "text": "Ice Magic",
+      "href": "/wiki/Ice_Magic"
+    },
+    {
+      "text": "Giant Bat",
+      "href": "/wiki/Giant_Bat"
+    },
+    {
+      "text": "Echolocation",
+      "href": "/wiki/Echolocation"
+    },
+    {
+      "text": "Labyrinth",
+      "href": "/wiki/Labyrinth"
+    },
+    {
+      "text": "Ilmari",
+      "href": "/wiki/Ilmari"
+    },
+    {
+      "text": "Lycanthropy",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Norala",
+      "href": "/wiki/Norala"
+    },
+    {
+      "text": "Howl Mode",
+      "href": "/wiki/Howl_Mode"
+    },
+    {
+      "text": "Spirit Fox",
+      "href": "/wiki/Spirit_Fox"
+    },
+    {
+      "text": "Dimensional Snare",
+      "href": "/wiki/Dimensional_Snare"
+    },
+    {
+      "text": "Blur Step",
+      "href": "/wiki/Blur_Step"
+    },
+    {
+      "text": "Illusive Guise",
+      "href": "/wiki/Illusive_Guise"
+    },
+    {
+      "text": "Druids",
+      "href": "/wiki/Druid"
+    },
+    {
+      "text": "Deer",
+      "href": "/wiki/Deer"
+    },
+    {
+      "text": "Raven",
+      "href": "/wiki/Raven_Form"
+    },
+    {
+      "text": "Mallard",
+      "href": "/wiki/Mallard_Form"
+    },
+    {
+      "text": "Cinnamon the rabbit",
+      "href": "/wiki/Cinnamon_the_rabbit#Teleportation"
+    },
+    {
+      "text": "Animal Town",
+      "href": "/wiki/Animal_Town"
+    },
+    {
+      "text": "Amazing Familiar Recall Collar",
+      "href": "/wiki/Amazing_Familiar_Recall_Collar"
+    },
+    {
+      "text": "Astounding Familiar Recall Collar",
+      "href": "/wiki/Astounding_Familiar_Recall_Collar"
+    },
+    {
+      "text": "Crude Familiar Recall Collar",
+      "href": "/wiki/Crude_Familiar_Recall_Collar"
+    },
+    {
+      "text": "Decent Familiar Recall Collar",
+      "href": "/wiki/Decent_Familiar_Recall_Collar"
+    },
+    {
+      "text": "Great Familiar Recall Collar",
+      "href": "/wiki/Great_Familiar_Recall_Collar"
+    },
+    {
+      "text": "Nice Familiar Recall Collar",
+      "href": "/wiki/Nice_Familiar_Recall_Collar"
+    },
+    {
+      "text": "Quality Familiar Recall Collar",
+      "href": "/wiki/Quality_Familiar_Recall_Collar"
+    },
+    {
+      "text": "Rough Familiar Recall Collar",
+      "href": "/wiki/Rough_Familiar_Recall_Collar"
+    },
+    {
+      "text": "Shoddy Familiar Recall Collar",
+      "href": "/wiki/Shoddy_Familiar_Recall_Collar"
+    },
+    {
+      "text": "Beast Speech",
+      "href": "/wiki/Beast_Speech"
+    },
+    {
+      "text": "Spirit Fox",
+      "href": "/wiki/Spirit_Fox"
+    },
+    {
+      "text": "Beast Speech",
+      "href": "/wiki/Beast_Speech"
+    },
+    {
+      "text": "Survival Instincts",
+      "href": "/wiki/Survival_Instincts"
+    },
+    {
+      "text": "Toughen Up",
+      "href": "/wiki/Toughen_Up"
+    },
+    {
+      "text": "Armor Patching",
+      "href": "/wiki/Armor_Patching"
+    },
+    {
+      "text": "Toxic Flesh",
+      "href": "/wiki/Toxic_Flesh"
+    },
+    {
+      "text": "Lend Grace",
+      "href": "/wiki/Lend_Grace"
+    },
+    {
+      "text": "Beast Metabolism",
+      "href": "/wiki/Beast_Metabolism"
+    },
+    {
+      "text": "Lycanthropes",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Warden",
+      "href": "/wiki/Warden"
+    },
+    {
+      "text": "[Friends]",
+      "href": "/wiki/Favor"
+    },
+    {
+      "text": "Suspicious Cow",
+      "href": "/wiki/Suspicious_Cow"
+    },
+    {
+      "text": "Red",
+      "href": "/wiki/Red"
+    },
+    {
+      "text": "Norbert",
+      "href": "/wiki/Norbert"
+    },
+    {
+      "text": "Sword",
+      "href": "/wiki/Sword"
+    },
+    {
+      "text": "Fire Magic",
+      "href": "/wiki/Fire_Magic"
+    },
+    {
+      "text": "Shield",
+      "href": "/wiki/Shield"
+    },
+    {
+      "text": "Necromancy",
+      "href": "/wiki/Necromancy"
+    },
+    {
+      "text": "Priest",
+      "href": "/wiki/Priest"
+    },
+    {
+      "text": "Necromancy",
+      "href": "/wiki/Necromancy"
+    },
+    {
+      "text": "Priest",
+      "href": "/wiki/Priest"
+    },
+    {
+      "text": "gems",
+      "href": "/wiki/Gems"
+    },
+    {
+      "text": "Sigil Scripting",
+      "href": "/wiki/Sigil_Scripting"
+    },
+    {
+      "text": "Preta",
+      "href": "/wiki/Preta"
+    },
+    {
+      "text": "Sun Vale",
+      "href": "/wiki/Sun_Vale"
+    },
+    {
+      "text": "Sigil Scripting",
+      "href": "/wiki/Sigil_Scripting"
+    },
+    {
+      "text": "Bat Malachite",
+      "href": "/wiki/Bat_Malachite"
+    },
+    {
+      "text": "Cow Malachite",
+      "href": "/wiki/Cow_Malachite"
+    },
+    {
+      "text": "Deer Malachite",
+      "href": "/wiki/Deer_Malachite"
+    },
+    {
+      "text": "Pig Malachite",
+      "href": "/wiki/Pig_Malachite"
+    },
+    {
+      "text": "Rabbit Malachite",
+      "href": "/wiki/Rabbit_Malachite"
+    },
+    {
+      "text": "Spider Malachite",
+      "href": "/wiki/Spider_Malachite"
+    },
+    {
+      "text": "Spirit Fox Lapis",
+      "href": "/wiki/Spirit_Fox_Lapis"
+    },
+    {
+      "text": "Racial Jewelry",
+      "href": "/wiki/Racial_Jewelry"
+    },
+    {
+      "text": "Cows",
+      "href": "/wiki/Cow"
+    },
+    {
+      "text": "Deer",
+      "href": "/wiki/Deer"
+    },
+    {
+      "text": "Greenberg's Horn",
+      "href": "/wiki/Greenberg%27s_Horn"
+    },
+    {
+      "text": "Spiders",
+      "href": "/wiki/Spider"
+    },
+    {
+      "text": "Pigs",
+      "href": "/wiki/Pig"
+    },
+    {
+      "text": "Tailoring",
+      "href": "/wiki/Tailoring"
+    },
+    {
+      "text": "Rabbit",
+      "href": "/wiki/Rabbit"
+    },
+    {
+      "text": "Giant Bats",
+      "href": "/wiki/Giant_Bat"
+    },
+    {
+      "text": "Tailoring",
+      "href": "/wiki/Tailoring"
+    },
+    {
+      "text": "Lycanthropy",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Blacksmithing",
+      "href": "/wiki/Blacksmithing"
+    },
+    {
+      "text": "Spirit Fox",
+      "href": "/wiki/Spirit_Fox"
+    },
+    {
+      "text": "Cow",
+      "href": "/wiki/Cow"
+    },
+    {
+      "text": "Maronesa",
+      "href": "/wiki/Maronesa"
+    },
+    {
+      "text": "Crystal Cavern",
+      "href": "/wiki/Crystal_Cavern"
+    },
+    {
+      "text": "Maronesa",
+      "href": "/wiki/Maronesa"
+    },
+    {
+      "text": "Strange Pig",
+      "href": "/wiki/Norbert/Strange_Pig"
+    },
+    {
+      "text": "Maronesa",
+      "href": "/wiki/Maronesa"
+    },
+    {
+      "text": "Crystal Cavern",
+      "href": "/wiki/Crystal_Cavern"
+    },
+    {
+      "text": "Un-cow-ification",
+      "href": "/wiki/Un-cow-ification"
+    },
+    {
+      "text": "Minor Panacea",
+      "href": "/wiki/Minor_Panacea"
+    },
+    {
+      "text": "Minor Panacea",
+      "href": "/wiki/Minor_Panacea"
+    },
+    {
+      "text": "Strange Pig",
+      "href": "/wiki/Norbert/Strange_Pig"
+    },
+    {
+      "text": "Deer",
+      "href": "/wiki/Deer"
+    },
+    {
+      "text": "Ciervos The Shadow",
+      "href": "/wiki/Ciervos_The_Shadow"
+    },
+    {
+      "text": "Goblin Dungeon",
+      "href": "/wiki/Goblin_Dungeon"
+    },
+    {
+      "text": "Deer Juice",
+      "href": "/wiki/Deer_Juice"
+    },
+    {
+      "text": "Druid",
+      "href": "/wiki/Druid"
+    },
+    {
+      "text": "World Boss Ciervos",
+      "href": "/wiki/Ciervos_The_Shadow"
+    },
+    {
+      "text": "Incursion Boss Ciervos",
+      "href": "/wiki/Ciervos_The_Shadow"
+    },
+    {
+      "text": "Ciervos The Shadow",
+      "href": "/wiki/Ciervos_The_Shadow"
+    },
+    {
+      "text": "Un-Deer Juice",
+      "href": "/wiki/Un-Deer_Juice"
+    },
+    {
+      "text": "Druid",
+      "href": "/wiki/Druid"
+    },
+    {
+      "text": "Minor Panacea",
+      "href": "/wiki/Minor_Panacea"
+    },
+    {
+      "text": "Spider",
+      "href": "/wiki/Spider"
+    },
+    {
+      "text": "Spider Juice",
+      "href": "/wiki/Spider_Juice"
+    },
+    {
+      "text": "Akhisa's Herald",
+      "href": "/wiki/Akhisa%27s_Herald"
+    },
+    {
+      "text": "Un-Spider Juice",
+      "href": "/wiki/Un-Spider_Juice"
+    },
+    {
+      "text": "Minor Panacea",
+      "href": "/wiki/Minor_Panacea"
+    },
+    {
+      "text": "Akhisa's Herald",
+      "href": "/wiki/Akhisa%27s_Herald"
+    },
+    {
+      "text": "Pig",
+      "href": "/wiki/Pig"
+    },
+    {
+      "text": "Pig Juice",
+      "href": "/wiki/Pig_Juice"
+    },
+    {
+      "text": "Strange Pig",
+      "href": "/wiki/Norbert/Strange_Pig"
+    },
+    {
+      "text": "Un-Pig Juice",
+      "href": "/wiki/Un-Pig_Juice"
+    },
+    {
+      "text": "Strange Pig",
+      "href": "/wiki/Norbert/Strange_Pig"
+    },
+    {
+      "text": "Rabbit",
+      "href": "/wiki/Rabbit"
+    },
+    {
+      "text": "Bunny Juice",
+      "href": "/wiki/Bunny_Juice"
+    },
+    {
+      "text": "Garden Invasion",
+      "href": "/wiki/Event:_Garden_Invasion"
+    },
+    {
+      "text": "Bun-Fu Training",
+      "href": "/wiki/Event:_Bun-Fu_Training"
+    },
+    {
+      "text": "Un-Bunny Juice",
+      "href": "/wiki/Un-Bunny_Juice"
+    },
+    {
+      "text": "Garden Invasion",
+      "href": "/wiki/Event:_Garden_Invasion"
+    },
+    {
+      "text": "Bun-Fu Training",
+      "href": "/wiki/Event:_Bun-Fu_Training"
+    },
+    {
+      "text": "Minor Panacea",
+      "href": "/wiki/Minor_Panacea"
+    },
+    {
+      "text": "Giant Bat",
+      "href": "/wiki/Giant_Bat"
+    },
+    {
+      "text": "Fevered Trismus",
+      "href": "/wiki/Fevered_Trismus"
+    },
+    {
+      "text": "Giant Bat",
+      "href": "/wiki/Giant_Bat"
+    },
+    {
+      "text": "Virulent Bite",
+      "href": "/wiki/Virulent_Bite"
+    },
+    {
+      "text": "Disease-Crazed Giant Bat",
+      "href": "/wiki/Disease-Crazed_Giant_Bat"
+    },
+    {
+      "text": "Pet Battlebat",
+      "href": "/wiki/Pet_Battlebat"
+    },
+    {
+      "text": "Sickly Giant Bat",
+      "href": "/wiki/Sickly_Giant_Bat"
+    },
+    {
+      "text": "Angry Giant Bat",
+      "href": "/wiki/Angry_Giant_Bat"
+    },
+    {
+      "text": "Un-Bat Juice",
+      "href": "/wiki/Un-Bat_Juice"
+    },
+    {
+      "text": "Minor Panacea",
+      "href": "/wiki/Minor_Panacea"
+    },
+    {
+      "text": "Lycanthropy",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Lycanthropy",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Spirit Fox",
+      "href": "/wiki/Spirit_Fox"
+    },
+    {
+      "text": "Completely Normal Fox",
+      "href": "/wiki/Completely_Normal_Fox"
+    },
+    {
+      "text": "Wolf Cave",
+      "href": "/wiki/Wolf_Cave"
+    },
+    {
+      "text": "Spirit Stone",
+      "href": "/wiki/Spirit_Stone"
+    },
+    {
+      "text": "Spirit Stone",
+      "href": "/wiki/Spirit_Stone"
+    },
+    {
+      "text": "Spirit Fox",
+      "href": "/wiki/Spirit_Fox"
+    },
+    {
+      "text": "Spirit Stone",
+      "href": "/wiki/Spirit_Stone"
+    },
+    {
+      "text": "Minor Panacea",
+      "href": "/wiki/Minor_Panacea"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Marna",
+      "href": "/wiki/Marna"
+    },
+    {
+      "text": "Joeh",
+      "href": "/wiki/Joeh"
+    },
+    {
+      "text": "Elahil",
+      "href": "/wiki/Elahil"
+    },
+    {
+      "text": "Tadion",
+      "href": "/wiki/Tadion"
+    },
+    {
+      "text": "Hulon",
+      "href": "/wiki/Hulon"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Spider",
+      "href": "/wiki/Spider"
+    },
+    {
+      "text": "Lycanthrope",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Giant Bat",
+      "href": "/wiki/Giant_Bat"
+    },
+    {
+      "text": "Spider",
+      "href": "/wiki/Spider"
+    },
+    {
+      "text": "Spirit Fox",
+      "href": "/wiki/Spirit_Fox"
+    },
+    {
+      "text": "Words of Power",
+      "href": "/wiki/Words_of_Power"
+    },
+    {
+      "text": "Awakened",
+      "href": "/wiki/Awakened"
+    },
+    {
+      "text": "Animal Town",
+      "href": "/wiki/Animal_Town"
+    },
+    {
+      "text": "Sun Vale",
+      "href": "/wiki/Sun_Vale"
+    },
+    {
+      "text": "Awakened",
+      "href": "/wiki/Awakened"
+    },
+    {
+      "text": "Summoned Guardians",
+      "href": "/wiki/Summoned_Guardian"
+    },
+    {
+      "text": "Animal Town",
+      "href": "/wiki/Animal_Town"
+    },
+    {
+      "text": "Norbert",
+      "href": "/wiki/Norbert"
+    },
+    {
+      "text": "Animal Town",
+      "href": "/wiki/Animal_Town"
+    },
+    {
+      "text": "Beast Skills",
+      "href": "/wiki/Beast_Forms#Beast_Skills"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Kur Tower",
+      "href": "/wiki/Kur_Tower"
+    },
+    {
+      "text": "Wardens",
+      "href": "/wiki/Warden"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Flia",
+      "href": "/wiki/Flia"
+    },
+    {
+      "text": "Harry the Wolf",
+      "href": "/wiki/Harry_the_Wolf"
+    },
+    {
+      "text": "Eltibule",
+      "href": "/wiki/Eltibule"
+    },
+    {
+      "text": "Suspicious Cow",
+      "href": "/wiki/Suspicious_Cow"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Sanja",
+      "href": "/wiki/Sanja"
+    },
+    {
+      "text": "Jace Soral",
+      "href": "/wiki/Jace_Soral"
+    },
+    {
+      "text": "Ilmari",
+      "href": "/wiki/Ilmari"
+    },
+    {
+      "text": "Lumpfuzz",
+      "href": "/wiki/Lumpfuzz"
+    },
+    {
+      "text": "Agrashab/Sun Vale",
+      "href": "/wiki/Agrashab/Sun_Vale"
+    },
+    {
+      "text": "Amutasa",
+      "href": "/wiki/Amutasa"
+    },
+    {
+      "text": "Arlan",
+      "href": "/wiki/Arlan"
+    },
+    {
+      "text": "Ashk the Answerer",
+      "href": "/wiki/Ashk_the_Answerer"
+    },
+    {
+      "text": "Aven",
+      "href": "/wiki/Aven"
+    },
+    {
+      "text": "Azalak",
+      "href": "/wiki/Azalak"
+    },
+    {
+      "text": "Baroness Marith Felgard",
+      "href": "/wiki/Baroness_Marith_Felgard"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bendith the Banished",
+      "href": "/wiki/Bendith_the_Banished"
+    },
+    {
+      "text": "Braigon",
+      "href": "/wiki/Braigon"
+    },
+    {
+      "text": "Brianna Willer",
+      "href": "/wiki/Brianna_Willer"
+    },
+    {
+      "text": "Charles Thompson",
+      "href": "/wiki/Charles_Thompson"
+    },
+    {
+      "text": "Cheb",
+      "href": "/wiki/Cheb"
+    },
+    {
+      "text": "Cinnamon the rabbit",
+      "href": "/wiki/Cinnamon_the_rabbit"
+    },
+    {
+      "text": "Cleo Conyer",
+      "href": "/wiki/Cleo_Conyer"
+    },
+    {
+      "text": "Corey The Croaker",
+      "href": "/wiki/Corey_The_Croaker"
+    },
+    {
+      "text": "Dachak the Digger",
+      "href": "/wiki/Dachak_the_Digger"
+    },
+    {
+      "text": "Dhakmar",
+      "href": "/wiki/Dhakmar"
+    },
+    {
+      "text": "Dog Ear",
+      "href": "/wiki/Dog_Ear"
+    },
+    {
+      "text": "Drummond Stonecurl",
+      "href": "/wiki/Drummond_Stonecurl"
+    },
+    {
+      "text": "Durstin Tallow",
+      "href": "/wiki/Durstin_Tallow"
+    },
+    {
+      "text": "Echur",
+      "href": "/wiki/Echur"
+    },
+    {
+      "text": "Elahil",
+      "href": "/wiki/Elahil"
+    },
+    {
+      "text": "Eleme",
+      "href": "/wiki/Eleme"
+    },
+    {
+      "text": "Engineer Crall",
+      "href": "/wiki/Engineer_Crall"
+    },
+    {
+      "text": "Errruka the Benefactor",
+      "href": "/wiki/Errruka_the_Benefactor"
+    },
+    {
+      "text": "Eveline Rastin",
+      "href": "/wiki/Eveline_Rastin"
+    },
+    {
+      "text": "Fainor",
+      "href": "/wiki/Fainor"
+    },
+    {
+      "text": "Fazzi",
+      "href": "/wiki/Fazzi"
+    },
+    {
+      "text": "Felmer",
+      "href": "/wiki/Felmer"
+    },
+    {
+      "text": "Ferand Deftwhisper",
+      "href": "/wiki/Ferand_Deftwhisper"
+    },
+    {
+      "text": "Ferris Blueheart",
+      "href": "/wiki/Ferris_Blueheart"
+    },
+    {
+      "text": "Firaki",
+      "href": "/wiki/Firaki"
+    },
+    {
+      "text": "Flia",
+      "href": "/wiki/Flia"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Gasu'um",
+      "href": "/wiki/Gasu%27um"
+    },
+    {
+      "text": "George Madler",
+      "href": "/wiki/George_Madler"
+    },
+    {
+      "text": "Gerrux",
+      "href": "/wiki/Gerrux"
+    },
+    {
+      "text": "Glajur",
+      "href": "/wiki/Glajur"
+    },
+    {
+      "text": "Harry the Wolf",
+      "href": "/wiki/Harry_the_Wolf"
+    },
+    {
+      "text": "Helena Veilmoor",
+      "href": "/wiki/Helena_Veilmoor"
+    },
+    {
+      "text": "Hiral",
+      "href": "/wiki/Hiral"
+    },
+    {
+      "text": "Hirochi the Booklord",
+      "href": "/wiki/Hirochi_the_Booklord"
+    },
+    {
+      "text": "Hogan",
+      "href": "/wiki/Hogan"
+    },
+    {
+      "text": "Hulon",
+      "href": "/wiki/Hulon"
+    },
+    {
+      "text": "Ichin the Ice Master",
+      "href": "/wiki/Ichin_the_Ice_Master"
+    },
+    {
+      "text": "Irkima",
+      "href": "/wiki/Irkima"
+    },
+    {
+      "text": "Jace Soral",
+      "href": "/wiki/Jace_Soral"
+    },
+    {
+      "text": "Jaime Fatholm",
+      "href": "/wiki/Jaime_Fatholm"
+    },
+    {
+      "text": "Durstin Tallow",
+      "href": "/wiki/Durstin_Tallow"
+    },
+    {
+      "text": "Jesina",
+      "href": "/wiki/Jesina"
+    },
+    {
+      "text": "Joeh",
+      "href": "/wiki/Joeh"
+    },
+    {
+      "text": "Julius Patton",
+      "href": "/wiki/Julius_Patton"
+    },
+    {
+      "text": "Jumjab",
+      "href": "/wiki/Jumjab"
+    },
+    {
+      "text": "Kalaba",
+      "href": "/wiki/Kalaba"
+    },
+    {
+      "text": "Kelim",
+      "href": "/wiki/Kelim"
+    },
+    {
+      "text": "Kib the Unkillable",
+      "href": "/wiki/Kib_the_Unkillable"
+    },
+    {
+      "text": "Kleave",
+      "href": "/wiki/Kleave"
+    },
+    {
+      "text": "Kodan",
+      "href": "/wiki/Kodan"
+    },
+    {
+      "text": "Kohan",
+      "href": "/wiki/Kohan"
+    },
+    {
+      "text": "Korbok",
+      "href": "/wiki/Korbok"
+    },
+    {
+      "text": "Lamashu",
+      "href": "/wiki/Lamashu"
+    },
+    {
+      "text": "Larsan",
+      "href": "/wiki/Larsan"
+    },
+    {
+      "text": "Laura Neth",
+      "href": "/wiki/Laura_Neth"
+    },
+    {
+      "text": "Legs",
+      "href": "/wiki/Legs"
+    },
+    {
+      "text": "Leonard Allenson",
+      "href": "/wiki/Leonard_Allenson"
+    },
+    {
+      "text": "Lisi",
+      "href": "/wiki/Lisi"
+    },
+    {
+      "text": "Lucinnea",
+      "href": "/wiki/Lucinnea"
+    },
+    {
+      "text": "Lumpfuzz",
+      "href": "/wiki/Lumpfuzz"
+    },
+    {
+      "text": "Mandibles",
+      "href": "/wiki/Mandibles"
+    },
+    {
+      "text": "Marna",
+      "href": "/wiki/Marna"
+    },
+    {
+      "text": "Milton",
+      "href": "/wiki/Milton"
+    },
+    {
+      "text": "Mox Warcut",
+      "href": "/wiki/Mox_Warcut"
+    },
+    {
+      "text": "Mushroom Jack",
+      "href": "/wiki/Mushroom_Jack"
+    },
+    {
+      "text": "Nishika",
+      "href": "/wiki/Nishika"
+    },
+    {
+      "text": "Norbert",
+      "href": "/wiki/Norbert"
+    },
+    {
+      "text": "Otis",
+      "href": "/wiki/Otis"
+    },
+    {
+      "text": "Pasha",
+      "href": "/wiki/Pasha"
+    },
+    {
+      "text": "Paul Vaughn",
+      "href": "/wiki/Paul_Vaughn"
+    },
+    {
+      "text": "Pegast",
+      "href": "/wiki/Pegast"
+    },
+    {
+      "text": "Pitre Ferrence",
+      "href": "/wiki/Pitre_Ferrence"
+    },
+    {
+      "text": "Preta",
+      "href": "/wiki/Preta"
+    },
+    {
+      "text": "Qatik",
+      "href": "/wiki/Qatik"
+    },
+    {
+      "text": "Ragabir",
+      "href": "/wiki/Ragabir"
+    },
+    {
+      "text": "Raina",
+      "href": "/wiki/Raina"
+    },
+    {
+      "text": "Red",
+      "href": "/wiki/Red"
+    },
+    {
+      "text": "Richter",
+      "href": "/wiki/Richter"
+    },
+    {
+      "text": "Rick Snapley",
+      "href": "/wiki/Rick_Snapley"
+    },
+    {
+      "text": "Roshun the Traitor",
+      "href": "/wiki/Roshun_the_Traitor"
+    },
+    {
+      "text": "Rugen",
+      "href": "/wiki/Rugen"
+    },
+    {
+      "text": "Sammie Grimspine",
+      "href": "/wiki/Sammie_Grimspine"
+    },
+    {
+      "text": "Selaxi",
+      "href": "/wiki/Selaxi"
+    },
+    {
+      "text": "Shirogin",
+      "href": "/wiki/Shirogin"
+    },
+    {
+      "text": "Sie Antry",
+      "href": "/wiki/Sie_Antry"
+    },
+    {
+      "text": "Sir Arif",
+      "href": "/wiki/Sir_Arif"
+    },
+    {
+      "text": "Sir Coth",
+      "href": "/wiki/Sir_Coth"
+    },
+    {
+      "text": "Sirine",
+      "href": "/wiki/Sirine"
+    },
+    {
+      "text": "Solgribue",
+      "href": "/wiki/Solgribue"
+    },
+    {
+      "text": "Sona",
+      "href": "/wiki/Sona"
+    },
+    {
+      "text": "Spot",
+      "href": "/wiki/Spot"
+    },
+    {
+      "text": "Strange Spider",
+      "href": "/wiki/Strange_Spider"
+    },
+    {
+      "text": "Suspicious Cow",
+      "href": "/wiki/Suspicious_Cow"
+    },
+    {
+      "text": "Tadion",
+      "href": "/wiki/Tadion"
+    },
+    {
+      "text": "Tavilak",
+      "href": "/wiki/Tavilak"
+    },
+    {
+      "text": "The Wombat",
+      "href": "/wiki/The_Wombat"
+    },
+    {
+      "text": "Therese",
+      "href": "/wiki/Therese"
+    },
+    {
+      "text": "Trasen",
+      "href": "/wiki/Trasen"
+    },
+    {
+      "text": "Tryaka",
+      "href": "/wiki/Tryaka"
+    },
+    {
+      "text": "Ufkar",
+      "href": "/wiki/Ufkar"
+    },
+    {
+      "text": "Ukorga",
+      "href": "/wiki/Ukorga"
+    },
+    {
+      "text": "Urzab",
+      "href": "/wiki/Urzab"
+    },
+    {
+      "text": "Velkort",
+      "href": "/wiki/Velkort"
+    },
+    {
+      "text": "Vendor Fox",
+      "href": "/wiki/Vendor_Fox"
+    },
+    {
+      "text": "Way",
+      "href": "/wiki/Way"
+    },
+    {
+      "text": "Willem Fangblade",
+      "href": "/wiki/Willem_Fangblade"
+    },
+    {
+      "text": "Wintria Irasce",
+      "href": "/wiki/Wintria_Irasce"
+    },
+    {
+      "text": "Yagreet",
+      "href": "/wiki/Yagreet"
+    },
+    {
+      "text": "Yavazek",
+      "href": "/wiki/Yavazek"
+    },
+    {
+      "text": "Yetta",
+      "href": "/wiki/Yetta"
+    },
+    {
+      "text": "Yogzi",
+      "href": "/wiki/Yogzi"
+    },
+    {
+      "text": "Zhao",
+      "href": "/wiki/Zhao"
+    },
+    {
+      "text": "Aceri",
+      "href": "/wiki/Aceri"
+    },
+    {
+      "text": "Agrashab/Fae Realm",
+      "href": "/wiki/Agrashab/Fae_Realm"
+    },
+    {
+      "text": "Ailred",
+      "href": "/wiki/Ailred"
+    },
+    {
+      "text": "Akhisa's Herald",
+      "href": "/wiki/Akhisa%27s_Herald"
+    },
+    {
+      "text": "Alravesa the All-Hunter",
+      "href": "/wiki/Alravesa_the_All-Hunter"
+    },
+    {
+      "text": "Aralorn",
+      "href": "/wiki/Aralorn"
+    },
+    {
+      "text": "Arianna Fangblade",
+      "href": "/wiki/Arianna_Fangblade"
+    },
+    {
+      "text": "Backfat",
+      "href": "/wiki/Backfat"
+    },
+    {
+      "text": "Bahdba",
+      "href": "/wiki/Bahdba"
+    },
+    {
+      "text": "Barnaby",
+      "href": "/wiki/Barnaby"
+    },
+    {
+      "text": "Beehive",
+      "href": "/wiki/Beehive"
+    },
+    {
+      "text": "Blanche",
+      "href": "/wiki/Blanche"
+    },
+    {
+      "text": "Bogaku",
+      "href": "/wiki/Bogaku"
+    },
+    {
+      "text": "Brandon Mellus",
+      "href": "/wiki/Brandon_Mellus"
+    },
+    {
+      "text": "Broken Glowing Sphere",
+      "href": "/wiki/Broken_Glowing_Sphere"
+    },
+    {
+      "text": "Brugo the Wise",
+      "href": "/wiki/Brugo_the_Wise"
+    },
+    {
+      "text": "Casino Greeter",
+      "href": "/wiki/Casino_Greeter"
+    },
+    {
+      "text": "Cassie",
+      "href": "/wiki/Cassie"
+    },
+    {
+      "text": "Chaf Springfield",
+      "href": "/wiki/Chaf_Springfield"
+    },
+    {
+      "text": "Chief Glortok",
+      "href": "/wiki/Chief_Glortok"
+    },
+    {
+      "text": "Chirrra",
+      "href": "/wiki/Chirrra"
+    },
+    {
+      "text": "Creepy Alchemist",
+      "href": "/wiki/Creepy_Alchemist"
+    },
+    {
+      "text": "Crelpin",
+      "href": "/wiki/Crelpin"
+    },
+    {
+      "text": "Curious Creature",
+      "href": "/wiki/Curious_Creature"
+    },
+    {
+      "text": "Daisy (NPC)",
+      "href": "/wiki/Daisy_(NPC)"
+    },
+    {
+      "text": "Daniel Murderdark",
+      "href": "/wiki/Daniel_Murderdark"
+    },
+    {
+      "text": "Delia",
+      "href": "/wiki/Delia"
+    },
+    {
+      "text": "Denton Razor",
+      "href": "/wiki/Denton_Razor"
+    },
+    {
+      "text": "Deville",
+      "href": "/wiki/Deville"
+    },
+    {
+      "text": "Dorimir Fangblade",
+      "href": "/wiki/Dorimir_Fangblade"
+    },
+    {
+      "text": "Drima",
+      "href": "/wiki/Drima"
+    },
+    {
+      "text": "Dye Monster",
+      "href": "/wiki/Dye_Monster"
+    },
+    {
+      "text": "Easter Bunny",
+      "href": "/wiki/Easter_Bunny"
+    },
+    {
+      "text": "Elaina",
+      "href": "/wiki/Elaina"
+    },
+    {
+      "text": "Elmetaph",
+      "href": "/wiki/Elmetaph"
+    },
+    {
+      "text": "Ensign Cricket",
+      "href": "/wiki/Ensign_Cricket"
+    },
+    {
+      "text": "Falkrin Overstrike",
+      "href": "/wiki/Falkrin_Overstrike"
+    },
+    {
+      "text": "Fiddler",
+      "href": "/wiki/Fiddler"
+    },
+    {
+      "text": "Fitz the Boatman",
+      "href": "/wiki/Fitz_the_Boatman"
+    },
+    {
+      "text": "Fluffikins",
+      "href": "/wiki/Fluffikins"
+    },
+    {
+      "text": "Furlak",
+      "href": "/wiki/Furlak"
+    },
+    {
+      "text": "Garad",
+      "href": "/wiki/Garad"
+    },
+    {
+      "text": "Gershok",
+      "href": "/wiki/Gershok"
+    },
+    {
+      "text": "Ghost Orc",
+      "href": "/wiki/Ghost_Orc"
+    },
+    {
+      "text": "Gisli",
+      "href": "/wiki/Gisli"
+    },
+    {
+      "text": "Gloria Stonecurl",
+      "href": "/wiki/Gloria_Stonecurl"
+    },
+    {
+      "text": "Glowing Sphere",
+      "href": "/wiki/Glowing_Sphere"
+    },
+    {
+      "text": "Glowing Sphere",
+      "href": "/wiki/Glowing_Sphere"
+    },
+    {
+      "text": "Gorvessa",
+      "href": "/wiki/Gorvessa"
+    },
+    {
+      "text": "Gozzaroon",
+      "href": "/wiki/Gozzaroon"
+    },
+    {
+      "text": "Grakelsput",
+      "href": "/wiki/Grakelsput"
+    },
+    {
+      "text": "Gremix",
+      "href": "/wiki/Gremix"
+    },
+    {
+      "text": "Gretchen Salas",
+      "href": "/wiki/Gretchen_Salas"
+    },
+    {
+      "text": "Gribburn",
+      "href": "/wiki/Gribburn"
+    },
+    {
+      "text": "Gurki",
+      "href": "/wiki/Gurki"
+    },
+    {
+      "text": "Happy-Go-Lucky Bat",
+      "href": "/wiki/Happy-Go-Lucky_Bat"
+    },
+    {
+      "text": "Hemmit Magmagrip",
+      "href": "/wiki/Hemmit_Magmagrip"
+    },
+    {
+      "text": "Inella",
+      "href": "/wiki/Inella"
+    },
+    {
+      "text": "Ishiko",
+      "href": "/wiki/Ishiko"
+    },
+    {
+      "text": "Ivyn",
+      "href": "/wiki/Ivyn"
+    },
+    {
+      "text": "Jake the Buckler",
+      "href": "/wiki/Jake_the_Buckler"
+    },
+    {
+      "text": "Janet Lews",
+      "href": "/wiki/Janet_Lews"
+    },
+    {
+      "text": "Jara",
+      "href": "/wiki/Jara"
+    },
+    {
+      "text": "Jaw",
+      "href": "/wiki/Jaw"
+    },
+    {
+      "text": "Jopol",
+      "href": "/wiki/Jopol"
+    },
+    {
+      "text": "Jumper",
+      "href": "/wiki/Jumper"
+    },
+    {
+      "text": "Jurl the Boatman",
+      "href": "/wiki/Jurl_the_Boatman"
+    },
+    {
+      "text": "Justin Fargold",
+      "href": "/wiki/Justin_Fargold"
+    },
+    {
+      "text": "Kalrod",
+      "href": "/wiki/Kalrod"
+    },
+    {
+      "text": "Katarina Eltibule",
+      "href": "/wiki/Katarina_Eltibule"
+    },
+    {
+      "text": "Kimeta",
+      "href": "/wiki/Kimeta"
+    },
+    {
+      "text": "Kimoc",
+      "href": "/wiki/Kimoc"
+    },
+    {
+      "text": "Kinira",
+      "href": "/wiki/Kinira"
+    },
+    {
+      "text": "Kuzavek",
+      "href": "/wiki/Kuzavek"
+    },
+    {
+      "text": "Lady Alethina",
+      "href": "/wiki/Lady_Alethina"
+    },
+    {
+      "text": "Lady Windsong",
+      "href": "/wiki/Lady_Windsong"
+    },
+    {
+      "text": "Lakrea",
+      "href": "/wiki/Lakrea"
+    },
+    {
+      "text": "Lana Songtree",
+      "href": "/wiki/Lana_Songtree"
+    },
+    {
+      "text": "Durstin Tallow",
+      "href": "/wiki/Durstin_Tallow"
+    },
+    {
+      "text": "Landri the Cold",
+      "href": "/wiki/Landri_the_Cold"
+    },
+    {
+      "text": "Lawara",
+      "href": "/wiki/Lawara"
+    },
+    {
+      "text": "Leah Bowman",
+      "href": "/wiki/Leah_Bowman"
+    },
+    {
+      "text": "Legacy Item Replacer",
+      "href": "/wiki/Legacy_Item_Replacer"
+    },
+    {
+      "text": "Liamu the Watchful",
+      "href": "/wiki/Liamu_the_Watchful"
+    },
+    {
+      "text": "Lincha",
+      "href": "/wiki/Lincha"
+    },
+    {
+      "text": "Loche",
+      "href": "/wiki/Loche"
+    },
+    {
+      "text": "Lugnir",
+      "href": "/wiki/Lugnir"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Malgath",
+      "href": "/wiki/Malgath"
+    },
+    {
+      "text": "Malvol",
+      "href": "/wiki/Malvol"
+    },
+    {
+      "text": "Melandria",
+      "href": "/wiki/Melandria"
+    },
+    {
+      "text": "Merriana",
+      "href": "/wiki/Merriana"
+    },
+    {
+      "text": "Message Starfish",
+      "href": "/wiki/Message_Starfish"
+    },
+    {
+      "text": "Midge the Apothecary",
+      "href": "/wiki/Midge_the_Apothecary"
+    },
+    {
+      "text": "Mirror",
+      "href": "/wiki/Mirror"
+    },
+    {
+      "text": "Mittens",
+      "href": "/wiki/Mittens"
+    },
+    {
+      "text": "Moku",
+      "href": "/wiki/Moku"
+    },
+    {
+      "text": "Mope",
+      "href": "/wiki/Mope"
+    },
+    {
+      "text": "Moxie",
+      "href": "/wiki/Moxie"
+    },
+    {
+      "text": "Mu",
+      "href": "/wiki/Mu"
+    },
+    {
+      "text": "Mythander",
+      "href": "/wiki/Mythander"
+    },
+    {
+      "text": "NPCs by Area",
+      "href": "/wiki/Category:NPCs_by_Area"
+    },
+    {
+      "text": "NPCs by Special",
+      "href": "/wiki/Category:NPCs_by_Special"
+    },
+    {
+      "text": "Nelson Ballard",
+      "href": "/wiki/Nelson_Ballard"
+    },
+    {
+      "text": "Nightshade",
+      "href": "/wiki/Nightshade"
+    },
+    {
+      "text": "Nissim",
+      "href": "/wiki/Nissim"
+    },
+    {
+      "text": "Noita the Green",
+      "href": "/wiki/Noita_the_Green"
+    },
+    {
+      "text": "Norbert/Strange Pig",
+      "href": "/wiki/Norbert/Strange_Pig"
+    },
+    {
+      "text": "Ogamboe",
+      "href": "/wiki/Ogamboe"
+    },
+    {
+      "text": "Oritania",
+      "href": "/wiki/Oritania"
+    },
+    {
+      "text": "Orran",
+      "href": "/wiki/Orran"
+    },
+    {
+      "text": "Orrrilund",
+      "href": "/wiki/Orrrilund"
+    },
+    {
+      "text": "Pennoc",
+      "href": "/wiki/Pennoc"
+    },
+    {
+      "text": "Percussa",
+      "href": "/wiki/Percussa"
+    },
+    {
+      "text": "Percy Evans",
+      "href": "/wiki/Percy_Evans"
+    },
+    {
+      "text": "Pickles",
+      "href": "/wiki/Pickles"
+    },
+    {
+      "text": "Poe",
+      "href": "/wiki/Poe"
+    },
+    {
+      "text": "Puffy Ben",
+      "href": "/wiki/Puffy_Ben"
+    },
+    {
+      "text": "Quest Hag",
+      "href": "/wiki/Quest_Hag"
+    },
+    {
+      "text": "Raim",
+      "href": "/wiki/Raim"
+    },
+    {
+      "text": "Rappanel",
+      "href": "/wiki/Rappanel"
+    },
+    {
+      "text": "Durstin Tallow",
+      "href": "/wiki/Durstin_Tallow"
+    },
+    {
+      "text": "Ratuk the Thinker",
+      "href": "/wiki/Ratuk_the_Thinker"
+    },
+    {
+      "text": "Raul",
+      "href": "/wiki/Raul"
+    },
+    {
+      "text": "Rayar",
+      "href": "/wiki/Rayar"
+    },
+    {
+      "text": "Records Golem A",
+      "href": "/wiki/Records_Golem_A"
+    },
+    {
+      "text": "Records Golem B",
+      "href": "/wiki/Records_Golem_B"
+    },
+    {
+      "text": "Records Golem C",
+      "href": "/wiki/Records_Golem_C"
+    },
+    {
+      "text": "Records Golem D",
+      "href": "/wiki/Records_Golem_D"
+    },
+    {
+      "text": "Ricatu",
+      "href": "/wiki/Ricatu"
+    },
+    {
+      "text": "Riger",
+      "href": "/wiki/Riger"
+    },
+    {
+      "text": "Riston",
+      "href": "/wiki/Riston"
+    },
+    {
+      "text": "Rita",
+      "href": "/wiki/Rita"
+    },
+    {
+      "text": "Rixie",
+      "href": "/wiki/Rixie"
+    },
+    {
+      "text": "Rohina",
+      "href": "/wiki/Rohina"
+    },
+    {
+      "text": "Rubi",
+      "href": "/wiki/Rubi"
+    },
+    {
+      "text": "Sanja",
+      "href": "/wiki/Sanja"
+    },
+    {
+      "text": "Sarina",
+      "href": "/wiki/Sarina"
+    },
+    {
+      "text": "Selphie",
+      "href": "/wiki/Selphie"
+    },
+    {
+      "text": "Sem",
+      "href": "/wiki/Sem"
+    },
+    {
+      "text": "Sentient Flame",
+      "href": "/wiki/Sentient_Flame"
+    },
+    {
+      "text": "Ser Lorentz",
+      "href": "/wiki/Ser_Lorentz"
+    },
+    {
+      "text": "Sergeant Ultaka",
+      "href": "/wiki/Sergeant_Ultaka"
+    },
+    {
+      "text": "Serrold",
+      "href": "/wiki/Serrold"
+    },
+    {
+      "text": "Shala",
+      "href": "/wiki/Shala"
+    },
+    {
+      "text": "Sheyna",
+      "href": "/wiki/Sheyna"
+    },
+    {
+      "text": "Shovel Dispenser",
+      "href": "/wiki/Shovel_Dispenser"
+    },
+    {
+      "text": "Silvia",
+      "href": "/wiki/Silvia"
+    },
+    {
+      "text": "Sir Johnson",
+      "href": "/wiki/Sir_Johnson"
+    },
+    {
+      "text": "Sir Taggart",
+      "href": "/wiki/Sir_Taggart"
+    },
+    {
+      "text": "Snowleaf",
+      "href": "/wiki/Snowleaf"
+    },
+    {
+      "text": "Squidlips",
+      "href": "/wiki/Squidlips"
+    },
+    {
+      "text": "Stables Golem",
+      "href": "/wiki/Stables_Golem"
+    },
+    {
+      "text": "Stephie Blackhammer",
+      "href": "/wiki/Stephie_Blackhammer"
+    },
+    {
+      "text": "Stulza",
+      "href": "/wiki/Stulza"
+    },
+    {
+      "text": "Sugar (NPC)",
+      "href": "/wiki/Sugar_(NPC)"
+    },
+    {
+      "text": "Syndra",
+      "href": "/wiki/Syndra"
+    },
+    {
+      "text": "Tangle",
+      "href": "/wiki/Tangle"
+    },
+    {
+      "text": "Tantai",
+      "href": "/wiki/Tantai"
+    },
+    {
+      "text": "Teleportation Attendant",
+      "href": "/wiki/Teleportation_Attendant"
+    },
+    {
+      "text": "The Bat in the Hat",
+      "href": "/wiki/The_Bat_in_the_Hat"
+    },
+    {
+      "text": "The Floriculturist",
+      "href": "/wiki/The_Floriculturist"
+    },
+    {
+      "text": "The Sand Seer",
+      "href": "/wiki/The_Sand_Seer"
+    },
+    {
+      "text": "Thedar",
+      "href": "/wiki/Thedar"
+    },
+    {
+      "text": "Thimble Pete",
+      "href": "/wiki/Thimble_Pete"
+    },
+    {
+      "text": "Three-Eyes",
+      "href": "/wiki/Three-Eyes"
+    },
+    {
+      "text": "Torana",
+      "href": "/wiki/Torana"
+    },
+    {
+      "text": "Torgan",
+      "href": "/wiki/Torgan"
+    },
+    {
+      "text": "Trekker",
+      "href": "/wiki/Trekker"
+    },
+    {
+      "text": "Tremmond Blackhammer",
+      "href": "/wiki/Tremmond_Blackhammer"
+    },
+    {
+      "text": "Truxartis",
+      "href": "/wiki/Truxartis"
+    },
+    {
+      "text": "Tyler Green",
+      "href": "/wiki/Tyler_Green"
+    },
+    {
+      "text": "Ultashk",
+      "href": "/wiki/Ultashk"
+    },
+    {
+      "text": "Umarak",
+      "href": "/wiki/Umarak"
+    },
+    {
+      "text": "Urglemarg",
+      "href": "/wiki/Urglemarg"
+    },
+    {
+      "text": "Uriana",
+      "href": "/wiki/Uriana"
+    },
+    {
+      "text": "Verac",
+      "href": "/wiki/Verac"
+    },
+    {
+      "text": "Viedesi",
+      "href": "/wiki/Viedesi"
+    },
+    {
+      "text": "Voo",
+      "href": "/wiki/Voo"
+    },
+    {
+      "text": "Wobbuk",
+      "href": "/wiki/Wobbuk"
+    },
+    {
+      "text": "Yalox",
+      "href": "/wiki/Yalox"
+    },
+    {
+      "text": "Yasinda",
+      "href": "/wiki/Yasinda"
+    },
+    {
+      "text": "Yoy",
+      "href": "/wiki/Yoy"
+    },
+    {
+      "text": "Yurra",
+      "href": "/wiki/Yurra"
+    },
+    {
+      "text": "Zazzamath",
+      "href": "/wiki/Zazzamath"
+    },
+    {
+      "text": "Zealo",
+      "href": "/wiki/Zealo"
+    },
+    {
+      "text": "Zeratak",
+      "href": "/wiki/Zeratak"
+    },
+    {
+      "text": "Lycanthrope",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Serbule Hills",
+      "href": "/wiki/Serbule_Hills"
+    },
+    {
+      "text": "Eltibule",
+      "href": "/wiki/Eltibule"
+    },
+    {
+      "text": "favor",
+      "href": "/wiki/Favor"
+    },
+    {
+      "text": "Spider Juice",
+      "href": "/wiki/Spider_Juice"
+    },
+    {
+      "text": "Serbule Crypt",
+      "href": "/wiki/Serbule_Crypt"
+    },
+    {
+      "text": "Un-Spider Juice",
+      "href": "/wiki/Un-Spider_Juice"
+    },
+    {
+      "text": "Maronesa",
+      "href": "/wiki/Maronesa"
+    },
+    {
+      "text": "Cow",
+      "href": "/wiki/Cow"
+    },
+    {
+      "text": "Deer Juice",
+      "href": "/wiki/Deer_Juice"
+    },
+    {
+      "text": "Deer",
+      "href": "/wiki/Deer"
+    },
+    {
+      "text": "Un-Deer Juice",
+      "href": "/wiki/Un-Deer_Juice"
+    },
+    {
+      "text": "Lycanthrope",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Beast Speech",
+      "href": "/wiki/Beast_Speech"
+    },
+    {
+      "text": "Beast Speech",
+      "href": "/wiki/Beast_Speech"
+    },
+    {
+      "text": "Joeh",
+      "href": "/wiki/Joeh"
+    },
+    {
+      "text": "Roshun the Traitor",
+      "href": "/wiki/Roshun_the_Traitor"
+    },
+    {
+      "text": "Eltibule",
+      "href": "/wiki/Eltibule"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Marna",
+      "href": "/wiki/Marna"
+    },
+    {
+      "text": "Hulon",
+      "href": "/wiki/Hulon"
+    },
+    {
+      "text": "Cow",
+      "href": "/wiki/Cow"
+    },
+    {
+      "text": "Psychology",
+      "href": "/wiki/Psychology"
+    },
+    {
+      "text": "Mentalism",
+      "href": "/wiki/Mentalism"
+    },
+    {
+      "text": "Making Armor Pt 2",
+      "href": "https://www.kickstarter.com/projects/1045484633/project-gorgon-a-new-approach-to-mmos/posts/985932"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Beast_Forms&oldid=101289",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Beast_Forms&oldid=101289"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Mechanics",
+      "href": "/wiki/Category:Mechanics"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5160.png",
+      "alt": "icon_5160.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5218.png",
+      "alt": "icon_5218.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5073.png",
+      "alt": "icon_5073.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v332/icons/icon_3713.png",
+      "alt": "icon_3713.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_17301.png",
+      "alt": "icon_17301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_17301.png",
+      "alt": "icon_17301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_17301.png",
+      "alt": "icon_17301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_17301.png",
+      "alt": "icon_17301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_17301.png",
+      "alt": "icon_17301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_17301.png",
+      "alt": "icon_17301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_17301.png",
+      "alt": "icon_17301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_17301.png",
+      "alt": "icon_17301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_17301.png",
+      "alt": "icon_17301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5208.png",
+      "alt": "icon_5208.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5208.png",
+      "alt": "icon_5208.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5208.png",
+      "alt": "icon_5208.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5208.png",
+      "alt": "icon_5208.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5208.png",
+      "alt": "icon_5208.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5208.png",
+      "alt": "icon_5208.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5204.png",
+      "alt": "icon_5204.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_16025.png",
+      "alt": "icon_16025.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5089.png",
+      "alt": "icon_5089.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5089.png",
+      "alt": "icon_5089.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5087.png",
+      "alt": "icon_5087.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5088.png",
+      "alt": "icon_5088.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5089.png",
+      "alt": "icon_5089.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5087.png",
+      "alt": "icon_5087.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5088.png",
+      "alt": "icon_5088.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5089.png",
+      "alt": "icon_5089.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5087.png",
+      "alt": "icon_5087.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5088.png",
+      "alt": "icon_5088.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5088.png",
+      "alt": "icon_5088.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5089.png",
+      "alt": "icon_5089.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5088.png",
+      "alt": "icon_5088.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5089.png",
+      "alt": "icon_5089.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5278.png",
+      "alt": "icon_5278.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5278.png",
+      "alt": "icon_5278.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5278.png",
+      "alt": "icon_5278.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5089.png",
+      "alt": "icon_5089.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5087.png",
+      "alt": "icon_5087.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5088.png",
+      "alt": "icon_5088.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5087.png",
+      "alt": "icon_5087.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5088.png",
+      "alt": "icon_5088.png"
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

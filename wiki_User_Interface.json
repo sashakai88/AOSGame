@@ -1,0 +1,475 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/User_Interface",
+  "title": "User Interface - Project: Gorgon Wiki",
+  "main_content": "User Interface\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nContents\n1\nQuest window\n2\nInventory\n3\nBuying and selling\n4\nMap\n5\nGrouping\n6\nThe Chat Window and Commands\n6.1\nLinking items in chat\n6.2\nGhost-chat\n6.3\nCommand List\n6.4\nChat Rooms\n6.5\nSocial\n6.6\nDealing with Other Players\n6.7\nGuilds\n6.8\nHunting Groups\n6.9\nOther Commands\n6.10\nEmotes\n6.11\nUnlisted Commands\nQuest window\nThe Quest window actually features three tabs that can be easily missed:\nQuests and Favors\n: Your typical quest log. As of the alpha it currently does not distinguish completed quests. However, a notification appears on the screen along with a distinctive sound whenever you progress on a quest objective.\nStuff to Do\n: Provides a list of objectives with basic hints. This is a nice feature for players who want to try and discover a lot on their own. Note that many of those objectives are out of the reach of a new player and will require some time to complete!\nNotepad\n: An easily missed feature, the notepad lets you jot down notes in-game. This can be useful to remember\nWords of Power\nthat you may want to use later, and can be useful to remember key information for several quests. Note that there is NOT a Control-Z (undo) feature, so be careful.\nInventory\nAn illustration of a typical adventurer's backpack.\nThe Inventory window can be resized however you want. The size of the items can be changed via\nOptions > GUI and Windows > Inventory Item Icon Size\n.\nAs your character grows, you will gain additional\nInventory slots\nthrough skills like\nEndurance\n(permanent), through certain recipes (this appears to be a temporary effect), and sometimes granted by item properties (also temporary).\nThe\nSort\noption can be useful because the game currently does not allow to reorganize your backpack contents by drag and drop. The sort option will place all combat gear first (armor and weapons), which makes it easier to switch between weapons and armor as you switch between skills. Sometimes it can be useful also to drop items on the ground, then quickly pick them up, as this will move them to the end of the inventory. It is also possible to exchange the position of items, by dragging one item onto another.\nThe items in your inventory with the\nred E\nare the ones that you have currently equipped, items with red borders are quest items.\nTo\ndrop an item\nclick and drag the item onto the panel below that appears below the inventory. Be aware that any items dropped in this way can be picked up by players nearby!\nTo\nsplit a stack\nof items left click the item while holding the shift key.\nBuying and selling\nPress\nshift\nwhen buying to buy more than one unit of an item at once.\nPress\nshift\nwhen selling to sell a single item instead of the whole stack.\nI you go the the Sell-tab for a NPC, you can hover your mouse over the amount of money the NPC has left, to see when the money for that NPC will reset to it's begin amount.\nMap\nPress\nM\nor use the button on the sidebar to open the map.\nThe map of the area you are in can be resized.\nCurrently, not all locations have maps.\nYou can place markers on the map, for places of interest you may want to remember (this can also be useful for planning a route among multiple mining surveys).\nThe markers can be renamed or removed by clicking on them.\nGrouping\nAfter inviting someone to your group\n(party)\n(and them accepting), or after accepting a group-invitation yourself, you can open the Social window, to see who is grouped with you.\nThis also allows you to see their armor and health (some classes have abilities that allow them to heal other players).\nThe Chat Window and Commands\nSlash commands are typed in the console.\nThese always start with a forward slash (EG.\n/wiki\n).\nLinking items in chat\nTo link items in chat, simply drag and drop one or more items to the chat window while you have a message typed.\nGhost-chat\nTo enable ghost chat simply click the little red cross.\nThat is, click the close button instead of using the chat toggle key.\nFrom there on, the chat will only appear when someone talks, and will disappear again after a few seconds.\nIn addition, the chat appears somewhat transparent.\nIt reduces clutter and adds a little to immersion.\nYou can configure how long the ghost-chat should last in Options > GUI and Windows, along with the transparency level.\nCommand List\n/help\nProvides an in-game reminder of the available commands.\nChat Rooms\nYou can create and join chat rooms. Users automatically start in the \"Trade\" and \"Help\" channels. You can:\n/rooms\nDisplays a list of public chat rooms.\n/join\nCustom1\nJoins the room \"Custom1\". If no one is in that channel, it will create it for you.\n/join\n-Custom1\nJoins/creates the private chat room \"Custom1\". Anyone can still join it, but it won't show up under\n/rooms\n.\n/leave\nCustom1\nLeaves a chat room.\n/c hi everybody!\nSpeak in the last custom chat room you joined/used\n/c OtherRoom hi everybody!\nSpeak in the custom chat room named 'OtherRoom'\nSocial\nThe default message mode is shown left of the line where you type messages in.\nLeft click it to cycle between 'GLOBAL', 'NEARBY' and 'GROUP'.\n/t\nPlayerName\nhi\nTell player\nPlayerName\nthe message 'hi'.\n(Private message aka PM)\n/r\nhello\nReply to whoever last talked to you with\n/t\n.\n/g\nmorning!\nSend a message on the global chat (across all game zones).\n/n\nhello\nTalk to nearby players so they can hear you say 'hello'.\n/p\nhello\nTalk to your current group members and say 'hello'.\n/a\nhello\nDirectly message your guild!\nDealing with Other Players\nThese commands are used to impact how you interact with other players!\n/friend\nPlayerName\nAsk\nPlayerName\nif you may add him/her to your friends list.\n/unfriend\nPlayerName\nStop being friends with\nPlayerName\n.\n/ignore\nShow all players that you're ignoring.\n/ignore\nPlayerName\nIgnore all communication from player\nPlayerName\n.\n/unignore\nPlayerName\nHear what\nPlayerName\nhas to say again.\n/incognito\nToggle incognito mode on/off. This will stay between logins.\nWhile incognito you are hiding from social features.\neg. You won't be listed in online lists.\n/who\nShow players in the same map-area as you (it is indeed area such as \"AreaTutorialCave\", not the full zone).\n/who all\nShow all players logged in (up to 100).\n/restrict\nProvides a list of options. With the /restrict command, you can prevent other players from interacting with you in various ways. Use \"/restrict <type> [on/off]\". For instance, to stop other players from inviting you to their guild, use \"/restrict GuildInvite on\". Change the 'on' to 'off' to turn off that restriction. For more information about what a particular restriction means, use it by itself, like \"/restrict GuildInvite\"\n/restrict FriendInvite\nWhen this restriction is active, players who try to become your friend will be told that you are not accepting friend-invites right now.\n/restrict GroupInvite\nWhen this restriction is active, players who try to invite you to their hunting group will be told that you are already in a hunting group (whether or not you are).\n/restrict GuildInvite\nWhen this restriction is active, players who try to invite you to their guild will be told that you are already in a guild (whether or not you are).\n/restrict Trade\nWhen this restriction is active, players who try to trade with you will be told that you aren't interested in trading right now.\n/restrict ReceiveTips\nWhen this restriction is active, players who try to tip you will receive a message that you aren't accepting tips right now.\n/restrict PickUpOthersItems\nWhen active, you will be unable to pick up items on the ground, except for items that you personally dropped. This unusual restriction is intended for 'challenge mode' characters who do not want to accidentally receive outside help.\n/restrict BeMilked\nWhen this restriction is active, players that try to milk you will be told that you are too busy to be milked. Note: this restriction is only relevant if you have been cursed into cow form.\n/restrict HearOration\nWhen this restriction is active, you will not see other players' oration. For instance, you will not be prompted to critique player poetry.\n/tip\nPlayerName\n100\nSend 100 coins to\nPlayerName\n. Must be nearby!\nGuilds\nThese commands are available to guilds.\n/guild help\nSee a list of guild commands you have permission to use\n/guild\nwho\nSee guild members that are online. If they are /incognito the guild member will not show up on this list.\n/guild\ninvite\nPlayerName\nInvite a player to join your guild.\n/guild\nkick\nPlayerName\nKick a player from your guild (must have kick privileges, and can only kick players of lower rank).\n/guild\nmessage\nsomething\nSets the guild's message of the day to\nsomething\n(must have message privileges).\n/guild\nrank\nPlayerName\nMember\nSets\nPlayerName\n's rank to \"Member\" (must have privileges, can't promote to a higher rank them themselves, can't demote higher-ranked players).\n/guild\nauditlogs\nDisplays guild logs for Rank 9 or 10 guild members by default. /guild auditlogs old will show the previous week's logs.\nHunting Groups\n/invite\nPlayerName\nInvite\nPlayerName\nto join your party.\n/loot\nfree\nEveryone in your group will be able to loot every corpse.\n/loot\nturns\nYour group will take turns getting permission to loot non-Elites.\n/loot\nunchecked\nAnyone may loot corpses, even players outside your group.\nOther Commands\nThese commands, listed in-game, do various things.\n/age\nShow statistics about your character such as when the character was created, time online, number of deaths, damage taken, damaged dealt.\n/blog\nView the development-blog web page\n/forum\nsomething\nView or search the game's forum for 'something' (this will open a page in your default browser).  Just /forum will go to the forum's base page.\n/wiki\nsomething\nSearch this wiki for 'something' (this will open a page in your default browser).\n/swiki\nsomething\nSearch this wiki for 'something' (this will open a page in steam browser).\n/isearch\nThis command searches all external storage, such as the storage provided by NPCs for chests you find in dungeons. Specify the name of an item to search for it. (NOTE: This command does not search account-wide storage or guild storage).\n/isearch\nSalt\nThis command would find items with the name Salt, Salty Cakes, and Bassalt.\n/isearch\n+Salt\nThis command uses Exact Searching, and will search for the exact item after the plus. Only Salt will be found.\n/messages\nWill show the current message of the day set by the game administrator along with some \"system\" messages, such as admin messages sent to you or cancellation/fulfillment notices of player work orders.\n/motd\nDisplays the system message of the day\n/redeem\nProvides a list of special item vouchers you may be able to redeem.\n/roll\n2d6\nRoll two six-sided dice and announce the results.\n/status\nShow the server status including the last time the server was restarted, the amount of time you have been online and ping time.\n/stuck\nTry to re-adjust your character if you're stuck\n/wordhunt\nPlay the word-hunt minigame\n/entitle\nBob\nGive your unique custom title to player 'Bob'. Must be nearby!\nEmotes\nThe following commands cause your character to animate for roleplaying purposes. They don't actually have any real effect. (For instance, using /nap is not the same as actually napping in a bed).\n/brag\nPlays a short animation.\n/cheer\nPlays a short animation.\n/cry\nPlays a short animation.\n/howl\nPlays a short animation. Howls with rage in nearby chat.\n/jeer\nPlays a short animation.\n/laugh\nPlays a short animation.\n/nap\nPlays a short animation.\n/read\nPlays a short animation.\n/sit\nPlays a short animation. This is just visual and doesn't increase your regeneration rate, sorry EverQuest fans!\n/smith\nPlays a short animation.\n/stretch\nPlays a short animation.\n/taunt\nPlays a short animation.\n/thank\nPlays a short animation.\n/wave\nPlays a short animation.\n/e\nor\n/em\nPerform a custom emote. Can be targeted with\n%t\nUnlisted Commands\nThe following commands exist, but are not displayed in the in-game help window.\n/mapclear\nRemoves map pins from all maps.\n/unstickchar\n<name of character>\nUsed when it seems impossible to log into a character, typing this command on another character of the same account will transport the stuck character to Anagoge.\n/behaviorreport\nDisplays a Behavior Report window for the character. This displays lots of information that could be used for player-run Challenges.\n/zapresources\nicefishing\nRemoves all of a character's icefishing traps from the world. The removed items are gone. You can also use this on other craft items. Add the appropriate word to the zap command: brewing, fletching, cheesemaking, icefishing, mushroomfarming. The game will give you a message to confirm along with a code number. If you're sure, type the command again with the code number and everything deployed for that item will be deleted. Game advises only using this when the craft item is stuck (can't select it). Game may also advise you not to deploy items too close to the edge of a zone to avoid getting items stuck.\n/particlespam\nToggles on/off some particle effects.  Useful during world boss events. Produces an info-message in chat stating whether effects have been ENABLED or DISABLED.\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=User_Interface&oldid=121841\n\"\nCategory\n:\nMechanics",
+  "tables": [
+    [
+      [
+        "/help",
+        "Provides an in-game reminder of the available commands."
+      ]
+    ],
+    [
+      [
+        "/rooms",
+        "Displays a list of public chat rooms."
+      ],
+      [
+        "/joinCustom1",
+        "Joins the room \"Custom1\". If no one is in that channel, it will create it for you."
+      ],
+      [
+        "/join-Custom1",
+        "Joins/creates the private chat room \"Custom1\". Anyone can still join it, but it won't show up under/rooms."
+      ],
+      [
+        "/leaveCustom1",
+        "Leaves a chat room."
+      ],
+      [
+        "/c hi everybody!",
+        "Speak in the last custom chat room you joined/used"
+      ],
+      [
+        "/c OtherRoom hi everybody!",
+        "Speak in the custom chat room named 'OtherRoom'"
+      ]
+    ],
+    [
+      [
+        "/tPlayerNamehi",
+        "Tell playerPlayerNamethe message 'hi'.(Private message aka PM)"
+      ],
+      [
+        "/rhello",
+        "Reply to whoever last talked to you with/t."
+      ],
+      [
+        "/gmorning!",
+        "Send a message on the global chat (across all game zones)."
+      ],
+      [
+        "/nhello",
+        "Talk to nearby players so they can hear you say 'hello'."
+      ],
+      [
+        "/phello",
+        "Talk to your current group members and say 'hello'."
+      ],
+      [
+        "/ahello",
+        "Directly message your guild!"
+      ]
+    ],
+    [
+      [
+        "/friendPlayerName",
+        "AskPlayerNameif you may add him/her to your friends list."
+      ],
+      [
+        "/unfriendPlayerName",
+        "Stop being friends withPlayerName."
+      ],
+      [
+        "/ignore",
+        "Show all players that you're ignoring."
+      ],
+      [
+        "/ignorePlayerName",
+        "Ignore all communication from playerPlayerName."
+      ],
+      [
+        "/unignorePlayerName",
+        "Hear whatPlayerNamehas to say again."
+      ],
+      [
+        "/incognito",
+        "Toggle incognito mode on/off. This will stay between logins.While incognito you are hiding from social features.eg. You won't be listed in online lists."
+      ],
+      [
+        "/who",
+        "Show players in the same map-area as you (it is indeed area such as \"AreaTutorialCave\", not the full zone)."
+      ],
+      [
+        "/who all",
+        "Show all players logged in (up to 100)."
+      ],
+      [
+        "/restrict",
+        "Provides a list of options. With the /restrict command, you can prevent other players from interacting with you in various ways. Use \"/restrict <type> [on/off]\". For instance, to stop other players from inviting you to their guild, use \"/restrict GuildInvite on\". Change the 'on' to 'off' to turn off that restriction. For more information about what a particular restriction means, use it by itself, like \"/restrict GuildInvite\""
+      ],
+      [
+        "/restrict FriendInvite",
+        "When this restriction is active, players who try to become your friend will be told that you are not accepting friend-invites right now."
+      ],
+      [
+        "/restrict GroupInvite",
+        "When this restriction is active, players who try to invite you to their hunting group will be told that you are already in a hunting group (whether or not you are)."
+      ],
+      [
+        "/restrict GuildInvite",
+        "When this restriction is active, players who try to invite you to their guild will be told that you are already in a guild (whether or not you are)."
+      ],
+      [
+        "/restrict Trade",
+        "When this restriction is active, players who try to trade with you will be told that you aren't interested in trading right now."
+      ],
+      [
+        "/restrict ReceiveTips",
+        "When this restriction is active, players who try to tip you will receive a message that you aren't accepting tips right now."
+      ],
+      [
+        "/restrict PickUpOthersItems",
+        "When active, you will be unable to pick up items on the ground, except for items that you personally dropped. This unusual restriction is intended for 'challenge mode' characters who do not want to accidentally receive outside help."
+      ],
+      [
+        "/restrict BeMilked",
+        "When this restriction is active, players that try to milk you will be told that you are too busy to be milked. Note: this restriction is only relevant if you have been cursed into cow form."
+      ],
+      [
+        "/restrict HearOration",
+        "When this restriction is active, you will not see other players' oration. For instance, you will not be prompted to critique player poetry."
+      ],
+      [
+        "/tipPlayerName100",
+        "Send 100 coins toPlayerName. Must be nearby!"
+      ]
+    ],
+    [
+      [
+        "/guild help",
+        "See a list of guild commands you have permission to use"
+      ],
+      [
+        "/guildwho",
+        "See guild members that are online. If they are /incognito the guild member will not show up on this list."
+      ],
+      [
+        "/guildinvitePlayerName",
+        "Invite a player to join your guild."
+      ],
+      [
+        "/guildkickPlayerName",
+        "Kick a player from your guild (must have kick privileges, and can only kick players of lower rank)."
+      ],
+      [
+        "/guildmessagesomething",
+        "Sets the guild's message of the day tosomething(must have message privileges)."
+      ],
+      [
+        "/guildrankPlayerNameMember",
+        "SetsPlayerName's rank to \"Member\" (must have privileges, can't promote to a higher rank them themselves, can't demote higher-ranked players)."
+      ],
+      [
+        "/guildauditlogs",
+        "Displays guild logs for Rank 9 or 10 guild members by default. /guild auditlogs old will show the previous week's logs."
+      ]
+    ],
+    [
+      [
+        "/invitePlayerName",
+        "InvitePlayerNameto join your party."
+      ],
+      [
+        "/lootfree",
+        "Everyone in your group will be able to loot every corpse."
+      ],
+      [
+        "/lootturns",
+        "Your group will take turns getting permission to loot non-Elites."
+      ],
+      [
+        "/lootunchecked",
+        "Anyone may loot corpses, even players outside your group."
+      ]
+    ],
+    [
+      [
+        "/age",
+        "Show statistics about your character such as when the character was created, time online, number of deaths, damage taken, damaged dealt."
+      ],
+      [
+        "/blog",
+        "View the development-blog web page"
+      ],
+      [
+        "/forumsomething",
+        "View or search the game's forum for 'something' (this will open a page in your default browser).  Just /forum will go to the forum's base page."
+      ],
+      [
+        "/wikisomething",
+        "Search this wiki for 'something' (this will open a page in your default browser)."
+      ],
+      [
+        "/swikisomething",
+        "Search this wiki for 'something' (this will open a page in steam browser)."
+      ],
+      [
+        "/isearch",
+        "This command searches all external storage, such as the storage provided by NPCs for chests you find in dungeons. Specify the name of an item to search for it. (NOTE: This command does not search account-wide storage or guild storage)."
+      ],
+      [
+        "/isearchSalt",
+        "This command would find items with the name Salt, Salty Cakes, and Bassalt."
+      ],
+      [
+        "/isearch+Salt",
+        "This command uses Exact Searching, and will search for the exact item after the plus. Only Salt will be found."
+      ],
+      [
+        "/messages",
+        "Will show the current message of the day set by the game administrator along with some \"system\" messages, such as admin messages sent to you or cancellation/fulfillment notices of player work orders."
+      ],
+      [
+        "/motd",
+        "Displays the system message of the day"
+      ],
+      [
+        "/redeem",
+        "Provides a list of special item vouchers you may be able to redeem."
+      ],
+      [
+        "/roll2d6",
+        "Roll two six-sided dice and announce the results."
+      ],
+      [
+        "/status",
+        "Show the server status including the last time the server was restarted, the amount of time you have been online and ping time."
+      ],
+      [
+        "/stuck",
+        "Try to re-adjust your character if you're stuck"
+      ],
+      [
+        "/wordhunt",
+        "Play the word-hunt minigame"
+      ],
+      [
+        "/entitleBob",
+        "Give your unique custom title to player 'Bob'. Must be nearby!"
+      ]
+    ],
+    [
+      [
+        "/brag",
+        "Plays a short animation."
+      ],
+      [
+        "/cheer",
+        "Plays a short animation."
+      ],
+      [
+        "/cry",
+        "Plays a short animation."
+      ],
+      [
+        "/howl",
+        "Plays a short animation. Howls with rage in nearby chat."
+      ],
+      [
+        "/jeer",
+        "Plays a short animation."
+      ],
+      [
+        "/laugh",
+        "Plays a short animation."
+      ],
+      [
+        "/nap",
+        "Plays a short animation."
+      ],
+      [
+        "/read",
+        "Plays a short animation."
+      ],
+      [
+        "/sit",
+        "Plays a short animation. This is just visual and doesn't increase your regeneration rate, sorry EverQuest fans!"
+      ],
+      [
+        "/smith",
+        "Plays a short animation."
+      ],
+      [
+        "/stretch",
+        "Plays a short animation."
+      ],
+      [
+        "/taunt",
+        "Plays a short animation."
+      ],
+      [
+        "/thank",
+        "Plays a short animation."
+      ],
+      [
+        "/wave",
+        "Plays a short animation."
+      ],
+      [
+        "/eor/em",
+        "Perform a custom emote. Can be targeted with%t"
+      ]
+    ],
+    [
+      [
+        "/mapclear",
+        "Removes map pins from all maps."
+      ],
+      [
+        "/unstickchar<name of character>",
+        "Used when it seems impossible to log into a character, typing this command on another character of the same account will transport the stuck character to Anagoge."
+      ],
+      [
+        "/behaviorreport",
+        "Displays a Behavior Report window for the character. This displays lots of information that could be used for player-run Challenges."
+      ],
+      [
+        "/zapresourcesicefishing",
+        "Removes all of a character's icefishing traps from the world. The removed items are gone. You can also use this on other craft items. Add the appropriate word to the zap command: brewing, fletching, cheesemaking, icefishing, mushroomfarming. The game will give you a message to confirm along with a code number. If you're sure, type the command again with the code number and everything deployed for that item will be deleted. Game advises only using this when the craft item is stuck (can't select it). Game may also advise you not to deploy items too close to the edge of a zone to avoid getting items stuck."
+      ],
+      [
+        "/particlespam",
+        "Toggles on/off some particle effects.  Useful during world boss events. Produces an info-message in chat stating whether effects have been ENABLED or DISABLED."
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "1Quest window",
+      "2Inventory",
+      "3Buying and selling",
+      "4Map",
+      "5Grouping",
+      "6The Chat Window and Commands6.1Linking items in chat6.2Ghost-chat6.3Command List6.4Chat Rooms6.5Social6.6Dealing with Other Players6.7Guilds6.8Hunting Groups6.9Other Commands6.10Emotes6.11Unlisted Commands"
+    ],
+    [
+      "6.1Linking items in chat",
+      "6.2Ghost-chat",
+      "6.3Command List",
+      "6.4Chat Rooms",
+      "6.5Social",
+      "6.6Dealing with Other Players",
+      "6.7Guilds",
+      "6.8Hunting Groups",
+      "6.9Other Commands",
+      "6.10Emotes",
+      "6.11Unlisted Commands"
+    ],
+    [
+      "Quests and Favors: Your typical quest log. As of the alpha it currently does not distinguish completed quests. However, a notification appears on the screen along with a distinctive sound whenever you progress on a quest objective.",
+      "Stuff to Do: Provides a list of objectives with basic hints. This is a nice feature for players who want to try and discover a lot on their own. Note that many of those objectives are out of the reach of a new player and will require some time to complete!",
+      "Notepad: An easily missed feature, the notepad lets you jot down notes in-game. This can be useful to rememberWords of Powerthat you may want to use later, and can be useful to remember key information for several quests. Note that there is NOT a Control-Z (undo) feature, so be careful."
+    ],
+    [
+      "Mechanics"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "1Quest window",
+      "href": "#Quest_window"
+    },
+    {
+      "text": "2Inventory",
+      "href": "#Inventory"
+    },
+    {
+      "text": "3Buying and selling",
+      "href": "#Buying_and_selling"
+    },
+    {
+      "text": "4Map",
+      "href": "#Map"
+    },
+    {
+      "text": "5Grouping",
+      "href": "#Grouping"
+    },
+    {
+      "text": "6The Chat Window and Commands",
+      "href": "#The_Chat_Window_and_Commands"
+    },
+    {
+      "text": "6.1Linking items in chat",
+      "href": "#Linking_items_in_chat"
+    },
+    {
+      "text": "6.2Ghost-chat",
+      "href": "#Ghost-chat"
+    },
+    {
+      "text": "6.3Command List",
+      "href": "#Command_List"
+    },
+    {
+      "text": "6.4Chat Rooms",
+      "href": "#Chat_Rooms"
+    },
+    {
+      "text": "6.5Social",
+      "href": "#Social"
+    },
+    {
+      "text": "6.6Dealing with Other Players",
+      "href": "#Dealing_with_Other_Players"
+    },
+    {
+      "text": "6.7Guilds",
+      "href": "#Guilds"
+    },
+    {
+      "text": "6.8Hunting Groups",
+      "href": "#Hunting_Groups"
+    },
+    {
+      "text": "6.9Other Commands",
+      "href": "#Other_Commands"
+    },
+    {
+      "text": "6.10Emotes",
+      "href": "#Emotes"
+    },
+    {
+      "text": "6.11Unlisted Commands",
+      "href": "#Unlisted_Commands"
+    },
+    {
+      "text": "Words of Power",
+      "href": "/wiki/Words_of_Power"
+    },
+    {
+      "text": "Endurance",
+      "href": "/wiki/Endurance"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=User_Interface&oldid=121841",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=User_Interface&oldid=121841"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Mechanics",
+      "href": "/wiki/Category:Mechanics"
+    }
+  ],
+  "images": [
+    {
+      "src": "/w/images/thumb/b/b8/Inventory_%28user_interface%29.jpg/300px-Inventory_%28user_interface%29.jpg",
+      "alt": ""
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

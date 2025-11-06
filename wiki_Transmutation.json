@@ -1,0 +1,1565 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Transmutation",
+  "title": "Transmutation - Project: Gorgon Wiki",
+  "main_content": "Transmutation\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nTransmutation\nSkill Type:\nTrade Skill\nMax Level:\n90\nRequirements:\nNone\nSkill Trainers:\nKalaba\n,\nMakara\n,\nSona\n“\nMost magic items are powered by a weird substance called Phlogiston. This is what gives them their magic power. But the substance is invisible and undetectable... unless you know the trick I just taught you.\n—\nMakara\nTransmutation Overview\nTransmutation\nallows you to change, or reroll, a\nmod\non a piece of gear. (Note: \"mod\" is used interchangeably with \"treasure effect\" and \"treasure mod\") This consumes phlogiston and durability. The higher the level of the item, the higher the tier of phlogiston consumed. The ability to pick and choose treasure effects is huge, and it's not an understatement to say that this is the most powerful skill for min-maxing gear. Please note that transmuting anything will ATTUNE that gear to your account, making it useless to other players (but note that repairing transmutation damage does NOT attune gear; it is possible to restore another player's item's durability, though it is not possible to bypass the repair cooldown this way).\nIn the Skills and Abilities tab, Transmutation is listed as a subskill of\nAlchemy\n.\nNOTE:\nDifferences between Transmutation and Augmentation:\nTransmutation\nlets you\nchange\nthe mods on your gear, whereas\nAugmentation\nlets you\nadd\none additional mod to a piece of gear. With\nTransmutation\nyou\ndistill\nitems into phlogiston and use a transmutation table to make changes. With Augmentation you\ndecompose\nitems into beads and baubles in order to extract a mod from one item and place it on a different item.\nIn-Game Description\nThe science of permanently altering how a magical item works. Also covers manipulation of the basic materials of magic, such as phlogiston.\nTraining Transmutation\nKalaba\nin\nEltibule\nteaches\nTransmutation\nafter starting a conversation. Basic recipes are learned through the quest\nPhlogiston Basics\n.\nMakara\nin\nIlmari\nteaches\nTransmutation\nrecipes for rarer equipment, she also teaches basic recipes to characters who could not learn them from Kalaba.\nSona\nin\nNew Prestonbule Cave\ncan raise the level cap of\nTransmutation\nfrom 51-60 and 61-70.\nLevels 71-80 and 81-90 are unlocked by\nDunahain Broadarm\ndeep beneath\nPovus\n.\nConnected Skills\nSub-Skills:\nNone\nSecondary Skills:\nNone\nRelated Skills:\nAugmentation\n- Augmentation is the other primary way for players to upgrade their gear.\nTransmutation Complete Recipe List\nClick \"Expand\" on the box below to view a complete list of Recipes for the Transmutation skill.\nLvl\nName\nFirst-Time XP\nXP\nIngredients\nResults\nDescription\nSource\n1\nDistill Simple Magical Item (0-30)\n200\n50\nSmall Prism\nx1\n(!)\nUncommon Magic Item (Lvl 0-30)\nx1\nDistill Simple Magical Item (0-30)\nDestroy an Uncommon (green-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 0 and 30.)\nLeveling:\nTransmutation\n5\nDistill Rare Magical Item (0-30)\n400\n100\nSmall Prism\nx1\n(!)\nRare Magic Item (Lvl 0-30)\nx1\nDistill Rare Magical Item (0-30)\nDestroy a Rare (blue-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 0 and 30.)\nTraining:\nKalaba\nTraining:\nMakara\n10\nRepair Transmutation Damage 1\n200\n50\nSmall Prism\nx4\nMagic Item\nx1\nRepair Transmutation Damage 1\nUse 4 small prisms to restore 30%-60% of a level 0-30 item's transmutation durability. After using this recipe on an item, you must wait 4 days before the item can be further repaired.\nTraining:\nKalaba\nTraining:\nMakara\n15\nRepair Transmutation Damage 2\n600\n150\nSmall Prism\nx6\nMagic Item\nx1\nRepair Transmutation Damage 2\nUse 6 small prisms to restore 60%-100% of a level 0-30 item's transmutation durability. After using this recipe on an item, you must wait 6 days before the item can be further repaired.\nTraining:\nKalaba\nTraining:\nMakara\n20\nDistill Exceptional or Better Magical Item (0-30)\n1000\n250\nSmall Prism\nx1\n(!)\nExceptional or Better Magic Item (Lvl 0-30)\nx1\nDistill Exceptional or Better Magical Item (0-30)\nDestroy an Exceptional, Epic, or Legendary magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 0 and 30.)\nTraining:\nKalaba\nTraining:\nMakara\n25\nRepair Transmutation Damage 3\n1000\n250\nSmall Prism\nx8\nMagic Item\nx1\nRepair Transmutation Damage 3\nUse 8 small prisms to restore 100% of a level 0-30 item's transmutation durability. After using this recipe on an item, you must wait 7 days before the item can be further repaired.\nTraining:\nMakara\n31\nDistill Rare Magical Item (31-60)\n3200\n800\nMedium Prism\nx1\n(!)\nRare Magic Item (Lvl 31-60)\nx1\nDistill Rare Magical Item (31-60)\nDestroy a Rare (blue-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 31 and 60.)\nTraining:\nMakara\n31\nDistill Simple Magical Item (31-60)\n1600\n400\nMedium Prism\nx1\n(!)\nUncommon Magic Item (Lvl 31-60)\nx1\nDistill Simple Magical Item (31-60)\nDestroy an Uncommon (green-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 31 and 60.)\nTraining:\nMakara\n35\nDistill Exceptional Magical Item (31-60)\n4800\n1200\nMedium Prism\nx1\n(!)\nExceptional Magic Item (Lvl 31-60)\nx1\nDistill Exceptional Magical Item (31-60)\nDestroy an Exceptional (red-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 31 and 60.)\nTraining:\nMakara\n40\nDistill Epic or Legendary Magical Item (31-60)\n6400\n1600\nMedium Prism\nx1\n(!)\nEpic or Legendary Magic Item (Lvl 31-60)\nx1\nDistill Epic or Legendary Magical Item (31-60)\nDestroy an Epic or Legendary magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 31 and 60.)\nTraining:\nMakara\n40\nRepair Transmutation Damage 4\n4800\n1200\nMedium Prism\nx8\nMagic Item\nx1\nRepair Transmutation Damage 4\nUse 8 medium prisms to restore 100% of a level 31-60 item's transmutation durability. After using this recipe on an item, you must wait 7 days before the item can be further repaired.\nTraining:\nMakara\n61\nDistill Rare Magical Item (61-90)\n25600\n6400\nLarge Prism\nx1\n(!)\nRare Magic Item (Lvl 61-90)\nx1\nDistill Rare Magical Item (61-90)\nDestroy a Rare (blue-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 61 and 90.)\nTraining:\nSona\n61\nDistill Simple Magical Item (61-90)\n38400\n3200\nLarge Prism\nx1\n(!)\nUncommon Magic Item (Lvl 61-90)\nx1\nDistill Simple Magical Item (61-90)\nDestroy an Uncommon (green-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 61 and 90.)\nTraining:\nSona\n65\nDistill Exceptional Magical Item (61-90)\n38400\n9600\nLarge Prism\nx1\n(!)\nExceptional Magic Item (Lvl 61-90)\nx1\nDistill Exceptional Magical Item (61-90)\nDestroy an Exceptional (red-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 61 and 90.)\nTraining:\nSona\n68\nDistill Epic or Legendary Magical Item (61-90)\n51200\n12800\nLarge Prism\nx1\n(!)\nEpic or Legendary Magic Item (Lvl 61-90)\nx1\nDistill Epic or Legendary Magical Item (61-90)\nDestroy an Epic or Legendary magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 61 and 90.)\nTraining:\nSona\n70\nRepair Transmutation Damage 5\n38400\n9600\nLarge Prism\nx8\nMagic Item\nx1\nRepair Transmutation Damage 5\nUse 8 large prisms to restore 100% of a level 61-90 item's transmutation durability. After using this recipe on an item, you must wait 7 days before the item can be further repaired.\nTraining:\nSona\n70\nRepair Transmutation Damage: Mastercrafted\n38400\n9600\nLarge Prism\nx15\nMagic Item\nx1\nRepair Transmutation Damage: Mastercrafted\nUse 15 large prisms to restore 100% of a Mastercrafted item's transmutation durability. Unlike other transmutation-repair recipes, this technique can be used as often as desired.\nTraining:\nSona\n80\nRepair Transmutation Damage 6\n51200\n12800\nGrand Prism\nx8\nMagic Item\nx1\nRepair Transmutation Damage 6\nUse 8 grand prisms to restore 100% of a level 91-120 item's transmutation durability. After using this recipe on an item, you must wait 7 days before the item can be further repaired.\nTraining:\nDunahain Broadarm\n81\nDistill Rare Magical Item (91-120)\n38400\n9600\nGrand Prism\nx1\n(!)\nRare Magic Item (Lvl 91-120)\nx1\nDistill Rare Magical Item (91-120)\nDestroy a Rare (blue-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 91 and 120.)\nTraining:\nDunahain Broadarm\n81\nDistill Simple Magical Item (91-120)\n57600\n4800\nGrand Prism\nx1\n(!)\nUncommon Magic Item (Lvl 91-120)\nx1\nDistill Simple Magical Item (91-120)\nDestroy an Uncommon (green-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 91 and 120.)\nTraining:\nDunahain Broadarm\n85\nDistill Exceptional Magical Item (91-120)\n57600\n14400\nGrand Prism\nx1\n(!)\nExceptional Magic Item (Lvl 91-120)\nx1\nDistill Exceptional Magical Item (91-120)\nDestroy an Exceptional (red-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 91 and 120.)\nTraining:\nDunahain Broadarm\n88\nDistill Epic or Legendary Magical Item (91-120)\n76800\n19200\nGrand Prism\nx1\n(!)\nEpic or Legendary Magic Item (Lvl 91-120)\nx1\nDistill Epic or Legendary Magical Item (91-120)\nDestroy an Epic or Legendary magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 91 and 120.)\nTraining:\nDunahain Broadarm\n90\nRepair Transmutation Damage (Amulite)\n38400\n9600\nAmulite\nx1\nMagic Item\nx1\nRepair Transmutation Damage (Amulite)\nUse an Amulite to restore 5-15% of an item's transmutation durability.\nItem:\nAmulite\nTransmutation Mechanics\nDistillation\nYou can distill non-white items (anything that has a mod) into phlogiston. Each distillation has a chance to consume a Prism, depending on what tier the distilled equipment is. In order to distill items, right-click the item and select distill [item name].\nThe quantity of phlog given depends on the tier of the item (Uncommon, Rare, Exceptional, Epic, or Legendary...see\nItems\nfor a breakdown). Speaking very broadly, Uncommon gives 2-3 phlog, Rare gives 4-5, Exceptional gives 6-7, Epic gives 8-10, and Legendary gives 12-13.\nThe tier of phlog (Shoddy, Rough, Crude, Decent, or Nice) depends on the level of the item. Generally, the highest level requirement for the item is used. A sword that requires level 55 Sword and level 30 Psychology would distill into Decent Phlogiston. The table below maps level to phlog tier.\nLevel Range\nPhlog Tier\n0-10\nShoddy\n15-25\nRough\n30-40\nCrude\n45-55\nDecent\n60-70\nNice\n75-85\nQuality\n90-?\nGreat\nTransmutation\nTransmuting an item will change a selected mod to a different, randomly chosen, effect. To do this, find a Transmutation table (list of locations below). Interact with the table, drag an item to it, and choose the mod you wish to reroll. You must unequip gear before transmuting it.\nWhen you select a mod to reroll, you will get a prompt telling you how much phlog and durability will be consumed. Rerolling a mod from a normal combat skill costs 35 phlog and 25% durability. The tier of phlog required depends on the tier level that the mod belongs to, see the chart above for the exact ranges. EX: Rerolling a level 55 sword mod will require 35 Decent Phlogiston.\nIf you reroll an Endurance or generic mod, the cost is 20 phlog and 20% durability.\nAll skills have a list of specific mods that are available for each slot (Head, Chest, etc.). The new mod will be chosen from that list, and is guaranteed to NOT be something that is already on the gear. EX: Let's say that there are 10 possible mods for Fire Magic MainHands. Let's say you have 2 Fire Magic mods on your current Staff. If you reroll one of them, there are 8 possible mods it could become.\nDue to the random nature of transmutation, it can be very frustrating or very satisfying. You should be aware that you can roll many, many times without getting the mod you want...that's just how luck works.\nTip: ANY tier of a mod will \"block\" all tiers of that mod from being rerolled. In other words, if you had \"Riposte Damage +11%\" (level 5 mod) on your gear, any rerolls on other mods would never result in any tier of \"Riposte Damage +X%\". This means that you can augment a low-level mod that you do NOT want on your gear to increase your chances of getting the mods you want. Using the example above, say there are 10 possible Fire Magic Staff mods and our gear already has 2 of them. Normally any reroll would be picking from a pool of 8. Instead, before transmuting, say that we augmented a mod that we definitely didn't want the reroll to become. Now you're choosing from a pool of 7. Once you've gotten the mod you want, you simply undo the augment (see\nAugmentation\n). This method is definitely a bit more tedious than just transmuting, but may be worth it in terms of time/gold/phlog/prisms saved. Make\nsure\nthat you do not accidentally transmute the low-level augment, see the Note above.\nDurability\nDurability is consumed every time you transmute an item. Having 0% durability will NOT stop you from being able to wear and use that gear, but you cannot transmute if you don't have the required durability. You can repair an items durability with Transmutation recipes, but each one sets a timer on that piece of equipment. That equipment cannot be repaired again until the timer expires. For the max-level repair skill (repairs 100% durability), the timer is 7 days.\nThe exception to this is the newer Mastercrafted Legendary gear. There is a special high-level Transmutation recipe for those where there is no timer, but it costs 15 prisms to repair the item in this way.\nTheorycrafting\nIf you're trying to transmute gear in search of specific mods, you could probably use a list of possible mods for a particular skillset. You can visit\nGorgon Explorer\nfor a player-run database of every mod (the Mod and Build Planner tabs are particularly useful). Mods are also available on the wiki at <skill name>/Treasure Effects. (Example:\nFire Magic/Treasure Effects\n)\nPhlogiston\nShoddy Phlogiston\nRough Phlogiston\nCrude Phlogiston\nDecent Phlogiston\nNice Phlogiston\nQuality Phlogiston\nGreat Phlogiston\nAmazing Phlogiston\nAstounding Phlogiston\nAwesome Phlogiston\nMagic Table Locations\nSerbule\nLocated in the adjoining room of\nMarna's\nshop.\nEltibule\nLocated in Kalaba's workspace near the tanning rack and forge.\nIlmari\nLocated in\nMakara's\nhouse.\nRahu\nLocated in the city of Rahu, in the building housing the Community Library.\nGazluk\nA transmutation Item Workbench can be found inside the\nNew Prestonbule Cave\n.\nRed Wing Casino\nLocated in\nRagabir\n's shop.\nTransmutation Book\nClick Expand to read the Transmutation book found at Transmutation Tables\n“\nWelcome to Transmutation!\nTransmutation is the process of changing one of the effects, or powers, on a piece of gear into another power. Each transmutation consumes phlogiston and some of the items durability. Phlogiston and durability are determined by individual power levels, item level, and item rarity.\nAttunement\nWhen you transmute an item, that item attunes to you! This means that only you (or other characters on your account) will be able to wield the item, and you won't be able to sell it to vendors anymore.\nPossible Replacements\nWhile you get to cheese which power to replace, you do not get to choose which power will be added in its stead. This new power is selected at random, but some powers have a higher chance of being selected than others. This selection chance is listed alongside each possible replacement power.\nPower Requirements\nEvery power has some requirements associated with it - Skill, Level Range, and Rarity\nSkill\n- A power can only be replaced by another power o the same Skill type. E.G. A Sword power can only be replaced by other Sword powers.\nLevel Range\n- Each power has a level range associated with it. It will only be available to items within that level range. Items outside of that range will often have a scaled version of the same power available to them. E.G. \"Sword Base Damage +10%\" has a level range of 15-40, while \"Sword Base Damage +15%\" has a level range of 30-50.\nRarity\n- Each power has a minimum rarity requirement. This means that power is only available to items of that rarity or higher. E.G. \"Minor Heals restore X Armor\" is a Rare power, so it will never show up for Uncommon items.\nDiscounts\nOccasionally, cost discounts for certain skills will be available. For instance, there may be a 25% discount on all Sword-related powers. These typically accompany skill balance changes.\n— Transmutation Help\nTransmutation Level Up Rewards\nLevel\nReward\n1\nLearn Recipe: Distill Simple Magical Item (0-30)\nTransmutation Experience Table\nClick Expand to view the Experience Table for Transmutation\nLevel\nExperience\nTotal Experience\n1\n50\n50\n2\n100\n150\n3\n100\n250\n4\n100\n350\n5\n100\n450\n6\n200\n650\n7\n200\n850\n8\n200\n1050\n9\n200\n1250\n10\n200\n1450\n11\n300\n1750\n12\n300\n2050\n13\n300\n2350\n14\n300\n2650\n15\n300\n2950\n16\n400\n3350\n17\n400\n3750\n18\n400\n4150\n19\n400\n4550\n20\n400\n4950\n21\n500\n5450\n22\n500\n5950\n23\n500\n6450\n24\n500\n6950\n25\n500\n7450\n26\n600\n8050\n27\n600\n8650\n28\n600\n9250\n29\n600\n9850\n30\n600\n10450\n31\n5600\n16050\n32\n5600\n21650\n33\n5600\n27250\n34\n5600\n32850\n35\n5600\n38450\n36\n6400\n44850\n37\n6400\n51250\n38\n6400\n57650\n39\n6400\n64050\n40\n6400\n70450\n41\n7200\n77650\n42\n7200\n84850\n43\n7200\n92050\n44\n7200\n99250\n45\n7200\n106450\n46\n8000\n114450\n47\n8000\n122450\n48\n8000\n130450\n49\n8000\n138450\n50\n8000\n146450\n51\n12000\n158450\n52\n12000\n170450\n53\n12000\n182450\n54\n12000\n194450\n55\n12000\n206450\n56\n16000\n222450\n57\n16000\n238450\n58\n16000\n254450\n59\n16000\n270450\n60\n16000\n286450\n61\n160000\n446450\n62\n160000\n606450\n63\n160000\n766450\n64\n160000\n926450\n65\n160000\n1086450\n66\n192000\n1278450\n67\n192000\n1470450\n68\n192000\n1662450\n69\n192000\n1854450\n70\n192000\n2046450\n71\n208000\n2254450\n72\n208000\n2462450\n73\n208000\n2670450\n74\n208000\n2878450\n75\n208000\n3086450\n76\n224000\n3310450\n77\n224000\n3534450\n78\n224000\n3758450\n79\n224000\n3982450\n80\n224000\n4206450\n81\n240000\n4446450\n82\n240000\n4686450\n83\n240000\n4926450\n84\n240000\n5166450\n85\n240000\n5406450\n86\n256000\n5662450\n87\n256000\n5918450\n88\n256000\n6174450\n89\n256000\n6430450\n90\n256000\n6686450\n91\n272000\n6958450\n92\n272000\n7230450\n93\n272000\n7502450\n94\n272000\n7774450\n95\n272000\n8046450\n96\n288000\n8334450\n97\n288000\n8622450\n98\n288000\n8910450\n99\n288000\n9198450\n100\n288000\n9486450\nTrivia\nWrite a little about this history of the skill, or things that don't belong in above areas\nGallery\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Transmutation&oldid=140662\n\"\nCategories\n:\nTrade Skills\nSkills",
+  "tables": [
+    [
+      [
+        "Transmutation"
+      ],
+      [
+        ""
+      ],
+      [
+        "Skill Type:",
+        "Trade Skill"
+      ],
+      [
+        "Max Level:",
+        "90"
+      ],
+      [
+        "Requirements:",
+        "None"
+      ],
+      [
+        "Skill Trainers:",
+        "Kalaba,Makara,Sona"
+      ]
+    ],
+    [
+      [
+        "Lvl",
+        "Name",
+        "First-Time XP",
+        "XP",
+        "Ingredients",
+        "Results",
+        "Description",
+        "Source"
+      ],
+      [
+        "1",
+        "Distill Simple Magical Item (0-30)",
+        "200",
+        "50",
+        "Small Prismx1(!)Uncommon Magic Item (Lvl 0-30)x1",
+        "Distill Simple Magical Item (0-30)",
+        "Destroy an Uncommon (green-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 0 and 30.)",
+        "Leveling:Transmutation"
+      ],
+      [
+        "5",
+        "Distill Rare Magical Item (0-30)",
+        "400",
+        "100",
+        "Small Prismx1(!)Rare Magic Item (Lvl 0-30)x1",
+        "Distill Rare Magical Item (0-30)",
+        "Destroy a Rare (blue-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 0 and 30.)",
+        "Training:KalabaTraining:Makara"
+      ],
+      [
+        "10",
+        "Repair Transmutation Damage 1",
+        "200",
+        "50",
+        "Small Prismx4Magic Itemx1",
+        "Repair Transmutation Damage 1",
+        "Use 4 small prisms to restore 30%-60% of a level 0-30 item's transmutation durability. After using this recipe on an item, you must wait 4 days before the item can be further repaired.",
+        "Training:KalabaTraining:Makara"
+      ],
+      [
+        "15",
+        "Repair Transmutation Damage 2",
+        "600",
+        "150",
+        "Small Prismx6Magic Itemx1",
+        "Repair Transmutation Damage 2",
+        "Use 6 small prisms to restore 60%-100% of a level 0-30 item's transmutation durability. After using this recipe on an item, you must wait 6 days before the item can be further repaired.",
+        "Training:KalabaTraining:Makara"
+      ],
+      [
+        "20",
+        "Distill Exceptional or Better Magical Item (0-30)",
+        "1000",
+        "250",
+        "Small Prismx1(!)Exceptional or Better Magic Item (Lvl 0-30)x1",
+        "Distill Exceptional or Better Magical Item (0-30)",
+        "Destroy an Exceptional, Epic, or Legendary magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 0 and 30.)",
+        "Training:KalabaTraining:Makara"
+      ],
+      [
+        "25",
+        "Repair Transmutation Damage 3",
+        "1000",
+        "250",
+        "Small Prismx8Magic Itemx1",
+        "Repair Transmutation Damage 3",
+        "Use 8 small prisms to restore 100% of a level 0-30 item's transmutation durability. After using this recipe on an item, you must wait 7 days before the item can be further repaired.",
+        "Training:Makara"
+      ],
+      [
+        "31",
+        "Distill Rare Magical Item (31-60)",
+        "3200",
+        "800",
+        "Medium Prismx1(!)Rare Magic Item (Lvl 31-60)x1",
+        "Distill Rare Magical Item (31-60)",
+        "Destroy a Rare (blue-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 31 and 60.)",
+        "Training:Makara"
+      ],
+      [
+        "31",
+        "Distill Simple Magical Item (31-60)",
+        "1600",
+        "400",
+        "Medium Prismx1(!)Uncommon Magic Item (Lvl 31-60)x1",
+        "Distill Simple Magical Item (31-60)",
+        "Destroy an Uncommon (green-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 31 and 60.)",
+        "Training:Makara"
+      ],
+      [
+        "35",
+        "Distill Exceptional Magical Item (31-60)",
+        "4800",
+        "1200",
+        "Medium Prismx1(!)Exceptional Magic Item (Lvl 31-60)x1",
+        "Distill Exceptional Magical Item (31-60)",
+        "Destroy an Exceptional (red-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 31 and 60.)",
+        "Training:Makara"
+      ],
+      [
+        "40",
+        "Distill Epic or Legendary Magical Item (31-60)",
+        "6400",
+        "1600",
+        "Medium Prismx1(!)Epic or Legendary Magic Item (Lvl 31-60)x1",
+        "Distill Epic or Legendary Magical Item (31-60)",
+        "Destroy an Epic or Legendary magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 31 and 60.)",
+        "Training:Makara"
+      ],
+      [
+        "40",
+        "Repair Transmutation Damage 4",
+        "4800",
+        "1200",
+        "Medium Prismx8Magic Itemx1",
+        "Repair Transmutation Damage 4",
+        "Use 8 medium prisms to restore 100% of a level 31-60 item's transmutation durability. After using this recipe on an item, you must wait 7 days before the item can be further repaired.",
+        "Training:Makara"
+      ],
+      [
+        "61",
+        "Distill Rare Magical Item (61-90)",
+        "25600",
+        "6400",
+        "Large Prismx1(!)Rare Magic Item (Lvl 61-90)x1",
+        "Distill Rare Magical Item (61-90)",
+        "Destroy a Rare (blue-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 61 and 90.)",
+        "Training:Sona"
+      ],
+      [
+        "61",
+        "Distill Simple Magical Item (61-90)",
+        "38400",
+        "3200",
+        "Large Prismx1(!)Uncommon Magic Item (Lvl 61-90)x1",
+        "Distill Simple Magical Item (61-90)",
+        "Destroy an Uncommon (green-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 61 and 90.)",
+        "Training:Sona"
+      ],
+      [
+        "65",
+        "Distill Exceptional Magical Item (61-90)",
+        "38400",
+        "9600",
+        "Large Prismx1(!)Exceptional Magic Item (Lvl 61-90)x1",
+        "Distill Exceptional Magical Item (61-90)",
+        "Destroy an Exceptional (red-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 61 and 90.)",
+        "Training:Sona"
+      ],
+      [
+        "68",
+        "Distill Epic or Legendary Magical Item (61-90)",
+        "51200",
+        "12800",
+        "Large Prismx1(!)Epic or Legendary Magic Item (Lvl 61-90)x1",
+        "Distill Epic or Legendary Magical Item (61-90)",
+        "Destroy an Epic or Legendary magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 61 and 90.)",
+        "Training:Sona"
+      ],
+      [
+        "70",
+        "Repair Transmutation Damage 5",
+        "38400",
+        "9600",
+        "Large Prismx8Magic Itemx1",
+        "Repair Transmutation Damage 5",
+        "Use 8 large prisms to restore 100% of a level 61-90 item's transmutation durability. After using this recipe on an item, you must wait 7 days before the item can be further repaired.",
+        "Training:Sona"
+      ],
+      [
+        "70",
+        "Repair Transmutation Damage: Mastercrafted",
+        "38400",
+        "9600",
+        "Large Prismx15Magic Itemx1",
+        "Repair Transmutation Damage: Mastercrafted",
+        "Use 15 large prisms to restore 100% of a Mastercrafted item's transmutation durability. Unlike other transmutation-repair recipes, this technique can be used as often as desired.",
+        "Training:Sona"
+      ],
+      [
+        "80",
+        "Repair Transmutation Damage 6",
+        "51200",
+        "12800",
+        "Grand Prismx8Magic Itemx1",
+        "Repair Transmutation Damage 6",
+        "Use 8 grand prisms to restore 100% of a level 91-120 item's transmutation durability. After using this recipe on an item, you must wait 7 days before the item can be further repaired.",
+        "Training:Dunahain Broadarm"
+      ],
+      [
+        "81",
+        "Distill Rare Magical Item (91-120)",
+        "38400",
+        "9600",
+        "Grand Prismx1(!)Rare Magic Item (Lvl 91-120)x1",
+        "Distill Rare Magical Item (91-120)",
+        "Destroy a Rare (blue-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 91 and 120.)",
+        "Training:Dunahain Broadarm"
+      ],
+      [
+        "81",
+        "Distill Simple Magical Item (91-120)",
+        "57600",
+        "4800",
+        "Grand Prismx1(!)Uncommon Magic Item (Lvl 91-120)x1",
+        "Distill Simple Magical Item (91-120)",
+        "Destroy an Uncommon (green-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 91 and 120.)",
+        "Training:Dunahain Broadarm"
+      ],
+      [
+        "85",
+        "Distill Exceptional Magical Item (91-120)",
+        "57600",
+        "14400",
+        "Grand Prismx1(!)Exceptional Magic Item (Lvl 91-120)x1",
+        "Distill Exceptional Magical Item (91-120)",
+        "Destroy an Exceptional (red-labeled) magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 91 and 120.)",
+        "Training:Dunahain Broadarm"
+      ],
+      [
+        "88",
+        "Distill Epic or Legendary Magical Item (91-120)",
+        "76800",
+        "19200",
+        "Grand Prismx1(!)Epic or Legendary Magic Item (Lvl 91-120)x1",
+        "Distill Epic or Legendary Magical Item (91-120)",
+        "Destroy an Epic or Legendary magic item and extract phlogiston. (The item must have an enchantment with a level requirement between 91 and 120.)",
+        "Training:Dunahain Broadarm"
+      ],
+      [
+        "90",
+        "Repair Transmutation Damage (Amulite)",
+        "38400",
+        "9600",
+        "Amulitex1Magic Itemx1",
+        "Repair Transmutation Damage (Amulite)",
+        "Use an Amulite to restore 5-15% of an item's transmutation durability.",
+        "Item:Amulite"
+      ]
+    ],
+    [
+      [
+        "Level Range",
+        "Phlog Tier"
+      ],
+      [
+        "0-10",
+        "Shoddy"
+      ],
+      [
+        "15-25",
+        "Rough"
+      ],
+      [
+        "30-40",
+        "Crude"
+      ],
+      [
+        "45-55",
+        "Decent"
+      ],
+      [
+        "60-70",
+        "Nice"
+      ],
+      [
+        "75-85",
+        "Quality"
+      ],
+      [
+        "90-?",
+        "Great"
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Reward"
+      ],
+      [
+        "1",
+        "Learn Recipe: Distill Simple Magical Item (0-30)"
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Experience",
+        "Total Experience"
+      ],
+      [
+        "1",
+        "50",
+        "50"
+      ],
+      [
+        "2",
+        "100",
+        "150"
+      ],
+      [
+        "3",
+        "100",
+        "250"
+      ],
+      [
+        "4",
+        "100",
+        "350"
+      ],
+      [
+        "5",
+        "100",
+        "450"
+      ],
+      [
+        "6",
+        "200",
+        "650"
+      ],
+      [
+        "7",
+        "200",
+        "850"
+      ],
+      [
+        "8",
+        "200",
+        "1050"
+      ],
+      [
+        "9",
+        "200",
+        "1250"
+      ],
+      [
+        "10",
+        "200",
+        "1450"
+      ],
+      [
+        "11",
+        "300",
+        "1750"
+      ],
+      [
+        "12",
+        "300",
+        "2050"
+      ],
+      [
+        "13",
+        "300",
+        "2350"
+      ],
+      [
+        "14",
+        "300",
+        "2650"
+      ],
+      [
+        "15",
+        "300",
+        "2950"
+      ],
+      [
+        "16",
+        "400",
+        "3350"
+      ],
+      [
+        "17",
+        "400",
+        "3750"
+      ],
+      [
+        "18",
+        "400",
+        "4150"
+      ],
+      [
+        "19",
+        "400",
+        "4550"
+      ],
+      [
+        "20",
+        "400",
+        "4950"
+      ],
+      [
+        "21",
+        "500",
+        "5450"
+      ],
+      [
+        "22",
+        "500",
+        "5950"
+      ],
+      [
+        "23",
+        "500",
+        "6450"
+      ],
+      [
+        "24",
+        "500",
+        "6950"
+      ],
+      [
+        "25",
+        "500",
+        "7450"
+      ],
+      [
+        "26",
+        "600",
+        "8050"
+      ],
+      [
+        "27",
+        "600",
+        "8650"
+      ],
+      [
+        "28",
+        "600",
+        "9250"
+      ],
+      [
+        "29",
+        "600",
+        "9850"
+      ],
+      [
+        "30",
+        "600",
+        "10450"
+      ],
+      [
+        "31",
+        "5600",
+        "16050"
+      ],
+      [
+        "32",
+        "5600",
+        "21650"
+      ],
+      [
+        "33",
+        "5600",
+        "27250"
+      ],
+      [
+        "34",
+        "5600",
+        "32850"
+      ],
+      [
+        "35",
+        "5600",
+        "38450"
+      ],
+      [
+        "36",
+        "6400",
+        "44850"
+      ],
+      [
+        "37",
+        "6400",
+        "51250"
+      ],
+      [
+        "38",
+        "6400",
+        "57650"
+      ],
+      [
+        "39",
+        "6400",
+        "64050"
+      ],
+      [
+        "40",
+        "6400",
+        "70450"
+      ],
+      [
+        "41",
+        "7200",
+        "77650"
+      ],
+      [
+        "42",
+        "7200",
+        "84850"
+      ],
+      [
+        "43",
+        "7200",
+        "92050"
+      ],
+      [
+        "44",
+        "7200",
+        "99250"
+      ],
+      [
+        "45",
+        "7200",
+        "106450"
+      ],
+      [
+        "46",
+        "8000",
+        "114450"
+      ],
+      [
+        "47",
+        "8000",
+        "122450"
+      ],
+      [
+        "48",
+        "8000",
+        "130450"
+      ],
+      [
+        "49",
+        "8000",
+        "138450"
+      ],
+      [
+        "50",
+        "8000",
+        "146450"
+      ],
+      [
+        "51",
+        "12000",
+        "158450"
+      ],
+      [
+        "52",
+        "12000",
+        "170450"
+      ],
+      [
+        "53",
+        "12000",
+        "182450"
+      ],
+      [
+        "54",
+        "12000",
+        "194450"
+      ],
+      [
+        "55",
+        "12000",
+        "206450"
+      ],
+      [
+        "56",
+        "16000",
+        "222450"
+      ],
+      [
+        "57",
+        "16000",
+        "238450"
+      ],
+      [
+        "58",
+        "16000",
+        "254450"
+      ],
+      [
+        "59",
+        "16000",
+        "270450"
+      ],
+      [
+        "60",
+        "16000",
+        "286450"
+      ],
+      [
+        "61",
+        "160000",
+        "446450"
+      ],
+      [
+        "62",
+        "160000",
+        "606450"
+      ],
+      [
+        "63",
+        "160000",
+        "766450"
+      ],
+      [
+        "64",
+        "160000",
+        "926450"
+      ],
+      [
+        "65",
+        "160000",
+        "1086450"
+      ],
+      [
+        "66",
+        "192000",
+        "1278450"
+      ],
+      [
+        "67",
+        "192000",
+        "1470450"
+      ],
+      [
+        "68",
+        "192000",
+        "1662450"
+      ],
+      [
+        "69",
+        "192000",
+        "1854450"
+      ],
+      [
+        "70",
+        "192000",
+        "2046450"
+      ],
+      [
+        "71",
+        "208000",
+        "2254450"
+      ],
+      [
+        "72",
+        "208000",
+        "2462450"
+      ],
+      [
+        "73",
+        "208000",
+        "2670450"
+      ],
+      [
+        "74",
+        "208000",
+        "2878450"
+      ],
+      [
+        "75",
+        "208000",
+        "3086450"
+      ],
+      [
+        "76",
+        "224000",
+        "3310450"
+      ],
+      [
+        "77",
+        "224000",
+        "3534450"
+      ],
+      [
+        "78",
+        "224000",
+        "3758450"
+      ],
+      [
+        "79",
+        "224000",
+        "3982450"
+      ],
+      [
+        "80",
+        "224000",
+        "4206450"
+      ],
+      [
+        "81",
+        "240000",
+        "4446450"
+      ],
+      [
+        "82",
+        "240000",
+        "4686450"
+      ],
+      [
+        "83",
+        "240000",
+        "4926450"
+      ],
+      [
+        "84",
+        "240000",
+        "5166450"
+      ],
+      [
+        "85",
+        "240000",
+        "5406450"
+      ],
+      [
+        "86",
+        "256000",
+        "5662450"
+      ],
+      [
+        "87",
+        "256000",
+        "5918450"
+      ],
+      [
+        "88",
+        "256000",
+        "6174450"
+      ],
+      [
+        "89",
+        "256000",
+        "6430450"
+      ],
+      [
+        "90",
+        "256000",
+        "6686450"
+      ],
+      [
+        "91",
+        "272000",
+        "6958450"
+      ],
+      [
+        "92",
+        "272000",
+        "7230450"
+      ],
+      [
+        "93",
+        "272000",
+        "7502450"
+      ],
+      [
+        "94",
+        "272000",
+        "7774450"
+      ],
+      [
+        "95",
+        "272000",
+        "8046450"
+      ],
+      [
+        "96",
+        "288000",
+        "8334450"
+      ],
+      [
+        "97",
+        "288000",
+        "8622450"
+      ],
+      [
+        "98",
+        "288000",
+        "8910450"
+      ],
+      [
+        "99",
+        "288000",
+        "9198450"
+      ],
+      [
+        "100",
+        "288000",
+        "9486450"
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "KalabainEltibuleteachesTransmutationafter starting a conversation. Basic recipes are learned through the questPhlogiston Basics.",
+      "MakarainIlmariteachesTransmutationrecipes for rarer equipment, she also teaches basic recipes to characters who could not learn them from Kalaba.",
+      "SonainNew Prestonbule Cavecan raise the level cap ofTransmutationfrom 51-60 and 61-70.",
+      "Levels 71-80 and 81-90 are unlocked byDunahain Broadarmdeep beneathPovus."
+    ],
+    [
+      "None"
+    ],
+    [
+      "None"
+    ],
+    [
+      "Augmentation- Augmentation is the other primary way for players to upgrade their gear."
+    ],
+    [
+      "Skill- A power can only be replaced by another power o the same Skill type. E.G. A Sword power can only be replaced by other Sword powers.",
+      "Level Range- Each power has a level range associated with it. It will only be available to items within that level range. Items outside of that range will often have a scaled version of the same power available to them. E.G. \"Sword Base Damage +10%\" has a level range of 15-40, while \"Sword Base Damage +15%\" has a level range of 30-50.",
+      "Rarity- Each power has a minimum rarity requirement. This means that power is only available to items of that rarity or higher. E.G. \"Minor Heals restore X Armor\" is a Rare power, so it will never show up for Uncommon items."
+    ],
+    [
+      "Trade Skills",
+      "Skills"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "Kalaba",
+      "href": "/wiki/Kalaba"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Sona",
+      "href": "/wiki/Sona"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "mod",
+      "href": "/wiki/Treasure_Effects"
+    },
+    {
+      "text": "Kalaba",
+      "href": "/wiki/Kalaba"
+    },
+    {
+      "text": "Eltibule",
+      "href": "/wiki/Eltibule"
+    },
+    {
+      "text": "Phlogiston Basics",
+      "href": "/wiki/Phlogiston_Basics"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Ilmari",
+      "href": "/wiki/Ilmari"
+    },
+    {
+      "text": "Sona",
+      "href": "/wiki/Sona"
+    },
+    {
+      "text": "New Prestonbule Cave",
+      "href": "/wiki/New_Prestonbule_Cave"
+    },
+    {
+      "text": "Dunahain Broadarm",
+      "href": "/wiki/Dunahain_Broadarm"
+    },
+    {
+      "text": "Povus",
+      "href": "/wiki/Povus"
+    },
+    {
+      "text": "Augmentation",
+      "href": "/wiki/Augmentation"
+    },
+    {
+      "text": "Transmutation Complete Recipe List",
+      "href": "/wiki/Transmutation/Recipes"
+    },
+    {
+      "text": "Small Prism",
+      "href": "/wiki/Small_Prism"
+    },
+    {
+      "text": "Uncommon Magic Item (Lvl 0-30)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Small Prism",
+      "href": "/wiki/Small_Prism"
+    },
+    {
+      "text": "Rare Magic Item (Lvl 0-30)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Kalaba",
+      "href": "/wiki/Kalaba"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Small Prism",
+      "href": "/wiki/Small_Prism"
+    },
+    {
+      "text": "Magic Item",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Kalaba",
+      "href": "/wiki/Kalaba"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Small Prism",
+      "href": "/wiki/Small_Prism"
+    },
+    {
+      "text": "Magic Item",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Kalaba",
+      "href": "/wiki/Kalaba"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Small Prism",
+      "href": "/wiki/Small_Prism"
+    },
+    {
+      "text": "Exceptional or Better Magic Item (Lvl 0-30)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Kalaba",
+      "href": "/wiki/Kalaba"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Small Prism",
+      "href": "/wiki/Small_Prism"
+    },
+    {
+      "text": "Magic Item",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Medium Prism",
+      "href": "/wiki/Medium_Prism"
+    },
+    {
+      "text": "Rare Magic Item (Lvl 31-60)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Medium Prism",
+      "href": "/wiki/Medium_Prism"
+    },
+    {
+      "text": "Uncommon Magic Item (Lvl 31-60)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Medium Prism",
+      "href": "/wiki/Medium_Prism"
+    },
+    {
+      "text": "Exceptional Magic Item (Lvl 31-60)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Medium Prism",
+      "href": "/wiki/Medium_Prism"
+    },
+    {
+      "text": "Epic or Legendary Magic Item (Lvl 31-60)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Medium Prism",
+      "href": "/wiki/Medium_Prism"
+    },
+    {
+      "text": "Magic Item",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Makara",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Large Prism",
+      "href": "/wiki/Large_Prism"
+    },
+    {
+      "text": "Rare Magic Item (Lvl 61-90)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Sona",
+      "href": "/wiki/Sona"
+    },
+    {
+      "text": "Large Prism",
+      "href": "/wiki/Large_Prism"
+    },
+    {
+      "text": "Uncommon Magic Item (Lvl 61-90)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Sona",
+      "href": "/wiki/Sona"
+    },
+    {
+      "text": "Large Prism",
+      "href": "/wiki/Large_Prism"
+    },
+    {
+      "text": "Exceptional Magic Item (Lvl 61-90)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Sona",
+      "href": "/wiki/Sona"
+    },
+    {
+      "text": "Large Prism",
+      "href": "/wiki/Large_Prism"
+    },
+    {
+      "text": "Epic or Legendary Magic Item (Lvl 61-90)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Sona",
+      "href": "/wiki/Sona"
+    },
+    {
+      "text": "Large Prism",
+      "href": "/wiki/Large_Prism"
+    },
+    {
+      "text": "Magic Item",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Sona",
+      "href": "/wiki/Sona"
+    },
+    {
+      "text": "Large Prism",
+      "href": "/wiki/Large_Prism"
+    },
+    {
+      "text": "Magic Item",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Sona",
+      "href": "/wiki/Sona"
+    },
+    {
+      "text": "Grand Prism",
+      "href": "/wiki/Grand_Prism"
+    },
+    {
+      "text": "Magic Item",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Dunahain Broadarm",
+      "href": "/wiki/Dunahain_Broadarm"
+    },
+    {
+      "text": "Grand Prism",
+      "href": "/wiki/Grand_Prism"
+    },
+    {
+      "text": "Rare Magic Item (Lvl 91-120)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Dunahain Broadarm",
+      "href": "/wiki/Dunahain_Broadarm"
+    },
+    {
+      "text": "Grand Prism",
+      "href": "/wiki/Grand_Prism"
+    },
+    {
+      "text": "Uncommon Magic Item (Lvl 91-120)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Dunahain Broadarm",
+      "href": "/wiki/Dunahain_Broadarm"
+    },
+    {
+      "text": "Grand Prism",
+      "href": "/wiki/Grand_Prism"
+    },
+    {
+      "text": "Exceptional Magic Item (Lvl 91-120)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Dunahain Broadarm",
+      "href": "/wiki/Dunahain_Broadarm"
+    },
+    {
+      "text": "Grand Prism",
+      "href": "/wiki/Grand_Prism"
+    },
+    {
+      "text": "Epic or Legendary Magic Item (Lvl 91-120)",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Dunahain Broadarm",
+      "href": "/wiki/Dunahain_Broadarm"
+    },
+    {
+      "text": "Amulite",
+      "href": "/wiki/Amulite"
+    },
+    {
+      "text": "Magic Item",
+      "href": "/wiki/Category:Items/Equipment"
+    },
+    {
+      "text": "Amulite",
+      "href": "/wiki/Amulite"
+    },
+    {
+      "text": "Items",
+      "href": "/wiki/Items"
+    },
+    {
+      "text": "Augmentation",
+      "href": "/wiki/Augmentation"
+    },
+    {
+      "text": "Gorgon Explorer",
+      "href": "http://www.gorgonexplorer.com"
+    },
+    {
+      "text": "Fire Magic/Treasure Effects",
+      "href": "/wiki/Fire_Magic/Treasure_Effects"
+    },
+    {
+      "text": "Shoddy Phlogiston",
+      "href": "/wiki/Shoddy_Phlogiston"
+    },
+    {
+      "text": "Rough Phlogiston",
+      "href": "/wiki/Rough_Phlogiston"
+    },
+    {
+      "text": "Crude Phlogiston",
+      "href": "/wiki/Crude_Phlogiston"
+    },
+    {
+      "text": "Decent Phlogiston",
+      "href": "/wiki/Decent_Phlogiston"
+    },
+    {
+      "text": "Nice Phlogiston",
+      "href": "/wiki/Nice_Phlogiston"
+    },
+    {
+      "text": "Quality Phlogiston",
+      "href": "/wiki/Quality_Phlogiston"
+    },
+    {
+      "text": "Great Phlogiston",
+      "href": "/wiki/Great_Phlogiston"
+    },
+    {
+      "text": "Amazing Phlogiston",
+      "href": "/wiki/Amazing_Phlogiston"
+    },
+    {
+      "text": "Astounding Phlogiston",
+      "href": "/wiki/Astounding_Phlogiston"
+    },
+    {
+      "text": "Awesome Phlogiston",
+      "href": "/wiki/Awesome_Phlogiston"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Marna's",
+      "href": "/wiki/Marna"
+    },
+    {
+      "text": "Eltibule",
+      "href": "/wiki/Eltibule"
+    },
+    {
+      "text": "Ilmari",
+      "href": "/wiki/Ilmari"
+    },
+    {
+      "text": "Makara's",
+      "href": "/wiki/Makara"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "New Prestonbule Cave",
+      "href": "/wiki/New_Prestonbule_Cave"
+    },
+    {
+      "text": "Red Wing Casino",
+      "href": "/wiki/Red_Wing_Casino"
+    },
+    {
+      "text": "Ragabir",
+      "href": "/wiki/Ragabir"
+    },
+    {
+      "text": "Transmutation Level Up Rewards",
+      "href": "/wiki/Transmutation/Level_Up_Rewards"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Transmutation&oldid=140662",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Transmutation&oldid=140662"
+    },
+    {
+      "text": "Categories",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Trade Skills",
+      "href": "/wiki/Category:Trade_Skills"
+    },
+    {
+      "text": "Skills",
+      "href": "/wiki/Category:Skills"
+    }
+  ],
+  "images": [
+    {
+      "src": "/w/images/thumb/4/4b/Button_Cyan.png/300px-Button_Cyan.png",
+      "alt": "Button Cyan.png"
+    },
+    {
+      "src": "/w/images/thumb/6/6f/Table.PNG/400px-Table.PNG",
+      "alt": "Table.PNG"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5814.png",
+      "alt": "icon_5814.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5814.png",
+      "alt": "icon_5814.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5814.png",
+      "alt": "icon_5814.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5814.png",
+      "alt": "icon_5814.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5814.png",
+      "alt": "icon_5814.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5814.png",
+      "alt": "icon_5814.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5815.png",
+      "alt": "icon_5815.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5815.png",
+      "alt": "icon_5815.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5815.png",
+      "alt": "icon_5815.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5815.png",
+      "alt": "icon_5815.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5815.png",
+      "alt": "icon_5815.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5511.png",
+      "alt": "icon_5511.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5511.png",
+      "alt": "icon_5511.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5511.png",
+      "alt": "icon_5511.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5511.png",
+      "alt": "icon_5511.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5511.png",
+      "alt": "icon_5511.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5511.png",
+      "alt": "icon_5511.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5068.png",
+      "alt": "icon_5068.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5068.png",
+      "alt": "icon_5068.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5068.png",
+      "alt": "icon_5068.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5068.png",
+      "alt": "icon_5068.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5068.png",
+      "alt": "icon_5068.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6566.png",
+      "alt": "icon_6566.png"
+    },
+    {
+      "src": "/w/images/e/ea/Item-icon-none.png",
+      "alt": "Item-icon-none.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5502.png",
+      "alt": "icon_5502.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5501.png",
+      "alt": "icon_5501.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5504.png",
+      "alt": "icon_5504.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5503.png",
+      "alt": "icon_5503.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5510.png",
+      "alt": "icon_5510.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5505.png",
+      "alt": "icon_5505.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5508.png",
+      "alt": "icon_5508.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5507.png",
+      "alt": "icon_5507.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5506.png",
+      "alt": "icon_5506.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5509.png",
+      "alt": "icon_5509.png"
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

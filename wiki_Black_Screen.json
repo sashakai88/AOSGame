@@ -1,0 +1,128 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Black_Screen",
+  "title": "Black Screen - Project: Gorgon Wiki",
+  "main_content": "Black Screen\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nContents\n1\nBlack Screen Fix\n1.1\nLaunch game\n1.2\nGo to settings\n1.3\nClick on Special type in \"MacHack\"\n1.4\nPlay game!\n2\nOther Known Black Screen Causes\n2.1\nOpen the settings folder\n2.2\nBackup the settings file\n2.3\nRelaunch the game\n3\nJoin the Discord for other problems\nBlack Screen Fix\n“\nWe are optimistic that this update will fix the problem that some users on new-silicon Macs experience, the issue that requires typing in \"MacHack\" in the special settings to work around it. (\"MacHack\" also turns off most of the sky graphics, so that was always intended to be a temporary fix.)\n— Game Update 11/15/2022\nThere is a driver conflict on some Mac computers that causes the game to have a completely black screen.  In game there is a work around to fix this until this issue is resolved.  This will turn off portions of the graphics engine that cause the error.  If your game looks like this.  Follow the below steps.\nLaunch game\nLaunch Project Gorgon and login in completely to a character.\nLaunch game\nLog In!\nSelect Character\nEnter World\nGo to settings\nHit Escape - or click on the gear on the sidebar to open up the system menu.  Click on Settings.\nClick on Special type in \"MacHack\"\nIn the Special Settings box type in \"MacHack\" and then click Save.\nPlay game!\nMost people report they do not need to relaunch the game, but if you have entered everything as above and it has not fixed your problem start by completely exiting the game and logging back in.\nOther Known Black Screen Causes\nOne other problem is know to cause the Black screen, it is caused by loading an out of date configuration file.  This black screen will not even allow you to see the login button on the intro screen.  If your screen looks like this.  Follow the steps below.\nOpen the settings folder\nIn your windows explorer bar type in.  (Or copy paste)\n\"%userprofile%\\AppData\\LocalLow\\Elder Game\\Project Gorgon\"\nBackup the settings file\nMake sure you have exited Project Gorgon and are in the above folder.\nThe folder will look something like.\nThe file you should move/rename is \"GorgonSettings.txt\" rename it to something like \"GorgonSettingsOld.txt\"\n(If your folder just shows \"GorgonSettings\" this is the same file, you just have extensions hidden)\nRelaunch the game\nWhen you launch the game again it will rebuild your settings back to default, and you should now be able to play the game.\nJoin the Discord for other problems\nIf you have additional problems the discord is active, and you may visit the #help channel for further assistance.\nhttps://discord.gg/projectgorgon\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Black_Screen&oldid=137864\n\"\nCategory\n:\nMechanics",
+  "tables": [],
+  "lists": [
+    [
+      "1Black Screen Fix1.1Launch game1.2Go to settings1.3Click on Special type in \"MacHack\"1.4Play game!",
+      "2Other Known Black Screen Causes2.1Open the settings folder2.2Backup the settings file2.3Relaunch the game",
+      "3Join the Discord for other problems"
+    ],
+    [
+      "1.1Launch game",
+      "1.2Go to settings",
+      "1.3Click on Special type in \"MacHack\"",
+      "1.4Play game!"
+    ],
+    [
+      "2.1Open the settings folder",
+      "2.2Backup the settings file",
+      "2.3Relaunch the game"
+    ],
+    [
+      "Launch game",
+      "Log In!",
+      "Select Character",
+      "Enter World"
+    ],
+    [
+      "Mechanics"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "1Black Screen Fix",
+      "href": "#Black_Screen_Fix"
+    },
+    {
+      "text": "1.1Launch game",
+      "href": "#Launch_game"
+    },
+    {
+      "text": "1.2Go to settings",
+      "href": "#Go_to_settings"
+    },
+    {
+      "text": "1.3Click on Special type in \"MacHack\"",
+      "href": "#Click_on_Special_type_in_.22MacHack.22"
+    },
+    {
+      "text": "1.4Play game!",
+      "href": "#Play_game.21"
+    },
+    {
+      "text": "2Other Known Black Screen Causes",
+      "href": "#Other_Known_Black_Screen_Causes"
+    },
+    {
+      "text": "2.1Open the settings folder",
+      "href": "#Open_the_settings_folder"
+    },
+    {
+      "text": "2.2Backup the settings file",
+      "href": "#Backup_the_settings_file"
+    },
+    {
+      "text": "2.3Relaunch the game",
+      "href": "#Relaunch_the_game"
+    },
+    {
+      "text": "3Join the Discord for other problems",
+      "href": "#Join_the_Discord_for_other_problems"
+    },
+    {
+      "text": "https://discord.gg/projectgorgon",
+      "href": "https://discord.gg/projectgorgon"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Black_Screen&oldid=137864",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Black_Screen&oldid=137864"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Mechanics",
+      "href": "/wiki/Category:Mechanics"
+    }
+  ],
+  "images": [
+    {
+      "src": "/w/images/thumb/8/85/Black_screen_mac.jpg/400px-Black_screen_mac.jpg",
+      "alt": "Black screen mac.jpg"
+    },
+    {
+      "src": "/w/images/0/0b/Fullscreen_Windowed_Step4.jpg",
+      "alt": "Fullscreen Windowed Step4.jpg"
+    },
+    {
+      "src": "/w/images/c/c9/Machack_special_settings.jpg",
+      "alt": "Machack special settings.jpg"
+    },
+    {
+      "src": "/w/images/b/bb/Blackscreen_login.jpg",
+      "alt": "Blackscreen login.jpg"
+    },
+    {
+      "src": "/w/images/5/57/Blackscreen_exlorer_bar.jpg",
+      "alt": "Blackscreen exlorer bar.jpg"
+    },
+    {
+      "src": "/w/images/d/dd/Blackscreen_settings_file.jpg",
+      "alt": "Blackscreen settings file.jpg"
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

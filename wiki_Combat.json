@@ -1,0 +1,205 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Combat",
+  "title": "Combat - Project: Gorgon Wiki",
+  "main_content": "Combat\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nContents\n1\nArmor, Health and Power\n1.1\nArmor\n1.2\nHealth\n1.3\nPower\n2\nDamage\n2.1\nEffect of equipment\n2.2\nCritical damage\n3\nRegeneration in and out of combat\n3.1\nFoods\n3.2\nBuffs\n4\nRage and special attacks\n5\nMovement and kiting\n6\nVulnerability\n7\nLooting enemies!\n8\nAbility Tags\nThis page is meant to be an introduction to combat mechanics in Project: Gorgon.\nArmor, Health and Power\nArmor, Health and Power bars as of the alpha build\nArmor\nArmor\nmitigates 1 point of damage for every 25 points of armor remaining.\nHealth\nHealth\ncan be topped up with Potions during combat.\nCombat abilities also can heal over time (see\nMentalism\n) or heal by a flat amount.\nPower\nPower\nis consumed by using abilities that have a Power cost (most skills include emergency abilities that have no Power requirement, typically with a longer cooldown). The amount of Power available and your ability to recover Power between encounters is significant if you hope to take on more than one enemy at once, or even solo dungeons.\nPower can be topped up with potions, which is relatively useful in some situations. The basic ability\nDig Deep\n, which can be placed on the sidebar, can also be used to restore Power (albeit with a long reuse time). Lastly Power regeneration can be enhanced in combat through Mentalism abilities.\nDamage\nDamage\nand\nHealth damage\nare not the same.\nHealth damage\nbypasses armor.\nEffect of equipment\nSoon enough you'll find that equipment has a significant impact on your total damage output and survivability. This seems obvious for an MMO but in Project: Gorgon equipment with bonuses that augment specific abilities is very common. For example \"every time you use your Sword Parry ability, regain 10 Health\". This type of ability enhancing mods would be found in raid gear in other MMOs.\nYou character becomes much more powerful once you have multiple pieces of equipment (weapons, armor, amulet) that enhance your choice of skills along with useful ability enhancing mods. Thus\ncommitting to your skill choices\nis important. While you can easily switch between skills, you'll find that even skills of the same level can vary greatly in damage potential unless you also switch your equipment.\nCritical damage\nItems sometimes have +xx% to Critical Damage. The default critical damage (not crit. chance) seems to be 125%.\nCritical Damage gear is quite uncommon. Archery gear seems to get more of it.\nRegeneration in and out of combat\nSweet, sweet regeneration food.\nSitting does not accelerate your out-of-combat regeneration unlike in some veteran MMOs. You'll want to find various foods, drinks and snacks to top up your Health and Power between fights.\nRegeneration appears to \"tick\" once every four seconds (so if a food says \"+5 Health per update\" it means +5 Health every 4 seconds).\nSome combat skills such as\nMentalism\nalso provide Health, Power and Armor regeneration. Some of the abilities are group-oriented, other abilities are self-help (for example\nPositive Attitude\nwill quickly restore a small amount of Armor, Health and Power).\nIn-combat regeneration from foods or drinks is a rarer commodity. There are in-combat Power or Health regeneration potions that can be bought from NPCs or crafted. They tend to be very pricey, and of course have a fairly limited duration.\nIf you \"mezz\" a creature for long enough (eg.\nTell Me About Your Mother\n), the \"In combat\" indicator will disappear and one update of out of combat regeneration will happen, even though the creature is still aggressive.\nFoods\nMost types of\nregenerative foods and drinks\nare crafted or bought. Exceptions are the\nMild Cheddar Cheese\nwhich drops from Giant Rat, and Milk which can be obtained from the Cows in Serbule with an empty bottle. These are non-negligible sources of Power regeneration which can be very helpful to new players.\nBuffs\nTypically one food or drink can stack with one snack and one flower. However this is still very much in development. It seems that foods provide Health and Power, while drinks provide only Power. Both can be stacked. Flowers provide a max power bonus (right-click them).\nFor people specialised in\nSword\ncombat, the\nCalligraphy\nskill offers a temporary effects that allows for special combinations. Similarly the\nMeditation\nskill offers temporary effects for people specialised in\nUnarmed\ncombat.\nRage and special attacks\nThis goblin is in\nvulnerable\nstate as indicated by the overhead icon.\nRage\nis the energy source that powers monsters’ special attacks. As you hit monsters or they hit you, they gather Rage, and when their meter is full (an orange looking hand), they user their super power.\nMany player skills, like\nSword\nand\nPsychology\n, have abilities that hamper monster Rage. For example\nPsychoanalyse\nwill slow down the rate at which the enemy builds rage, while\nSword Parry\nwill reduce the enemy's rage by a flat amount.\nAn enemy's special attacks will be revealed to the player in the target window when the relevant\nAnatomy\nskill is of sufficient level (ie. by fighting this type of creature long enough).\nYou can tell when an enemy uses a special attack by the overhead icon.\n“\nI’m leaving the Rage system alone for now, until we have more players grouping up. Looking at the stats for small group combat, it looks like groups use rage-depletion a little more often. So it may be that I can tailor Rage to be a more compelling group-combat mechanic, where one person in the group has the “rage-keeper” role. That could be interesting.\n—\nDeveloper blog\nMay 13, 2014\nMovement and kiting\nIn a game like this, where you can find all kinds of clever ways to stack speed buffs, it’s possible to run extremely fast. This is a problem in a combat, where the players can be much more mobile than the monsters.\nOne way the game currently addresses this is that you can not “sprint” backwards, just walk backwards. So if you want to get away quickly, you have to turn around.\n“\nBut that change by itself doesn’t solve anything, because the game doesn’t force you to face your target to attack things right now. This means you can turn away from the monster, run down the hall at high speed, and keep shooting arrows — the arrows would go through your head and hit the monster behind you. This is silly and bizarre.\n—\nDeveloper blog\nMay 13, 2014\nKiting is something the devs want to address eventually, although it is intended to allow some amount of kiting — \"archers should be able to move and get a few extra attacks in\".\nVulnerability\nMonsters periodically go into this vulnerable state, and some attacks do extra damage against vulnerable monsters, so it’s sort of a whack-a-mole mechanic — you use your vuln-boost ability when you see the monster flashing vulnerable.\nA big red glowing thing happens when the monster is vulnerable, plus it makes a sound.\nAn icon flashes over the monster’s head when they’re vulnerable, and\nAnagoge\nIsland has an explanatory tip about this (when you get your first Sword ability that does extra vulnerable damage).\nLooting enemies!\nLoot appears at the top of the loot window and can be picked up via either double-clicking the icon, or by using the Loot All button. Not all creatures will have loot.\nIf you have the right equipment, you may also have the option to perform an autopsy, skin, butcher, extract a skull, and bury the creature. Some creatures can be skinned but not butchered, and vice versa. To have a chance (20%) of extracting an organ, you will need an Organ Knife.\nNote that to skin or butcher an animal, you will need to have a free inventory space, even if the yielded item is stackable and already present in your inventory.\nAlso note that the butchering knife and skinning knife are distinct items, and do not overlap in features. You must have both in your inventory. There is a \"multi-purpose\" knife, but it has less bonuses than the highest quality butcher and skinning knives.\nWhen an enemy is slain and it drops special loot (cyan, yellow, purple colour), there is a distinctive sound and a particle effect.\nAbility Tags\nSome abilities are classified as \"Nice Attack\", \"Core Attack\", \"Epic Attack\", or \"Signature Debuff\".  These keywords determine when certain effects apply.  For example there is a Sword Treasure Effect \"For 6 seconds after using Precision Pierce, your Nice Attacks deal +64 damage\".  This will boost the damage of all abilities which are tagged as \"Nice Attacks\" (this will affect Nice Attacks from any skill, not only Sword's Nice Attacks.\nWithin each category there are some similarities.  For example Epic Attacks tend to have high damage and long cooldowns.  However, there is no gameplay effect for any category other than as keywords to determine when  effects will proc.  The only exception is the \"Basic Attack\" keyword, which will trigger a\nCombat Refresh\n.\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Combat&oldid=92613\n\"\nCategory\n:\nMechanics",
+  "tables": [],
+  "lists": [
+    [
+      "1Armor, Health and Power1.1Armor1.2Health1.3Power",
+      "2Damage2.1Effect of equipment2.2Critical damage",
+      "3Regeneration in and out of combat3.1Foods3.2Buffs",
+      "4Rage and special attacks",
+      "5Movement and kiting",
+      "6Vulnerability",
+      "7Looting enemies!",
+      "8Ability Tags"
+    ],
+    [
+      "1.1Armor",
+      "1.2Health",
+      "1.3Power"
+    ],
+    [
+      "2.1Effect of equipment",
+      "2.2Critical damage"
+    ],
+    [
+      "3.1Foods",
+      "3.2Buffs"
+    ],
+    [
+      "Mechanics"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "1Armor, Health and Power",
+      "href": "#Armor.2C_Health_and_Power"
+    },
+    {
+      "text": "1.1Armor",
+      "href": "#Armor"
+    },
+    {
+      "text": "1.2Health",
+      "href": "#Health"
+    },
+    {
+      "text": "1.3Power",
+      "href": "#Power"
+    },
+    {
+      "text": "2Damage",
+      "href": "#Damage"
+    },
+    {
+      "text": "2.1Effect of equipment",
+      "href": "#Effect_of_equipment"
+    },
+    {
+      "text": "2.2Critical damage",
+      "href": "#Critical_damage"
+    },
+    {
+      "text": "3Regeneration in and out of combat",
+      "href": "#Regeneration_in_and_out_of_combat"
+    },
+    {
+      "text": "3.1Foods",
+      "href": "#Foods"
+    },
+    {
+      "text": "3.2Buffs",
+      "href": "#Buffs"
+    },
+    {
+      "text": "4Rage and special attacks",
+      "href": "#Rage_and_special_attacks"
+    },
+    {
+      "text": "5Movement and kiting",
+      "href": "#Movement_and_kiting"
+    },
+    {
+      "text": "6Vulnerability",
+      "href": "#Vulnerability"
+    },
+    {
+      "text": "7Looting enemies!",
+      "href": "#Looting_enemies.21"
+    },
+    {
+      "text": "8Ability Tags",
+      "href": "#Ability_Tags"
+    },
+    {
+      "text": "Armor",
+      "href": "/wiki/Armor"
+    },
+    {
+      "text": "Health",
+      "href": "/wiki/Health"
+    },
+    {
+      "text": "Mentalism",
+      "href": "/wiki/Mentalism"
+    },
+    {
+      "text": "Mentalism",
+      "href": "/wiki/Mentalism"
+    },
+    {
+      "text": "Tell Me About Your Mother",
+      "href": "/wiki/Psychology"
+    },
+    {
+      "text": "Sword",
+      "href": "/wiki/Sword"
+    },
+    {
+      "text": "Calligraphy",
+      "href": "/wiki/Calligraphy"
+    },
+    {
+      "text": "Meditation",
+      "href": "/wiki/Meditation"
+    },
+    {
+      "text": "Unarmed",
+      "href": "/wiki/Unarmed"
+    },
+    {
+      "text": "Sword",
+      "href": "/wiki/Sword"
+    },
+    {
+      "text": "Psychology",
+      "href": "/wiki/Psychology"
+    },
+    {
+      "text": "Psychoanalyse",
+      "href": "/wiki/Psychology"
+    },
+    {
+      "text": "Sword Parry",
+      "href": "/wiki/Sword"
+    },
+    {
+      "text": "Anatomy",
+      "href": "/wiki/Anatomy"
+    },
+    {
+      "text": "Developer blog",
+      "href": "http://projectgorgon.com/2014/05/design-issues-still-needing-improvement/"
+    },
+    {
+      "text": "Developer blog",
+      "href": "http://projectgorgon.com/2014/05/design-issues-still-needing-improvement/"
+    },
+    {
+      "text": "Anagoge",
+      "href": "/wiki/Anagoge"
+    },
+    {
+      "text": "Combat Refresh",
+      "href": "/wiki/Combat_Refresh"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Combat&oldid=92613",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Combat&oldid=92613"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Mechanics",
+      "href": "/wiki/Category:Mechanics"
+    }
+  ],
+  "images": [
+    {
+      "src": "/w/images/3/39/Armor_Health_and_Rage_indicators.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/w/images/f/f7/Regeneration_food_example_%28maple_carrots%29.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/w/images/thumb/e/e9/Foe_using_Special_Ability_%28Rage%29.jpg/300px-Foe_using_Special_Ability_%28Rage%29.jpg",
+      "alt": ""
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

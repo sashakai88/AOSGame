@@ -1,0 +1,508 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Controls",
+  "title": "Controls - Project: Gorgon Wiki",
+  "main_content": "Controls\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nCommand\nDefault Key\nAlternate Default Key\nMisc.Notes.\nTurn Left\nLeftArrow\nA\nN/A\nTurn Right\nRightArrow\nD\nN/A\nStrafe Left\nQ\nNone\nN/A\nStrafe Right\nE\nNone\nN/A\nMove Forward\nUpArrow\nW\nN/A\nMove Backwards\nDownArrow\nS\nN/A\nMove Up\nR\nPageUp\nUsed for flight.\nMove Down\nF\nPageDown\nUsed for flight.\nAuto Move Forward\nNumlock\nNone\nN/A\nJump\nSpace\nNone\nN/A\nShow Inventory Window\nI\nCtrl + I\nN/A\nShow Chat Window\nC\nCtrl + C\nN/A\nShow Abilities Bar\nCtrl + A\nNone\nN/A\nShow Skill Panel\nCtrl + D\nNone\nN/A\nShow Status Window\nCtrl + S\nNone\nN/A\nShow Map Window\nM\nCtrl + M\nN/A\nShow Social Panel\nShift + Ctrl + S\nNone\nN/A\nShow Config Screen\nShift + O\nNone\nN/A\nShow Recipe Screen\nCtrl + R\nNone\nN/A\nShow Pet Screen\nShift + P\nNone\nN/A\nShow Persona Screen\nP\nNone\nN/A\nShow Quest Screen\nNone\nNone\nN/A\nClose Last Panel\nEscape\nNone\nCan also open options menu.\nSelect Next Enemy\nTab\nNone\nN/A\nSelect Previous Enemy\nShift + Tab\nNone\nN/A\nSelect Next Non-Combatant\nNone\nNone\nUseful for selecting ground items, especially if they are hidden in foliage.\nSelect Previous Non-Combatant\nNone\nNone\nUseful for selecting ground items, especially if they are hidden in foliage.\nSelect Next Player\nNone\nNone\nN/A\nSelect Previous Player\nNone\nNone\nN/A\nSelect Next\nCtrl + Tab\nNone\nGood for selecting things you can't click on.\nSelect Previous\nShift + Ctrl + Tab\nNone\nN/A\nSelect Myself\nF1\nNone\nN/A\nZoom Camera In\nKeypadPlus\nScroll Wheel\nN/A\nZoom Camera Out\nKeypadMinus\nScroll Wheel\nN/A\nHold to Zoom Camera with Up/Down\nNone\nNone\nN/A\nToggle Run/Walk\n'\nNone\nN/A\nUse Selected\nU\nNone\nHandy to use in tandem with Select Next/Previous Non-Combatant, to quickly loot ground items, or shuffle through a pile of dead mobs.\nTest1\nNone\nNone\nN/A\nTest2\nNone\nNone\nN/A\nTest3\nNone\nNone\nN/A\nRun\nLeftShift\nRightShift\nN/A\nUse Ability 1\n1\nNone\nN/A\nUse Ability 2\n2\nNone\nN/A\nUse Ability 3\n3\nNone\nN/A\nUse Ability 4\n4\nNone\nN/A\nUse Ability 5\n5\nNone\nN/A\nUse Ability 6\n6\nNone\nN/A\nUse Ability 7\nCtrl + 1\nNone\nN/A\nUse Ability 8\nCtrl + 2\nNone\nN/A\nUse Ability 9\nCtrl + 3\nNone\nN/A\nUse Ability 10\nCtrl + 4\nNone\nN/A\nUse Ability 11\nCtrl + 5\nNone\nN/A\nUse Ability 12\nCtrl + 6\nNone\nN/A\nUse Ability 13\nShift + 1\nNone\nN/A\nUse Ability 14\nShift + 2\nNone\nN/A\nUse Ability 15\nShift + 3\nNone\nN/A\nUse Ability 16\nShift + 4\nNone\nN/A\nUse Ability 17\nShift + 5\nNone\nN/A\nUse Ability 18\nShift + 6\nNone\nN/A\nUse Ability 19\nNone\nNone\nN/A\nUse Ability 20\nNone\nNone\nN/A\nUse Ability 21\nNone\nNone\nN/A\nUse Ability 22\nNone\nNone\nN/A\nUse Ability 23\nNone\nNone\nN/A\nUse Ability 24\nNone\nNone\nN/A\nScreenshot\nCtrl+P\nNone\nN/A\nScreenshot: High-Res\nNone\nNone\nF12 is suggested.\nTurn On/Off GUI Windows\n=\nNone\nN/A\nSelect Group Member #1\nF2\nNone\nN/A\nSelect Group Member #2\nF3\nNone\nN/A\nSelect Group Member #3\nF4\nNone\nN/A\nSelect Group Member #4\nF5\nNone\nN/A\nSelect Group Member #5\nF6\nNone\nN/A\nSelect Group Member #6\nF7\nNone\nN/A\nSelect Group Member #7\nF8\nNone\nN/A\nSelect Group Member #8\nF9\nNone\nN/A\nSelect Group Member #9\nF10\nNone\nN/A\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Controls&oldid=18847\n\"\nCategory\n:\nMechanics",
+  "tables": [
+    [
+      [
+        "Command",
+        "Default Key",
+        "Alternate Default Key",
+        "Misc.Notes."
+      ],
+      [
+        "Turn Left",
+        "LeftArrow",
+        "A",
+        "N/A"
+      ],
+      [
+        "Turn Right",
+        "RightArrow",
+        "D",
+        "N/A"
+      ],
+      [
+        "Strafe Left",
+        "Q",
+        "None",
+        "N/A"
+      ],
+      [
+        "Strafe Right",
+        "E",
+        "None",
+        "N/A"
+      ],
+      [
+        "Move Forward",
+        "UpArrow",
+        "W",
+        "N/A"
+      ],
+      [
+        "Move Backwards",
+        "DownArrow",
+        "S",
+        "N/A"
+      ],
+      [
+        "Move Up",
+        "R",
+        "PageUp",
+        "Used for flight."
+      ],
+      [
+        "Move Down",
+        "F",
+        "PageDown",
+        "Used for flight."
+      ],
+      [
+        "Auto Move Forward",
+        "Numlock",
+        "None",
+        "N/A"
+      ],
+      [
+        "Jump",
+        "Space",
+        "None",
+        "N/A"
+      ],
+      [
+        "Show Inventory Window",
+        "I",
+        "Ctrl + I",
+        "N/A"
+      ],
+      [
+        "Show Chat Window",
+        "C",
+        "Ctrl + C",
+        "N/A"
+      ],
+      [
+        "Show Abilities Bar",
+        "Ctrl + A",
+        "None",
+        "N/A"
+      ],
+      [
+        "Show Skill Panel",
+        "Ctrl + D",
+        "None",
+        "N/A"
+      ],
+      [
+        "Show Status Window",
+        "Ctrl + S",
+        "None",
+        "N/A"
+      ],
+      [
+        "Show Map Window",
+        "M",
+        "Ctrl + M",
+        "N/A"
+      ],
+      [
+        "Show Social Panel",
+        "Shift + Ctrl + S",
+        "None",
+        "N/A"
+      ],
+      [
+        "Show Config Screen",
+        "Shift + O",
+        "None",
+        "N/A"
+      ],
+      [
+        "Show Recipe Screen",
+        "Ctrl + R",
+        "None",
+        "N/A"
+      ],
+      [
+        "Show Pet Screen",
+        "Shift + P",
+        "None",
+        "N/A"
+      ],
+      [
+        "Show Persona Screen",
+        "P",
+        "None",
+        "N/A"
+      ],
+      [
+        "Show Quest Screen",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Close Last Panel",
+        "Escape",
+        "None",
+        "Can also open options menu."
+      ],
+      [
+        "Select Next Enemy",
+        "Tab",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Previous Enemy",
+        "Shift + Tab",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Next Non-Combatant",
+        "None",
+        "None",
+        "Useful for selecting ground items, especially if they are hidden in foliage."
+      ],
+      [
+        "Select Previous Non-Combatant",
+        "None",
+        "None",
+        "Useful for selecting ground items, especially if they are hidden in foliage."
+      ],
+      [
+        "Select Next Player",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Previous Player",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Next",
+        "Ctrl + Tab",
+        "None",
+        "Good for selecting things you can't click on."
+      ],
+      [
+        "Select Previous",
+        "Shift + Ctrl + Tab",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Myself",
+        "F1",
+        "None",
+        "N/A"
+      ],
+      [
+        "Zoom Camera In",
+        "KeypadPlus",
+        "Scroll Wheel",
+        "N/A"
+      ],
+      [
+        "Zoom Camera Out",
+        "KeypadMinus",
+        "Scroll Wheel",
+        "N/A"
+      ],
+      [
+        "Hold to Zoom Camera with Up/Down",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Toggle Run/Walk",
+        "'",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Selected",
+        "U",
+        "None",
+        "Handy to use in tandem with Select Next/Previous Non-Combatant, to quickly loot ground items, or shuffle through a pile of dead mobs."
+      ],
+      [
+        "Test1",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Test2",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Test3",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Run",
+        "LeftShift",
+        "RightShift",
+        "N/A"
+      ],
+      [
+        "Use Ability 1",
+        "1",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 2",
+        "2",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 3",
+        "3",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 4",
+        "4",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 5",
+        "5",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 6",
+        "6",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 7",
+        "Ctrl + 1",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 8",
+        "Ctrl + 2",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 9",
+        "Ctrl + 3",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 10",
+        "Ctrl + 4",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 11",
+        "Ctrl + 5",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 12",
+        "Ctrl + 6",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 13",
+        "Shift + 1",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 14",
+        "Shift + 2",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 15",
+        "Shift + 3",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 16",
+        "Shift + 4",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 17",
+        "Shift + 5",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 18",
+        "Shift + 6",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 19",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 20",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 21",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 22",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 23",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Use Ability 24",
+        "None",
+        "None",
+        "N/A"
+      ],
+      [
+        "Screenshot",
+        "Ctrl+P",
+        "None",
+        "N/A"
+      ],
+      [
+        "Screenshot: High-Res",
+        "None",
+        "None",
+        "F12 is suggested."
+      ],
+      [
+        "Turn On/Off GUI Windows",
+        "=",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Group Member #1",
+        "F2",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Group Member #2",
+        "F3",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Group Member #3",
+        "F4",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Group Member #4",
+        "F5",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Group Member #5",
+        "F6",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Group Member #6",
+        "F7",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Group Member #7",
+        "F8",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Group Member #8",
+        "F9",
+        "None",
+        "N/A"
+      ],
+      [
+        "Select Group Member #9",
+        "F10",
+        "None",
+        "N/A"
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "Mechanics"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Controls&oldid=18847",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Controls&oldid=18847"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Mechanics",
+      "href": "/wiki/Category:Mechanics"
+    }
+  ],
+  "images": [],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

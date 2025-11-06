@@ -1,0 +1,785 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Disease",
+  "title": "Disease - Project: Gorgon Wiki",
+  "main_content": "Disease\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nDiseases\nare temporary or semi-permanent detrimental effect inflicted on a character. Diseases can be obtained during fighting with certain creatures, or can be gained simply by exploring an environment unprotected. Some diseases like\nBroken Bone\ncan stack, but most do not.\nDiseases\ncan be cured through specialized potions or by using an appropriate\nFirst Aid\nability.\nBasic\nAged (Disease)\n- Your body feels unnaturally old. -5% Max Health, -5% Max Power This is a simple disease.\nFeeble Fever\n- You've been infected with a basic disease! It is permanent until cured. -3 Max Health\nFevered Trismus\n- Your skin feels furry and your ears seem larger than normal. But it's probably nothing to worry about. Okay, you might want to get this checked out quickly...This is a basic disease that can be removed with Cure Disease.\nFrog Flu\n- Your skin is clammy, your breathing is shallow, and your head hurts. This is a basic disease. It is permanent until cured. -5 Max Power.\nLice\n- You've been infected with a basic disease! It is permanent until cured. -1 Max Power, -1 Hygiene.\nRotbelly\n- You've been infected with a basic disease! It is permanent until cured. -3 Max Power.\nSwamp Tick\n- You've been infected with a basic disease! It is permanent until cured. -1% Max Health.\nVarleech\n- You've been infected with a basic disease! It is permanent until cured. -1% Max Health\nComplex\nCreakliver\n- You've been infected with a complex disease! It is permanent until cured. -12 Max Health.\nLunatic Shakes\n- You've been infected with a complex disease! It is permanent until cured. -5 Max Power.\nMummy Ache\n- You feel nauseated and can't seem to concentrate. -10% Max Power. This is a complex disease. It is permanent until cured.\nMummy Limp\n- Something is wrong with your foot. It hurts too much to carry your full weight! -33% Sprint Speed. This is a complex disease. It is permanent until cured.\nMummy Rot\n- Your flesh seems weak and bruises very easily. You take 33% more damage from Crushing attacks. This is a complex disease. It is permanent until cured.\nMummy Wilt\n- Your muscles have atrophied. Your melee attacks deal -10% damage. This is a complex disease. It is permanent until cured.\nAdvanced\nBroken Bone\n- A bone is shattered! All abilities cost +1 Power. This is an advanced disease. It is permanent until cured.\nRoundworms\n- You've been infected with an advanced disease! It is permanent until cured. 10% more vulnerable to Nature and Trauma damage.\nSlimy Tremors\n- You've been infected with an advanced disease! It is permanent until cured. -10 Max Power.\nWord of Power: Leprosy\n- Speaking this word gives you leprosy. Leprosy is an advanced disease that is permanent until cured. -50 Max Health.\nSerious\nHexapox\n- You've been infected with a serious disease! It is permanent until cured. 3% of your attacks automatically miss.\nOther\nFeeling Ill\n- You're feeling ill. But it's not the normal kind of ill... You are taking continuous unblockable damage (This can be treated with Treat Disease 3 or higher.\nCurse\nA\nCurse\nis a semi-permanent, detrimental effect inflicted on a character mostly by certain bosses or potions. The primary way to remove a\nCurse\nis by defeating the boss that cursed you with it. Most curses can also be cured with an expensive\nMinor Panacea\n.\nBeast Forms\nare not Curses, although some curable Curses exist that bestow Beast Forms.\nDruid\nforms are considered to be a\nCurse\n.\nList of Boss Curses\nAged\n(\nClaudia\n) - Your body feels unnaturally older. Slightly wiser, but mostly just older. -10% Max Health, +3% Max Power This is a permanent curse; you must defeat Claudia to remove it.\nBaruti's Curse\n(\nBaruti\n) - You're feeling sort of itchy and sick. This is a permanent curse; you must defeat Baruti to remove it.\nBovine Reaction\n(\nMaronesa\n) - You feel your innards shifting... you're turning into a cow!\nBrain Fungus\n(\nUnfun Guy\n) - Your body is not entirely under your control! When you attack fungal creatures, you pull your punches. -10% Damage vs. Fungoids. This is a permanent curse; defeat Unfun Guy to remove it.\nButterfly Transformation\n([[]]) - You've turned into a bug! Fortunately this will wear off... Suffer all fae racial penalties + 10% Nature & Psychology Base Damage\nCombat Disorientation\n(\nDementia Puck\n) - You're prone to forgetting your plan of attack. This is a permanent curse; you must defeat Dementia Puck to remove it.\nConcussion Damage\n(\nForgotten Loading Golem\n) - Occasionally you lose motor coordination and can't attack. This is a permanent curse; you must defeat Forgotten Loading Golem to remove it.\nConduction Aphasia\n(\nTimothy Elerimon\n) - You seem to have developed a speech disorder. This is a permanent curse; to remove it you must defeat the Timothy Elerimon.\nCrystallized Organs\n(\nGuardian Crystal\n) - Too much magic crystal has made its way into your body. -10% Health and Armor, Nature Attacks Deal +10% damage This is a permanent curse; to remove it you must defeat the Red Guardian Crystal.\nDarkened Heart\n(\nKhyrulek's True Form\n) - An evil magic has infested your heart. It still beats, but is prone to failing under stress. You occasionally lose half your health while in combat. This is a permanent curse; you must defeat Khyrulek's True Form to remove it.\nDarkness Imbued\n(\nLord Sedgewick\n) - Magical darkness clings to you wherever you go. +10% Evasion; Enemies gain +20% Evasion against you. This is a permanent curse; you must defeat Lord Sedgewick to remove it\"\nDarkness Rebuked\n(\nPeacemaster Guztok\n) - You've lost the ability to fully channel necromantic energy. Darkness Damage -50%. This is permanent; defeat Peacemaster Guztok to remove it.\nDefiler of Enoyos\n(\nSacrificial Scray\n) - Touching water has become painful and distressing. You are stunned when entering water. This is a permanent curse; you must kill the\nSacrificial Scray\nto remove it.\nEgg Infestation\n(\nGazluk Clutchmaster\n) - Thousands of unfertilized Urak eggs have been injected under your flesh. They keep popping out... This is a permanent curse. You must defeat Gazluk Clutchmaster to remove it.\nFouled Lungs\n(\nThe Fog\n) - Your lungs have been permanently damaged. Abilities cost +3 Power to use. +2 Nature Mitigation. This is a permanent curse; to remove it you must defeat the The Fog.\nFrosty Forever\n(\nColdfeather\n) - Magical ice has been embedded in your body. You sometimes lose half your health when not in a cold area. +25% Max Body Heat. This is permanent; defeat Coldfeather to remove it.\nGored Pockets\n(\nRhino Guardian\n) - A rhino has gored a giant hole in your storage devices! -5 Inventory. This is a permanent curse; you must defeat Guardian Rhino to remove it.\nHaunted\n(\nUrsula\n) - Hmm, you seem to have a guest inside your head.\nLost Direction Sense\n(\nAsterion\n) - Which way is which? You keep getting turned all around. This is a permanent curse; you must defeat Asterion to remove it.\nMagnacephalus\n(\nGajus\n) - Your head and brain have grown! You can't wear headgear, but you gain +25 Power. This is a permanent curse; you must defeat Gajus to remove it.\nMantis Aversion\n(\nImarak\n) - Your body is not entirely under your control! When you attack a mantis, you stun yourself. (Once per minute max.) This is a permanent curse; defeat Imarak to remove it.\nNameless\n(\nNameless Guardian\n) - You can no longer speak your name aloud in chat. This is a permanent curse; to remove it you must defeat the Nameless Warrior.\nNot So Smart Anymore\n(\nSherzat\n) - It takes a long time for you to gather your thoughts now, and your temper is getting worse. -50% Out of Combat Power Regeneration, +5 Direct Damage. This is a permanent curse; you must defeat Sherzat to remove it.\nPermanent Spore Damage\n(\nTremor\n) - You're having trouble remembering how to perform even the most basic attacks.\nBasic Attack Reuse Time +15 seconds\nThis is a permanent curse; you must defeat Tremor to remove it\nPersonal Rainstorm\n(\nTidal\n) - You're all soggy! Your fire attacks deal -50% damage. You take +5 Nature, +5 Cold, and -5 Fire damage from enemy attacks. This is a permanent curse; you must defeat Tidal to remove it.\nPoor Student\n(\nVemuta the Lecturer\n) - You interrupted class and the lecturer stole part of your brain in retaliation. -10% XP Earned. This is permanent; defeat Vemuta to remove it.\nPro-Ranalon\n(\nDoctrine-Keeper\n) - You've been indoctrinated into the culture of the ranalon race. This is a permanent curse; you must defeat the Ranalon Doctrine Enforcer to remove it.\nRotten Attitude\n(\nScion of Discord\n) - When in groups, you've become petulant, arrogant, short-tempered, and prone to saying things you later regret. This is a permanent curse; you must defeat the Scion of Discord to remove it.\nSevere Agoraphobia\n(\nRatkin King (SqUUeak)\n) - You've become so afraid of the outdoors that you periodically suffer anxiety bursts. Staying indoors is comforting, however. Periodically suffer -50 Power outdoors. Periodically gain +10 Power indoors. This is a permanent curse; you must defeat Ratkin King [SqUUeak] to remove it.\nSlimed Legs\n(\nThe Big Slime\n) - Your legs are coated in warm, sticky, self-replicating slime! Movement Speed -3, Cold Mitigation +3. This is a permanent curse; you must defeat The Big Slime to remove it.\nSlimed Legs\n(\nThe Shower Slime\n) - Your legs are coated in warm, sticky, self-replicating slime! Movement Speed -5, Cold Mitigation +5. This is a permanent curse; you must defeat The Shower Slime to remove it.\nSpider Phobia\n(\nThe Problem Spider\n) - You've become deathly afraid of spiders, and in fact all arthropods seem way too icky to fight. You can't fully engage them in combat. -33% Direct Damage vs. Arthropods This is a permanent curse; you must defeat the Problem Spider to remove it.\nSpirit Virus\n(\nDalvos's Astral Projection\n) - Your spirit has been infected with a dark virus. Suffer +20% damage from Darkness and Psychic attacks. Deal +8% Darkness damage. This effect is permanent; you must disconnect Dalvos's Astral Spirit to remove it.\nStolen Healing Potential\n(\nHealing-Suit Tester\n) - Some of your innate recovery potential is gone. Major Healing abilities used on you restore -25% health. This is a permanent curse; you must defeat Healing-Suit Tester to remove it.\nToasted Flesh\n(\nStolen War Golem\n) - Your nerves have been damaged and are extra susceptible to heat. +25% Damage from Fire. This is a permanent curse; you must defeat Stolen War Golem to remove it.\nVipered\n(\nTolmar the Snake Master\n) - You were splashed with weird chemicals that don't seem to wash off! You suffer +20% damage from poison. This is a permanent curse; you must defeat Tolmar the Snake Master to remove it.\nWinter Lethargy\n(\nLethargy Puck\n) - Feeling cold makes you want to stop moving and maybe take a nap. You lose 35 Power when attacked with Cold. This is a permanent curse; you must defeat\nLethargy Puck\nto remove it.\nWoozy\n(\nZukelmux The Intransigent\n) - Your head is ringing! Any little hit can disorient you. 50% chance to be briefly stunned whenever you are hit by a melee attack. This is a permanent curse; you must defeat Zukelmux The Intransigent to remove it.\nScorched\n(\nHot Flash\n) - Your armor has been scorched by intense flames making you take more fire damage. Your fire mitigation has been reduced by 10. You take +20% Fire damage from enemy attacks. This is a permanent curse; you must defeat Hot Flash to remove it.\nWrath of Enoyos\n(\nGeorge\n) - Enoyos has forbidden you from flowing in his waters freely. Your swimming speed has been reduced by 5. You lose 30% of your lung capacity when underwater. This is a permanent curse; you must defeat\nGeorge\nto remove it.\nList of Curse Conditions\nCombat Echolocation\n- You evade 7% of all attacks. Your movement speed is -1.\nEcholocation\n- You are echolocating.\nGruesome Spooky Punch\n- You don't feel so good... you feel violent and angry, but weakened!\nMallard Form\n- You're a duck! You can fly and your swimming is excellent, but your attack abilities are nearly nil.\nOwl Form\n- You're an owl! You can fly and your eyesight is great, but your attack abilities are nearly nil.\nRaven Form\n- You're a raven! You can fly, but your attack abilities are nearly nil.\nSnow Raven\n- You're a snow raven! You can fly and you have some resistance to cold weather, but your attack abilities are nearly nil.\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Disease&oldid=101622\n\"\nCategory\n:\nMechanics",
+  "tables": [],
+  "lists": [
+    [
+      "Beast Formsare not Curses, although some curable Curses exist that bestow Beast Forms.Druidforms are considered to be aCurse."
+    ],
+    [
+      "Mechanics"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "Broken Bone",
+      "href": "/wiki/Broken_Bone"
+    },
+    {
+      "text": "First Aid",
+      "href": "/wiki/First_Aid"
+    },
+    {
+      "text": "Aged (Disease)",
+      "href": "/wiki/Aged_(Disease)"
+    },
+    {
+      "text": "Feeble Fever",
+      "href": "/wiki/Feeble_Fever"
+    },
+    {
+      "text": "Fevered Trismus",
+      "href": "/wiki/Fevered_Trismus"
+    },
+    {
+      "text": "Frog Flu",
+      "href": "/wiki/Frog_Flu"
+    },
+    {
+      "text": "Lice",
+      "href": "/wiki/Lice"
+    },
+    {
+      "text": "Rotbelly",
+      "href": "/wiki/Rotbelly"
+    },
+    {
+      "text": "Swamp Tick",
+      "href": "/wiki/Swamp_Tick"
+    },
+    {
+      "text": "Varleech",
+      "href": "/wiki/Varleech"
+    },
+    {
+      "text": "Creakliver",
+      "href": "/wiki/Creakliver"
+    },
+    {
+      "text": "Lunatic Shakes",
+      "href": "/wiki/Lunatic_Shakes"
+    },
+    {
+      "text": "Mummy Ache",
+      "href": "/wiki/Mummy_Ache"
+    },
+    {
+      "text": "Mummy Limp",
+      "href": "/wiki/Mummy_Limp"
+    },
+    {
+      "text": "Mummy Rot",
+      "href": "/wiki/Mummy_Rot"
+    },
+    {
+      "text": "Mummy Wilt",
+      "href": "/wiki/Mummy_Wilt"
+    },
+    {
+      "text": "Broken Bone",
+      "href": "/wiki/Broken_Bone"
+    },
+    {
+      "text": "Roundworms",
+      "href": "/wiki/Roundworms"
+    },
+    {
+      "text": "Slimy Tremors",
+      "href": "/wiki/Slimy_Tremors"
+    },
+    {
+      "text": "Word of Power: Leprosy",
+      "href": "/wiki/Word_of_Power:_Leprosy"
+    },
+    {
+      "text": "Hexapox",
+      "href": "/wiki/Hexapox"
+    },
+    {
+      "text": "Feeling Ill",
+      "href": "/wiki/Feeling_Ill"
+    },
+    {
+      "text": "Curse",
+      "href": "/wiki/Curse"
+    },
+    {
+      "text": "Curse",
+      "href": "/wiki/Curse"
+    },
+    {
+      "text": "Minor Panacea",
+      "href": "/wiki/Minor_Panacea"
+    },
+    {
+      "text": "Beast Forms",
+      "href": "/wiki/Beast_Forms"
+    },
+    {
+      "text": "Druid",
+      "href": "/wiki/Druid"
+    },
+    {
+      "text": "Curse",
+      "href": "/wiki/Curse"
+    },
+    {
+      "text": "Aged",
+      "href": "/wiki/Aged"
+    },
+    {
+      "text": "Claudia",
+      "href": "/wiki/Claudia"
+    },
+    {
+      "text": "Baruti's Curse",
+      "href": "/wiki/Baruti%27s_Curse"
+    },
+    {
+      "text": "Baruti",
+      "href": "/wiki/Baruti"
+    },
+    {
+      "text": "Bovine Reaction",
+      "href": "/wiki/Bovine_Reaction"
+    },
+    {
+      "text": "Maronesa",
+      "href": "/wiki/Maronesa"
+    },
+    {
+      "text": "Brain Fungus",
+      "href": "/wiki/Brain_Fungus"
+    },
+    {
+      "text": "Unfun Guy",
+      "href": "/wiki/Unfun_Guy"
+    },
+    {
+      "text": "Butterfly Transformation",
+      "href": "/wiki/Butterfly_Transformation"
+    },
+    {
+      "text": "Combat Disorientation",
+      "href": "/wiki/Combat_Disorientation"
+    },
+    {
+      "text": "Dementia Puck",
+      "href": "/wiki/Dementia_Puck"
+    },
+    {
+      "text": "Concussion Damage",
+      "href": "/wiki/Concussion_Damage"
+    },
+    {
+      "text": "Forgotten Loading Golem",
+      "href": "/wiki/Forgotten_Loading_Golem"
+    },
+    {
+      "text": "Conduction Aphasia",
+      "href": "/wiki/Conduction_Aphasia"
+    },
+    {
+      "text": "Timothy Elerimon",
+      "href": "/wiki/Timothy_Elerimon"
+    },
+    {
+      "text": "Crystallized Organs",
+      "href": "/wiki/Crystallized_Organs"
+    },
+    {
+      "text": "Guardian Crystal",
+      "href": "/wiki/Guardian_Crystal"
+    },
+    {
+      "text": "Darkened Heart",
+      "href": "/wiki/Darkened_Heart"
+    },
+    {
+      "text": "Khyrulek's True Form",
+      "href": "/wiki/Khyrulek%27s_True_Form"
+    },
+    {
+      "text": "Darkness Imbued",
+      "href": "/wiki/Darkness_Imbued"
+    },
+    {
+      "text": "Lord Sedgewick",
+      "href": "/wiki/Lord_Sedgewick"
+    },
+    {
+      "text": "Darkness Rebuked",
+      "href": "/wiki/Darkness_Rebuked"
+    },
+    {
+      "text": "Peacemaster Guztok",
+      "href": "/wiki/Peacemaster_Guztok"
+    },
+    {
+      "text": "Defiler of Enoyos",
+      "href": "/wiki/Defiler_of_Enoyos"
+    },
+    {
+      "text": "Sacrificial Scray",
+      "href": "/wiki/Sacrificial_Scray"
+    },
+    {
+      "text": "Sacrificial Scray",
+      "href": "/wiki/Sacrificial_Scray"
+    },
+    {
+      "text": "Egg Infestation",
+      "href": "/wiki/Egg_Infestation"
+    },
+    {
+      "text": "Gazluk Clutchmaster",
+      "href": "/wiki/Gazluk_Clutchmaster"
+    },
+    {
+      "text": "Fouled Lungs",
+      "href": "/wiki/Fouled_Lungs"
+    },
+    {
+      "text": "The Fog",
+      "href": "/wiki/The_Fog"
+    },
+    {
+      "text": "Frosty Forever",
+      "href": "/wiki/Frosty_Forever"
+    },
+    {
+      "text": "Coldfeather",
+      "href": "/wiki/Coldfeather"
+    },
+    {
+      "text": "Gored Pockets",
+      "href": "/wiki/Gored_Pockets"
+    },
+    {
+      "text": "Rhino Guardian",
+      "href": "/wiki/Rhino_Guardian"
+    },
+    {
+      "text": "Haunted",
+      "href": "/wiki/Haunted"
+    },
+    {
+      "text": "Ursula",
+      "href": "/wiki/Ursula"
+    },
+    {
+      "text": "Lost Direction Sense",
+      "href": "/wiki/Lost_Direction_Sense"
+    },
+    {
+      "text": "Asterion",
+      "href": "/wiki/Asterion"
+    },
+    {
+      "text": "Magnacephalus",
+      "href": "/wiki/Magnacephalus"
+    },
+    {
+      "text": "Gajus",
+      "href": "/wiki/Gajus"
+    },
+    {
+      "text": "Mantis Aversion",
+      "href": "/wiki/Mantis_Aversion"
+    },
+    {
+      "text": "Imarak",
+      "href": "/wiki/Imarak"
+    },
+    {
+      "text": "Nameless",
+      "href": "/wiki/Nameless"
+    },
+    {
+      "text": "Nameless Guardian",
+      "href": "/wiki/Nameless_Guardian"
+    },
+    {
+      "text": "Not So Smart Anymore",
+      "href": "/wiki/Not_So_Smart_Anymore"
+    },
+    {
+      "text": "Sherzat",
+      "href": "/wiki/Sherzat"
+    },
+    {
+      "text": "Permanent Spore Damage",
+      "href": "/wiki/Permanent_Spore_Damage"
+    },
+    {
+      "text": "Tremor",
+      "href": "/wiki/Tremor"
+    },
+    {
+      "text": "Personal Rainstorm",
+      "href": "/wiki/Personal_Rainstorm"
+    },
+    {
+      "text": "Tidal",
+      "href": "/wiki/Tidal"
+    },
+    {
+      "text": "Poor Student",
+      "href": "/wiki/Poor_Student"
+    },
+    {
+      "text": "Vemuta the Lecturer",
+      "href": "/wiki/Vemuta_the_Lecturer"
+    },
+    {
+      "text": "Pro-Ranalon",
+      "href": "/wiki/Pro-Ranalon"
+    },
+    {
+      "text": "Doctrine-Keeper",
+      "href": "/wiki/Doctrine-Keeper"
+    },
+    {
+      "text": "Rotten Attitude",
+      "href": "/wiki/Rotten_Attitude"
+    },
+    {
+      "text": "Scion of Discord",
+      "href": "/wiki/Scion_of_Discord"
+    },
+    {
+      "text": "Severe Agoraphobia",
+      "href": "/wiki/Severe_Agoraphobia"
+    },
+    {
+      "text": "Ratkin King (SqUUeak)",
+      "href": "/wiki/Ratkin_King_(SqUUeak)"
+    },
+    {
+      "text": "Slimed Legs",
+      "href": "/wiki/Slimed_Legs"
+    },
+    {
+      "text": "The Big Slime",
+      "href": "/wiki/The_Big_Slime"
+    },
+    {
+      "text": "Slimed Legs",
+      "href": "/wiki/Slimed_Legs"
+    },
+    {
+      "text": "The Shower Slime",
+      "href": "/wiki/The_Shower_Slime"
+    },
+    {
+      "text": "Spider Phobia",
+      "href": "/wiki/Spider_Phobia"
+    },
+    {
+      "text": "The Problem Spider",
+      "href": "/wiki/The_Problem_Spider"
+    },
+    {
+      "text": "Spirit Virus",
+      "href": "/wiki/Spirit_Virus"
+    },
+    {
+      "text": "Dalvos's Astral Projection",
+      "href": "/wiki/Dalvos%27s_Astral_Projection"
+    },
+    {
+      "text": "Stolen Healing Potential",
+      "href": "/wiki/Stolen_Healing_Potential"
+    },
+    {
+      "text": "Healing-Suit Tester",
+      "href": "/wiki/Healing-Suit_Tester"
+    },
+    {
+      "text": "Toasted Flesh",
+      "href": "/wiki/Toasted_Flesh"
+    },
+    {
+      "text": "Stolen War Golem",
+      "href": "/wiki/Stolen_War_Golem"
+    },
+    {
+      "text": "Vipered",
+      "href": "/wiki/Vipered"
+    },
+    {
+      "text": "Tolmar the Snake Master",
+      "href": "/wiki/Tolmar_the_Snake_Master"
+    },
+    {
+      "text": "Winter Lethargy",
+      "href": "/wiki/Winter_Lethargy"
+    },
+    {
+      "text": "Lethargy Puck",
+      "href": "/wiki/Lethargy_Puck"
+    },
+    {
+      "text": "Lethargy Puck",
+      "href": "/wiki/Lethargy_Puck"
+    },
+    {
+      "text": "Woozy",
+      "href": "/wiki/Woozy"
+    },
+    {
+      "text": "Zukelmux The Intransigent",
+      "href": "/wiki/Zukelmux_The_Intransigent"
+    },
+    {
+      "text": "Scorched",
+      "href": "/wiki/Scorched"
+    },
+    {
+      "text": "Hot Flash",
+      "href": "/wiki/Hot_Flash"
+    },
+    {
+      "text": "Wrath of Enoyos",
+      "href": "/wiki/Wrath_of_Enoyos"
+    },
+    {
+      "text": "George",
+      "href": "/wiki/George"
+    },
+    {
+      "text": "George",
+      "href": "/wiki/George"
+    },
+    {
+      "text": "Combat Echolocation",
+      "href": "/wiki/Combat_Echolocation"
+    },
+    {
+      "text": "Echolocation",
+      "href": "/wiki/Echolocation"
+    },
+    {
+      "text": "Gruesome Spooky Punch",
+      "href": "/wiki/Gruesome_Spooky_Punch"
+    },
+    {
+      "text": "Mallard Form",
+      "href": "/wiki/Mallard_Form"
+    },
+    {
+      "text": "Owl Form",
+      "href": "/wiki/Owl_Form"
+    },
+    {
+      "text": "Raven Form",
+      "href": "/wiki/Raven_Form"
+    },
+    {
+      "text": "Snow Raven",
+      "href": "/wiki/Snow_Raven"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Disease&oldid=101622",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Disease&oldid=101622"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Mechanics",
+      "href": "/wiki/Category:Mechanics"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3575.png",
+      "alt": "icon_3575.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3544.png",
+      "alt": "icon_3544.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2217.png",
+      "alt": "icon_2217.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3548.png",
+      "alt": "icon_3548.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2217.png",
+      "alt": "icon_2217.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2217.png",
+      "alt": "icon_2217.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2217.png",
+      "alt": "icon_2217.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_6451.png",
+      "alt": "icon_6451.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_6450.png",
+      "alt": "icon_6450.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2217.png",
+      "alt": "icon_2217.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2217.png",
+      "alt": "icon_2217.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3701.png",
+      "alt": "icon_3701.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3701.png",
+      "alt": "icon_3701.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3701.png",
+      "alt": "icon_3701.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3701.png",
+      "alt": "icon_3701.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3575.png",
+      "alt": "icon_3575.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2217.png",
+      "alt": "icon_2217.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2217.png",
+      "alt": "icon_2217.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_4004.png",
+      "alt": "icon_4004.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2217.png",
+      "alt": "icon_2217.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_5702.png",
+      "alt": "icon_5702.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5089.png",
+      "alt": "icon_5089.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3589.png",
+      "alt": "icon_3589.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3701.png",
+      "alt": "icon_3701.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2156.png",
+      "alt": "icon_2156.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2134.png",
+      "alt": "icon_2134.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_6329.png",
+      "alt": "icon_6329.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3424.png",
+      "alt": "icon_3424.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3481.png",
+      "alt": "icon_3481.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2103.png",
+      "alt": "icon_2103.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3068.png",
+      "alt": "icon_3068.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3489.png",
+      "alt": "icon_3489.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3489.png",
+      "alt": "icon_3489.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3443.png",
+      "alt": "icon_3443.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3781.png",
+      "alt": "icon_3781.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_5712.png",
+      "alt": "icon_5712.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3068.png",
+      "alt": "icon_3068.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3501.png",
+      "alt": "icon_3501.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3322.png",
+      "alt": "icon_3322.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2196.png",
+      "alt": "icon_2196.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3489.png",
+      "alt": "icon_3489.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_5372.png",
+      "alt": "icon_5372.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2103.png",
+      "alt": "icon_2103.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2103.png",
+      "alt": "icon_2103.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3425.png",
+      "alt": "icon_3425.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3424.png",
+      "alt": "icon_3424.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3424.png",
+      "alt": "icon_3424.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3645.png",
+      "alt": "icon_3645.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3489.png",
+      "alt": "icon_3489.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3050.png",
+      "alt": "icon_3050.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3661.png",
+      "alt": "icon_3661.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3068.png",
+      "alt": "icon_3068.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3068.png",
+      "alt": "icon_3068.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3253.png",
+      "alt": "icon_3253.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2198.png",
+      "alt": "icon_2198.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3655.png",
+      "alt": "icon_3655.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2103.png",
+      "alt": "icon_2103.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2103.png",
+      "alt": "icon_2103.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3655.png",
+      "alt": "icon_3655.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_2103.png",
+      "alt": "icon_2103.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3779.png",
+      "alt": "icon_3779.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3781.png",
+      "alt": "icon_3781.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3485.png",
+      "alt": "icon_3485.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3485.png",
+      "alt": "icon_3485.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_5113.png",
+      "alt": "icon_5113.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3609.png",
+      "alt": "icon_3609.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3609.png",
+      "alt": "icon_3609.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3478.png",
+      "alt": "icon_3478.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v421/icons/icon_3478.png",
+      "alt": "icon_3478.png"
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

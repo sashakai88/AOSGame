@@ -1,0 +1,424 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Zones",
+  "title": "Zones - Project: Gorgon Wiki",
+  "main_content": "Zones\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nZones are in-game representations of regions across the world of Project:Gorgon. Most zones are found on the continent of\nAlharth\n, however Alharth is connected to a number of alternative realms and dimensions, some of which can be visited.\nEach zone is connected to neighboring zones with a portal system. Traveling through a portal usually represents an uneventful trip over uninhabited land.\nZones are home to cities, towns, dungeons, landmarks, and adventures. A myriad of species both friendly and foe populate zones.\nAs of the 03-16-2022 Game Update, there are eleven zones.\nEach zone is designed to facilitate gameplay at a certain level range, however each zone has a few traits that encourage repeated backtracking.\nZone Overview\nAnagoge Island\nRecommended Levels: 0-10\nA storm-tossed island that acts as the starting point for Human, Elf, and Rakshasa adventurers.\nSerbule\nRecommended Levels: 1-30\nA remote region at the end of a long trade route that allowed merchants seaward access.\nSerbule Hills\nRecommended Levels: 1-25\nPart of the greater Serbule region, Serbule Hills is home to farms and logging camps.\nEltibule\nRecommended Levels: 15-40\nA more mountainous region than the neighboring\nSerbule\n, Eltibule is known for its lakes and sprawling hills. Recently, horses have been spotted grazing here.\nSun Vale\nRecommended Levels: 20-40\nSun Vale is the name given to an island chain nestled between Alharth's\nCouncil Lands\nand the elven country of\nVerta\n. Home to a failed resort, adventurers can expect to find druids, sea life, and the mundane battleground of a seemingly endless war.\nKur Mountains\nRecommended Levels: 35-50\nBeyond the hills of Eltibule, the frozen Kur Mountains test a travelers' ability to withstand the frigid temperatures and the monsters which have acclimated to this land.\nIlmari\nRecommended Levels: 45-60\nRumored to have once been fertile farmland, Ilmari is a sprawling desert home to the Rakshasa. Travelers should be wary of sandstorms and dehydration.\nRahu\nRecommended Levels: 50-65\nA coastal merchant town across the Ilmari desert, travelers to the so-called Rakshasa capital of Rahu will find that cool breezes may not be enough to quell the heated opinions of the locals towards outsiders.\nGazluk\nRecommended Levels: 70-75\nAdventurers prepared to cross the Kur Mountains will face an even harsher climate in the Gazluk Plateau. Only native beasts, resilient Orcs, and fools dare live in this wintry land.\nFae Realm\nRecommended Levels: 70-80\nOne of many other realms, this particular Fae Realm can be reached through fairy nexuses linked to Alharth.\nPovus\nRecommended Levels: 75-85\nA once prosperous merchant town of Rakshasa craftsmen, this swampland offers difficult but still possible passage between the Council Lands and the Crone Hegemony.\nAutomatic Zone Details\nZone Name\nSuggested Levels\nConnected Zones\nStaging Area\n---\nSerbule\nAnagoge Island\n1-10\nSerbule\nSerbule\n1-30\nEltibule\nSun Vale\nvia boatman\nSerbule Hills\nAnagoge Island\nSerbule Hills\n1-30\nSerbule\nEltibule\n20-50\nSerbule\n,\nKur Mountains\n,\nRed Wing Casino\nSun Vale\n30-45\nSerbule\n,\nFae Realm\nthrough\nWinter Nexus\nKur Mountains\n30-50\nEltibule\n,\nIlmari\n,\nGazluk\nRed Wing Casino\n30-50\nEltibule\n,\nRahu\nIlmari\n50-60\nKur Mountains\n,\nRahu\nRahu\n51-60\nIlmari\n,\nPovus\n,\nRed Wing Casino\nFae Realm\n70-80\nWinter Nexus\nGazluk\n70-80\nKur Mountains\n,\nPovus\n,\nVidaria\nPovus\n75-85\nRahu\n,\nGazluk\n,\nVidaria\nVidaria\n90-95\nPovus\n,\nGazluk\nUpcoming Zones\nThe capital city\nStatehelm\nis the home of\nThe Council\nand is actively under construction. More info can be found on the developer forums\n[1]\n.\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Zones&oldid=124612\n\"\nCategory\n:\nZones",
+  "tables": [
+    [
+      [
+        "Zone Name",
+        "Suggested Levels",
+        "Connected Zones"
+      ],
+      [
+        "Staging Area",
+        "---",
+        "Serbule"
+      ],
+      [
+        "Anagoge Island",
+        "1-10",
+        "Serbule"
+      ],
+      [
+        "Serbule",
+        "1-30",
+        "EltibuleSun Valevia boatmanSerbule HillsAnagoge Island"
+      ],
+      [
+        "Serbule Hills",
+        "1-30",
+        "Serbule"
+      ],
+      [
+        "Eltibule",
+        "20-50",
+        "Serbule,Kur Mountains,Red Wing Casino"
+      ],
+      [
+        "Sun Vale",
+        "30-45",
+        "Serbule,Fae RealmthroughWinter Nexus"
+      ],
+      [
+        "Kur Mountains",
+        "30-50",
+        "Eltibule,Ilmari,Gazluk"
+      ],
+      [
+        "Red Wing Casino",
+        "30-50",
+        "Eltibule,Rahu"
+      ],
+      [
+        "Ilmari",
+        "50-60",
+        "Kur Mountains,Rahu"
+      ],
+      [
+        "Rahu",
+        "51-60",
+        "Ilmari,Povus,Red Wing Casino"
+      ],
+      [
+        "Fae Realm",
+        "70-80",
+        "Winter Nexus"
+      ],
+      [
+        "Gazluk",
+        "70-80",
+        "Kur Mountains,Povus,Vidaria"
+      ],
+      [
+        "Povus",
+        "75-85",
+        "Rahu,Gazluk,Vidaria"
+      ],
+      [
+        "Vidaria",
+        "90-95",
+        "Povus,Gazluk"
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "Each zone is connected to neighboring zones with a portal system. Traveling through a portal usually represents an uneventful trip over uninhabited land.",
+      "Zones are home to cities, towns, dungeons, landmarks, and adventures. A myriad of species both friendly and foe populate zones.",
+      "As of the 03-16-2022 Game Update, there are eleven zones.",
+      "Each zone is designed to facilitate gameplay at a certain level range, however each zone has a few traits that encourage repeated backtracking."
+    ],
+    [
+      "Recommended Levels: 0-10",
+      "A storm-tossed island that acts as the starting point for Human, Elf, and Rakshasa adventurers."
+    ],
+    [
+      "Recommended Levels: 1-30",
+      "A remote region at the end of a long trade route that allowed merchants seaward access."
+    ],
+    [
+      "Recommended Levels: 1-25",
+      "Part of the greater Serbule region, Serbule Hills is home to farms and logging camps."
+    ],
+    [
+      "Recommended Levels: 15-40",
+      "A more mountainous region than the neighboringSerbule, Eltibule is known for its lakes and sprawling hills. Recently, horses have been spotted grazing here."
+    ],
+    [
+      "Recommended Levels: 20-40",
+      "Sun Vale is the name given to an island chain nestled between Alharth'sCouncil Landsand the elven country ofVerta. Home to a failed resort, adventurers can expect to find druids, sea life, and the mundane battleground of a seemingly endless war."
+    ],
+    [
+      "Recommended Levels: 35-50",
+      "Beyond the hills of Eltibule, the frozen Kur Mountains test a travelers' ability to withstand the frigid temperatures and the monsters which have acclimated to this land."
+    ],
+    [
+      "Recommended Levels: 45-60",
+      "Rumored to have once been fertile farmland, Ilmari is a sprawling desert home to the Rakshasa. Travelers should be wary of sandstorms and dehydration."
+    ],
+    [
+      "Recommended Levels: 50-65",
+      "A coastal merchant town across the Ilmari desert, travelers to the so-called Rakshasa capital of Rahu will find that cool breezes may not be enough to quell the heated opinions of the locals towards outsiders."
+    ],
+    [
+      "Recommended Levels: 70-75",
+      "Adventurers prepared to cross the Kur Mountains will face an even harsher climate in the Gazluk Plateau. Only native beasts, resilient Orcs, and fools dare live in this wintry land."
+    ],
+    [
+      "Recommended Levels: 70-80",
+      "One of many other realms, this particular Fae Realm can be reached through fairy nexuses linked to Alharth."
+    ],
+    [
+      "Recommended Levels: 75-85",
+      "A once prosperous merchant town of Rakshasa craftsmen, this swampland offers difficult but still possible passage between the Council Lands and the Crone Hegemony."
+    ],
+    [
+      "The capital cityStatehelmis the home ofThe Counciland is actively under construction. More info can be found on the developer forums[1]."
+    ],
+    [
+      "Zones"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "Alharth",
+      "href": "/wiki/Alharth"
+    },
+    {
+      "text": "Anagoge Island",
+      "href": "/wiki/Anagoge_Island"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Serbule Hills",
+      "href": "/wiki/Serbule_Hills"
+    },
+    {
+      "text": "Eltibule",
+      "href": "/wiki/Eltibule"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Sun Vale",
+      "href": "/wiki/Sun_Vale"
+    },
+    {
+      "text": "Council Lands",
+      "href": "/wiki/Council_Lands"
+    },
+    {
+      "text": "Verta",
+      "href": "/wiki/Verta"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Ilmari",
+      "href": "/wiki/Ilmari"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Fae Realm",
+      "href": "/wiki/Fae_Realm"
+    },
+    {
+      "text": "Povus",
+      "href": "/wiki/Povus"
+    },
+    {
+      "text": "Staging Area",
+      "href": "/wiki/Staging_Area"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Anagoge Island",
+      "href": "/wiki/Anagoge_Island"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Eltibule",
+      "href": "/wiki/Eltibule"
+    },
+    {
+      "text": "Sun Vale",
+      "href": "/wiki/Sun_Vale"
+    },
+    {
+      "text": "Serbule Hills",
+      "href": "/wiki/Serbule_Hills"
+    },
+    {
+      "text": "Anagoge Island",
+      "href": "/wiki/Anagoge_Island"
+    },
+    {
+      "text": "Serbule Hills",
+      "href": "/wiki/Serbule_Hills"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Eltibule",
+      "href": "/wiki/Eltibule"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Red Wing Casino",
+      "href": "/wiki/Red_Wing_Casino"
+    },
+    {
+      "text": "Sun Vale",
+      "href": "/wiki/Sun_Vale"
+    },
+    {
+      "text": "Serbule",
+      "href": "/wiki/Serbule"
+    },
+    {
+      "text": "Fae Realm",
+      "href": "/wiki/Fae_Realm"
+    },
+    {
+      "text": "Winter Nexus",
+      "href": "/wiki/Winter_Nexus"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Eltibule",
+      "href": "/wiki/Eltibule"
+    },
+    {
+      "text": "Ilmari",
+      "href": "/wiki/Ilmari"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Red Wing Casino",
+      "href": "/wiki/Red_Wing_Casino"
+    },
+    {
+      "text": "Eltibule",
+      "href": "/wiki/Eltibule"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Ilmari",
+      "href": "/wiki/Ilmari"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Ilmari",
+      "href": "/wiki/Ilmari"
+    },
+    {
+      "text": "Povus",
+      "href": "/wiki/Povus"
+    },
+    {
+      "text": "Red Wing Casino",
+      "href": "/wiki/Red_Wing_Casino"
+    },
+    {
+      "text": "Fae Realm",
+      "href": "/wiki/Fae_Realm"
+    },
+    {
+      "text": "Winter Nexus",
+      "href": "/wiki/Winter_Nexus"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Povus",
+      "href": "/wiki/Povus"
+    },
+    {
+      "text": "Vidaria",
+      "href": "/wiki/Vidaria"
+    },
+    {
+      "text": "Povus",
+      "href": "/wiki/Povus"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Vidaria",
+      "href": "/wiki/Vidaria"
+    },
+    {
+      "text": "Vidaria",
+      "href": "/wiki/Vidaria"
+    },
+    {
+      "text": "Povus",
+      "href": "/wiki/Povus"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Statehelm",
+      "href": "/wiki/Statehelm"
+    },
+    {
+      "text": "The Council",
+      "href": "/wiki/The_Council"
+    },
+    {
+      "text": "[1]",
+      "href": "https://forum.projectgorgon.com/entry.php?42-Town-Hall-June-14-2021"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Zones&oldid=124612",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Zones&oldid=124612"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Zones",
+      "href": "/wiki/Category:Zones"
+    }
+  ],
+  "images": [],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

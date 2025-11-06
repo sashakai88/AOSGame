@@ -1,0 +1,41 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Game_updates/2025-10-31",
+  "title": "Game updates/2025-10-31 - Project: Gorgon Wiki",
+  "main_content": "Game updates/2025-10-31\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nUpdate Notes: October 31, 2025\nThis is a minor update to fix a few annoying bugs. We also have a preview of our new character creator for you to try out. If you're so inclined you can help us find good character presets for others to use! You will be credited in-game for the look if we use it. You can access the character creator preview right after logging in, before choosing your character.\nOther fixes/changes:\n- Fix map issue causing minimap to not scale or follow properly. The fix for this also fixes the party UI duplication bug\n- Remove colliders from trees in Sun Vale causing people to fall through the ground. (Temp fix; the trees need to be replaced)\n- Fix terrain flickering in Serbule Hills\n- Recipes to improve mastercrafted hammer or club have been split into two recipes, one for hammer and one for club. The previously-existing recipe applies to hammers and the new recipe for clubs is in loot\n- The recipe \"Blacksmithing: Improve Prophesied or Foretold Staff via Crafting\" has become a Carpentry recipe\n- Fix bug with mod \"If attack kills an enemy via direct damage, gain X Power and Hasten Current Reuse Timer of Pound To Slag -Y\", it now properly affects Pound to Slag\n- Zhia Lian Whimsical Challenge changes\n- Main tier quests now require 250 items\n- New set of quests that only require 125 items for low population time slots\n- Added special display icon for the Serbule Spider Invasion to note when the event is in progress\nClick here to return to the Game Updates page.\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Game_updates/2025-10-31&oldid=203775\n\"\nCategory\n:\nGame updates",
+  "tables": [],
+  "lists": [
+    [
+      "Game updates"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "Click here to return to the Game Updates page.",
+      "href": "/wiki/Game_updates"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Game_updates/2025-10-31&oldid=203775",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Game_updates/2025-10-31&oldid=203775"
+    },
+    {
+      "text": "Category",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Game updates",
+      "href": "/wiki/Category:Game_updates"
+    }
+  ],
+  "images": [],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}
