@@ -1,0 +1,3135 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Fairy_Magic",
+  "title": "Fairy Magic - Project: Gorgon Wiki",
+  "main_content": "Fairy Magic\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nFairy Magic\nA sub-skill of Mentalism that focuses on psychic links to the fae realms.\nSkill Type:\nCombat Skill\nMax Level:\n90\nRequirements:\n???\nSkill Trainers:\nPreta\n,\nRaina\n“\nA sub-skill of Mentalism that focuses on psychic links to the fae realms.\nFairy Magic Overview\nFairy Magic\nis a\nMentalism\nsub-skill used by Fae adventurers.\nIn-Game Description\nA sub-skill of Mentalism that focuses on psychic links to the fae realms.\nTraining Fairy Magic\nPreta\nin\nSun Vale\noffers the Level 51-60 and Level 61-70 unlocks.\nRaina\nin the\nFae Realm\noffers the Level 71-80 unlock.\nLevels 81-90 are unlocked by\nReinath\ndeep beneath\nPovus\n.\nConnected Skills\nSub-Skills:\nN/A\nSecondary Skills:\nMentalism\n- Mentalism is the Parent Skill of\nFairy Magic\n.\nRelated Skills:\nFae (Race Skill)\n-\nFae (Race Skill)\nacts as a skill that allows fairies to do fairy things.\nFae Anatomy\n- The anatomy of Fae and Fairies.\nSynergy Levels:\nBonus\nSynergy Levels\nfor\nFairy Magic\ncan be obtained from the following skills and levels:\nAnimal Handling\nLevel 35\nDying\nLevel 10\nFae Anatomy\nLevel 49\nFire Magic\nLevel 38\nGardening\nLevel 48\nLore\nLevel 6\nMentalism\nLevel 55\nFairy Magic Complete Ability List\nIcon\nLevel\nName\nDescription\nSpecial\nEffects\nStats\nSource\n1\nFairy Fire\nCover an enemy in ephemeral \"fire\", making it harder for them to evade.\nTarget's Evasion is reduced by 50% (all Evasion types)\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n9 Psychic\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n7\nRange:\n20\nCooldown:\n10\nAccuracy:\n+3%\nLeveling\n4\nPixie Flare\nElectrify the space where an enemy is standing.\n--Can Have--\nRestores:\n0 Health to yourself\nDamage:\n14 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n16\nRange:\n20\nCooldown:\n12\nLeveling\n11\nFairy Fire 2\nCover an enemy in ephemeral \"fire\", making it harder for them to evade.\nTarget's Evasion is reduced by 50% (all Evasion types)\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n17 Psychic\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n9\nRange:\n20\nCooldown:\n10\nAccuracy:\n+4%\nLeveling\n12\nFae Conduit\nOpen a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)\nAllies recover 15 Power every 5 seconds while in area\nPower Cost:\n44\nRange:\n4\nCooldown:\n60\nLeveling\n14\nPixie Flare 2\nElectrify the space where an enemy is standing.\n--Can Have--\nRestores:\n0 Health to yourself\nDamage:\n37 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n22\nRange:\n20\nCooldown:\n12\nLeveling\n15\nAstral Strike\nPull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)\nThis is an Epic Attack\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n55 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n37\nAoE:\n20\nCooldown:\n60\nLeveling\n21\nFairy Fire 3\nCover an enemy in ephemeral \"fire\", making it harder for them to evade.\nTarget's Evasion is reduced by 50% (all Evasion types)\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n28 Psychic\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n12\nRange:\n20\nCooldown:\n10\nAccuracy:\n+5%\nLeveling\n24\nPixie Flare 3\nElectrify the space where an enemy is standing.\n--Can Have--\nRestores:\n0 Health to yourself\nDamage:\n64 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n27\nRange:\n20\nCooldown:\n12\nLeveling\n25\nFae Conduit 2\nOpen a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)\nAllies recover 19 Power every 5 seconds while in area\nPower Cost:\n59\nRange:\n4\nCooldown:\n60\nLeveling\n30\nAstral Strike 2\nPull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)\nThis is an Epic Attack\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n115 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n50\nAoE:\n20\nCooldown:\n60\nLeveling\n31\nFairy Fire 4\nCover an enemy in ephemeral \"fire\", making it harder for them to evade.\nTarget's Evasion is reduced by 50% (all Evasion types)\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n46 Psychic\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n14\nRange:\n20\nCooldown:\n10\nAccuracy:\n+6%\nLeveling\n34\nPixie Flare 4\nElectrify the space where an enemy is standing.\n--Can Have--\nRestores:\n0 Health to yourself\nDamage:\n99 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n33\nRange:\n20\nCooldown:\n12\nLeveling\n36\nFae Conduit 3\nOpen a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)\nAllies recover 23 Power every 5 seconds while in area\nPower Cost:\n73\nRange:\n4\nCooldown:\n60\nLeveling\n41\nFairy Fire 5\nCover an enemy in ephemeral \"fire\", making it harder for them to evade.\nTarget's Evasion is reduced by 50% (all Evasion types)\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n70 Psychic\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n17\nRange:\n20\nCooldown:\n10\nAccuracy:\n+7%\nLeveling\n44\nPixie Flare 5\nElectrify the space where an enemy is standing.\n--Can Have--\nRestores:\n0 Health to yourself\nDamage:\n154 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n38\nRange:\n20\nCooldown:\n12\nLeveling\n45\nAstral Strike 3\nPull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)\nThis is an Epic Attack\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n218 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n63\nAoE:\n20\nCooldown:\n60\nLeveling\n48\nFae Conduit 4\nOpen a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)\nAllies recover 27 Power every 5 seconds while in area\nPower Cost:\n85\nRange:\n4\nCooldown:\n60\nLeveling\n51\nFairy Fire 6\nCover an enemy in ephemeral \"fire\", making it harder for them to evade.\nTarget's Evasion is reduced by 50% (all Evasion types)\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n106 Psychic\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n19\nRange:\n20\nCooldown:\n10\nAccuracy:\n+8%\nTraining:\nPreta\n54\nPixie Flare 6\nElectrify the space where an enemy is standing.\n--Can Have--\nRestores:\n0 Health to yourself\nDamage:\n228 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n42\nRange:\n20\nCooldown:\n12\nTraining:\nPreta\n60\nAstral Strike 4\nPull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)\nThis is an Epic Attack\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n367 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n75\nAoE:\n20\nCooldown:\n60\nTraining:\nPreta\n60\nFae Conduit 5\nOpen a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)\nAllies recover 31 Power every 5 seconds while in area\nPower Cost:\n97\nRange:\n4\nCooldown:\n60\nTraining:\nPreta\n61\nFairy Fire 7\nCover an enemy in ephemeral \"fire\", making it harder for them to evade.\nTarget's Evasion is reduced by 50% (all Evasion types)\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n144 Psychic\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n21\nRange:\n20\nCooldown:\n10\nAccuracy:\n+9%\nTraining:\nPreta\n64\nPixie Flare 7\nElectrify the space where an enemy is standing.\n--Can Have--\nRestores:\n0 Health to yourself\nDamage:\n300 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n47\nRange:\n20\nCooldown:\n12\nTraining:\nPreta\n71\nFairy Fire 8\nCover an enemy in ephemeral \"fire\", making it harder for them to evade.\nTarget's Evasion is reduced by 50% (all Evasion types)\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n183 Psychic\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n23\nRange:\n20\nCooldown:\n10\nAccuracy:\n+10%\nTraining:\nRaina\n72\nFae Conduit 6\nOpen a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)\nAllies recover 35 Power every 5 seconds while in area\nPower Cost:\n110\nRange:\n4\nCooldown:\n60\nTraining:\nRaina\n74\nPixie Flare 8\nElectrify the space where an enemy is standing.\n--Can Have--\nRestores:\n0 Health to yourself\nDamage:\n382 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n52\nRange:\n20\nCooldown:\n12\nTraining:\nRaina\n75\nAstral Strike 5\nPull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)\nThis is an Epic Attack\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n528 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n87\nAoE:\n20\nCooldown:\n60\nTraining:\nRaina\n81\nFairy Fire 9\nCover an enemy in ephemeral \"fire\", making it harder for them to evade.\nTarget's Evasion is reduced by 50% (all Evasion types)\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n228 Psychic\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n26\nRange:\n20\nCooldown:\n10\nAccuracy:\n+11%\nTraining:\nRaina\n84\nPixie Flare 9\nElectrify the space where an enemy is standing.\n--Can Have--\nRestores:\n0 Health to yourself\nDamage:\n470 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n58\nRange:\n20\nCooldown:\n12\nTraining:\nRaina\n84\nFae Conduit 7\nOpen a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)\nAllies recover 39 Power every 5 seconds while in area\nPower Cost:\n124\nRange:\n4\nCooldown:\n60\nTraining:\nRaina\n90\nAstral Strike 6\nPull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)\nThis is an Epic Attack\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n708 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n101\nAoE:\n20\nCooldown:\n60\nItem:\nFairy Magic: Astral Strike 6\n91\nFairy Fire 10\nCover an enemy in ephemeral \"fire\", making it harder for them to evade.\nTarget's Evasion is reduced by 50% (all Evasion types)\n--Can Have--\nDoT:\n0 Fire, 5 times over 10 seconds\nDamage:\n275 Psychic\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n29\nRange:\n20\nCooldown:\n10\nAccuracy:\n+12%\nItem:\nFairy Magic: Fairy Fire 10\n94\nPixie Flare 10\nElectrify the space where an enemy is standing.\n--Can Have--\nRestores:\n0 Health to yourself\nDamage:\n561 Electricity\nCrit Chance:\nPhrenology\nCrit Mult:\n1.25\nPower Cost:\n63\nRange:\n20\nCooldown:\n12\nItem:\nFairy Magic: Pixie Flare 10\nFairy Magic Mechanics\nEquipment\nCrafters producing equipment for use by\nFairy Magic\nusers should obtain the\nSigil Scripting\nrecipe\nFairy Magic Inscription,\nwhich allows for the creation of\nFairy Magic Topaz\n.\nThis attuned gemstone can be used in any recipe which calls for the use of\nCrystals\nto create equipment with\nFairy Magic\nTreasure Effects.\nFairy Magic Treasure Effects\nSee also:\nFairy Magic/Treasure Effects:By Slot\nSee also:\nFairy Magic/Treasure Effects:By Ability\nPrefix\nSuffix\nMax-Level Version\nRarity\nSlot\nOther Versions\nLevel 125\n- Fairy Fire damage is +113 and attack range is +5\nUncommon\nHands, Legs\nClick Expand to reveal\nLevel 5\nFairy Fire damage is +4 and attack range is +5\nLevel 10\nFairy Fire damage is +8 and attack range is +5\nLevel 15\nFairy Fire damage is +12 and attack range is +5\nLevel 20\nFairy Fire damage is +16 and attack range is +5\nLevel 25\nFairy Fire damage is +20 and attack range is +5\nLevel 30\nFairy Fire damage is +24 and attack range is +5\nLevel 35\nFairy Fire damage is +28 and attack range is +5\nLevel 40\nFairy Fire damage is +32 and attack range is +5\nLevel 45\nFairy Fire damage is +36 and attack range is +5\nLevel 50\nFairy Fire damage is +40 and attack range is +5\nLevel 55\nFairy Fire damage is +44 and attack range is +5\nLevel 60\nFairy Fire damage is +48 and attack range is +5\nLevel 65\nFairy Fire damage is +53 and attack range is +5\nLevel 70\nFairy Fire damage is +58 and attack range is +5\nLevel 75\nFairy Fire damage is +63 and attack range is +5\nLevel 80\nFairy Fire damage is +68 and attack range is +5\nLevel 85\nFairy Fire damage is +73 and attack range is +5\nLevel 90\nFairy Fire damage is +78 and attack range is +5\nLevel 95\nFairy Fire damage is +83 and attack range is +5\nLevel 100\nFairy Fire damage is +88 and attack range is +5\nLevel 105\nFairy Fire damage is +93 and attack range is +5\nLevel 110\nFairy Fire damage is +98 and attack range is +5\nLevel 115\nFairy Fire damage is +103 and attack range is +5\nLevel 120\nFairy Fire damage is +108 and attack range is +5\nLevel 125\nFairy Fire damage is +113 and attack range is +5\nLevel 125\n- Fairy Fire Damage +91%\nUncommon\nChest, Necklace\nClick Expand to reveal\nLevel 5\nFairy Fire Damage +6%\nLevel 10\nFairy Fire Damage +9%\nLevel 15\nFairy Fire Damage +12%\nLevel 20\nFairy Fire Damage +15%\nLevel 25\nFairy Fire Damage +18%\nLevel 30\nFairy Fire Damage +21%\nLevel 35\nFairy Fire Damage +24%\nLevel 40\nFairy Fire Damage +27%\nLevel 45\nFairy Fire Damage +30%\nLevel 50\nFairy Fire Damage +33%\nLevel 55\nFairy Fire Damage +36%\nLevel 60\nFairy Fire Damage +39%\nLevel 65\nFairy Fire Damage +43%\nLevel 70\nFairy Fire Damage +47%\nLevel 75\nFairy Fire Damage +51%\nLevel 80\nFairy Fire Damage +55%\nLevel 85\nFairy Fire Damage +59%\nLevel 90\nFairy Fire Damage +63%\nLevel 95\nFairy Fire Damage +67%\nLevel 100\nFairy Fire Damage +71%\nLevel 105\nFairy Fire Damage +75%\nLevel 110\nFairy Fire Damage +79%\nLevel 115\nFairy Fire Damage +83%\nLevel 120\nFairy Fire Damage +87%\nLevel 125\nFairy Fire Damage +91%\nof Fairy Burns\nLevel 125\n- Fairy Fire's damage type becomes Fire, and it deals an additional 335 Fire damage over 10 seconds\nUncommon\nHead, OffHand\nClick Expand to reveal\nLevel 5\nFairy Fire's damage type becomes Fire, and it deals an additional 15 Fire damage over 10 seconds\nLevel 10\nFairy Fire's damage type becomes Fire, and it deals an additional 25 Fire damage over 10 seconds\nLevel 15\nFairy Fire's damage type becomes Fire, and it deals an additional 35 Fire damage over 10 seconds\nLevel 20\nFairy Fire's damage type becomes Fire, and it deals an additional 45 Fire damage over 10 seconds\nLevel 25\nFairy Fire's damage type becomes Fire, and it deals an additional 55 Fire damage over 10 seconds\nLevel 30\nFairy Fire's damage type becomes Fire, and it deals an additional 65 Fire damage over 10 seconds\nLevel 35\nFairy Fire's damage type becomes Fire, and it deals an additional 75 Fire damage over 10 seconds\nLevel 40\nFairy Fire's damage type becomes Fire, and it deals an additional 85 Fire damage over 10 seconds\nLevel 45\nFairy Fire's damage type becomes Fire, and it deals an additional 95 Fire damage over 10 seconds\nLevel 50\nFairy Fire's damage type becomes Fire, and it deals an additional 110 Fire damage over 10 seconds\nLevel 55\nFairy Fire's damage type becomes Fire, and it deals an additional 125 Fire damage over 10 seconds\nLevel 60\nFairy Fire's damage type becomes Fire, and it deals an additional 140 Fire damage over 10 seconds\nLevel 65\nFairy Fire's damage type becomes Fire, and it deals an additional 155 Fire damage over 10 seconds\nLevel 70\nFairy Fire's damage type becomes Fire, and it deals an additional 170 Fire damage over 10 seconds\nLevel 75\nFairy Fire's damage type becomes Fire, and it deals an additional 185 Fire damage over 10 seconds\nLevel 80\nFairy Fire's damage type becomes Fire, and it deals an additional 200 Fire damage over 10 seconds\nLevel 85\nFairy Fire's damage type becomes Fire, and it deals an additional 215 Fire damage over 10 seconds\nLevel 90\nFairy Fire's damage type becomes Fire, and it deals an additional 230 Fire damage over 10 seconds\nLevel 95\nFairy Fire's damage type becomes Fire, and it deals an additional 245 Fire damage over 10 seconds\nLevel 100\nFairy Fire's damage type becomes Fire, and it deals an additional 260 Fire damage over 10 seconds\nLevel 105\nFairy Fire's damage type becomes Fire, and it deals an additional 275 Fire damage over 10 seconds\nLevel 110\nFairy Fire's damage type becomes Fire, and it deals an additional 290 Fire damage over 10 seconds\nLevel 115\nFairy Fire's damage type becomes Fire, and it deals an additional 305 Fire damage over 10 seconds\nLevel 120\nFairy Fire's damage type becomes Fire, and it deals an additional 320 Fire damage over 10 seconds\nLevel 125\nFairy Fire's damage type becomes Fire, and it deals an additional 335 Fire damage over 10 seconds\nLevel 125\n- Fairy Fire causes your next attack to deal +152 damage if it's a Psychic, Electricity, or Fire attack\nUncommon\nFeet, MainHand\nClick Expand to reveal\nLevel 5\nFairy Fire causes your next attack to deal +8 damage if it's a Psychic, Electricity, or Fire attack\nLevel 10\nFairy Fire causes your next attack to deal +14 damage if it's a Psychic, Electricity, or Fire attack\nLevel 15\nFairy Fire causes your next attack to deal +20 damage if it's a Psychic, Electricity, or Fire attack\nLevel 20\nFairy Fire causes your next attack to deal +26 damage if it's a Psychic, Electricity, or Fire attack\nLevel 25\nFairy Fire causes your next attack to deal +32 damage if it's a Psychic, Electricity, or Fire attack\nLevel 30\nFairy Fire causes your next attack to deal +38 damage if it's a Psychic, Electricity, or Fire attack\nLevel 35\nFairy Fire causes your next attack to deal +44 damage if it's a Psychic, Electricity, or Fire attack\nLevel 40\nFairy Fire causes your next attack to deal +50 damage if it's a Psychic, Electricity, or Fire attack\nLevel 45\nFairy Fire causes your next attack to deal +56 damage if it's a Psychic, Electricity, or Fire attack\nLevel 50\nFairy Fire causes your next attack to deal +62 damage if it's a Psychic, Electricity, or Fire attack\nLevel 55\nFairy Fire causes your next attack to deal +68 damage if it's a Psychic, Electricity, or Fire attack\nLevel 60\nFairy Fire causes your next attack to deal +74 damage if it's a Psychic, Electricity, or Fire attack\nLevel 65\nFairy Fire causes your next attack to deal +80 damage if it's a Psychic, Electricity, or Fire attack\nLevel 70\nFairy Fire causes your next attack to deal +86 damage if it's a Psychic, Electricity, or Fire attack\nLevel 75\nFairy Fire causes your next attack to deal +92 damage if it's a Psychic, Electricity, or Fire attack\nLevel 80\nFairy Fire causes your next attack to deal +98 damage if it's a Psychic, Electricity, or Fire attack\nLevel 85\nFairy Fire causes your next attack to deal +104 damage if it's a Psychic, Electricity, or Fire attack\nLevel 90\nFairy Fire causes your next attack to deal +110 damage if it's a Psychic, Electricity, or Fire attack\nLevel 95\nFairy Fire causes your next attack to deal +116 damage if it's a Psychic, Electricity, or Fire attack\nLevel 100\nFairy Fire causes your next attack to deal +122 damage if it's a Psychic, Electricity, or Fire attack\nLevel 105\nFairy Fire causes your next attack to deal +128 damage if it's a Psychic, Electricity, or Fire attack\nLevel 110\nFairy Fire causes your next attack to deal +134 damage if it's a Psychic, Electricity, or Fire attack\nLevel 115\nFairy Fire causes your next attack to deal +140 damage if it's a Psychic, Electricity, or Fire attack\nLevel 120\nFairy Fire causes your next attack to deal +146 damage if it's a Psychic, Electricity, or Fire attack\nLevel 125\nFairy Fire causes your next attack to deal +152 damage if it's a Psychic, Electricity, or Fire attack\nLevel 125\n- Fairy Fire deals +125 damage, plus it stuns incorporeal enemies\nUncommon\nRing\nClick Expand to reveal\nLevel 5\nFairy Fire deals +5 damage, plus it stuns incorporeal enemies\nLevel 10\nFairy Fire deals +10 damage, plus it stuns incorporeal enemies\nLevel 15\nFairy Fire deals +15 damage, plus it stuns incorporeal enemies\nLevel 20\nFairy Fire deals +20 damage, plus it stuns incorporeal enemies\nLevel 25\nFairy Fire deals +25 damage, plus it stuns incorporeal enemies\nLevel 30\nFairy Fire deals +30 damage, plus it stuns incorporeal enemies\nLevel 35\nFairy Fire deals +35 damage, plus it stuns incorporeal enemies\nLevel 40\nFairy Fire deals +40 damage, plus it stuns incorporeal enemies\nLevel 45\nFairy Fire deals +45 damage, plus it stuns incorporeal enemies\nLevel 50\nFairy Fire deals +50 damage, plus it stuns incorporeal enemies\nLevel 55\nFairy Fire deals +55 damage, plus it stuns incorporeal enemies\nLevel 60\nFairy Fire deals +60 damage, plus it stuns incorporeal enemies\nLevel 65\nFairy Fire deals +65 damage, plus it stuns incorporeal enemies\nLevel 70\nFairy Fire deals +70 damage, plus it stuns incorporeal enemies\nLevel 75\nFairy Fire deals +75 damage, plus it stuns incorporeal enemies\nLevel 80\nFairy Fire deals +80 damage, plus it stuns incorporeal enemies\nLevel 85\nFairy Fire deals +85 damage, plus it stuns incorporeal enemies\nLevel 90\nFairy Fire deals +90 damage, plus it stuns incorporeal enemies\nLevel 95\nFairy Fire deals +95 damage, plus it stuns incorporeal enemies\nLevel 100\nFairy Fire deals +100 damage, plus it stuns incorporeal enemies\nLevel 105\nFairy Fire deals +105 damage, plus it stuns incorporeal enemies\nLevel 110\nFairy Fire deals +110 damage, plus it stuns incorporeal enemies\nLevel 115\nFairy Fire deals +115 damage, plus it stuns incorporeal enemies\nLevel 120\nFairy Fire deals +120 damage, plus it stuns incorporeal enemies\nLevel 125\nFairy Fire deals +125 damage, plus it stuns incorporeal enemies\nLevel 125\n- Astral Strike Damage +77%\nUncommon\nRing, Head\nClick Expand to reveal\nLevel 5\nAstral Strike Damage +10%\nLevel 10\nAstral Strike Damage +8%\nLevel 15\nAstral Strike Damage +11%\nLevel 20\nAstral Strike Damage +14%\nLevel 25\nAstral Strike Damage +17%\nLevel 30\nAstral Strike Damage +20%\nLevel 35\nAstral Strike Damage +23%\nLevel 40\nAstral Strike Damage +26%\nLevel 45\nAstral Strike Damage +29%\nLevel 50\nAstral Strike Damage +32%\nLevel 55\nAstral Strike Damage +35%\nLevel 60\nAstral Strike Damage +38%\nLevel 65\nAstral Strike Damage +41%\nLevel 70\nAstral Strike Damage +44%\nLevel 75\nAstral Strike Damage +47%\nLevel 80\nAstral Strike Damage +50%\nLevel 85\nAstral Strike Damage +53%\nLevel 90\nAstral Strike Damage +56%\nLevel 95\nAstral Strike Damage +59%\nLevel 100\nAstral Strike Damage +62%\nLevel 105\nAstral Strike Damage +65%\nLevel 110\nAstral Strike Damage +68%\nLevel 115\nAstral Strike Damage +71%\nLevel 120\nAstral Strike Damage +74%\nLevel 125\nAstral Strike Damage +77%\nLevel 125\n- Astral Strike's reuse timer is -4 secs, and damage is boosted +125% vs Elite enemies\nUncommon\nChest, MainHand\nClick Expand to reveal\nLevel 5\nAstral Strike's reuse timer is -1 secs, and damage is boosted +5% vs Elite enemies\nLevel 10\nAstral Strike's reuse timer is -1 secs, and damage is boosted +10% vs Elite enemies\nLevel 15\nAstral Strike's reuse timer is -1 secs, and damage is boosted +15% vs Elite enemies\nLevel 20\nAstral Strike's reuse timer is -1 secs, and damage is boosted +20% vs Elite enemies\nLevel 25\nAstral Strike's reuse timer is -2 secs, and damage is boosted +25% vs Elite enemies\nLevel 30\nAstral Strike's reuse timer is -2 secs, and damage is boosted +30% vs Elite enemies\nLevel 35\nAstral Strike's reuse timer is -2 secs, and damage is boosted +35% vs Elite enemies\nLevel 40\nAstral Strike's reuse timer is -2 secs, and damage is boosted +40% vs Elite enemies\nLevel 45\nAstral Strike's reuse timer is -3 secs, and damage is boosted +45% vs Elite enemies\nLevel 50\nAstral Strike's reuse timer is -3 secs, and damage is boosted +50% vs Elite enemies\nLevel 55\nAstral Strike's reuse timer is -3 secs, and damage is boosted +55% vs Elite enemies\nLevel 60\nAstral Strike's reuse timer is -3 secs, and damage is boosted +60% vs Elite enemies\nLevel 65\nAstral Strike's reuse timer is -4 secs, and damage is boosted +65% vs Elite enemies\nLevel 70\nAstral Strike's reuse timer is -4 secs, and damage is boosted +70% vs Elite enemies\nLevel 75\nAstral Strike's reuse timer is -4 secs, and damage is boosted +75% vs Elite enemies\nLevel 80\nAstral Strike's reuse timer is -4 secs, and damage is boosted +80% vs Elite enemies\nLevel 85\nAstral Strike's reuse timer is -4 secs, and damage is boosted +85% vs Elite enemies\nLevel 90\nAstral Strike's reuse timer is -4 secs, and damage is boosted +90% vs Elite enemies\nLevel 95\nAstral Strike's reuse timer is -4 secs, and damage is boosted +95% vs Elite enemies\nLevel 100\nAstral Strike's reuse timer is -4 secs, and damage is boosted +100% vs Elite enemies\nLevel 105\nAstral Strike's reuse timer is -4 secs, and damage is boosted +105% vs Elite enemies\nLevel 110\nAstral Strike's reuse timer is -4 secs, and damage is boosted +110% vs Elite enemies\nLevel 115\nAstral Strike's reuse timer is -4 secs, and damage is boosted +115% vs Elite enemies\nLevel 120\nAstral Strike's reuse timer is -4 secs, and damage is boosted +120% vs Elite enemies\nLevel 125\nAstral Strike's reuse timer is -4 secs, and damage is boosted +125% vs Elite enemies\nLevel 125\n- Astral Strike's damage is +250 and all targets are Stunned\nEpic\nFeet\nClick Expand to reveal\nLevel 5\nAstral Strike's damage is +10 and all targets are Stunned\nLevel 10\nAstral Strike's damage is +20 and all targets are Stunned\nLevel 15\nAstral Strike's damage is +30 and all targets are Stunned\nLevel 20\nAstral Strike's damage is +40 and all targets are Stunned\nLevel 25\nAstral Strike's damage is +50 and all targets are Stunned\nLevel 30\nAstral Strike's damage is +60 and all targets are Stunned\nLevel 35\nAstral Strike's damage is +70 and all targets are Stunned\nLevel 40\nAstral Strike's damage is +80 and all targets are Stunned\nLevel 45\nAstral Strike's damage is +90 and all targets are Stunned\nLevel 50\nAstral Strike's damage is +100 and all targets are Stunned\nLevel 55\nAstral Strike's damage is +110 and all targets are Stunned\nLevel 60\nAstral Strike's damage is +120 and all targets are Stunned\nLevel 65\nAstral Strike's damage is +130 and all targets are Stunned\nLevel 70\nAstral Strike's damage is +140 and all targets are Stunned\nLevel 75\nAstral Strike's damage is +150 and all targets are Stunned\nLevel 80\nAstral Strike's damage is +160 and all targets are Stunned\nLevel 85\nAstral Strike's damage is +170 and all targets are Stunned\nLevel 90\nAstral Strike's damage is +180 and all targets are Stunned\nLevel 95\nAstral Strike's damage is +190 and all targets are Stunned\nLevel 100\nAstral Strike's damage is +200 and all targets are Stunned\nLevel 105\nAstral Strike's damage is +210 and all targets are Stunned\nLevel 110\nAstral Strike's damage is +220 and all targets are Stunned\nLevel 115\nAstral Strike's damage is +230 and all targets are Stunned\nLevel 120\nAstral Strike's damage is +240 and all targets are Stunned\nLevel 125\nAstral Strike's damage is +250 and all targets are Stunned\nLevel 125\n- Astral Strike's damage type becomes Fire, and it deals an additional 720 damage over 10 seconds\nUncommon\nLegs\nClick Expand to reveal\nLevel 5\nAstral Strike's damage type becomes Fire, and it deals an additional 25 damage over 10 seconds\nLevel 10\nAstral Strike's damage type becomes Fire, and it deals an additional 50 damage over 10 seconds\nLevel 15\nAstral Strike's damage type becomes Fire, and it deals an additional 75 damage over 10 seconds\nLevel 20\nAstral Strike's damage type becomes Fire, and it deals an additional 100 damage over 10 seconds\nLevel 25\nAstral Strike's damage type becomes Fire, and it deals an additional 125 damage over 10 seconds\nLevel 30\nAstral Strike's damage type becomes Fire, and it deals an additional 150 damage over 10 seconds\nLevel 35\nAstral Strike's damage type becomes Fire, and it deals an additional 180 damage over 10 seconds\nLevel 40\nAstral Strike's damage type becomes Fire, and it deals an additional 210 damage over 10 seconds\nLevel 45\nAstral Strike's damage type becomes Fire, and it deals an additional 240 damage over 10 seconds\nLevel 50\nAstral Strike's damage type becomes Fire, and it deals an additional 270 damage over 10 seconds\nLevel 55\nAstral Strike's damage type becomes Fire, and it deals an additional 300 damage over 10 seconds\nLevel 60\nAstral Strike's damage type becomes Fire, and it deals an additional 330 damage over 10 seconds\nLevel 65\nAstral Strike's damage type becomes Fire, and it deals an additional 360 damage over 10 seconds\nLevel 70\nAstral Strike's damage type becomes Fire, and it deals an additional 390 damage over 10 seconds\nLevel 75\nAstral Strike's damage type becomes Fire, and it deals an additional 420 damage over 10 seconds\nLevel 80\nAstral Strike's damage type becomes Fire, and it deals an additional 450 damage over 10 seconds\nLevel 85\nAstral Strike's damage type becomes Fire, and it deals an additional 480 damage over 10 seconds\nLevel 90\nAstral Strike's damage type becomes Fire, and it deals an additional 510 damage over 10 seconds\nLevel 95\nAstral Strike's damage type becomes Fire, and it deals an additional 540 damage over 10 seconds\nLevel 100\nAstral Strike's damage type becomes Fire, and it deals an additional 570 damage over 10 seconds\nLevel 105\nAstral Strike's damage type becomes Fire, and it deals an additional 600 damage over 10 seconds\nLevel 110\nAstral Strike's damage type becomes Fire, and it deals an additional 630 damage over 10 seconds\nLevel 115\nAstral Strike's damage type becomes Fire, and it deals an additional 660 damage over 10 seconds\nLevel 120\nAstral Strike's damage type becomes Fire, and it deals an additional 690 damage over 10 seconds\nLevel 125\nAstral Strike's damage type becomes Fire, and it deals an additional 720 damage over 10 seconds\nLevel 125\n- Astral Strike Power Cost -89\nUncommon\nNecklace\nClick Expand to reveal\nLevel 5\nAstral Strike Power Cost -17\nLevel 10\nAstral Strike Power Cost -20\nLevel 15\nAstral Strike Power Cost -23\nLevel 20\nAstral Strike Power Cost -26\nLevel 25\nAstral Strike Power Cost -29\nLevel 30\nAstral Strike Power Cost -32\nLevel 35\nAstral Strike Power Cost -35\nLevel 40\nAstral Strike Power Cost -38\nLevel 45\nAstral Strike Power Cost -41\nLevel 50\nAstral Strike Power Cost -44\nLevel 55\nAstral Strike Power Cost -47\nLevel 60\nAstral Strike Power Cost -50\nLevel 65\nAstral Strike Power Cost -53\nLevel 70\nAstral Strike Power Cost -56\nLevel 75\nAstral Strike Power Cost -59\nLevel 80\nAstral Strike Power Cost -62\nLevel 85\nAstral Strike Power Cost -65\nLevel 90\nAstral Strike Power Cost -68\nLevel 95\nAstral Strike Power Cost -71\nLevel 100\nAstral Strike Power Cost -74\nLevel 105\nAstral Strike Power Cost -77\nLevel 110\nAstral Strike Power Cost -80\nLevel 115\nAstral Strike Power Cost -83\nLevel 120\nAstral Strike Power Cost -86\nLevel 125\nAstral Strike Power Cost -89\nLevel 125\n- Astral Strike deals +130 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nUncommon\nHands\nClick Expand to reveal\nLevel 5\nAstral Strike deals +10 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 10\nAstral Strike deals +15 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 15\nAstral Strike deals +20 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 20\nAstral Strike deals +25 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 25\nAstral Strike deals +30 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 30\nAstral Strike deals +35 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 35\nAstral Strike deals +40 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 40\nAstral Strike deals +45 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 45\nAstral Strike deals +50 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 50\nAstral Strike deals +55 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 55\nAstral Strike deals +60 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 60\nAstral Strike deals +65 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 65\nAstral Strike deals +70 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 70\nAstral Strike deals +75 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 75\nAstral Strike deals +80 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 80\nAstral Strike deals +85 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 85\nAstral Strike deals +90 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 90\nAstral Strike deals +95 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 95\nAstral Strike deals +100 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 100\nAstral Strike deals +105 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 105\nAstral Strike deals +110 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 110\nAstral Strike deals +115 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 115\nAstral Strike deals +120 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 120\nAstral Strike deals +125 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 125\nAstral Strike deals +130 damage and resets the timer on Pixie Flare (so it can be used again immediately)\nLevel 125\n- Astral Strike causes all targets to suffer +156 damage from direct Cold attacks for 10 seconds\nUncommon\nOffHand\nClick Expand to reveal\nLevel 5\nAstral Strike causes all targets to suffer +12 damage from direct Cold attacks for 10 seconds\nLevel 10\nAstral Strike causes all targets to suffer +18 damage from direct Cold attacks for 10 seconds\nLevel 15\nAstral Strike causes all targets to suffer +24 damage from direct Cold attacks for 10 seconds\nLevel 20\nAstral Strike causes all targets to suffer +30 damage from direct Cold attacks for 10 seconds\nLevel 25\nAstral Strike causes all targets to suffer +36 damage from direct Cold attacks for 10 seconds\nLevel 30\nAstral Strike causes all targets to suffer +42 damage from direct Cold attacks for 10 seconds\nLevel 35\nAstral Strike causes all targets to suffer +48 damage from direct Cold attacks for 10 seconds\nLevel 40\nAstral Strike causes all targets to suffer +54 damage from direct Cold attacks for 10 seconds\nLevel 45\nAstral Strike causes all targets to suffer +60 damage from direct Cold attacks for 10 seconds\nLevel 50\nAstral Strike causes all targets to suffer +66 damage from direct Cold attacks for 10 seconds\nLevel 55\nAstral Strike causes all targets to suffer +72 damage from direct Cold attacks for 10 seconds\nLevel 60\nAstral Strike causes all targets to suffer +78 damage from direct Cold attacks for 10 seconds\nLevel 65\nAstral Strike causes all targets to suffer +84 damage from direct Cold attacks for 10 seconds\nLevel 70\nAstral Strike causes all targets to suffer +90 damage from direct Cold attacks for 10 seconds\nLevel 75\nAstral Strike causes all targets to suffer +96 damage from direct Cold attacks for 10 seconds\nLevel 80\nAstral Strike causes all targets to suffer +102 damage from direct Cold attacks for 10 seconds\nLevel 85\nAstral Strike causes all targets to suffer +108 damage from direct Cold attacks for 10 seconds\nLevel 90\nAstral Strike causes all targets to suffer +114 damage from direct Cold attacks for 10 seconds\nLevel 95\nAstral Strike causes all targets to suffer +120 damage from direct Cold attacks for 10 seconds\nLevel 100\nAstral Strike causes all targets to suffer +126 damage from direct Cold attacks for 10 seconds\nLevel 105\nAstral Strike causes all targets to suffer +132 damage from direct Cold attacks for 10 seconds\nLevel 110\nAstral Strike causes all targets to suffer +138 damage from direct Cold attacks for 10 seconds\nLevel 115\nAstral Strike causes all targets to suffer +144 damage from direct Cold attacks for 10 seconds\nLevel 120\nAstral Strike causes all targets to suffer +150 damage from direct Cold attacks for 10 seconds\nLevel 125\nAstral Strike causes all targets to suffer +156 damage from direct Cold attacks for 10 seconds\nFlared\nLevel 125\n- Pixie Flare's damage is +175 and reuse timer is -1 sec\nUncommon\nHands, Feet\nClick Expand to reveal\nLevel 5\nPixie Flare's damage is +7 and reuse timer is -1 sec\nLevel 10\nPixie Flare's damage is +14 and reuse timer is -1 sec\nLevel 15\nPixie Flare's damage is +21 and reuse timer is -1 sec\nLevel 20\nPixie Flare's damage is +28 and reuse timer is -1 sec\nLevel 25\nPixie Flare's damage is +35 and reuse timer is -1 sec\nLevel 30\nPixie Flare's damage is +42 and reuse timer is -1 sec\nLevel 35\nPixie Flare's damage is +49 and reuse timer is -1 sec\nLevel 40\nPixie Flare's damage is +56 and reuse timer is -1 sec\nLevel 45\nPixie Flare's damage is +63 and reuse timer is -1 sec\nLevel 50\nPixie Flare's damage is +70 and reuse timer is -1 sec\nLevel 55\nPixie Flare's damage is +77 and reuse timer is -1 sec\nLevel 60\nPixie Flare's damage is +84 and reuse timer is -1 sec\nLevel 65\nPixie Flare's damage is +91 and reuse timer is -1 sec\nLevel 70\nPixie Flare's damage is +98 and reuse timer is -1 sec\nLevel 75\nPixie Flare's damage is +105 and reuse timer is -1 sec\nLevel 80\nPixie Flare's damage is +112 and reuse timer is -1 sec\nLevel 85\nPixie Flare's damage is +119 and reuse timer is -1 sec\nLevel 90\nPixie Flare's damage is +126 and reuse timer is -1 sec\nLevel 95\nPixie Flare's damage is +133 and reuse timer is -1 sec\nLevel 100\nPixie Flare's damage is +140 and reuse timer is -1 sec\nLevel 105\nPixie Flare's damage is +147 and reuse timer is -1 sec\nLevel 110\nPixie Flare's damage is +154 and reuse timer is -1 sec\nLevel 115\nPixie Flare's damage is +161 and reuse timer is -1 sec\nLevel 120\nPixie Flare's damage is +168 and reuse timer is -1 sec\nLevel 125\nPixie Flare's damage is +175 and reuse timer is -1 sec\nFlaring\nLevel 125\n- Pixie Flare Damage +67%\nUncommon\nChest, MainHand\nClick Expand to reveal\nLevel 5\nPixie Flare Damage +8%\nLevel 10\nPixie Flare Damage +10%\nLevel 15\nPixie Flare Damage +12%\nLevel 20\nPixie Flare Damage +14%\nLevel 25\nPixie Flare Damage +16%\nLevel 30\nPixie Flare Damage +18%\nLevel 35\nPixie Flare Damage +20%\nLevel 40\nPixie Flare Damage +22%\nLevel 45\nPixie Flare Damage +24%\nLevel 50\nPixie Flare Damage +26%\nLevel 55\nPixie Flare Damage +28%\nLevel 60\nPixie Flare Damage +30%\nLevel 65\nPixie Flare Damage +32%\nLevel 70\nPixie Flare Damage +34%\nLevel 75\nPixie Flare Damage +37%\nLevel 80\nPixie Flare Damage +40%\nLevel 85\nPixie Flare Damage +43%\nLevel 90\nPixie Flare Damage +46%\nLevel 95\nPixie Flare Damage +49%\nLevel 100\nPixie Flare Damage +52%\nLevel 105\nPixie Flare Damage +55%\nLevel 110\nPixie Flare Damage +58%\nLevel 115\nPixie Flare Damage +61%\nLevel 120\nPixie Flare Damage +64%\nLevel 125\nPixie Flare Damage +67%\nof Pixie Supremacy\nLevel 125\n- Pixie Flare's attack range is +5, and it deals +327 damage to targets that are covered in Fairy Fire\nUncommon\nHead, Ring\nClick Expand to reveal\nLevel 5\nPixie Flare's attack range is +5, and it deals +15 damage to targets that are covered in Fairy Fire\nLevel 10\nPixie Flare's attack range is +5, and it deals +28 damage to targets that are covered in Fairy Fire\nLevel 15\nPixie Flare's attack range is +5, and it deals +41 damage to targets that are covered in Fairy Fire\nLevel 20\nPixie Flare's attack range is +5, and it deals +54 damage to targets that are covered in Fairy Fire\nLevel 25\nPixie Flare's attack range is +5, and it deals +67 damage to targets that are covered in Fairy Fire\nLevel 30\nPixie Flare's attack range is +5, and it deals +80 damage to targets that are covered in Fairy Fire\nLevel 35\nPixie Flare's attack range is +5, and it deals +93 damage to targets that are covered in Fairy Fire\nLevel 40\nPixie Flare's attack range is +5, and it deals +106 damage to targets that are covered in Fairy Fire\nLevel 45\nPixie Flare's attack range is +5, and it deals +119 damage to targets that are covered in Fairy Fire\nLevel 50\nPixie Flare's attack range is +5, and it deals +132 damage to targets that are covered in Fairy Fire\nLevel 55\nPixie Flare's attack range is +5, and it deals +145 damage to targets that are covered in Fairy Fire\nLevel 60\nPixie Flare's attack range is +5, and it deals +158 damage to targets that are covered in Fairy Fire\nLevel 65\nPixie Flare's attack range is +5, and it deals +171 damage to targets that are covered in Fairy Fire\nLevel 70\nPixie Flare's attack range is +5, and it deals +184 damage to targets that are covered in Fairy Fire\nLevel 75\nPixie Flare's attack range is +5, and it deals +197 damage to targets that are covered in Fairy Fire\nLevel 80\nPixie Flare's attack range is +5, and it deals +210 damage to targets that are covered in Fairy Fire\nLevel 85\nPixie Flare's attack range is +5, and it deals +223 damage to targets that are covered in Fairy Fire\nLevel 90\nPixie Flare's attack range is +5, and it deals +236 damage to targets that are covered in Fairy Fire\nLevel 95\nPixie Flare's attack range is +5, and it deals +249 damage to targets that are covered in Fairy Fire\nLevel 100\nPixie Flare's attack range is +5, and it deals +262 damage to targets that are covered in Fairy Fire\nLevel 105\nPixie Flare's attack range is +5, and it deals +275 damage to targets that are covered in Fairy Fire\nLevel 110\nPixie Flare's attack range is +5, and it deals +288 damage to targets that are covered in Fairy Fire\nLevel 115\nPixie Flare's attack range is +5, and it deals +301 damage to targets that are covered in Fairy Fire\nLevel 120\nPixie Flare's attack range is +5, and it deals +314 damage to targets that are covered in Fairy Fire\nLevel 125\nPixie Flare's attack range is +5, and it deals +327 damage to targets that are covered in Fairy Fire\nFlaring\nLevel 125\n- Pixie Flare's damage is +175 and its damage becomes Fire instead of Electricity\nUncommon\nOffHand\nClick Expand to reveal\nLevel 5\nPixie Flare's damage is +7 and its damage becomes Fire instead of Electricity\nLevel 10\nPixie Flare's damage is +14 and its damage becomes Fire instead of Electricity\nLevel 15\nPixie Flare's damage is +21 and its damage becomes Fire instead of Electricity\nLevel 20\nPixie Flare's damage is +28 and its damage becomes Fire instead of Electricity\nLevel 25\nPixie Flare's damage is +35 and its damage becomes Fire instead of Electricity\nLevel 30\nPixie Flare's damage is +42 and its damage becomes Fire instead of Electricity\nLevel 35\nPixie Flare's damage is +49 and its damage becomes Fire instead of Electricity\nLevel 40\nPixie Flare's damage is +56 and its damage becomes Fire instead of Electricity\nLevel 45\nPixie Flare's damage is +63 and its damage becomes Fire instead of Electricity\nLevel 50\nPixie Flare's damage is +70 and its damage becomes Fire instead of Electricity\nLevel 55\nPixie Flare's damage is +77 and its damage becomes Fire instead of Electricity\nLevel 60\nPixie Flare's damage is +84 and its damage becomes Fire instead of Electricity\nLevel 65\nPixie Flare's damage is +91 and its damage becomes Fire instead of Electricity\nLevel 70\nPixie Flare's damage is +98 and its damage becomes Fire instead of Electricity\nLevel 75\nPixie Flare's damage is +105 and its damage becomes Fire instead of Electricity\nLevel 80\nPixie Flare's damage is +112 and its damage becomes Fire instead of Electricity\nLevel 85\nPixie Flare's damage is +119 and its damage becomes Fire instead of Electricity\nLevel 90\nPixie Flare's damage is +126 and its damage becomes Fire instead of Electricity\nLevel 95\nPixie Flare's damage is +133 and its damage becomes Fire instead of Electricity\nLevel 100\nPixie Flare's damage is +140 and its damage becomes Fire instead of Electricity\nLevel 105\nPixie Flare's damage is +147 and its damage becomes Fire instead of Electricity\nLevel 110\nPixie Flare's damage is +154 and its damage becomes Fire instead of Electricity\nLevel 115\nPixie Flare's damage is +161 and its damage becomes Fire instead of Electricity\nLevel 120\nPixie Flare's damage is +168 and its damage becomes Fire instead of Electricity\nLevel 125\nPixie Flare's damage is +175 and its damage becomes Fire instead of Electricity\nFlaring\nLevel 125\n- Pixie Flare restores 75 Health to you\nUncommon\nLegs, Necklace\nClick Expand to reveal\nLevel 5\nPixie Flare restores 3 Health to you\nLevel 10\nPixie Flare restores 6 Health to you\nLevel 15\nPixie Flare restores 9 Health to you\nLevel 20\nPixie Flare restores 12 Health to you\nLevel 25\nPixie Flare restores 15 Health to you\nLevel 30\nPixie Flare restores 18 Health to you\nLevel 35\nPixie Flare restores 21 Health to you\nLevel 40\nPixie Flare restores 24 Health to you\nLevel 45\nPixie Flare restores 27 Health to you\nLevel 50\nPixie Flare restores 30 Health to you\nLevel 55\nPixie Flare restores 33 Health to you\nLevel 60\nPixie Flare restores 36 Health to you\nLevel 65\nPixie Flare restores 39 Health to you\nLevel 70\nPixie Flare restores 42 Health to you\nLevel 75\nPixie Flare restores 45 Health to you\nLevel 80\nPixie Flare restores 48 Health to you\nLevel 85\nPixie Flare restores 51 Health to you\nLevel 90\nPixie Flare restores 54 Health to you\nLevel 95\nPixie Flare restores 57 Health to you\nLevel 100\nPixie Flare restores 60 Health to you\nLevel 105\nPixie Flare restores 63 Health to you\nLevel 110\nPixie Flare restores 66 Health to you\nLevel 115\nPixie Flare restores 69 Health to you\nLevel 120\nPixie Flare restores 72 Health to you\nLevel 125\nPixie Flare restores 75 Health to you\nFlaring\nLevel 125\n- Pixie Flare deals +193 damage, and deals +33% total damage against Demons\nUncommon\nLegs\nClick Expand to reveal\nLevel 5\nPixie Flare deals +7 damage, and deals +33% total damage against Demons\nLevel 10\nPixie Flare deals +14 damage, and deals +33% total damage against Demons\nLevel 15\nPixie Flare deals +21 damage, and deals +33% total damage against Demons\nLevel 20\nPixie Flare deals +28 damage, and deals +33% total damage against Demons\nLevel 25\nPixie Flare deals +35 damage, and deals +33% total damage against Demons\nLevel 30\nPixie Flare deals +42 damage, and deals +33% total damage against Demons\nLevel 35\nPixie Flare deals +49 damage, and deals +33% total damage against Demons\nLevel 40\nPixie Flare deals +56 damage, and deals +33% total damage against Demons\nLevel 45\nPixie Flare deals +63 damage, and deals +33% total damage against Demons\nLevel 50\nPixie Flare deals +70 damage, and deals +33% total damage against Demons\nLevel 55\nPixie Flare deals +77 damage, and deals +33% total damage against Demons\nLevel 60\nPixie Flare deals +84 damage, and deals +33% total damage against Demons\nLevel 65\nPixie Flare deals +91 damage, and deals +33% total damage against Demons\nLevel 70\nPixie Flare deals +98 damage, and deals +33% total damage against Demons\nLevel 75\nPixie Flare deals +105 damage, and deals +33% total damage against Demons\nLevel 80\nPixie Flare deals +112 damage, and deals +33% total damage against Demons\nLevel 85\nPixie Flare deals +121 damage, and deals +33% total damage against Demons\nLevel 90\nPixie Flare deals +130 damage, and deals +33% total damage against Demons\nLevel 95\nPixie Flare deals +139 damage, and deals +33% total damage against Demons\nLevel 100\nPixie Flare deals +148 damage, and deals +33% total damage against Demons\nLevel 105\nPixie Flare deals +157 damage, and deals +33% total damage against Demons\nLevel 110\nPixie Flare deals +166 damage, and deals +33% total damage against Demons\nLevel 115\nPixie Flare deals +175 damage, and deals +33% total damage against Demons\nLevel 120\nPixie Flare deals +184 damage, and deals +33% total damage against Demons\nLevel 125\nPixie Flare deals +193 damage, and deals +33% total damage against Demons\nLevel 120\n- Fae Conduit restores +12 Power every 5 seconds\nRare\nHead, Hands, OffHand\nClick Expand to reveal\nLevel 10\nFae Conduit restores +1 Power every 5 seconds\nLevel 20\nFae Conduit restores +2 Power every 5 seconds\nLevel 30\nFae Conduit restores +3 Power every 5 seconds\nLevel 40\nFae Conduit restores +4 Power every 5 seconds\nLevel 50\nFae Conduit restores +5 Power every 5 seconds\nLevel 60\nFae Conduit restores +6 Power every 5 seconds\nLevel 70\nFae Conduit restores +7 Power every 5 seconds\nLevel 80\nFae Conduit restores +8 Power every 5 seconds\nLevel 90\nFae Conduit restores +9 Power every 5 seconds\nLevel 100\nFae Conduit restores +10 Power every 5 seconds\nLevel 110\nFae Conduit restores +11 Power every 5 seconds\nLevel 120\nFae Conduit restores +12 Power every 5 seconds\nLevel 120\n- Fae Conduit reuse timer is -11 seconds\nRare\nMainHand\nClick Expand to reveal\nLevel 10\nFae Conduit reuse timer is -1 second\nLevel 20\nFae Conduit reuse timer is -2 seconds\nLevel 30\nFae Conduit reuse timer is -3 seconds\nLevel 40\nFae Conduit reuse timer is -4 seconds\nLevel 50\nFae Conduit reuse timer is -5 seconds\nLevel 60\nFae Conduit reuse timer is -6 seconds\nLevel 70\nFae Conduit reuse timer is -7 seconds\nLevel 80\nFae Conduit reuse timer is -8 seconds\nLevel 90\nFae Conduit reuse timer is -9 seconds\nLevel 100\nFae Conduit reuse timer is -10 seconds\nLevel 110\nFae Conduit reuse timer is -10.5 seconds\nLevel 120\nFae Conduit reuse timer is -11 seconds\nLevel 125\n- Fae Conduit also heals 72 Health every 5 seconds\nUncommon\nChest, Ring\nClick Expand to reveal\nLevel 5\nFae Conduit also heals 10 Health every 5 seconds\nLevel 10\nFae Conduit also heals 12 Health every 5 seconds\nLevel 15\nFae Conduit also heals 14 Health every 5 seconds\nLevel 20\nFae Conduit also heals 16 Health every 5 seconds\nLevel 25\nFae Conduit also heals 18 Health every 5 seconds\nLevel 30\nFae Conduit also heals 20 Health every 5 seconds\nLevel 35\nFae Conduit also heals 22 Health every 5 seconds\nLevel 40\nFae Conduit also heals 24 Health every 5 seconds\nLevel 45\nFae Conduit also heals 26 Health every 5 seconds\nLevel 50\nFae Conduit also heals 28 Health every 5 seconds\nLevel 55\nFae Conduit also heals 30 Health every 5 seconds\nLevel 60\nFae Conduit also heals 33 Health every 5 seconds\nLevel 65\nFae Conduit also heals 36 Health every 5 seconds\nLevel 70\nFae Conduit also heals 39 Health every 5 seconds\nLevel 75\nFae Conduit also heals 42 Health every 5 seconds\nLevel 80\nFae Conduit also heals 45 Health every 5 seconds\nLevel 85\nFae Conduit also heals 48 Health every 5 seconds\nLevel 90\nFae Conduit also heals 51 Health every 5 seconds\nLevel 95\nFae Conduit also heals 54 Health every 5 seconds\nLevel 100\nFae Conduit also heals 57 Health every 5 seconds\nLevel 105\nFae Conduit also heals 60 Health every 5 seconds\nLevel 110\nFae Conduit also heals 63 Health every 5 seconds\nLevel 115\nFae Conduit also heals 66 Health every 5 seconds\nLevel 120\nFae Conduit also heals 69 Health every 5 seconds\nLevel 125\nFae Conduit also heals 72 Health every 5 seconds\nLevel 125\n- Fae Conduit's Power cost is -77 and reuse timer is -2 seconds\nUncommon\nLegs, Feet\nClick Expand to reveal\nLevel 5\nFae Conduit's Power cost is -5 and reuse timer is -1 second\nLevel 10\nFae Conduit's Power cost is -8 and reuse timer is -1 second\nLevel 15\nFae Conduit's Power cost is -11 and reuse timer is -1 second\nLevel 20\nFae Conduit's Power cost is -14 and reuse timer is -1 second\nLevel 25\nFae Conduit's Power cost is -17 and reuse timer is -1 second\nLevel 30\nFae Conduit's Power cost is -20 and reuse timer is -1 second\nLevel 35\nFae Conduit's Power cost is -23 and reuse timer is -1 second\nLevel 40\nFae Conduit's Power cost is -26 and reuse timer is -1 second\nLevel 45\nFae Conduit's Power cost is -29 and reuse timer is -2 seconds\nLevel 50\nFae Conduit's Power cost is -32 and reuse timer is -2 seconds\nLevel 55\nFae Conduit's Power cost is -35 and reuse timer is -2 seconds\nLevel 60\nFae Conduit's Power cost is -38 and reuse timer is -2 seconds\nLevel 65\nFae Conduit's Power cost is -41 and reuse timer is -2 seconds\nLevel 70\nFae Conduit's Power cost is -44 and reuse timer is -2 seconds\nLevel 75\nFae Conduit's Power cost is -47 and reuse timer is -2 seconds\nLevel 80\nFae Conduit's Power cost is -50 and reuse timer is -2 seconds\nLevel 85\nFae Conduit's Power cost is -53 and reuse timer is -2 seconds\nLevel 90\nFae Conduit's Power cost is -56 and reuse timer is -2 seconds\nLevel 95\nFae Conduit's Power cost is -59 and reuse timer is -2 seconds\nLevel 100\nFae Conduit's Power cost is -62 and reuse timer is -2 seconds\nLevel 105\nFae Conduit's Power cost is -65 and reuse timer is -2 seconds\nLevel 110\nFae Conduit's Power cost is -68 and reuse timer is -2 seconds\nLevel 115\nFae Conduit's Power cost is -71 and reuse timer is -2 seconds\nLevel 120\nFae Conduit's Power cost is -74 and reuse timer is -2 seconds\nLevel 125\nFae Conduit's Power cost is -77 and reuse timer is -2 seconds\nLevel 120\n- Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +64 for 30 seconds (stacking up to 6 times)\nRare\nNecklace, Feet\nClick Expand to reveal\nLevel 10\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +8 for 30 seconds (stacking up to 6 times)\nLevel 20\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +12 for 30 seconds (stacking up to 6 times)\nLevel 30\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +16 for 30 seconds (stacking up to 6 times)\nLevel 40\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +20 for 30 seconds (stacking up to 6 times)\nLevel 50\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +24 for 30 seconds (stacking up to 6 times)\nLevel 60\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +28 for 30 seconds (stacking up to 6 times)\nLevel 70\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +34 for 30 seconds (stacking up to 6 times)\nLevel 80\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +40 for 30 seconds (stacking up to 6 times)\nLevel 90\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +46 for 30 seconds (stacking up to 6 times)\nLevel 100\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +52 for 30 seconds (stacking up to 6 times)\nLevel 110\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +58 for 30 seconds (stacking up to 6 times)\nLevel 120\nFae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +64 for 30 seconds (stacking up to 6 times)\nFairy Magic Level Up Rewards\nLevel\nReward\n1\nGain Ability: Fairy Fire\n4\nGain Ability: Pixie Flare\n11\nGain Ability: Fairy Fire 2\n12\nGain Ability: Fae Conduit\n14\nGain Ability: Pixie Flare 2\n15\nGain Ability: Astral Strike\n21\nGain Ability: Fairy Fire 3\n24\nGain Ability: Pixie Flare 3\n25\nGain Ability: Fae Conduit 2\n30\nGain Ability: Astral Strike 2\n31\nGain Ability: Fairy Fire 4\n34\nGain Ability: Pixie Flare 4\n36\nGain Ability: Fae Conduit 3\n41\nGain Ability: Fairy Fire 5\n44\nGain Ability: Pixie Flare 5\n45\nGain Ability: Astral Strike 3\n48\nGain Ability: Fae Conduit 4\nFairy Magic Experience Table\nClick Expand to view the Experience Table for Fairy Magic\nLevel\nExperience\nTotal Experience\n1\n5\n5\n2\n9\n14\n3\n19\n33\n4\n31\n64\n5\n51\n115\n6\n69\n184\n7\n99\n283\n8\n121\n404\n9\n161\n565\n10\n192\n757\n11\n241\n998\n12\n274\n1272\n13\n338\n1610\n14\n388\n1998\n15\n469\n2467\n16\n536\n3003\n17\n642\n3645\n18\n737\n4382\n19\n875\n5257\n20\n976\n6233\n21\n1152\n7385\n22\n1309\n8694\n23\n1520\n10214\n24\n1706\n11920\n25\n2002\n13922\n26\n2235\n16157\n27\n2584\n18741\n28\n2920\n21661\n29\n3368\n25029\n30\n3803\n28832\n31\n4422\n33254\n32\n4928\n38182\n33\n5721\n43903\n34\n6464\n50367\n35\n7427\n57794\n36\n8389\n66183\n37\n9476\n75659\n38\n10743\n86402\n39\n12218\n98620\n40\n13648\n112268\n41\n15362\n127630\n42\n17135\n144765\n43\n19188\n163953\n44\n21498\n185451\n45\n24097\n209548\n46\n26872\n236420\n47\n30063\n266483\n48\n33476\n299959\n49\n37477\n337436\n50\n41865\n379301\n51\n46639\n425940\n52\n52305\n478245\n53\n58543\n536788\n54\n65963\n602751\n55\n74210\n676961\n56\n83711\n760672\n57\n94325\n854997\n58\n106952\n961949\n59\n121135\n1083084\n60\n137984\n1221068\n61\n156474\n1377542\n62\n177775\n1555317\n63\n202262\n1757579\n64\n230357\n1987936\n65\n262538\n2250474\n66\n299344\n2549818\n67\n341382\n2891200\n68\n389335\n3280535\n69\n443970\n3724505\n70\n506154\n4230659\n71\n576858\n4807517\n72\n657172\n5464689\n73\n748325\n6213014\n74\n851692\n7064706\n75\n968818\n8033524\n76\n1101435\n9134959\n77\n1251489\n10386448\n78\n1421155\n11807603\n79\n1612877\n13420480\n80\n1829387\n15249867\n81\n2073750\n17323617\n82\n2349394\n19673011\n83\n2660156\n22333167\n84\n3010331\n25343498\n85\n3404723\n28748221\n86\n3848705\n32596926\n87\n4348283\n36945209\n88\n4910173\n41855382\n89\n5541879\n47397261\n90\n6251785\n53649046\n91\n7049256\n60698302\n92\n7944754\n68643056\n93\n8949956\n77593012\n94\n10077901\n87670913\n95\n11343141\n99014054\n96\n12761914\n111775968\n97\n14352337\n126128305\n98\n16134619\n142262924\n99\n18131299\n160394223\n100\n20367510\n180761733\nTrivia\nFairy Magic\nwas added on March 9, 2020.\nGallery\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Fairy_Magic&oldid=140671\n\"\nCategories\n:\nCombat Skills\nSkills",
+  "tables": [
+    [
+      [
+        "Fairy Magic"
+      ],
+      [
+        "A sub-skill of Mentalism that focuses on psychic links to the fae realms."
+      ],
+      [
+        "Skill Type:",
+        "Combat Skill"
+      ],
+      [
+        "Max Level:",
+        "90"
+      ],
+      [
+        "Requirements:",
+        "???"
+      ],
+      [
+        "Skill Trainers:",
+        "Preta,Raina"
+      ]
+    ],
+    [
+      [
+        "Icon",
+        "Level",
+        "Name",
+        "Description",
+        "Special",
+        "Effects",
+        "Stats",
+        "Source"
+      ],
+      [
+        "",
+        "1",
+        "Fairy Fire",
+        "Cover an enemy in ephemeral \"fire\", making it harder for them to evade.",
+        "Target's Evasion is reduced by 50% (all Evasion types)--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:9 PsychicCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:7Range:20Cooldown:10Accuracy:+3%",
+        "Leveling"
+      ],
+      [
+        "",
+        "4",
+        "Pixie Flare",
+        "Electrify the space where an enemy is standing.",
+        "--Can Have--Restores:0 Health to yourself",
+        "Damage:14 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:16Range:20Cooldown:12",
+        "Leveling"
+      ],
+      [
+        "",
+        "11",
+        "Fairy Fire 2",
+        "Cover an enemy in ephemeral \"fire\", making it harder for them to evade.",
+        "Target's Evasion is reduced by 50% (all Evasion types)--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:17 PsychicCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:9Range:20Cooldown:10Accuracy:+4%",
+        "Leveling"
+      ],
+      [
+        "",
+        "12",
+        "Fae Conduit",
+        "Open a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)",
+        "Allies recover 15 Power every 5 seconds while in area",
+        "",
+        "Power Cost:44Range:4Cooldown:60",
+        "Leveling"
+      ],
+      [
+        "",
+        "14",
+        "Pixie Flare 2",
+        "Electrify the space where an enemy is standing.",
+        "--Can Have--Restores:0 Health to yourself",
+        "Damage:37 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:22Range:20Cooldown:12",
+        "Leveling"
+      ],
+      [
+        "",
+        "15",
+        "Astral Strike",
+        "Pull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)This is an Epic Attack",
+        "--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:55 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:37AoE:20Cooldown:60",
+        "Leveling"
+      ],
+      [
+        "",
+        "21",
+        "Fairy Fire 3",
+        "Cover an enemy in ephemeral \"fire\", making it harder for them to evade.",
+        "Target's Evasion is reduced by 50% (all Evasion types)--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:28 PsychicCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:12Range:20Cooldown:10Accuracy:+5%",
+        "Leveling"
+      ],
+      [
+        "",
+        "24",
+        "Pixie Flare 3",
+        "Electrify the space where an enemy is standing.",
+        "--Can Have--Restores:0 Health to yourself",
+        "Damage:64 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:27Range:20Cooldown:12",
+        "Leveling"
+      ],
+      [
+        "",
+        "25",
+        "Fae Conduit 2",
+        "Open a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)",
+        "Allies recover 19 Power every 5 seconds while in area",
+        "",
+        "Power Cost:59Range:4Cooldown:60",
+        "Leveling"
+      ],
+      [
+        "",
+        "30",
+        "Astral Strike 2",
+        "Pull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)This is an Epic Attack",
+        "--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:115 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:50AoE:20Cooldown:60",
+        "Leveling"
+      ],
+      [
+        "",
+        "31",
+        "Fairy Fire 4",
+        "Cover an enemy in ephemeral \"fire\", making it harder for them to evade.",
+        "Target's Evasion is reduced by 50% (all Evasion types)--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:46 PsychicCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:14Range:20Cooldown:10Accuracy:+6%",
+        "Leveling"
+      ],
+      [
+        "",
+        "34",
+        "Pixie Flare 4",
+        "Electrify the space where an enemy is standing.",
+        "--Can Have--Restores:0 Health to yourself",
+        "Damage:99 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:33Range:20Cooldown:12",
+        "Leveling"
+      ],
+      [
+        "",
+        "36",
+        "Fae Conduit 3",
+        "Open a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)",
+        "Allies recover 23 Power every 5 seconds while in area",
+        "",
+        "Power Cost:73Range:4Cooldown:60",
+        "Leveling"
+      ],
+      [
+        "",
+        "41",
+        "Fairy Fire 5",
+        "Cover an enemy in ephemeral \"fire\", making it harder for them to evade.",
+        "Target's Evasion is reduced by 50% (all Evasion types)--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:70 PsychicCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:17Range:20Cooldown:10Accuracy:+7%",
+        "Leveling"
+      ],
+      [
+        "",
+        "44",
+        "Pixie Flare 5",
+        "Electrify the space where an enemy is standing.",
+        "--Can Have--Restores:0 Health to yourself",
+        "Damage:154 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:38Range:20Cooldown:12",
+        "Leveling"
+      ],
+      [
+        "",
+        "45",
+        "Astral Strike 3",
+        "Pull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)This is an Epic Attack",
+        "--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:218 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:63AoE:20Cooldown:60",
+        "Leveling"
+      ],
+      [
+        "",
+        "48",
+        "Fae Conduit 4",
+        "Open a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)",
+        "Allies recover 27 Power every 5 seconds while in area",
+        "",
+        "Power Cost:85Range:4Cooldown:60",
+        "Leveling"
+      ],
+      [
+        "",
+        "51",
+        "Fairy Fire 6",
+        "Cover an enemy in ephemeral \"fire\", making it harder for them to evade.",
+        "Target's Evasion is reduced by 50% (all Evasion types)--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:106 PsychicCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:19Range:20Cooldown:10Accuracy:+8%",
+        "Training:Preta"
+      ],
+      [
+        "",
+        "54",
+        "Pixie Flare 6",
+        "Electrify the space where an enemy is standing.",
+        "--Can Have--Restores:0 Health to yourself",
+        "Damage:228 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:42Range:20Cooldown:12",
+        "Training:Preta"
+      ],
+      [
+        "",
+        "60",
+        "Astral Strike 4",
+        "Pull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)This is an Epic Attack",
+        "--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:367 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:75AoE:20Cooldown:60",
+        "Training:Preta"
+      ],
+      [
+        "",
+        "60",
+        "Fae Conduit 5",
+        "Open a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)",
+        "Allies recover 31 Power every 5 seconds while in area",
+        "",
+        "Power Cost:97Range:4Cooldown:60",
+        "Training:Preta"
+      ],
+      [
+        "",
+        "61",
+        "Fairy Fire 7",
+        "Cover an enemy in ephemeral \"fire\", making it harder for them to evade.",
+        "Target's Evasion is reduced by 50% (all Evasion types)--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:144 PsychicCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:21Range:20Cooldown:10Accuracy:+9%",
+        "Training:Preta"
+      ],
+      [
+        "",
+        "64",
+        "Pixie Flare 7",
+        "Electrify the space where an enemy is standing.",
+        "--Can Have--Restores:0 Health to yourself",
+        "Damage:300 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:47Range:20Cooldown:12",
+        "Training:Preta"
+      ],
+      [
+        "",
+        "71",
+        "Fairy Fire 8",
+        "Cover an enemy in ephemeral \"fire\", making it harder for them to evade.",
+        "Target's Evasion is reduced by 50% (all Evasion types)--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:183 PsychicCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:23Range:20Cooldown:10Accuracy:+10%",
+        "Training:Raina"
+      ],
+      [
+        "",
+        "72",
+        "Fae Conduit 6",
+        "Open a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)",
+        "Allies recover 35 Power every 5 seconds while in area",
+        "",
+        "Power Cost:110Range:4Cooldown:60",
+        "Training:Raina"
+      ],
+      [
+        "",
+        "74",
+        "Pixie Flare 8",
+        "Electrify the space where an enemy is standing.",
+        "--Can Have--Restores:0 Health to yourself",
+        "Damage:382 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:52Range:20Cooldown:12",
+        "Training:Raina"
+      ],
+      [
+        "",
+        "75",
+        "Astral Strike 5",
+        "Pull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)This is an Epic Attack",
+        "--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:528 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:87AoE:20Cooldown:60",
+        "Training:Raina"
+      ],
+      [
+        "",
+        "81",
+        "Fairy Fire 9",
+        "Cover an enemy in ephemeral \"fire\", making it harder for them to evade.",
+        "Target's Evasion is reduced by 50% (all Evasion types)--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:228 PsychicCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:26Range:20Cooldown:10Accuracy:+11%",
+        "Training:Raina"
+      ],
+      [
+        "",
+        "84",
+        "Pixie Flare 9",
+        "Electrify the space where an enemy is standing.",
+        "--Can Have--Restores:0 Health to yourself",
+        "Damage:470 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:58Range:20Cooldown:12",
+        "Training:Raina"
+      ],
+      [
+        "",
+        "84",
+        "Fae Conduit 7",
+        "Open a conduit to a realm of fae energy. Allies within the conduit area regain Power every few seconds. The conduit closes after 30 seconds. (Note: Fae Conduit disables Power-recovery from Power Wave while targets are in the conduit area.)",
+        "Allies recover 39 Power every 5 seconds while in area",
+        "",
+        "Power Cost:124Range:4Cooldown:60",
+        "Training:Raina"
+      ],
+      [
+        "",
+        "90",
+        "Astral Strike 6",
+        "Pull fae energy into reality, where it damages all enemies nearby. (This ability shares the reset timer of Agonize.)This is an Epic Attack",
+        "--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:708 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:101AoE:20Cooldown:60",
+        "Item:Fairy Magic: Astral Strike 6"
+      ],
+      [
+        "",
+        "91",
+        "Fairy Fire 10",
+        "Cover an enemy in ephemeral \"fire\", making it harder for them to evade.",
+        "Target's Evasion is reduced by 50% (all Evasion types)--Can Have--DoT:0 Fire, 5 times over 10 seconds",
+        "Damage:275 PsychicCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:29Range:20Cooldown:10Accuracy:+12%",
+        "Item:Fairy Magic: Fairy Fire 10"
+      ],
+      [
+        "",
+        "94",
+        "Pixie Flare 10",
+        "Electrify the space where an enemy is standing.",
+        "--Can Have--Restores:0 Health to yourself",
+        "Damage:561 ElectricityCrit Chance:PhrenologyCrit Mult:1.25",
+        "Power Cost:63Range:20Cooldown:12",
+        "Item:Fairy Magic: Pixie Flare 10"
+      ]
+    ],
+    [
+      [
+        "Prefix",
+        "Suffix",
+        "Max-Level Version",
+        "Rarity",
+        "Slot",
+        "Other Versions"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Fairy Fire damage is +113 and attack range is +5",
+        "Uncommon",
+        "Hands, Legs",
+        "Click Expand to revealLevel 5Fairy Fire damage is +4 and attack range is +5Level 10Fairy Fire damage is +8 and attack range is +5Level 15Fairy Fire damage is +12 and attack range is +5Level 20Fairy Fire damage is +16 and attack range is +5Level 25Fairy Fire damage is +20 and attack range is +5Level 30Fairy Fire damage is +24 and attack range is +5Level 35Fairy Fire damage is +28 and attack range is +5Level 40Fairy Fire damage is +32 and attack range is +5Level 45Fairy Fire damage is +36 and attack range is +5Level 50Fairy Fire damage is +40 and attack range is +5Level 55Fairy Fire damage is +44 and attack range is +5Level 60Fairy Fire damage is +48 and attack range is +5Level 65Fairy Fire damage is +53 and attack range is +5Level 70Fairy Fire damage is +58 and attack range is +5Level 75Fairy Fire damage is +63 and attack range is +5Level 80Fairy Fire damage is +68 and attack range is +5Level 85Fairy Fire damage is +73 and attack range is +5Level 90Fairy Fire damage is +78 and attack range is +5Level 95Fairy Fire damage is +83 and attack range is +5Level 100Fairy Fire damage is +88 and attack range is +5Level 105Fairy Fire damage is +93 and attack range is +5Level 110Fairy Fire damage is +98 and attack range is +5Level 115Fairy Fire damage is +103 and attack range is +5Level 120Fairy Fire damage is +108 and attack range is +5Level 125Fairy Fire damage is +113 and attack range is +5"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Fairy Fire Damage +91%",
+        "Uncommon",
+        "Chest, Necklace",
+        "Click Expand to revealLevel 5Fairy Fire Damage +6%Level 10Fairy Fire Damage +9%Level 15Fairy Fire Damage +12%Level 20Fairy Fire Damage +15%Level 25Fairy Fire Damage +18%Level 30Fairy Fire Damage +21%Level 35Fairy Fire Damage +24%Level 40Fairy Fire Damage +27%Level 45Fairy Fire Damage +30%Level 50Fairy Fire Damage +33%Level 55Fairy Fire Damage +36%Level 60Fairy Fire Damage +39%Level 65Fairy Fire Damage +43%Level 70Fairy Fire Damage +47%Level 75Fairy Fire Damage +51%Level 80Fairy Fire Damage +55%Level 85Fairy Fire Damage +59%Level 90Fairy Fire Damage +63%Level 95Fairy Fire Damage +67%Level 100Fairy Fire Damage +71%Level 105Fairy Fire Damage +75%Level 110Fairy Fire Damage +79%Level 115Fairy Fire Damage +83%Level 120Fairy Fire Damage +87%Level 125Fairy Fire Damage +91%"
+      ],
+      [
+        "",
+        "of Fairy Burns",
+        "Level 125- Fairy Fire's damage type becomes Fire, and it deals an additional 335 Fire damage over 10 seconds",
+        "Uncommon",
+        "Head, OffHand",
+        "Click Expand to revealLevel 5Fairy Fire's damage type becomes Fire, and it deals an additional 15 Fire damage over 10 secondsLevel 10Fairy Fire's damage type becomes Fire, and it deals an additional 25 Fire damage over 10 secondsLevel 15Fairy Fire's damage type becomes Fire, and it deals an additional 35 Fire damage over 10 secondsLevel 20Fairy Fire's damage type becomes Fire, and it deals an additional 45 Fire damage over 10 secondsLevel 25Fairy Fire's damage type becomes Fire, and it deals an additional 55 Fire damage over 10 secondsLevel 30Fairy Fire's damage type becomes Fire, and it deals an additional 65 Fire damage over 10 secondsLevel 35Fairy Fire's damage type becomes Fire, and it deals an additional 75 Fire damage over 10 secondsLevel 40Fairy Fire's damage type becomes Fire, and it deals an additional 85 Fire damage over 10 secondsLevel 45Fairy Fire's damage type becomes Fire, and it deals an additional 95 Fire damage over 10 secondsLevel 50Fairy Fire's damage type becomes Fire, and it deals an additional 110 Fire damage over 10 secondsLevel 55Fairy Fire's damage type becomes Fire, and it deals an additional 125 Fire damage over 10 secondsLevel 60Fairy Fire's damage type becomes Fire, and it deals an additional 140 Fire damage over 10 secondsLevel 65Fairy Fire's damage type becomes Fire, and it deals an additional 155 Fire damage over 10 secondsLevel 70Fairy Fire's damage type becomes Fire, and it deals an additional 170 Fire damage over 10 secondsLevel 75Fairy Fire's damage type becomes Fire, and it deals an additional 185 Fire damage over 10 secondsLevel 80Fairy Fire's damage type becomes Fire, and it deals an additional 200 Fire damage over 10 secondsLevel 85Fairy Fire's damage type becomes Fire, and it deals an additional 215 Fire damage over 10 secondsLevel 90Fairy Fire's damage type becomes Fire, and it deals an additional 230 Fire damage over 10 secondsLevel 95Fairy Fire's damage type becomes Fire, and it deals an additional 245 Fire damage over 10 secondsLevel 100Fairy Fire's damage type becomes Fire, and it deals an additional 260 Fire damage over 10 secondsLevel 105Fairy Fire's damage type becomes Fire, and it deals an additional 275 Fire damage over 10 secondsLevel 110Fairy Fire's damage type becomes Fire, and it deals an additional 290 Fire damage over 10 secondsLevel 115Fairy Fire's damage type becomes Fire, and it deals an additional 305 Fire damage over 10 secondsLevel 120Fairy Fire's damage type becomes Fire, and it deals an additional 320 Fire damage over 10 secondsLevel 125Fairy Fire's damage type becomes Fire, and it deals an additional 335 Fire damage over 10 seconds"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Fairy Fire causes your next attack to deal +152 damage if it's a Psychic, Electricity, or Fire attack",
+        "Uncommon",
+        "Feet, MainHand",
+        "Click Expand to revealLevel 5Fairy Fire causes your next attack to deal +8 damage if it's a Psychic, Electricity, or Fire attackLevel 10Fairy Fire causes your next attack to deal +14 damage if it's a Psychic, Electricity, or Fire attackLevel 15Fairy Fire causes your next attack to deal +20 damage if it's a Psychic, Electricity, or Fire attackLevel 20Fairy Fire causes your next attack to deal +26 damage if it's a Psychic, Electricity, or Fire attackLevel 25Fairy Fire causes your next attack to deal +32 damage if it's a Psychic, Electricity, or Fire attackLevel 30Fairy Fire causes your next attack to deal +38 damage if it's a Psychic, Electricity, or Fire attackLevel 35Fairy Fire causes your next attack to deal +44 damage if it's a Psychic, Electricity, or Fire attackLevel 40Fairy Fire causes your next attack to deal +50 damage if it's a Psychic, Electricity, or Fire attackLevel 45Fairy Fire causes your next attack to deal +56 damage if it's a Psychic, Electricity, or Fire attackLevel 50Fairy Fire causes your next attack to deal +62 damage if it's a Psychic, Electricity, or Fire attackLevel 55Fairy Fire causes your next attack to deal +68 damage if it's a Psychic, Electricity, or Fire attackLevel 60Fairy Fire causes your next attack to deal +74 damage if it's a Psychic, Electricity, or Fire attackLevel 65Fairy Fire causes your next attack to deal +80 damage if it's a Psychic, Electricity, or Fire attackLevel 70Fairy Fire causes your next attack to deal +86 damage if it's a Psychic, Electricity, or Fire attackLevel 75Fairy Fire causes your next attack to deal +92 damage if it's a Psychic, Electricity, or Fire attackLevel 80Fairy Fire causes your next attack to deal +98 damage if it's a Psychic, Electricity, or Fire attackLevel 85Fairy Fire causes your next attack to deal +104 damage if it's a Psychic, Electricity, or Fire attackLevel 90Fairy Fire causes your next attack to deal +110 damage if it's a Psychic, Electricity, or Fire attackLevel 95Fairy Fire causes your next attack to deal +116 damage if it's a Psychic, Electricity, or Fire attackLevel 100Fairy Fire causes your next attack to deal +122 damage if it's a Psychic, Electricity, or Fire attackLevel 105Fairy Fire causes your next attack to deal +128 damage if it's a Psychic, Electricity, or Fire attackLevel 110Fairy Fire causes your next attack to deal +134 damage if it's a Psychic, Electricity, or Fire attackLevel 115Fairy Fire causes your next attack to deal +140 damage if it's a Psychic, Electricity, or Fire attackLevel 120Fairy Fire causes your next attack to deal +146 damage if it's a Psychic, Electricity, or Fire attackLevel 125Fairy Fire causes your next attack to deal +152 damage if it's a Psychic, Electricity, or Fire attack"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Fairy Fire deals +125 damage, plus it stuns incorporeal enemies",
+        "Uncommon",
+        "Ring",
+        "Click Expand to revealLevel 5Fairy Fire deals +5 damage, plus it stuns incorporeal enemiesLevel 10Fairy Fire deals +10 damage, plus it stuns incorporeal enemiesLevel 15Fairy Fire deals +15 damage, plus it stuns incorporeal enemiesLevel 20Fairy Fire deals +20 damage, plus it stuns incorporeal enemiesLevel 25Fairy Fire deals +25 damage, plus it stuns incorporeal enemiesLevel 30Fairy Fire deals +30 damage, plus it stuns incorporeal enemiesLevel 35Fairy Fire deals +35 damage, plus it stuns incorporeal enemiesLevel 40Fairy Fire deals +40 damage, plus it stuns incorporeal enemiesLevel 45Fairy Fire deals +45 damage, plus it stuns incorporeal enemiesLevel 50Fairy Fire deals +50 damage, plus it stuns incorporeal enemiesLevel 55Fairy Fire deals +55 damage, plus it stuns incorporeal enemiesLevel 60Fairy Fire deals +60 damage, plus it stuns incorporeal enemiesLevel 65Fairy Fire deals +65 damage, plus it stuns incorporeal enemiesLevel 70Fairy Fire deals +70 damage, plus it stuns incorporeal enemiesLevel 75Fairy Fire deals +75 damage, plus it stuns incorporeal enemiesLevel 80Fairy Fire deals +80 damage, plus it stuns incorporeal enemiesLevel 85Fairy Fire deals +85 damage, plus it stuns incorporeal enemiesLevel 90Fairy Fire deals +90 damage, plus it stuns incorporeal enemiesLevel 95Fairy Fire deals +95 damage, plus it stuns incorporeal enemiesLevel 100Fairy Fire deals +100 damage, plus it stuns incorporeal enemiesLevel 105Fairy Fire deals +105 damage, plus it stuns incorporeal enemiesLevel 110Fairy Fire deals +110 damage, plus it stuns incorporeal enemiesLevel 115Fairy Fire deals +115 damage, plus it stuns incorporeal enemiesLevel 120Fairy Fire deals +120 damage, plus it stuns incorporeal enemiesLevel 125Fairy Fire deals +125 damage, plus it stuns incorporeal enemies"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Astral Strike Damage +77%",
+        "Uncommon",
+        "Ring, Head",
+        "Click Expand to revealLevel 5Astral Strike Damage +10%Level 10Astral Strike Damage +8%Level 15Astral Strike Damage +11%Level 20Astral Strike Damage +14%Level 25Astral Strike Damage +17%Level 30Astral Strike Damage +20%Level 35Astral Strike Damage +23%Level 40Astral Strike Damage +26%Level 45Astral Strike Damage +29%Level 50Astral Strike Damage +32%Level 55Astral Strike Damage +35%Level 60Astral Strike Damage +38%Level 65Astral Strike Damage +41%Level 70Astral Strike Damage +44%Level 75Astral Strike Damage +47%Level 80Astral Strike Damage +50%Level 85Astral Strike Damage +53%Level 90Astral Strike Damage +56%Level 95Astral Strike Damage +59%Level 100Astral Strike Damage +62%Level 105Astral Strike Damage +65%Level 110Astral Strike Damage +68%Level 115Astral Strike Damage +71%Level 120Astral Strike Damage +74%Level 125Astral Strike Damage +77%"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Astral Strike's reuse timer is -4 secs, and damage is boosted +125% vs Elite enemies",
+        "Uncommon",
+        "Chest, MainHand",
+        "Click Expand to revealLevel 5Astral Strike's reuse timer is -1 secs, and damage is boosted +5% vs Elite enemiesLevel 10Astral Strike's reuse timer is -1 secs, and damage is boosted +10% vs Elite enemiesLevel 15Astral Strike's reuse timer is -1 secs, and damage is boosted +15% vs Elite enemiesLevel 20Astral Strike's reuse timer is -1 secs, and damage is boosted +20% vs Elite enemiesLevel 25Astral Strike's reuse timer is -2 secs, and damage is boosted +25% vs Elite enemiesLevel 30Astral Strike's reuse timer is -2 secs, and damage is boosted +30% vs Elite enemiesLevel 35Astral Strike's reuse timer is -2 secs, and damage is boosted +35% vs Elite enemiesLevel 40Astral Strike's reuse timer is -2 secs, and damage is boosted +40% vs Elite enemiesLevel 45Astral Strike's reuse timer is -3 secs, and damage is boosted +45% vs Elite enemiesLevel 50Astral Strike's reuse timer is -3 secs, and damage is boosted +50% vs Elite enemiesLevel 55Astral Strike's reuse timer is -3 secs, and damage is boosted +55% vs Elite enemiesLevel 60Astral Strike's reuse timer is -3 secs, and damage is boosted +60% vs Elite enemiesLevel 65Astral Strike's reuse timer is -4 secs, and damage is boosted +65% vs Elite enemiesLevel 70Astral Strike's reuse timer is -4 secs, and damage is boosted +70% vs Elite enemiesLevel 75Astral Strike's reuse timer is -4 secs, and damage is boosted +75% vs Elite enemiesLevel 80Astral Strike's reuse timer is -4 secs, and damage is boosted +80% vs Elite enemiesLevel 85Astral Strike's reuse timer is -4 secs, and damage is boosted +85% vs Elite enemiesLevel 90Astral Strike's reuse timer is -4 secs, and damage is boosted +90% vs Elite enemiesLevel 95Astral Strike's reuse timer is -4 secs, and damage is boosted +95% vs Elite enemiesLevel 100Astral Strike's reuse timer is -4 secs, and damage is boosted +100% vs Elite enemiesLevel 105Astral Strike's reuse timer is -4 secs, and damage is boosted +105% vs Elite enemiesLevel 110Astral Strike's reuse timer is -4 secs, and damage is boosted +110% vs Elite enemiesLevel 115Astral Strike's reuse timer is -4 secs, and damage is boosted +115% vs Elite enemiesLevel 120Astral Strike's reuse timer is -4 secs, and damage is boosted +120% vs Elite enemiesLevel 125Astral Strike's reuse timer is -4 secs, and damage is boosted +125% vs Elite enemies"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Astral Strike's damage is +250 and all targets are Stunned",
+        "Epic",
+        "Feet",
+        "Click Expand to revealLevel 5Astral Strike's damage is +10 and all targets are StunnedLevel 10Astral Strike's damage is +20 and all targets are StunnedLevel 15Astral Strike's damage is +30 and all targets are StunnedLevel 20Astral Strike's damage is +40 and all targets are StunnedLevel 25Astral Strike's damage is +50 and all targets are StunnedLevel 30Astral Strike's damage is +60 and all targets are StunnedLevel 35Astral Strike's damage is +70 and all targets are StunnedLevel 40Astral Strike's damage is +80 and all targets are StunnedLevel 45Astral Strike's damage is +90 and all targets are StunnedLevel 50Astral Strike's damage is +100 and all targets are StunnedLevel 55Astral Strike's damage is +110 and all targets are StunnedLevel 60Astral Strike's damage is +120 and all targets are StunnedLevel 65Astral Strike's damage is +130 and all targets are StunnedLevel 70Astral Strike's damage is +140 and all targets are StunnedLevel 75Astral Strike's damage is +150 and all targets are StunnedLevel 80Astral Strike's damage is +160 and all targets are StunnedLevel 85Astral Strike's damage is +170 and all targets are StunnedLevel 90Astral Strike's damage is +180 and all targets are StunnedLevel 95Astral Strike's damage is +190 and all targets are StunnedLevel 100Astral Strike's damage is +200 and all targets are StunnedLevel 105Astral Strike's damage is +210 and all targets are StunnedLevel 110Astral Strike's damage is +220 and all targets are StunnedLevel 115Astral Strike's damage is +230 and all targets are StunnedLevel 120Astral Strike's damage is +240 and all targets are StunnedLevel 125Astral Strike's damage is +250 and all targets are Stunned"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Astral Strike's damage type becomes Fire, and it deals an additional 720 damage over 10 seconds",
+        "Uncommon",
+        "Legs",
+        "Click Expand to revealLevel 5Astral Strike's damage type becomes Fire, and it deals an additional 25 damage over 10 secondsLevel 10Astral Strike's damage type becomes Fire, and it deals an additional 50 damage over 10 secondsLevel 15Astral Strike's damage type becomes Fire, and it deals an additional 75 damage over 10 secondsLevel 20Astral Strike's damage type becomes Fire, and it deals an additional 100 damage over 10 secondsLevel 25Astral Strike's damage type becomes Fire, and it deals an additional 125 damage over 10 secondsLevel 30Astral Strike's damage type becomes Fire, and it deals an additional 150 damage over 10 secondsLevel 35Astral Strike's damage type becomes Fire, and it deals an additional 180 damage over 10 secondsLevel 40Astral Strike's damage type becomes Fire, and it deals an additional 210 damage over 10 secondsLevel 45Astral Strike's damage type becomes Fire, and it deals an additional 240 damage over 10 secondsLevel 50Astral Strike's damage type becomes Fire, and it deals an additional 270 damage over 10 secondsLevel 55Astral Strike's damage type becomes Fire, and it deals an additional 300 damage over 10 secondsLevel 60Astral Strike's damage type becomes Fire, and it deals an additional 330 damage over 10 secondsLevel 65Astral Strike's damage type becomes Fire, and it deals an additional 360 damage over 10 secondsLevel 70Astral Strike's damage type becomes Fire, and it deals an additional 390 damage over 10 secondsLevel 75Astral Strike's damage type becomes Fire, and it deals an additional 420 damage over 10 secondsLevel 80Astral Strike's damage type becomes Fire, and it deals an additional 450 damage over 10 secondsLevel 85Astral Strike's damage type becomes Fire, and it deals an additional 480 damage over 10 secondsLevel 90Astral Strike's damage type becomes Fire, and it deals an additional 510 damage over 10 secondsLevel 95Astral Strike's damage type becomes Fire, and it deals an additional 540 damage over 10 secondsLevel 100Astral Strike's damage type becomes Fire, and it deals an additional 570 damage over 10 secondsLevel 105Astral Strike's damage type becomes Fire, and it deals an additional 600 damage over 10 secondsLevel 110Astral Strike's damage type becomes Fire, and it deals an additional 630 damage over 10 secondsLevel 115Astral Strike's damage type becomes Fire, and it deals an additional 660 damage over 10 secondsLevel 120Astral Strike's damage type becomes Fire, and it deals an additional 690 damage over 10 secondsLevel 125Astral Strike's damage type becomes Fire, and it deals an additional 720 damage over 10 seconds"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Astral Strike Power Cost -89",
+        "Uncommon",
+        "Necklace",
+        "Click Expand to revealLevel 5Astral Strike Power Cost -17Level 10Astral Strike Power Cost -20Level 15Astral Strike Power Cost -23Level 20Astral Strike Power Cost -26Level 25Astral Strike Power Cost -29Level 30Astral Strike Power Cost -32Level 35Astral Strike Power Cost -35Level 40Astral Strike Power Cost -38Level 45Astral Strike Power Cost -41Level 50Astral Strike Power Cost -44Level 55Astral Strike Power Cost -47Level 60Astral Strike Power Cost -50Level 65Astral Strike Power Cost -53Level 70Astral Strike Power Cost -56Level 75Astral Strike Power Cost -59Level 80Astral Strike Power Cost -62Level 85Astral Strike Power Cost -65Level 90Astral Strike Power Cost -68Level 95Astral Strike Power Cost -71Level 100Astral Strike Power Cost -74Level 105Astral Strike Power Cost -77Level 110Astral Strike Power Cost -80Level 115Astral Strike Power Cost -83Level 120Astral Strike Power Cost -86Level 125Astral Strike Power Cost -89"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Astral Strike deals +130 damage and resets the timer on Pixie Flare (so it can be used again immediately)",
+        "Uncommon",
+        "Hands",
+        "Click Expand to revealLevel 5Astral Strike deals +10 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 10Astral Strike deals +15 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 15Astral Strike deals +20 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 20Astral Strike deals +25 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 25Astral Strike deals +30 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 30Astral Strike deals +35 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 35Astral Strike deals +40 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 40Astral Strike deals +45 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 45Astral Strike deals +50 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 50Astral Strike deals +55 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 55Astral Strike deals +60 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 60Astral Strike deals +65 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 65Astral Strike deals +70 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 70Astral Strike deals +75 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 75Astral Strike deals +80 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 80Astral Strike deals +85 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 85Astral Strike deals +90 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 90Astral Strike deals +95 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 95Astral Strike deals +100 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 100Astral Strike deals +105 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 105Astral Strike deals +110 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 110Astral Strike deals +115 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 115Astral Strike deals +120 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 120Astral Strike deals +125 damage and resets the timer on Pixie Flare (so it can be used again immediately)Level 125Astral Strike deals +130 damage and resets the timer on Pixie Flare (so it can be used again immediately)"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Astral Strike causes all targets to suffer +156 damage from direct Cold attacks for 10 seconds",
+        "Uncommon",
+        "OffHand",
+        "Click Expand to revealLevel 5Astral Strike causes all targets to suffer +12 damage from direct Cold attacks for 10 secondsLevel 10Astral Strike causes all targets to suffer +18 damage from direct Cold attacks for 10 secondsLevel 15Astral Strike causes all targets to suffer +24 damage from direct Cold attacks for 10 secondsLevel 20Astral Strike causes all targets to suffer +30 damage from direct Cold attacks for 10 secondsLevel 25Astral Strike causes all targets to suffer +36 damage from direct Cold attacks for 10 secondsLevel 30Astral Strike causes all targets to suffer +42 damage from direct Cold attacks for 10 secondsLevel 35Astral Strike causes all targets to suffer +48 damage from direct Cold attacks for 10 secondsLevel 40Astral Strike causes all targets to suffer +54 damage from direct Cold attacks for 10 secondsLevel 45Astral Strike causes all targets to suffer +60 damage from direct Cold attacks for 10 secondsLevel 50Astral Strike causes all targets to suffer +66 damage from direct Cold attacks for 10 secondsLevel 55Astral Strike causes all targets to suffer +72 damage from direct Cold attacks for 10 secondsLevel 60Astral Strike causes all targets to suffer +78 damage from direct Cold attacks for 10 secondsLevel 65Astral Strike causes all targets to suffer +84 damage from direct Cold attacks for 10 secondsLevel 70Astral Strike causes all targets to suffer +90 damage from direct Cold attacks for 10 secondsLevel 75Astral Strike causes all targets to suffer +96 damage from direct Cold attacks for 10 secondsLevel 80Astral Strike causes all targets to suffer +102 damage from direct Cold attacks for 10 secondsLevel 85Astral Strike causes all targets to suffer +108 damage from direct Cold attacks for 10 secondsLevel 90Astral Strike causes all targets to suffer +114 damage from direct Cold attacks for 10 secondsLevel 95Astral Strike causes all targets to suffer +120 damage from direct Cold attacks for 10 secondsLevel 100Astral Strike causes all targets to suffer +126 damage from direct Cold attacks for 10 secondsLevel 105Astral Strike causes all targets to suffer +132 damage from direct Cold attacks for 10 secondsLevel 110Astral Strike causes all targets to suffer +138 damage from direct Cold attacks for 10 secondsLevel 115Astral Strike causes all targets to suffer +144 damage from direct Cold attacks for 10 secondsLevel 120Astral Strike causes all targets to suffer +150 damage from direct Cold attacks for 10 secondsLevel 125Astral Strike causes all targets to suffer +156 damage from direct Cold attacks for 10 seconds"
+      ],
+      [
+        "Flared",
+        "",
+        "Level 125- Pixie Flare's damage is +175 and reuse timer is -1 sec",
+        "Uncommon",
+        "Hands, Feet",
+        "Click Expand to revealLevel 5Pixie Flare's damage is +7 and reuse timer is -1 secLevel 10Pixie Flare's damage is +14 and reuse timer is -1 secLevel 15Pixie Flare's damage is +21 and reuse timer is -1 secLevel 20Pixie Flare's damage is +28 and reuse timer is -1 secLevel 25Pixie Flare's damage is +35 and reuse timer is -1 secLevel 30Pixie Flare's damage is +42 and reuse timer is -1 secLevel 35Pixie Flare's damage is +49 and reuse timer is -1 secLevel 40Pixie Flare's damage is +56 and reuse timer is -1 secLevel 45Pixie Flare's damage is +63 and reuse timer is -1 secLevel 50Pixie Flare's damage is +70 and reuse timer is -1 secLevel 55Pixie Flare's damage is +77 and reuse timer is -1 secLevel 60Pixie Flare's damage is +84 and reuse timer is -1 secLevel 65Pixie Flare's damage is +91 and reuse timer is -1 secLevel 70Pixie Flare's damage is +98 and reuse timer is -1 secLevel 75Pixie Flare's damage is +105 and reuse timer is -1 secLevel 80Pixie Flare's damage is +112 and reuse timer is -1 secLevel 85Pixie Flare's damage is +119 and reuse timer is -1 secLevel 90Pixie Flare's damage is +126 and reuse timer is -1 secLevel 95Pixie Flare's damage is +133 and reuse timer is -1 secLevel 100Pixie Flare's damage is +140 and reuse timer is -1 secLevel 105Pixie Flare's damage is +147 and reuse timer is -1 secLevel 110Pixie Flare's damage is +154 and reuse timer is -1 secLevel 115Pixie Flare's damage is +161 and reuse timer is -1 secLevel 120Pixie Flare's damage is +168 and reuse timer is -1 secLevel 125Pixie Flare's damage is +175 and reuse timer is -1 sec"
+      ],
+      [
+        "Flaring",
+        "",
+        "Level 125- Pixie Flare Damage +67%",
+        "Uncommon",
+        "Chest, MainHand",
+        "Click Expand to revealLevel 5Pixie Flare Damage +8%Level 10Pixie Flare Damage +10%Level 15Pixie Flare Damage +12%Level 20Pixie Flare Damage +14%Level 25Pixie Flare Damage +16%Level 30Pixie Flare Damage +18%Level 35Pixie Flare Damage +20%Level 40Pixie Flare Damage +22%Level 45Pixie Flare Damage +24%Level 50Pixie Flare Damage +26%Level 55Pixie Flare Damage +28%Level 60Pixie Flare Damage +30%Level 65Pixie Flare Damage +32%Level 70Pixie Flare Damage +34%Level 75Pixie Flare Damage +37%Level 80Pixie Flare Damage +40%Level 85Pixie Flare Damage +43%Level 90Pixie Flare Damage +46%Level 95Pixie Flare Damage +49%Level 100Pixie Flare Damage +52%Level 105Pixie Flare Damage +55%Level 110Pixie Flare Damage +58%Level 115Pixie Flare Damage +61%Level 120Pixie Flare Damage +64%Level 125Pixie Flare Damage +67%"
+      ],
+      [
+        "",
+        "of Pixie Supremacy",
+        "Level 125- Pixie Flare's attack range is +5, and it deals +327 damage to targets that are covered in Fairy Fire",
+        "Uncommon",
+        "Head, Ring",
+        "Click Expand to revealLevel 5Pixie Flare's attack range is +5, and it deals +15 damage to targets that are covered in Fairy FireLevel 10Pixie Flare's attack range is +5, and it deals +28 damage to targets that are covered in Fairy FireLevel 15Pixie Flare's attack range is +5, and it deals +41 damage to targets that are covered in Fairy FireLevel 20Pixie Flare's attack range is +5, and it deals +54 damage to targets that are covered in Fairy FireLevel 25Pixie Flare's attack range is +5, and it deals +67 damage to targets that are covered in Fairy FireLevel 30Pixie Flare's attack range is +5, and it deals +80 damage to targets that are covered in Fairy FireLevel 35Pixie Flare's attack range is +5, and it deals +93 damage to targets that are covered in Fairy FireLevel 40Pixie Flare's attack range is +5, and it deals +106 damage to targets that are covered in Fairy FireLevel 45Pixie Flare's attack range is +5, and it deals +119 damage to targets that are covered in Fairy FireLevel 50Pixie Flare's attack range is +5, and it deals +132 damage to targets that are covered in Fairy FireLevel 55Pixie Flare's attack range is +5, and it deals +145 damage to targets that are covered in Fairy FireLevel 60Pixie Flare's attack range is +5, and it deals +158 damage to targets that are covered in Fairy FireLevel 65Pixie Flare's attack range is +5, and it deals +171 damage to targets that are covered in Fairy FireLevel 70Pixie Flare's attack range is +5, and it deals +184 damage to targets that are covered in Fairy FireLevel 75Pixie Flare's attack range is +5, and it deals +197 damage to targets that are covered in Fairy FireLevel 80Pixie Flare's attack range is +5, and it deals +210 damage to targets that are covered in Fairy FireLevel 85Pixie Flare's attack range is +5, and it deals +223 damage to targets that are covered in Fairy FireLevel 90Pixie Flare's attack range is +5, and it deals +236 damage to targets that are covered in Fairy FireLevel 95Pixie Flare's attack range is +5, and it deals +249 damage to targets that are covered in Fairy FireLevel 100Pixie Flare's attack range is +5, and it deals +262 damage to targets that are covered in Fairy FireLevel 105Pixie Flare's attack range is +5, and it deals +275 damage to targets that are covered in Fairy FireLevel 110Pixie Flare's attack range is +5, and it deals +288 damage to targets that are covered in Fairy FireLevel 115Pixie Flare's attack range is +5, and it deals +301 damage to targets that are covered in Fairy FireLevel 120Pixie Flare's attack range is +5, and it deals +314 damage to targets that are covered in Fairy FireLevel 125Pixie Flare's attack range is +5, and it deals +327 damage to targets that are covered in Fairy Fire"
+      ],
+      [
+        "Flaring",
+        "",
+        "Level 125- Pixie Flare's damage is +175 and its damage becomes Fire instead of Electricity",
+        "Uncommon",
+        "OffHand",
+        "Click Expand to revealLevel 5Pixie Flare's damage is +7 and its damage becomes Fire instead of ElectricityLevel 10Pixie Flare's damage is +14 and its damage becomes Fire instead of ElectricityLevel 15Pixie Flare's damage is +21 and its damage becomes Fire instead of ElectricityLevel 20Pixie Flare's damage is +28 and its damage becomes Fire instead of ElectricityLevel 25Pixie Flare's damage is +35 and its damage becomes Fire instead of ElectricityLevel 30Pixie Flare's damage is +42 and its damage becomes Fire instead of ElectricityLevel 35Pixie Flare's damage is +49 and its damage becomes Fire instead of ElectricityLevel 40Pixie Flare's damage is +56 and its damage becomes Fire instead of ElectricityLevel 45Pixie Flare's damage is +63 and its damage becomes Fire instead of ElectricityLevel 50Pixie Flare's damage is +70 and its damage becomes Fire instead of ElectricityLevel 55Pixie Flare's damage is +77 and its damage becomes Fire instead of ElectricityLevel 60Pixie Flare's damage is +84 and its damage becomes Fire instead of ElectricityLevel 65Pixie Flare's damage is +91 and its damage becomes Fire instead of ElectricityLevel 70Pixie Flare's damage is +98 and its damage becomes Fire instead of ElectricityLevel 75Pixie Flare's damage is +105 and its damage becomes Fire instead of ElectricityLevel 80Pixie Flare's damage is +112 and its damage becomes Fire instead of ElectricityLevel 85Pixie Flare's damage is +119 and its damage becomes Fire instead of ElectricityLevel 90Pixie Flare's damage is +126 and its damage becomes Fire instead of ElectricityLevel 95Pixie Flare's damage is +133 and its damage becomes Fire instead of ElectricityLevel 100Pixie Flare's damage is +140 and its damage becomes Fire instead of ElectricityLevel 105Pixie Flare's damage is +147 and its damage becomes Fire instead of ElectricityLevel 110Pixie Flare's damage is +154 and its damage becomes Fire instead of ElectricityLevel 115Pixie Flare's damage is +161 and its damage becomes Fire instead of ElectricityLevel 120Pixie Flare's damage is +168 and its damage becomes Fire instead of ElectricityLevel 125Pixie Flare's damage is +175 and its damage becomes Fire instead of Electricity"
+      ],
+      [
+        "Flaring",
+        "",
+        "Level 125- Pixie Flare restores 75 Health to you",
+        "Uncommon",
+        "Legs, Necklace",
+        "Click Expand to revealLevel 5Pixie Flare restores 3 Health to youLevel 10Pixie Flare restores 6 Health to youLevel 15Pixie Flare restores 9 Health to youLevel 20Pixie Flare restores 12 Health to youLevel 25Pixie Flare restores 15 Health to youLevel 30Pixie Flare restores 18 Health to youLevel 35Pixie Flare restores 21 Health to youLevel 40Pixie Flare restores 24 Health to youLevel 45Pixie Flare restores 27 Health to youLevel 50Pixie Flare restores 30 Health to youLevel 55Pixie Flare restores 33 Health to youLevel 60Pixie Flare restores 36 Health to youLevel 65Pixie Flare restores 39 Health to youLevel 70Pixie Flare restores 42 Health to youLevel 75Pixie Flare restores 45 Health to youLevel 80Pixie Flare restores 48 Health to youLevel 85Pixie Flare restores 51 Health to youLevel 90Pixie Flare restores 54 Health to youLevel 95Pixie Flare restores 57 Health to youLevel 100Pixie Flare restores 60 Health to youLevel 105Pixie Flare restores 63 Health to youLevel 110Pixie Flare restores 66 Health to youLevel 115Pixie Flare restores 69 Health to youLevel 120Pixie Flare restores 72 Health to youLevel 125Pixie Flare restores 75 Health to you"
+      ],
+      [
+        "Flaring",
+        "",
+        "Level 125- Pixie Flare deals +193 damage, and deals +33% total damage against Demons",
+        "Uncommon",
+        "Legs",
+        "Click Expand to revealLevel 5Pixie Flare deals +7 damage, and deals +33% total damage against DemonsLevel 10Pixie Flare deals +14 damage, and deals +33% total damage against DemonsLevel 15Pixie Flare deals +21 damage, and deals +33% total damage against DemonsLevel 20Pixie Flare deals +28 damage, and deals +33% total damage against DemonsLevel 25Pixie Flare deals +35 damage, and deals +33% total damage against DemonsLevel 30Pixie Flare deals +42 damage, and deals +33% total damage against DemonsLevel 35Pixie Flare deals +49 damage, and deals +33% total damage against DemonsLevel 40Pixie Flare deals +56 damage, and deals +33% total damage against DemonsLevel 45Pixie Flare deals +63 damage, and deals +33% total damage against DemonsLevel 50Pixie Flare deals +70 damage, and deals +33% total damage against DemonsLevel 55Pixie Flare deals +77 damage, and deals +33% total damage against DemonsLevel 60Pixie Flare deals +84 damage, and deals +33% total damage against DemonsLevel 65Pixie Flare deals +91 damage, and deals +33% total damage against DemonsLevel 70Pixie Flare deals +98 damage, and deals +33% total damage against DemonsLevel 75Pixie Flare deals +105 damage, and deals +33% total damage against DemonsLevel 80Pixie Flare deals +112 damage, and deals +33% total damage against DemonsLevel 85Pixie Flare deals +121 damage, and deals +33% total damage against DemonsLevel 90Pixie Flare deals +130 damage, and deals +33% total damage against DemonsLevel 95Pixie Flare deals +139 damage, and deals +33% total damage against DemonsLevel 100Pixie Flare deals +148 damage, and deals +33% total damage against DemonsLevel 105Pixie Flare deals +157 damage, and deals +33% total damage against DemonsLevel 110Pixie Flare deals +166 damage, and deals +33% total damage against DemonsLevel 115Pixie Flare deals +175 damage, and deals +33% total damage against DemonsLevel 120Pixie Flare deals +184 damage, and deals +33% total damage against DemonsLevel 125Pixie Flare deals +193 damage, and deals +33% total damage against Demons"
+      ],
+      [
+        "",
+        "",
+        "Level 120- Fae Conduit restores +12 Power every 5 seconds",
+        "Rare",
+        "Head, Hands, OffHand",
+        "Click Expand to revealLevel 10Fae Conduit restores +1 Power every 5 secondsLevel 20Fae Conduit restores +2 Power every 5 secondsLevel 30Fae Conduit restores +3 Power every 5 secondsLevel 40Fae Conduit restores +4 Power every 5 secondsLevel 50Fae Conduit restores +5 Power every 5 secondsLevel 60Fae Conduit restores +6 Power every 5 secondsLevel 70Fae Conduit restores +7 Power every 5 secondsLevel 80Fae Conduit restores +8 Power every 5 secondsLevel 90Fae Conduit restores +9 Power every 5 secondsLevel 100Fae Conduit restores +10 Power every 5 secondsLevel 110Fae Conduit restores +11 Power every 5 secondsLevel 120Fae Conduit restores +12 Power every 5 seconds"
+      ],
+      [
+        "",
+        "",
+        "Level 120- Fae Conduit reuse timer is -11 seconds",
+        "Rare",
+        "MainHand",
+        "Click Expand to revealLevel 10Fae Conduit reuse timer is -1 secondLevel 20Fae Conduit reuse timer is -2 secondsLevel 30Fae Conduit reuse timer is -3 secondsLevel 40Fae Conduit reuse timer is -4 secondsLevel 50Fae Conduit reuse timer is -5 secondsLevel 60Fae Conduit reuse timer is -6 secondsLevel 70Fae Conduit reuse timer is -7 secondsLevel 80Fae Conduit reuse timer is -8 secondsLevel 90Fae Conduit reuse timer is -9 secondsLevel 100Fae Conduit reuse timer is -10 secondsLevel 110Fae Conduit reuse timer is -10.5 secondsLevel 120Fae Conduit reuse timer is -11 seconds"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Fae Conduit also heals 72 Health every 5 seconds",
+        "Uncommon",
+        "Chest, Ring",
+        "Click Expand to revealLevel 5Fae Conduit also heals 10 Health every 5 secondsLevel 10Fae Conduit also heals 12 Health every 5 secondsLevel 15Fae Conduit also heals 14 Health every 5 secondsLevel 20Fae Conduit also heals 16 Health every 5 secondsLevel 25Fae Conduit also heals 18 Health every 5 secondsLevel 30Fae Conduit also heals 20 Health every 5 secondsLevel 35Fae Conduit also heals 22 Health every 5 secondsLevel 40Fae Conduit also heals 24 Health every 5 secondsLevel 45Fae Conduit also heals 26 Health every 5 secondsLevel 50Fae Conduit also heals 28 Health every 5 secondsLevel 55Fae Conduit also heals 30 Health every 5 secondsLevel 60Fae Conduit also heals 33 Health every 5 secondsLevel 65Fae Conduit also heals 36 Health every 5 secondsLevel 70Fae Conduit also heals 39 Health every 5 secondsLevel 75Fae Conduit also heals 42 Health every 5 secondsLevel 80Fae Conduit also heals 45 Health every 5 secondsLevel 85Fae Conduit also heals 48 Health every 5 secondsLevel 90Fae Conduit also heals 51 Health every 5 secondsLevel 95Fae Conduit also heals 54 Health every 5 secondsLevel 100Fae Conduit also heals 57 Health every 5 secondsLevel 105Fae Conduit also heals 60 Health every 5 secondsLevel 110Fae Conduit also heals 63 Health every 5 secondsLevel 115Fae Conduit also heals 66 Health every 5 secondsLevel 120Fae Conduit also heals 69 Health every 5 secondsLevel 125Fae Conduit also heals 72 Health every 5 seconds"
+      ],
+      [
+        "",
+        "",
+        "Level 125- Fae Conduit's Power cost is -77 and reuse timer is -2 seconds",
+        "Uncommon",
+        "Legs, Feet",
+        "Click Expand to revealLevel 5Fae Conduit's Power cost is -5 and reuse timer is -1 secondLevel 10Fae Conduit's Power cost is -8 and reuse timer is -1 secondLevel 15Fae Conduit's Power cost is -11 and reuse timer is -1 secondLevel 20Fae Conduit's Power cost is -14 and reuse timer is -1 secondLevel 25Fae Conduit's Power cost is -17 and reuse timer is -1 secondLevel 30Fae Conduit's Power cost is -20 and reuse timer is -1 secondLevel 35Fae Conduit's Power cost is -23 and reuse timer is -1 secondLevel 40Fae Conduit's Power cost is -26 and reuse timer is -1 secondLevel 45Fae Conduit's Power cost is -29 and reuse timer is -2 secondsLevel 50Fae Conduit's Power cost is -32 and reuse timer is -2 secondsLevel 55Fae Conduit's Power cost is -35 and reuse timer is -2 secondsLevel 60Fae Conduit's Power cost is -38 and reuse timer is -2 secondsLevel 65Fae Conduit's Power cost is -41 and reuse timer is -2 secondsLevel 70Fae Conduit's Power cost is -44 and reuse timer is -2 secondsLevel 75Fae Conduit's Power cost is -47 and reuse timer is -2 secondsLevel 80Fae Conduit's Power cost is -50 and reuse timer is -2 secondsLevel 85Fae Conduit's Power cost is -53 and reuse timer is -2 secondsLevel 90Fae Conduit's Power cost is -56 and reuse timer is -2 secondsLevel 95Fae Conduit's Power cost is -59 and reuse timer is -2 secondsLevel 100Fae Conduit's Power cost is -62 and reuse timer is -2 secondsLevel 105Fae Conduit's Power cost is -65 and reuse timer is -2 secondsLevel 110Fae Conduit's Power cost is -68 and reuse timer is -2 secondsLevel 115Fae Conduit's Power cost is -71 and reuse timer is -2 secondsLevel 120Fae Conduit's Power cost is -74 and reuse timer is -2 secondsLevel 125Fae Conduit's Power cost is -77 and reuse timer is -2 seconds"
+      ],
+      [
+        "",
+        "",
+        "Level 120- Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +64 for 30 seconds (stacking up to 6 times)",
+        "Rare",
+        "Necklace, Feet",
+        "Click Expand to revealLevel 10Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +8 for 30 seconds (stacking up to 6 times)Level 20Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +12 for 30 seconds (stacking up to 6 times)Level 30Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +16 for 30 seconds (stacking up to 6 times)Level 40Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +20 for 30 seconds (stacking up to 6 times)Level 50Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +24 for 30 seconds (stacking up to 6 times)Level 60Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +28 for 30 seconds (stacking up to 6 times)Level 70Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +34 for 30 seconds (stacking up to 6 times)Level 80Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +40 for 30 seconds (stacking up to 6 times)Level 90Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +46 for 30 seconds (stacking up to 6 times)Level 100Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +52 for 30 seconds (stacking up to 6 times)Level 110Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +58 for 30 seconds (stacking up to 6 times)Level 120Fae Conduit also buffs targets' direct Cold, Fire, and Electricity damage +64 for 30 seconds (stacking up to 6 times)"
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Reward"
+      ],
+      [
+        "1",
+        "Gain Ability: Fairy Fire"
+      ],
+      [
+        "4",
+        "Gain Ability: Pixie Flare"
+      ],
+      [
+        "11",
+        "Gain Ability: Fairy Fire 2"
+      ],
+      [
+        "12",
+        "Gain Ability: Fae Conduit"
+      ],
+      [
+        "14",
+        "Gain Ability: Pixie Flare 2"
+      ],
+      [
+        "15",
+        "Gain Ability: Astral Strike"
+      ],
+      [
+        "21",
+        "Gain Ability: Fairy Fire 3"
+      ],
+      [
+        "24",
+        "Gain Ability: Pixie Flare 3"
+      ],
+      [
+        "25",
+        "Gain Ability: Fae Conduit 2"
+      ],
+      [
+        "30",
+        "Gain Ability: Astral Strike 2"
+      ],
+      [
+        "31",
+        "Gain Ability: Fairy Fire 4"
+      ],
+      [
+        "34",
+        "Gain Ability: Pixie Flare 4"
+      ],
+      [
+        "36",
+        "Gain Ability: Fae Conduit 3"
+      ],
+      [
+        "41",
+        "Gain Ability: Fairy Fire 5"
+      ],
+      [
+        "44",
+        "Gain Ability: Pixie Flare 5"
+      ],
+      [
+        "45",
+        "Gain Ability: Astral Strike 3"
+      ],
+      [
+        "48",
+        "Gain Ability: Fae Conduit 4"
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Experience",
+        "Total Experience"
+      ],
+      [
+        "1",
+        "5",
+        "5"
+      ],
+      [
+        "2",
+        "9",
+        "14"
+      ],
+      [
+        "3",
+        "19",
+        "33"
+      ],
+      [
+        "4",
+        "31",
+        "64"
+      ],
+      [
+        "5",
+        "51",
+        "115"
+      ],
+      [
+        "6",
+        "69",
+        "184"
+      ],
+      [
+        "7",
+        "99",
+        "283"
+      ],
+      [
+        "8",
+        "121",
+        "404"
+      ],
+      [
+        "9",
+        "161",
+        "565"
+      ],
+      [
+        "10",
+        "192",
+        "757"
+      ],
+      [
+        "11",
+        "241",
+        "998"
+      ],
+      [
+        "12",
+        "274",
+        "1272"
+      ],
+      [
+        "13",
+        "338",
+        "1610"
+      ],
+      [
+        "14",
+        "388",
+        "1998"
+      ],
+      [
+        "15",
+        "469",
+        "2467"
+      ],
+      [
+        "16",
+        "536",
+        "3003"
+      ],
+      [
+        "17",
+        "642",
+        "3645"
+      ],
+      [
+        "18",
+        "737",
+        "4382"
+      ],
+      [
+        "19",
+        "875",
+        "5257"
+      ],
+      [
+        "20",
+        "976",
+        "6233"
+      ],
+      [
+        "21",
+        "1152",
+        "7385"
+      ],
+      [
+        "22",
+        "1309",
+        "8694"
+      ],
+      [
+        "23",
+        "1520",
+        "10214"
+      ],
+      [
+        "24",
+        "1706",
+        "11920"
+      ],
+      [
+        "25",
+        "2002",
+        "13922"
+      ],
+      [
+        "26",
+        "2235",
+        "16157"
+      ],
+      [
+        "27",
+        "2584",
+        "18741"
+      ],
+      [
+        "28",
+        "2920",
+        "21661"
+      ],
+      [
+        "29",
+        "3368",
+        "25029"
+      ],
+      [
+        "30",
+        "3803",
+        "28832"
+      ],
+      [
+        "31",
+        "4422",
+        "33254"
+      ],
+      [
+        "32",
+        "4928",
+        "38182"
+      ],
+      [
+        "33",
+        "5721",
+        "43903"
+      ],
+      [
+        "34",
+        "6464",
+        "50367"
+      ],
+      [
+        "35",
+        "7427",
+        "57794"
+      ],
+      [
+        "36",
+        "8389",
+        "66183"
+      ],
+      [
+        "37",
+        "9476",
+        "75659"
+      ],
+      [
+        "38",
+        "10743",
+        "86402"
+      ],
+      [
+        "39",
+        "12218",
+        "98620"
+      ],
+      [
+        "40",
+        "13648",
+        "112268"
+      ],
+      [
+        "41",
+        "15362",
+        "127630"
+      ],
+      [
+        "42",
+        "17135",
+        "144765"
+      ],
+      [
+        "43",
+        "19188",
+        "163953"
+      ],
+      [
+        "44",
+        "21498",
+        "185451"
+      ],
+      [
+        "45",
+        "24097",
+        "209548"
+      ],
+      [
+        "46",
+        "26872",
+        "236420"
+      ],
+      [
+        "47",
+        "30063",
+        "266483"
+      ],
+      [
+        "48",
+        "33476",
+        "299959"
+      ],
+      [
+        "49",
+        "37477",
+        "337436"
+      ],
+      [
+        "50",
+        "41865",
+        "379301"
+      ],
+      [
+        "51",
+        "46639",
+        "425940"
+      ],
+      [
+        "52",
+        "52305",
+        "478245"
+      ],
+      [
+        "53",
+        "58543",
+        "536788"
+      ],
+      [
+        "54",
+        "65963",
+        "602751"
+      ],
+      [
+        "55",
+        "74210",
+        "676961"
+      ],
+      [
+        "56",
+        "83711",
+        "760672"
+      ],
+      [
+        "57",
+        "94325",
+        "854997"
+      ],
+      [
+        "58",
+        "106952",
+        "961949"
+      ],
+      [
+        "59",
+        "121135",
+        "1083084"
+      ],
+      [
+        "60",
+        "137984",
+        "1221068"
+      ],
+      [
+        "61",
+        "156474",
+        "1377542"
+      ],
+      [
+        "62",
+        "177775",
+        "1555317"
+      ],
+      [
+        "63",
+        "202262",
+        "1757579"
+      ],
+      [
+        "64",
+        "230357",
+        "1987936"
+      ],
+      [
+        "65",
+        "262538",
+        "2250474"
+      ],
+      [
+        "66",
+        "299344",
+        "2549818"
+      ],
+      [
+        "67",
+        "341382",
+        "2891200"
+      ],
+      [
+        "68",
+        "389335",
+        "3280535"
+      ],
+      [
+        "69",
+        "443970",
+        "3724505"
+      ],
+      [
+        "70",
+        "506154",
+        "4230659"
+      ],
+      [
+        "71",
+        "576858",
+        "4807517"
+      ],
+      [
+        "72",
+        "657172",
+        "5464689"
+      ],
+      [
+        "73",
+        "748325",
+        "6213014"
+      ],
+      [
+        "74",
+        "851692",
+        "7064706"
+      ],
+      [
+        "75",
+        "968818",
+        "8033524"
+      ],
+      [
+        "76",
+        "1101435",
+        "9134959"
+      ],
+      [
+        "77",
+        "1251489",
+        "10386448"
+      ],
+      [
+        "78",
+        "1421155",
+        "11807603"
+      ],
+      [
+        "79",
+        "1612877",
+        "13420480"
+      ],
+      [
+        "80",
+        "1829387",
+        "15249867"
+      ],
+      [
+        "81",
+        "2073750",
+        "17323617"
+      ],
+      [
+        "82",
+        "2349394",
+        "19673011"
+      ],
+      [
+        "83",
+        "2660156",
+        "22333167"
+      ],
+      [
+        "84",
+        "3010331",
+        "25343498"
+      ],
+      [
+        "85",
+        "3404723",
+        "28748221"
+      ],
+      [
+        "86",
+        "3848705",
+        "32596926"
+      ],
+      [
+        "87",
+        "4348283",
+        "36945209"
+      ],
+      [
+        "88",
+        "4910173",
+        "41855382"
+      ],
+      [
+        "89",
+        "5541879",
+        "47397261"
+      ],
+      [
+        "90",
+        "6251785",
+        "53649046"
+      ],
+      [
+        "91",
+        "7049256",
+        "60698302"
+      ],
+      [
+        "92",
+        "7944754",
+        "68643056"
+      ],
+      [
+        "93",
+        "8949956",
+        "77593012"
+      ],
+      [
+        "94",
+        "10077901",
+        "87670913"
+      ],
+      [
+        "95",
+        "11343141",
+        "99014054"
+      ],
+      [
+        "96",
+        "12761914",
+        "111775968"
+      ],
+      [
+        "97",
+        "14352337",
+        "126128305"
+      ],
+      [
+        "98",
+        "16134619",
+        "142262924"
+      ],
+      [
+        "99",
+        "18131299",
+        "160394223"
+      ],
+      [
+        "100",
+        "20367510",
+        "180761733"
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "PretainSun Valeoffers the Level 51-60 and Level 61-70 unlocks.",
+      "Rainain theFae Realmoffers the Level 71-80 unlock.",
+      "Levels 81-90 are unlocked byReinathdeep beneathPovus."
+    ],
+    [
+      "N/A"
+    ],
+    [
+      "Mentalism- Mentalism is the Parent Skill ofFairy Magic."
+    ],
+    [
+      "Fae (Race Skill)-Fae (Race Skill)acts as a skill that allows fairies to do fairy things.",
+      "Fae Anatomy- The anatomy of Fae and Fairies."
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 5"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 15"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 25"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 35"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 45"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 55"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 65"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 75"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 85"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 95"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 105"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 115"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Level 125"
+    ],
+    [
+      "Level 10"
+    ],
+    [
+      "Level 20"
+    ],
+    [
+      "Level 30"
+    ],
+    [
+      "Level 40"
+    ],
+    [
+      "Level 50"
+    ],
+    [
+      "Level 60"
+    ],
+    [
+      "Level 70"
+    ],
+    [
+      "Level 80"
+    ],
+    [
+      "Level 90"
+    ],
+    [
+      "Level 100"
+    ],
+    [
+      "Level 110"
+    ],
+    [
+      "Level 120"
+    ],
+    [
+      "Fairy Magicwas added on March 9, 2020."
+    ],
+    [
+      "Combat Skills",
+      "Skills"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "Preta",
+      "href": "/wiki/Preta"
+    },
+    {
+      "text": "Raina",
+      "href": "/wiki/Raina"
+    },
+    {
+      "text": "Mentalism",
+      "href": "/wiki/Mentalism"
+    },
+    {
+      "text": "Preta",
+      "href": "/wiki/Preta"
+    },
+    {
+      "text": "Sun Vale",
+      "href": "/wiki/Sun_Vale"
+    },
+    {
+      "text": "Raina",
+      "href": "/wiki/Raina"
+    },
+    {
+      "text": "Fae Realm",
+      "href": "/wiki/Fae_Realm"
+    },
+    {
+      "text": "Reinath",
+      "href": "/wiki/Reinath"
+    },
+    {
+      "text": "Povus",
+      "href": "/wiki/Povus"
+    },
+    {
+      "text": "Mentalism",
+      "href": "/wiki/Mentalism"
+    },
+    {
+      "text": "Fae (Race Skill)",
+      "href": "/wiki/Fae_(Race_Skill)"
+    },
+    {
+      "text": "Fae (Race Skill)",
+      "href": "/wiki/Fae_(Race_Skill)"
+    },
+    {
+      "text": "Fae Anatomy",
+      "href": "/wiki/Fae_Anatomy"
+    },
+    {
+      "text": "Synergy Levels",
+      "href": "/wiki/Synergy_Levels"
+    },
+    {
+      "text": "Animal Handling",
+      "href": "/wiki/Animal_Handling"
+    },
+    {
+      "text": "Dying",
+      "href": "/wiki/Dying"
+    },
+    {
+      "text": "Fae Anatomy",
+      "href": "/wiki/Fae_Anatomy"
+    },
+    {
+      "text": "Fire Magic",
+      "href": "/wiki/Fire_Magic"
+    },
+    {
+      "text": "Gardening",
+      "href": "/wiki/Gardening"
+    },
+    {
+      "text": "Lore",
+      "href": "/wiki/Lore"
+    },
+    {
+      "text": "Mentalism",
+      "href": "/wiki/Mentalism"
+    },
+    {
+      "text": "Fairy Magic Complete Ability List",
+      "href": "/wiki/Fairy_Magic/Abilities"
+    },
+    {
+      "text": "Preta",
+      "href": "/wiki/Preta"
+    },
+    {
+      "text": "Preta",
+      "href": "/wiki/Preta"
+    },
+    {
+      "text": "Preta",
+      "href": "/wiki/Preta"
+    },
+    {
+      "text": "Preta",
+      "href": "/wiki/Preta"
+    },
+    {
+      "text": "Preta",
+      "href": "/wiki/Preta"
+    },
+    {
+      "text": "Preta",
+      "href": "/wiki/Preta"
+    },
+    {
+      "text": "Raina",
+      "href": "/wiki/Raina"
+    },
+    {
+      "text": "Raina",
+      "href": "/wiki/Raina"
+    },
+    {
+      "text": "Raina",
+      "href": "/wiki/Raina"
+    },
+    {
+      "text": "Raina",
+      "href": "/wiki/Raina"
+    },
+    {
+      "text": "Raina",
+      "href": "/wiki/Raina"
+    },
+    {
+      "text": "Raina",
+      "href": "/wiki/Raina"
+    },
+    {
+      "text": "Raina",
+      "href": "/wiki/Raina"
+    },
+    {
+      "text": "Fairy Magic: Astral Strike 6",
+      "href": "/wiki/Fairy_Magic:_Astral_Strike_6"
+    },
+    {
+      "text": "Fairy Magic: Fairy Fire 10",
+      "href": "/wiki/Fairy_Magic:_Fairy_Fire_10"
+    },
+    {
+      "text": "Fairy Magic: Pixie Flare 10",
+      "href": "/wiki/Fairy_Magic:_Pixie_Flare_10"
+    },
+    {
+      "text": "Sigil Scripting",
+      "href": "/wiki/Sigil_Scripting"
+    },
+    {
+      "text": "Fairy Magic Topaz",
+      "href": "/wiki/Fairy_Magic_Topaz"
+    },
+    {
+      "text": "Crystals",
+      "href": "/wiki/Category:Items/Crystal"
+    },
+    {
+      "text": "Fairy Magic Treasure Effects",
+      "href": "/wiki/Fairy_Magic/Treasure_Effects"
+    },
+    {
+      "text": "Fairy Magic/Treasure Effects:By Slot",
+      "href": "/wiki/Fairy_Magic/Treasure_Effects:By_Slot"
+    },
+    {
+      "text": "Fairy Magic/Treasure Effects:By Ability",
+      "href": "/wiki/Fairy_Magic/Treasure_Effects:By_Ability"
+    },
+    {
+      "text": "Fairy Magic Level Up Rewards",
+      "href": "/wiki/Fairy_Magic/Level_Up_Rewards"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Fairy_Magic&oldid=140671",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Fairy_Magic&oldid=140671"
+    },
+    {
+      "text": "Categories",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Combat Skills",
+      "href": "/wiki/Category:Combat_Skills"
+    },
+    {
+      "text": "Skills",
+      "href": "/wiki/Category:Skills"
+    }
+  ],
+  "images": [
+    {
+      "src": "/w/images/thumb/4/4b/Button_Cyan.png/300px-Button_Cyan.png",
+      "alt": "Button Cyan.png"
+    },
+    {
+      "src": "/w/images/0/0b/Empty_Placeholder.png",
+      "alt": "Empty Placeholder.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3783.png",
+      "alt": "icon_3783.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3784.png",
+      "alt": "icon_3784.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3783.png",
+      "alt": "icon_3783.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3785.png",
+      "alt": "icon_3785.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3784.png",
+      "alt": "icon_3784.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3782.png",
+      "alt": "icon_3782.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3783.png",
+      "alt": "icon_3783.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3784.png",
+      "alt": "icon_3784.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3785.png",
+      "alt": "icon_3785.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3782.png",
+      "alt": "icon_3782.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3783.png",
+      "alt": "icon_3783.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3784.png",
+      "alt": "icon_3784.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3785.png",
+      "alt": "icon_3785.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3783.png",
+      "alt": "icon_3783.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3784.png",
+      "alt": "icon_3784.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3782.png",
+      "alt": "icon_3782.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3785.png",
+      "alt": "icon_3785.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3783.png",
+      "alt": "icon_3783.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3784.png",
+      "alt": "icon_3784.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3782.png",
+      "alt": "icon_3782.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3785.png",
+      "alt": "icon_3785.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3783.png",
+      "alt": "icon_3783.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3784.png",
+      "alt": "icon_3784.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3783.png",
+      "alt": "icon_3783.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3785.png",
+      "alt": "icon_3785.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3784.png",
+      "alt": "icon_3784.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3782.png",
+      "alt": "icon_3782.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3783.png",
+      "alt": "icon_3783.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3784.png",
+      "alt": "icon_3784.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3785.png",
+      "alt": "icon_3785.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3782.png",
+      "alt": "icon_3782.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3783.png",
+      "alt": "icon_3783.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3784.png",
+      "alt": "icon_3784.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5213.png",
+      "alt": "icon_5213.png"
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

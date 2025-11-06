@@ -1,0 +1,391 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Howling",
+  "title": "Howling - Project: Gorgon Wiki",
+  "main_content": "Howling\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nHowling\nSkill in howling as a werewolf.\nSkill Type:\nBeast Skill\nMax Level:\n100\nRequirements:\nLycanthropy\nSkill Trainers:\nN/A\n“\nSkill in howling as a werewolf.\nHowling Overview\nHowling\n, for Werewolves, is a natural instinct that provides more benefits than many initially believe.\nIn-Game Description\nSkill in howling as a werewolf.\nTraining Howling\nAll\nLycanthropes\ngain the ability to howl at Level 7.\nConnected Skills\nSub-Skills:\nNone.\nHowling\nis a Sub-Skill of\nLycanthropy\n.\nSecondary Skills:\nNone.\nRelated Skills:\nBeast Speech\n- Beach Speech is another skill that all Lycanthropes learn.\nBeast Metabolism\n- Beast Metabolism is another skill that all Lycanthropes learn.\nSynergy Levels:\nBonus\nSynergy Levels\nfor\nHowling\ncan be obtained from the following skills and levels:\nNone\nHowling Mechanics\nGroup Howl\nLycanthropy Level 7 will grant Howl Mode, an ability described as, \"Begin howling to raise your spirits. Remain stationary to continue howling and slowly build up morale benefits. Other werewolves who howl near you will greatly boost the beneficial effects of howling.\"\nThe morale boost from howling will grant an increase of both in and out of combat health regeneration, alongside a small damage bonus. The bonus buffs can stack for an hour, and additional werewolves participating in a howl will increase the effects of the boost and duration. For each werewolf, +1hp in-combat, +2hp out-of-combat, +1 damage boost, +1 hour. A continuous howl with five wolves can grant a bonus lasting up to five hours.\nLeveling Howling\nHowling is somewhat unique in how you gain experience when compared to other skills. While howling you will earn experience start at 10 XP after 60-90 seconds and then increasing by 10 XP each additional tick of continuous howling. This will result in 10, 20, 30, etc until you reach 100 XP. These ticks can be spread out over an hour and cap at the total of 550 XP, resetting an hour after the first 10 is earned. Earning the full 550 XP for an hour takes about 15-20 minutes of howling.\nNote\n: You can reset the Howling XP timer by changing zones, making it possible to power-level the skill. This may be an unintended bug.\nHowling Level Up Rewards\nLevel\nReward\n25\n+1 to Lycanthropy\n50\n+1 to Lycanthropy\nHowling Experience Table\nClick Expand to view the Experience Table for Howling\nLevel\nExperience\nTotal Experience\n1\n10\n10\n2\n50\n60\n3\n50\n110\n4\n50\n160\n5\n50\n210\n6\n210\n420\n7\n210\n630\n8\n210\n840\n9\n210\n1050\n10\n210\n1260\n11\n420\n1680\n12\n420\n2100\n13\n420\n2520\n14\n420\n2940\n15\n420\n3360\n16\n680\n4040\n17\n680\n4720\n18\n680\n5400\n19\n680\n6080\n20\n680\n6760\n21\n990\n7750\n22\n990\n8740\n23\n990\n9730\n24\n990\n10720\n25\n990\n11710\n26\n1350\n13060\n27\n1350\n14410\n28\n1350\n15760\n29\n1350\n17110\n30\n1350\n18460\n31\n1760\n20220\n32\n1760\n21980\n33\n1760\n23740\n34\n1760\n25500\n35\n1760\n27260\n36\n2500\n29760\n37\n2500\n32260\n38\n2500\n34760\n39\n2500\n37260\n40\n2500\n39760\n41\n3210\n42970\n42\n3210\n46180\n43\n3210\n49390\n44\n3210\n52600\n45\n3210\n55810\n46\n4440\n60250\n47\n4440\n64690\n48\n4440\n69130\n49\n4440\n73570\n50\n4440\n78010\nTrivia\nWild wolves may howl together to boost their attacks!\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Howling&oldid=198698\n\"\nCategories\n:\nBeast Skills\nSkills",
+  "tables": [
+    [
+      [
+        "Howling"
+      ],
+      [
+        "Skill in howling as a werewolf."
+      ],
+      [
+        "Skill Type:",
+        "Beast Skill"
+      ],
+      [
+        "Max Level:",
+        "100"
+      ],
+      [
+        "Requirements:",
+        "Lycanthropy"
+      ],
+      [
+        "Skill Trainers:",
+        "N/A"
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Reward"
+      ],
+      [
+        "25",
+        "+1 to Lycanthropy"
+      ],
+      [
+        "50",
+        "+1 to Lycanthropy"
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Experience",
+        "Total Experience"
+      ],
+      [
+        "1",
+        "10",
+        "10"
+      ],
+      [
+        "2",
+        "50",
+        "60"
+      ],
+      [
+        "3",
+        "50",
+        "110"
+      ],
+      [
+        "4",
+        "50",
+        "160"
+      ],
+      [
+        "5",
+        "50",
+        "210"
+      ],
+      [
+        "6",
+        "210",
+        "420"
+      ],
+      [
+        "7",
+        "210",
+        "630"
+      ],
+      [
+        "8",
+        "210",
+        "840"
+      ],
+      [
+        "9",
+        "210",
+        "1050"
+      ],
+      [
+        "10",
+        "210",
+        "1260"
+      ],
+      [
+        "11",
+        "420",
+        "1680"
+      ],
+      [
+        "12",
+        "420",
+        "2100"
+      ],
+      [
+        "13",
+        "420",
+        "2520"
+      ],
+      [
+        "14",
+        "420",
+        "2940"
+      ],
+      [
+        "15",
+        "420",
+        "3360"
+      ],
+      [
+        "16",
+        "680",
+        "4040"
+      ],
+      [
+        "17",
+        "680",
+        "4720"
+      ],
+      [
+        "18",
+        "680",
+        "5400"
+      ],
+      [
+        "19",
+        "680",
+        "6080"
+      ],
+      [
+        "20",
+        "680",
+        "6760"
+      ],
+      [
+        "21",
+        "990",
+        "7750"
+      ],
+      [
+        "22",
+        "990",
+        "8740"
+      ],
+      [
+        "23",
+        "990",
+        "9730"
+      ],
+      [
+        "24",
+        "990",
+        "10720"
+      ],
+      [
+        "25",
+        "990",
+        "11710"
+      ],
+      [
+        "26",
+        "1350",
+        "13060"
+      ],
+      [
+        "27",
+        "1350",
+        "14410"
+      ],
+      [
+        "28",
+        "1350",
+        "15760"
+      ],
+      [
+        "29",
+        "1350",
+        "17110"
+      ],
+      [
+        "30",
+        "1350",
+        "18460"
+      ],
+      [
+        "31",
+        "1760",
+        "20220"
+      ],
+      [
+        "32",
+        "1760",
+        "21980"
+      ],
+      [
+        "33",
+        "1760",
+        "23740"
+      ],
+      [
+        "34",
+        "1760",
+        "25500"
+      ],
+      [
+        "35",
+        "1760",
+        "27260"
+      ],
+      [
+        "36",
+        "2500",
+        "29760"
+      ],
+      [
+        "37",
+        "2500",
+        "32260"
+      ],
+      [
+        "38",
+        "2500",
+        "34760"
+      ],
+      [
+        "39",
+        "2500",
+        "37260"
+      ],
+      [
+        "40",
+        "2500",
+        "39760"
+      ],
+      [
+        "41",
+        "3210",
+        "42970"
+      ],
+      [
+        "42",
+        "3210",
+        "46180"
+      ],
+      [
+        "43",
+        "3210",
+        "49390"
+      ],
+      [
+        "44",
+        "3210",
+        "52600"
+      ],
+      [
+        "45",
+        "3210",
+        "55810"
+      ],
+      [
+        "46",
+        "4440",
+        "60250"
+      ],
+      [
+        "47",
+        "4440",
+        "64690"
+      ],
+      [
+        "48",
+        "4440",
+        "69130"
+      ],
+      [
+        "49",
+        "4440",
+        "73570"
+      ],
+      [
+        "50",
+        "4440",
+        "78010"
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "AllLycanthropesgain the ability to howl at Level 7."
+    ],
+    [
+      "None.Howlingis a Sub-Skill ofLycanthropy."
+    ],
+    [
+      "None."
+    ],
+    [
+      "Beast Speech- Beach Speech is another skill that all Lycanthropes learn.",
+      "Beast Metabolism- Beast Metabolism is another skill that all Lycanthropes learn."
+    ],
+    [
+      "Wild wolves may howl together to boost their attacks!"
+    ],
+    [
+      "Beast Skills",
+      "Skills"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "Lycanthropy",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Lycanthropes",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Lycanthropy",
+      "href": "/wiki/Lycanthropy"
+    },
+    {
+      "text": "Beast Speech",
+      "href": "/wiki/Beast_Speech"
+    },
+    {
+      "text": "Beast Metabolism",
+      "href": "/wiki/Beast_Metabolism"
+    },
+    {
+      "text": "Synergy Levels",
+      "href": "/wiki/Synergy_Levels"
+    },
+    {
+      "text": "Howling Level Up Rewards",
+      "href": "/wiki/Howling/Level_Up_Rewards"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Howling&oldid=198698",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Howling&oldid=198698"
+    },
+    {
+      "text": "Categories",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Beast Skills",
+      "href": "/wiki/Category:Beast_Skills"
+    },
+    {
+      "text": "Skills",
+      "href": "/wiki/Category:Skills"
+    }
+  ],
+  "images": [
+    {
+      "src": "/w/images/thumb/4/4b/Button_Cyan.png/300px-Button_Cyan.png",
+      "alt": "Button Cyan.png"
+    },
+    {
+      "src": "/w/images/0/0b/Empty_Placeholder.png",
+      "alt": "Empty Placeholder.png"
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

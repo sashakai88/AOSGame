@@ -1,0 +1,1735 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Crossbow",
+  "title": "Crossbow - Project: Gorgon Wiki",
+  "main_content": "Crossbow\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nCrossbow\nPew pew pew.\nSkill Type:\nCombat Skill\nMax Level:\n90\nSkill Trainers:\nBellema Deftwhisper\n,\nFloxie\n“\nLeave a quote about the skill here. This can be the in-game description, but that info must be placed below as well.  Adds a bit of flavor to the article as well.\nCrossbow Overview\nCrossbow\nis a special combat sidebar skill that can be used together with 2 other 'main' skills.It requires you to be holding a crossbow in your Offhand. It offers decent damage with long cooldowns.\nIn-Game Description\nKnowledge of crossbows including how to fire and reload them, as well as how to maintain them in peak condition.\nTraining Crossbow\nBellema Deftwhisper\nwill teach you at\nComfortable\nfavor level. She also unlocks levels 51-60 and teaches the various Crossbow abilities.\nFloxie\nunlocks levels 61-70 and levels 71-80.\nLevels 81-90 are unlocked by\nSerendipity Cheddar\ndeep beneath\nPovus\n.\nConnected Skills\nRelated Skills\nFletching\n- You need this to craft the arrows that Crossbow abilities consume.\nSynergy Levels\nBonus\nSynergy Levels\nfor\nCrossbow\ncan be obtained from the following skills and levels:\nArchery\nLevel 32, and Level 58\nFletching\nLevel 21, and Level 34, and Level 53\nGadgeteering\nLevel 15, and Level 45\nCrossbow Basic Abilities\nAs you level Crossbow, you will learn the following abilities:\nAbility\nReq. Level\nLearn From\nDescription\nDamage Type\nAbility Type\nShoot Crossbow\n(1-6)\n1/10/20/30/40/50\nBellema Deftwhisper\nFire a crossbow. Uses a Beginner's Dense Arrow.\nPiercing\nKnockback Bolt\n(1-5)\n3/13/23/33/43\nBellema Deftwhisper\nFire a broad-tipped crossbow bolt. Uses a Beginner's Dense Arrow.\nSlashing\nFiery Bolt\n(1-5)\n5/15/25/35/45\nBellema Deftwhisper\nFire a flaming crossbow bolt. Uses a Beginner's Dense Arrow.\nFire\nAcid Bolt\n(1-5)\n7/17/27/37/47\nBellema Deftwhisper\nFire an acid-covered bolt that destroys armor. Uses a Beginner's Dense Arrow.\nAcid\nCrossbow Advanced Abilities\nUpon reaching higher levels, experts of the Crossbow Skill may learn the following abilities:\nAbility\nReq. Level\nLearn From\nDescription\nDamage Type\nAbility Type\nKnockback Bolt\n6\n53\nBellema Deftwhisper\nFire a broad-tipped crossbow bolt. Uses a Beginner's Dense Arrow.\nSlashing\nFiery Bolt\n6\n55\nBellema Deftwhisper\nFire a flaming crossbow bolt. Uses a Beginner's Dense Arrow.\nFire\nAcid Bolt\n6\n57\nBellema Deftwhisper\nFire an acid-covered bolt that destroys armor. Uses a Beginner's Dense Arrow.\nAcid\nShoot Crossbow\n7\n60\nBellema Deftwhisper\nFire a crossbow. Uses a Beginner's Dense Arrow.\nPiercing\nCrossbow Complete Ability List\nIcon\nLevel\nName\nDescription\nSpecial\nEffects\nStats\nSource\n1\nShoot Crossbow\nFire a crossbow. Uses a Beginner's Dense Arrow.\nDamage:\n186 Piercing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n27\nRange:\n30\nCooldown:\n40\nLeveling\n3\nKnockback Bolt\nFire a broad-tipped crossbow bolt. Uses a Beginner's Dense Arrow.\nTarget is knocked backwards.\nDamage:\n181 Slashing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n33\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n5\nFiery Bolt\nFire a flaming crossbow bolt. Uses a Beginner's Dense Arrow.\nDeals 78 Fire damage over 20 seconds.\nDoT:\n13 Fire, 6 times over 12 seconds\nDamage:\n159 Fire\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n35\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n7\nAcid Bolt\nFire an acid-covered bolt that destroys armor. Uses a Beginner's Dense Arrow.\nArmor Dmg:\n259 Acid\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n29\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n10\nShoot Crossbow 2\nFire a crossbow. Uses a Beginner's Dense Arrow.\nDamage:\n216 Piercing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n38\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n13\nKnockback Bolt 2\nFire a broad-tipped crossbow bolt. Uses a Beginner's Dense Arrow.\nTarget is knocked backwards.\nDamage:\n224 Slashing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n45\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n15\nFiery Bolt 2\nFire a flaming crossbow bolt. Uses a Beginner's Dense Arrow.\nDeals 120 Fire damage over 20 seconds.\nDoT:\n20 Fire, 6 times over 12 seconds\nDamage:\n199 Fire\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n48\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n17\nAcid Bolt 2\nFire an acid-covered bolt that destroys armor. Uses a Beginner's Dense Arrow.\nArmor Dmg:\n323 Acid\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n38\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n20\nShoot Crossbow 3\nFire a crossbow. Uses a Basic Dense Arrow.\nDamage:\n271 Piercing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n48\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n23\nKnockback Bolt 3\nFire a broad-tipped crossbow bolt. Uses a Basic Dense Arrow.\nTarget is knocked backwards.\nDamage:\n278 Slashing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n57\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n25\nFiery Bolt 3\nFire a flaming crossbow bolt. Uses a Basic Dense Arrow.\nDeals 162 Fire damage over 20 seconds.\nDoT:\n27 Fire, 6 times over 12 seconds\nDamage:\n248 Fire\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n59\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n27\nAcid Bolt 3\nFire an acid-covered bolt that destroys armor. Uses a Basic Dense Arrow.\nArmor Dmg:\n405 Acid\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n47\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n30\nShoot Crossbow 4\nFire a crossbow. Uses a Basic Dense Arrow.\nDamage:\n338 Piercing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n58\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n33\nKnockback Bolt 4\nFire a broad-tipped crossbow bolt. Uses a Basic Dense Arrow.\nTarget is knocked backwards.\nDamage:\n351 Slashing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n69\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n35\nFiery Bolt 4\nFire a flaming crossbow bolt. Uses a Basic Dense Arrow.\nDeals 204 Fire damage over 20 seconds.\nDoT:\n34 Fire, 6 times over 12 seconds\nDamage:\n307 Fire\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n72\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n37\nAcid Bolt 4\nFire an acid-covered bolt that destroys armor. Uses a Basic Dense Arrow.\nArmor Dmg:\n488 Acid\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n57\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n40\nShoot Crossbow 5\nFire a crossbow. Uses an Advanced Dense Arrow.\nDamage:\n418 Piercing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n69\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n43\nKnockback Bolt 5\nFire a broad-tipped crossbow bolt. Uses an Advanced Dense Arrow.\nTarget is knocked backwards.\nDamage:\n417 Slashing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n80\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n45\nFiery Bolt 5\nFire a flaming crossbow bolt. Uses an Advanced Dense Arrow.\nDeals 246 Fire damage over 20 seconds.\nDoT:\n41 Fire, 6 times over 12 seconds\nDamage:\n362 Fire\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n82\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n47\nAcid Bolt 5\nFire an acid-covered bolt that destroys armor. Uses an Advanced Dense Arrow.\nArmor Dmg:\n571 Acid\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n64\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n50\nShoot Crossbow 6\nFire a crossbow. Uses an Advanced Dense Arrow.\nDamage:\n494 Piercing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n77\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n53\nKnockback Bolt 6\nFire a broad-tipped crossbow bolt. Uses an Advanced Dense Arrow.\nTarget is knocked backwards.\nDamage:\n486 Slashing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n90\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n55\nFiery Bolt 6\nFire a flaming crossbow bolt. Uses an Advanced Dense Arrow.\nDeals 288 Fire damage over 20 seconds.\nDoT:\n48 Fire, 6 times over 12 seconds\nDamage:\n418 Fire\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n92\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n57\nAcid Bolt 6\nFire an acid-covered bolt that destroys armor. Uses an Advanced Dense Arrow.\nArmor Dmg:\n654 Acid\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n72\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n60\nShoot Crossbow 7\nFire a crossbow. Uses an Expert's Dense Arrow.\nDamage:\n645 Piercing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n87\nRange:\n30\nCooldown:\n40\nTraining:\nBellema Deftwhisper\n63\nKnockback Bolt 7\nFire a broad-tipped crossbow bolt. Uses an Expert's Dense Arrow.\nTarget is knocked backwards.\nDamage:\n627 Slashing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n100\nRange:\n30\nCooldown:\n40\nTraining:\nFloxie\n65\nFiery Bolt 7\nFire a flaming crossbow bolt. Uses an Expert's Dense Arrow.\nDeals 330 Fire damage over 20 seconds.\nDoT:\n55 Fire, 6 times over 12 seconds\nDamage:\n533 Fire\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n102\nRange:\n30\nCooldown:\n40\nTraining:\nFloxie\n67\nAcid Bolt 7\nFire an acid-covered bolt that destroys armor. Uses an Expert's Dense Arrow.\nArmor Dmg:\n833 Acid\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n80\nRange:\n30\nCooldown:\n40\nTraining:\nFloxie\n70\nShoot Crossbow 8\nFire a crossbow. Uses an Expert's Dense Arrow.\nDamage:\n818 Piercing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n96\nRange:\n30\nCooldown:\n40\nTraining:\nFloxie\n73\nKnockback Bolt 8\nFire a broad-tipped crossbow bolt. Uses an Expert's Dense Arrow.\nTarget is knocked backwards.\nDamage:\n789 Slashing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n111\nRange:\n30\nCooldown:\n40\nTraining:\nFloxie\n75\nFiery Bolt 8\nFire a flaming crossbow bolt. Uses an Expert's Dense Arrow.\nDeals 372 Fire damage over 20 seconds.\nDoT:\n62 Fire, 6 times over 12 seconds\nDamage:\n668 Fire\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n114\nRange:\n30\nCooldown:\n40\nTraining:\nFloxie\n77\nAcid Bolt 8\nFire an acid-covered bolt that destroys armor. Uses an Expert's Dense Arrow.\nArmor Dmg:\n1034 Acid\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n89\nRange:\n30\nCooldown:\n40\nTraining:\nFloxie\n80\nShoot Crossbow 9\nFire a crossbow. Uses a Masterwork Dense Arrow.\nDamage:\n1001 Piercing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n107\nRange:\n30\nCooldown:\n40\nTraining:\nFloxie\n80\nShoot Darkness Bolt\nFire a darkcaster. Uses no ammunition. This is a variant of Shoot Crossbow, and equipment that boosts Shoot Crossbow also boosts this ability.\nDamage:\n1131 Darkness\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n120\nRange:\n30\nCooldown:\n40\n83\nKnockback Bolt 9\nFire a broad-tipped crossbow bolt. Uses a Masterwork Dense Arrow.\nTarget is knocked backwards.\nDamage:\n958 Slashing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n123\nRange:\n30\nCooldown:\n40\nItem:\nCrossbow: Knockback Bolt 9\n85\nFiery Bolt 9\nFire a flaming crossbow bolt. Uses a Masterwork Dense Arrow.\nDeals 414 Fire damage over 20 seconds.\nDoT:\n69 Fire, 6 times over 12 seconds\nDamage:\n805 Fire\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n125\nRange:\n30\nCooldown:\n40\nItem:\nCrossbow: Fiery Bolt 9\n87\nAcid Bolt 9\nFire an acid-covered bolt that destroys armor. Uses a Masterwork Dense Arrow.\nArmor Dmg:\n1241 Acid\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n98\nRange:\n30\nCooldown:\n40\nItem:\nCrossbow: Acid Bolt 9\n90\nShoot Crossbow 10\nFire a crossbow. Uses an Amazing Dense Arrow.\nDamage:\n1193 Piercing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n117\nRange:\n30\nCooldown:\n40\nItem:\nCrossbow: Shoot Crossbow 10\n90\nShoot Darkness Bolt 2\nFire a darkcaster. Uses no ammunition. This is a variant of Shoot Crossbow, and equipment that boosts Shoot Crossbow also boosts this ability.\nDamage:\n1323 Darkness\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n130\nRange:\n30\nCooldown:\n40\nItem:\nCrossbow: Shoot Darkness Bolt 2\n93\nKnockback Bolt 10\nFire a broad-tipped crossbow bolt. Uses a Masterwork Dense Arrow.\nTarget is knocked backwards.\nDamage:\n1132 Slashing\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n135\nRange:\n30\nCooldown:\n40\nItem:\nCrossbow: Knockback Bolt 10\n95\nFiery Bolt 10\nFire a flaming crossbow bolt. Uses a Masterwork Dense Arrow.\nDeals 456 Fire damage over 20 seconds.\nDoT:\n76 Fire, 6 times over 12 seconds\nDamage:\n946 Fire\nCrit Chance:\nAnatomy\nCrit Mult:\n1.5\nPower Cost:\n138\nRange:\n30\nCooldown:\n40\nItem:\nCrossbow: Fiery Bolt 10\nCrossbow Mechanics\nEquipment\n\"Povus Special\" Crossbow\nAmazing Hunting Crossbow\nAstounding Hunting Crossbow\nAwesome Hunting Crossbow\nBlack Rose\nCrossbow of Flames\nCutting Crossbow\nDark Crossbow\nDarkcaster\nDemonic Crossbow\nDouble Crossbow\nGreat Hunting Crossbow\nHunter's Crossbow\nError: Item not found\nHunting Crossbow\nPractice Crossbow\nQuality Hunting Crossbow\nSpeed Crossbow\nSpring-Loaded Crossbow\nStock Crossbow\nCrossbow Level Up Rewards\nLevel\nReward\n1\nGain Ability: Shoot Crossbow\n25\n+1 to Archery\n50\n+1 to Archery\n75\n+1 to Archery\nCrossbow Experience Table\nClick Expand to view the Experience Table for Crossbow\nLevel\nExperience\nTotal Experience\n1\n5\n5\n2\n9\n14\n3\n19\n33\n4\n31\n64\n5\n51\n115\n6\n69\n184\n7\n99\n283\n8\n121\n404\n9\n161\n565\n10\n192\n757\n11\n241\n998\n12\n274\n1272\n13\n338\n1610\n14\n388\n1998\n15\n469\n2467\n16\n536\n3003\n17\n642\n3645\n18\n737\n4382\n19\n875\n5257\n20\n976\n6233\n21\n1152\n7385\n22\n1309\n8694\n23\n1520\n10214\n24\n1706\n11920\n25\n2002\n13922\n26\n2235\n16157\n27\n2584\n18741\n28\n2920\n21661\n29\n3368\n25029\n30\n3803\n28832\n31\n4422\n33254\n32\n4928\n38182\n33\n5721\n43903\n34\n6464\n50367\n35\n7427\n57794\n36\n8389\n66183\n37\n9476\n75659\n38\n10743\n86402\n39\n12218\n98620\n40\n13648\n112268\n41\n15362\n127630\n42\n17135\n144765\n43\n19188\n163953\n44\n21498\n185451\n45\n24097\n209548\n46\n26872\n236420\n47\n30063\n266483\n48\n33476\n299959\n49\n37477\n337436\n50\n41865\n379301\n51\n46639\n425940\n52\n52305\n478245\n53\n58543\n536788\n54\n65963\n602751\n55\n74210\n676961\n56\n83711\n760672\n57\n94325\n854997\n58\n106952\n961949\n59\n121135\n1083084\n60\n137984\n1221068\n61\n156474\n1377542\n62\n177775\n1555317\n63\n202262\n1757579\n64\n230357\n1987936\n65\n262538\n2250474\n66\n299344\n2549818\n67\n341382\n2891200\n68\n389335\n3280535\n69\n443970\n3724505\n70\n506154\n4230659\n71\n576858\n4807517\n72\n657172\n5464689\n73\n748325\n6213014\n74\n851692\n7064706\n75\n968818\n8033524\n76\n1101435\n9134959\n77\n1251489\n10386448\n78\n1421155\n11807603\n79\n1612877\n13420480\n80\n1829387\n15249867\n81\n2073750\n17323617\n82\n2349394\n19673011\n83\n2660156\n22333167\n84\n3010331\n25343498\n85\n3404723\n28748221\n86\n3848705\n32596926\n87\n4348283\n36945209\n88\n4910173\n41855382\n89\n5541879\n47397261\n90\n6251785\n53649046\n91\n7049256\n60698302\n92\n7944754\n68643056\n93\n8949956\n77593012\n94\n10077901\n87670913\n95\n11343141\n99014054\n96\n12761914\n111775968\n97\n14352337\n126128305\n98\n16134619\n142262924\n99\n18131299\n160394223\n100\n20367510\n180761733\nTrivia\nThis is the only sidebar skill that is used for ONLY damage.\nGallery\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Crossbow&oldid=140225\n\"\nCategories\n:\nCombat Skills\nSkills",
+  "tables": [
+    [
+      [
+        "Crossbow"
+      ],
+      [
+        "Pew pew pew."
+      ],
+      [
+        "Skill Type:",
+        "Combat Skill"
+      ],
+      [
+        "Max Level:",
+        "90"
+      ],
+      [
+        "Skill Trainers:",
+        "Bellema Deftwhisper,Floxie"
+      ]
+    ],
+    [
+      [
+        "Ability",
+        "Req. Level",
+        "Learn From",
+        "Description",
+        "Damage Type",
+        "Ability Type"
+      ],
+      [
+        "Shoot Crossbow(1-6)",
+        "1/10/20/30/40/50",
+        "Bellema Deftwhisper",
+        "Fire a crossbow. Uses a Beginner's Dense Arrow.",
+        "Piercing",
+        ""
+      ],
+      [
+        "Knockback Bolt(1-5)",
+        "3/13/23/33/43",
+        "Bellema Deftwhisper",
+        "Fire a broad-tipped crossbow bolt. Uses a Beginner's Dense Arrow.",
+        "Slashing",
+        ""
+      ],
+      [
+        "Fiery Bolt(1-5)",
+        "5/15/25/35/45",
+        "Bellema Deftwhisper",
+        "Fire a flaming crossbow bolt. Uses a Beginner's Dense Arrow.",
+        "Fire",
+        ""
+      ],
+      [
+        "Acid Bolt(1-5)",
+        "7/17/27/37/47",
+        "Bellema Deftwhisper",
+        "Fire an acid-covered bolt that destroys armor. Uses a Beginner's Dense Arrow.",
+        "Acid",
+        ""
+      ]
+    ],
+    [
+      [
+        "Ability",
+        "Req. Level",
+        "Learn From",
+        "Description",
+        "Damage Type",
+        "Ability Type"
+      ],
+      [
+        "Knockback Bolt6",
+        "53",
+        "Bellema Deftwhisper",
+        "Fire a broad-tipped crossbow bolt. Uses a Beginner's Dense Arrow.",
+        "Slashing",
+        ""
+      ],
+      [
+        "Fiery Bolt6",
+        "55",
+        "Bellema Deftwhisper",
+        "Fire a flaming crossbow bolt. Uses a Beginner's Dense Arrow.",
+        "Fire",
+        ""
+      ],
+      [
+        "Acid Bolt6",
+        "57",
+        "Bellema Deftwhisper",
+        "Fire an acid-covered bolt that destroys armor. Uses a Beginner's Dense Arrow.",
+        "Acid",
+        ""
+      ],
+      [
+        "Shoot Crossbow7",
+        "60",
+        "Bellema Deftwhisper",
+        "Fire a crossbow. Uses a Beginner's Dense Arrow.",
+        "Piercing",
+        ""
+      ]
+    ],
+    [
+      [
+        "Icon",
+        "Level",
+        "Name",
+        "Description",
+        "Special",
+        "Effects",
+        "Stats",
+        "Source"
+      ],
+      [
+        "",
+        "1",
+        "Shoot Crossbow",
+        "Fire a crossbow. Uses a Beginner's Dense Arrow.",
+        "",
+        "Damage:186 PiercingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:27Range:30Cooldown:40",
+        "Leveling"
+      ],
+      [
+        "",
+        "3",
+        "Knockback Bolt",
+        "Fire a broad-tipped crossbow bolt. Uses a Beginner's Dense Arrow.",
+        "Target is knocked backwards.",
+        "Damage:181 SlashingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:33Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "5",
+        "Fiery Bolt",
+        "Fire a flaming crossbow bolt. Uses a Beginner's Dense Arrow.",
+        "Deals 78 Fire damage over 20 seconds.DoT:13 Fire, 6 times over 12 seconds",
+        "Damage:159 FireCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:35Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "7",
+        "Acid Bolt",
+        "Fire an acid-covered bolt that destroys armor. Uses a Beginner's Dense Arrow.",
+        "",
+        "Armor Dmg:259 AcidCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:29Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "10",
+        "Shoot Crossbow 2",
+        "Fire a crossbow. Uses a Beginner's Dense Arrow.",
+        "",
+        "Damage:216 PiercingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:38Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "13",
+        "Knockback Bolt 2",
+        "Fire a broad-tipped crossbow bolt. Uses a Beginner's Dense Arrow.",
+        "Target is knocked backwards.",
+        "Damage:224 SlashingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:45Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "15",
+        "Fiery Bolt 2",
+        "Fire a flaming crossbow bolt. Uses a Beginner's Dense Arrow.",
+        "Deals 120 Fire damage over 20 seconds.DoT:20 Fire, 6 times over 12 seconds",
+        "Damage:199 FireCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:48Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "17",
+        "Acid Bolt 2",
+        "Fire an acid-covered bolt that destroys armor. Uses a Beginner's Dense Arrow.",
+        "",
+        "Armor Dmg:323 AcidCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:38Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "20",
+        "Shoot Crossbow 3",
+        "Fire a crossbow. Uses a Basic Dense Arrow.",
+        "",
+        "Damage:271 PiercingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:48Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "23",
+        "Knockback Bolt 3",
+        "Fire a broad-tipped crossbow bolt. Uses a Basic Dense Arrow.",
+        "Target is knocked backwards.",
+        "Damage:278 SlashingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:57Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "25",
+        "Fiery Bolt 3",
+        "Fire a flaming crossbow bolt. Uses a Basic Dense Arrow.",
+        "Deals 162 Fire damage over 20 seconds.DoT:27 Fire, 6 times over 12 seconds",
+        "Damage:248 FireCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:59Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "27",
+        "Acid Bolt 3",
+        "Fire an acid-covered bolt that destroys armor. Uses a Basic Dense Arrow.",
+        "",
+        "Armor Dmg:405 AcidCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:47Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "30",
+        "Shoot Crossbow 4",
+        "Fire a crossbow. Uses a Basic Dense Arrow.",
+        "",
+        "Damage:338 PiercingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:58Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "33",
+        "Knockback Bolt 4",
+        "Fire a broad-tipped crossbow bolt. Uses a Basic Dense Arrow.",
+        "Target is knocked backwards.",
+        "Damage:351 SlashingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:69Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "35",
+        "Fiery Bolt 4",
+        "Fire a flaming crossbow bolt. Uses a Basic Dense Arrow.",
+        "Deals 204 Fire damage over 20 seconds.DoT:34 Fire, 6 times over 12 seconds",
+        "Damage:307 FireCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:72Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "37",
+        "Acid Bolt 4",
+        "Fire an acid-covered bolt that destroys armor. Uses a Basic Dense Arrow.",
+        "",
+        "Armor Dmg:488 AcidCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:57Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "40",
+        "Shoot Crossbow 5",
+        "Fire a crossbow. Uses an Advanced Dense Arrow.",
+        "",
+        "Damage:418 PiercingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:69Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "43",
+        "Knockback Bolt 5",
+        "Fire a broad-tipped crossbow bolt. Uses an Advanced Dense Arrow.",
+        "Target is knocked backwards.",
+        "Damage:417 SlashingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:80Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "45",
+        "Fiery Bolt 5",
+        "Fire a flaming crossbow bolt. Uses an Advanced Dense Arrow.",
+        "Deals 246 Fire damage over 20 seconds.DoT:41 Fire, 6 times over 12 seconds",
+        "Damage:362 FireCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:82Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "47",
+        "Acid Bolt 5",
+        "Fire an acid-covered bolt that destroys armor. Uses an Advanced Dense Arrow.",
+        "",
+        "Armor Dmg:571 AcidCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:64Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "50",
+        "Shoot Crossbow 6",
+        "Fire a crossbow. Uses an Advanced Dense Arrow.",
+        "",
+        "Damage:494 PiercingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:77Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "53",
+        "Knockback Bolt 6",
+        "Fire a broad-tipped crossbow bolt. Uses an Advanced Dense Arrow.",
+        "Target is knocked backwards.",
+        "Damage:486 SlashingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:90Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "55",
+        "Fiery Bolt 6",
+        "Fire a flaming crossbow bolt. Uses an Advanced Dense Arrow.",
+        "Deals 288 Fire damage over 20 seconds.DoT:48 Fire, 6 times over 12 seconds",
+        "Damage:418 FireCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:92Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "57",
+        "Acid Bolt 6",
+        "Fire an acid-covered bolt that destroys armor. Uses an Advanced Dense Arrow.",
+        "",
+        "Armor Dmg:654 AcidCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:72Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "60",
+        "Shoot Crossbow 7",
+        "Fire a crossbow. Uses an Expert's Dense Arrow.",
+        "",
+        "Damage:645 PiercingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:87Range:30Cooldown:40",
+        "Training:Bellema Deftwhisper"
+      ],
+      [
+        "",
+        "63",
+        "Knockback Bolt 7",
+        "Fire a broad-tipped crossbow bolt. Uses an Expert's Dense Arrow.",
+        "Target is knocked backwards.",
+        "Damage:627 SlashingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:100Range:30Cooldown:40",
+        "Training:Floxie"
+      ],
+      [
+        "",
+        "65",
+        "Fiery Bolt 7",
+        "Fire a flaming crossbow bolt. Uses an Expert's Dense Arrow.",
+        "Deals 330 Fire damage over 20 seconds.DoT:55 Fire, 6 times over 12 seconds",
+        "Damage:533 FireCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:102Range:30Cooldown:40",
+        "Training:Floxie"
+      ],
+      [
+        "",
+        "67",
+        "Acid Bolt 7",
+        "Fire an acid-covered bolt that destroys armor. Uses an Expert's Dense Arrow.",
+        "",
+        "Armor Dmg:833 AcidCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:80Range:30Cooldown:40",
+        "Training:Floxie"
+      ],
+      [
+        "",
+        "70",
+        "Shoot Crossbow 8",
+        "Fire a crossbow. Uses an Expert's Dense Arrow.",
+        "",
+        "Damage:818 PiercingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:96Range:30Cooldown:40",
+        "Training:Floxie"
+      ],
+      [
+        "",
+        "73",
+        "Knockback Bolt 8",
+        "Fire a broad-tipped crossbow bolt. Uses an Expert's Dense Arrow.",
+        "Target is knocked backwards.",
+        "Damage:789 SlashingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:111Range:30Cooldown:40",
+        "Training:Floxie"
+      ],
+      [
+        "",
+        "75",
+        "Fiery Bolt 8",
+        "Fire a flaming crossbow bolt. Uses an Expert's Dense Arrow.",
+        "Deals 372 Fire damage over 20 seconds.DoT:62 Fire, 6 times over 12 seconds",
+        "Damage:668 FireCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:114Range:30Cooldown:40",
+        "Training:Floxie"
+      ],
+      [
+        "",
+        "77",
+        "Acid Bolt 8",
+        "Fire an acid-covered bolt that destroys armor. Uses an Expert's Dense Arrow.",
+        "",
+        "Armor Dmg:1034 AcidCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:89Range:30Cooldown:40",
+        "Training:Floxie"
+      ],
+      [
+        "",
+        "80",
+        "Shoot Crossbow 9",
+        "Fire a crossbow. Uses a Masterwork Dense Arrow.",
+        "",
+        "Damage:1001 PiercingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:107Range:30Cooldown:40",
+        "Training:Floxie"
+      ],
+      [
+        "",
+        "80",
+        "Shoot Darkness Bolt",
+        "Fire a darkcaster. Uses no ammunition. This is a variant of Shoot Crossbow, and equipment that boosts Shoot Crossbow also boosts this ability.",
+        "",
+        "Damage:1131 DarknessCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:120Range:30Cooldown:40",
+        ""
+      ],
+      [
+        "",
+        "83",
+        "Knockback Bolt 9",
+        "Fire a broad-tipped crossbow bolt. Uses a Masterwork Dense Arrow.",
+        "Target is knocked backwards.",
+        "Damage:958 SlashingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:123Range:30Cooldown:40",
+        "Item:Crossbow: Knockback Bolt 9"
+      ],
+      [
+        "",
+        "85",
+        "Fiery Bolt 9",
+        "Fire a flaming crossbow bolt. Uses a Masterwork Dense Arrow.",
+        "Deals 414 Fire damage over 20 seconds.DoT:69 Fire, 6 times over 12 seconds",
+        "Damage:805 FireCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:125Range:30Cooldown:40",
+        "Item:Crossbow: Fiery Bolt 9"
+      ],
+      [
+        "",
+        "87",
+        "Acid Bolt 9",
+        "Fire an acid-covered bolt that destroys armor. Uses a Masterwork Dense Arrow.",
+        "",
+        "Armor Dmg:1241 AcidCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:98Range:30Cooldown:40",
+        "Item:Crossbow: Acid Bolt 9"
+      ],
+      [
+        "",
+        "90",
+        "Shoot Crossbow 10",
+        "Fire a crossbow. Uses an Amazing Dense Arrow.",
+        "",
+        "Damage:1193 PiercingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:117Range:30Cooldown:40",
+        "Item:Crossbow: Shoot Crossbow 10"
+      ],
+      [
+        "",
+        "90",
+        "Shoot Darkness Bolt 2",
+        "Fire a darkcaster. Uses no ammunition. This is a variant of Shoot Crossbow, and equipment that boosts Shoot Crossbow also boosts this ability.",
+        "",
+        "Damage:1323 DarknessCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:130Range:30Cooldown:40",
+        "Item:Crossbow: Shoot Darkness Bolt 2"
+      ],
+      [
+        "",
+        "93",
+        "Knockback Bolt 10",
+        "Fire a broad-tipped crossbow bolt. Uses a Masterwork Dense Arrow.",
+        "Target is knocked backwards.",
+        "Damage:1132 SlashingCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:135Range:30Cooldown:40",
+        "Item:Crossbow: Knockback Bolt 10"
+      ],
+      [
+        "",
+        "95",
+        "Fiery Bolt 10",
+        "Fire a flaming crossbow bolt. Uses a Masterwork Dense Arrow.",
+        "Deals 456 Fire damage over 20 seconds.DoT:76 Fire, 6 times over 12 seconds",
+        "Damage:946 FireCrit Chance:AnatomyCrit Mult:1.5",
+        "Power Cost:138Range:30Cooldown:40",
+        "Item:Crossbow: Fiery Bolt 10"
+      ]
+    ],
+    [
+      [
+        "\"Povus Special\" CrossbowAmazing Hunting CrossbowAstounding Hunting CrossbowAwesome Hunting CrossbowBlack RoseCrossbow of FlamesCutting Crossbow",
+        "Dark CrossbowDarkcasterDemonic CrossbowDouble CrossbowGreat Hunting CrossbowHunter's CrossbowError: Item not foundHunting Crossbow",
+        "Practice CrossbowQuality Hunting CrossbowSpeed CrossbowSpring-Loaded CrossbowStock Crossbow",
+        ""
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Reward"
+      ],
+      [
+        "1",
+        "Gain Ability: Shoot Crossbow"
+      ],
+      [
+        "25",
+        "+1 to Archery"
+      ],
+      [
+        "50",
+        "+1 to Archery"
+      ],
+      [
+        "75",
+        "+1 to Archery"
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Experience",
+        "Total Experience"
+      ],
+      [
+        "1",
+        "5",
+        "5"
+      ],
+      [
+        "2",
+        "9",
+        "14"
+      ],
+      [
+        "3",
+        "19",
+        "33"
+      ],
+      [
+        "4",
+        "31",
+        "64"
+      ],
+      [
+        "5",
+        "51",
+        "115"
+      ],
+      [
+        "6",
+        "69",
+        "184"
+      ],
+      [
+        "7",
+        "99",
+        "283"
+      ],
+      [
+        "8",
+        "121",
+        "404"
+      ],
+      [
+        "9",
+        "161",
+        "565"
+      ],
+      [
+        "10",
+        "192",
+        "757"
+      ],
+      [
+        "11",
+        "241",
+        "998"
+      ],
+      [
+        "12",
+        "274",
+        "1272"
+      ],
+      [
+        "13",
+        "338",
+        "1610"
+      ],
+      [
+        "14",
+        "388",
+        "1998"
+      ],
+      [
+        "15",
+        "469",
+        "2467"
+      ],
+      [
+        "16",
+        "536",
+        "3003"
+      ],
+      [
+        "17",
+        "642",
+        "3645"
+      ],
+      [
+        "18",
+        "737",
+        "4382"
+      ],
+      [
+        "19",
+        "875",
+        "5257"
+      ],
+      [
+        "20",
+        "976",
+        "6233"
+      ],
+      [
+        "21",
+        "1152",
+        "7385"
+      ],
+      [
+        "22",
+        "1309",
+        "8694"
+      ],
+      [
+        "23",
+        "1520",
+        "10214"
+      ],
+      [
+        "24",
+        "1706",
+        "11920"
+      ],
+      [
+        "25",
+        "2002",
+        "13922"
+      ],
+      [
+        "26",
+        "2235",
+        "16157"
+      ],
+      [
+        "27",
+        "2584",
+        "18741"
+      ],
+      [
+        "28",
+        "2920",
+        "21661"
+      ],
+      [
+        "29",
+        "3368",
+        "25029"
+      ],
+      [
+        "30",
+        "3803",
+        "28832"
+      ],
+      [
+        "31",
+        "4422",
+        "33254"
+      ],
+      [
+        "32",
+        "4928",
+        "38182"
+      ],
+      [
+        "33",
+        "5721",
+        "43903"
+      ],
+      [
+        "34",
+        "6464",
+        "50367"
+      ],
+      [
+        "35",
+        "7427",
+        "57794"
+      ],
+      [
+        "36",
+        "8389",
+        "66183"
+      ],
+      [
+        "37",
+        "9476",
+        "75659"
+      ],
+      [
+        "38",
+        "10743",
+        "86402"
+      ],
+      [
+        "39",
+        "12218",
+        "98620"
+      ],
+      [
+        "40",
+        "13648",
+        "112268"
+      ],
+      [
+        "41",
+        "15362",
+        "127630"
+      ],
+      [
+        "42",
+        "17135",
+        "144765"
+      ],
+      [
+        "43",
+        "19188",
+        "163953"
+      ],
+      [
+        "44",
+        "21498",
+        "185451"
+      ],
+      [
+        "45",
+        "24097",
+        "209548"
+      ],
+      [
+        "46",
+        "26872",
+        "236420"
+      ],
+      [
+        "47",
+        "30063",
+        "266483"
+      ],
+      [
+        "48",
+        "33476",
+        "299959"
+      ],
+      [
+        "49",
+        "37477",
+        "337436"
+      ],
+      [
+        "50",
+        "41865",
+        "379301"
+      ],
+      [
+        "51",
+        "46639",
+        "425940"
+      ],
+      [
+        "52",
+        "52305",
+        "478245"
+      ],
+      [
+        "53",
+        "58543",
+        "536788"
+      ],
+      [
+        "54",
+        "65963",
+        "602751"
+      ],
+      [
+        "55",
+        "74210",
+        "676961"
+      ],
+      [
+        "56",
+        "83711",
+        "760672"
+      ],
+      [
+        "57",
+        "94325",
+        "854997"
+      ],
+      [
+        "58",
+        "106952",
+        "961949"
+      ],
+      [
+        "59",
+        "121135",
+        "1083084"
+      ],
+      [
+        "60",
+        "137984",
+        "1221068"
+      ],
+      [
+        "61",
+        "156474",
+        "1377542"
+      ],
+      [
+        "62",
+        "177775",
+        "1555317"
+      ],
+      [
+        "63",
+        "202262",
+        "1757579"
+      ],
+      [
+        "64",
+        "230357",
+        "1987936"
+      ],
+      [
+        "65",
+        "262538",
+        "2250474"
+      ],
+      [
+        "66",
+        "299344",
+        "2549818"
+      ],
+      [
+        "67",
+        "341382",
+        "2891200"
+      ],
+      [
+        "68",
+        "389335",
+        "3280535"
+      ],
+      [
+        "69",
+        "443970",
+        "3724505"
+      ],
+      [
+        "70",
+        "506154",
+        "4230659"
+      ],
+      [
+        "71",
+        "576858",
+        "4807517"
+      ],
+      [
+        "72",
+        "657172",
+        "5464689"
+      ],
+      [
+        "73",
+        "748325",
+        "6213014"
+      ],
+      [
+        "74",
+        "851692",
+        "7064706"
+      ],
+      [
+        "75",
+        "968818",
+        "8033524"
+      ],
+      [
+        "76",
+        "1101435",
+        "9134959"
+      ],
+      [
+        "77",
+        "1251489",
+        "10386448"
+      ],
+      [
+        "78",
+        "1421155",
+        "11807603"
+      ],
+      [
+        "79",
+        "1612877",
+        "13420480"
+      ],
+      [
+        "80",
+        "1829387",
+        "15249867"
+      ],
+      [
+        "81",
+        "2073750",
+        "17323617"
+      ],
+      [
+        "82",
+        "2349394",
+        "19673011"
+      ],
+      [
+        "83",
+        "2660156",
+        "22333167"
+      ],
+      [
+        "84",
+        "3010331",
+        "25343498"
+      ],
+      [
+        "85",
+        "3404723",
+        "28748221"
+      ],
+      [
+        "86",
+        "3848705",
+        "32596926"
+      ],
+      [
+        "87",
+        "4348283",
+        "36945209"
+      ],
+      [
+        "88",
+        "4910173",
+        "41855382"
+      ],
+      [
+        "89",
+        "5541879",
+        "47397261"
+      ],
+      [
+        "90",
+        "6251785",
+        "53649046"
+      ],
+      [
+        "91",
+        "7049256",
+        "60698302"
+      ],
+      [
+        "92",
+        "7944754",
+        "68643056"
+      ],
+      [
+        "93",
+        "8949956",
+        "77593012"
+      ],
+      [
+        "94",
+        "10077901",
+        "87670913"
+      ],
+      [
+        "95",
+        "11343141",
+        "99014054"
+      ],
+      [
+        "96",
+        "12761914",
+        "111775968"
+      ],
+      [
+        "97",
+        "14352337",
+        "126128305"
+      ],
+      [
+        "98",
+        "16134619",
+        "142262924"
+      ],
+      [
+        "99",
+        "18131299",
+        "160394223"
+      ],
+      [
+        "100",
+        "20367510",
+        "180761733"
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "Bellema Deftwhisperwill teach you atComfortablefavor level. She also unlocks levels 51-60 and teaches the various Crossbow abilities.",
+      "Floxieunlocks levels 61-70 and levels 71-80.",
+      "Levels 81-90 are unlocked bySerendipity Cheddardeep beneathPovus."
+    ],
+    [
+      "Fletching- You need this to craft the arrows that Crossbow abilities consume."
+    ],
+    [
+      "\"Povus Special\" Crossbow",
+      "Amazing Hunting Crossbow",
+      "Astounding Hunting Crossbow",
+      "Awesome Hunting Crossbow",
+      "Black Rose",
+      "Crossbow of Flames",
+      "Cutting Crossbow"
+    ],
+    [
+      "Dark Crossbow",
+      "Darkcaster",
+      "Demonic Crossbow",
+      "Double Crossbow",
+      "Great Hunting Crossbow",
+      "Hunter's Crossbow",
+      "Error: Item not foundHunting Crossbow"
+    ],
+    [
+      "Practice Crossbow",
+      "Quality Hunting Crossbow",
+      "Speed Crossbow",
+      "Spring-Loaded Crossbow",
+      "Stock Crossbow"
+    ],
+    [
+      "This is the only sidebar skill that is used for ONLY damage."
+    ],
+    [
+      "Combat Skills",
+      "Skills"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Serendipity Cheddar",
+      "href": "/wiki/Serendipity_Cheddar"
+    },
+    {
+      "text": "Povus",
+      "href": "/wiki/Povus"
+    },
+    {
+      "text": "Fletching",
+      "href": "/wiki/Fletching"
+    },
+    {
+      "text": "Synergy Levels",
+      "href": "/wiki/Synergy_Levels"
+    },
+    {
+      "text": "Archery",
+      "href": "/wiki/Archery"
+    },
+    {
+      "text": "Fletching",
+      "href": "/wiki/Fletching"
+    },
+    {
+      "text": "Gadgeteering",
+      "href": "/wiki/Gadgeteering"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Crossbow Complete Ability List",
+      "href": "/wiki/Crossbow/Abilities"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Bellema Deftwhisper",
+      "href": "/wiki/Bellema_Deftwhisper"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Floxie",
+      "href": "/wiki/Floxie"
+    },
+    {
+      "text": "Crossbow: Knockback Bolt 9",
+      "href": "/wiki/Crossbow:_Knockback_Bolt_9"
+    },
+    {
+      "text": "Crossbow: Fiery Bolt 9",
+      "href": "/wiki/Crossbow:_Fiery_Bolt_9"
+    },
+    {
+      "text": "Crossbow: Acid Bolt 9",
+      "href": "/wiki/Crossbow:_Acid_Bolt_9"
+    },
+    {
+      "text": "Crossbow: Shoot Crossbow 10",
+      "href": "/wiki/Crossbow:_Shoot_Crossbow_10"
+    },
+    {
+      "text": "Crossbow: Shoot Darkness Bolt 2",
+      "href": "/wiki/Crossbow:_Shoot_Darkness_Bolt_2"
+    },
+    {
+      "text": "Crossbow: Knockback Bolt 10",
+      "href": "/wiki/Crossbow:_Knockback_Bolt_10"
+    },
+    {
+      "text": "Crossbow: Fiery Bolt 10",
+      "href": "/wiki/Crossbow:_Fiery_Bolt_10"
+    },
+    {
+      "text": "\"Povus Special\" Crossbow",
+      "href": "/wiki/%22Povus_Special%22_Crossbow"
+    },
+    {
+      "text": "Amazing Hunting Crossbow",
+      "href": "/wiki/Amazing_Hunting_Crossbow"
+    },
+    {
+      "text": "Astounding Hunting Crossbow",
+      "href": "/wiki/Astounding_Hunting_Crossbow"
+    },
+    {
+      "text": "Awesome Hunting Crossbow",
+      "href": "/wiki/Awesome_Hunting_Crossbow"
+    },
+    {
+      "text": "Black Rose",
+      "href": "/wiki/Black_Rose"
+    },
+    {
+      "text": "Crossbow of Flames",
+      "href": "/wiki/Crossbow_of_Flames"
+    },
+    {
+      "text": "Cutting Crossbow",
+      "href": "/wiki/Cutting_Crossbow"
+    },
+    {
+      "text": "Dark Crossbow",
+      "href": "/wiki/Dark_Crossbow"
+    },
+    {
+      "text": "Darkcaster",
+      "href": "/wiki/Darkcaster"
+    },
+    {
+      "text": "Demonic Crossbow",
+      "href": "/wiki/Demonic_Crossbow"
+    },
+    {
+      "text": "Double Crossbow",
+      "href": "/wiki/Double_Crossbow"
+    },
+    {
+      "text": "Great Hunting Crossbow",
+      "href": "/wiki/Great_Hunting_Crossbow"
+    },
+    {
+      "text": "Hunter's Crossbow",
+      "href": "/wiki/Hunter%27s_Crossbow"
+    },
+    {
+      "text": "Hunting Crossbow",
+      "href": "/wiki/Hunting_Crossbow"
+    },
+    {
+      "text": "Practice Crossbow",
+      "href": "/wiki/Practice_Crossbow"
+    },
+    {
+      "text": "Quality Hunting Crossbow",
+      "href": "/wiki/Quality_Hunting_Crossbow"
+    },
+    {
+      "text": "Speed Crossbow",
+      "href": "/wiki/Speed_Crossbow"
+    },
+    {
+      "text": "Spring-Loaded Crossbow",
+      "href": "/wiki/Spring-Loaded_Crossbow"
+    },
+    {
+      "text": "Stock Crossbow",
+      "href": "/wiki/Stock_Crossbow"
+    },
+    {
+      "text": "Crossbow Level Up Rewards",
+      "href": "/wiki/Crossbow/Level_Up_Rewards"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Crossbow&oldid=140225",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Crossbow&oldid=140225"
+    },
+    {
+      "text": "Categories",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Combat Skills",
+      "href": "/wiki/Category:Combat_Skills"
+    },
+    {
+      "text": "Skills",
+      "href": "/wiki/Category:Skills"
+    }
+  ],
+  "images": [
+    {
+      "src": "/w/images/thumb/4/4b/Button_Cyan.png/300px-Button_Cyan.png",
+      "alt": "Button Cyan.png"
+    },
+    {
+      "src": "/w/images/e/eb/Sword_skill.png",
+      "alt": "Sword skill.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3650.png",
+      "alt": "icon_3650.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3650.png",
+      "alt": "icon_3650.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3650.png",
+      "alt": "icon_3650.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3650.png",
+      "alt": "icon_3650.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3650.png",
+      "alt": "icon_3650.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3650.png",
+      "alt": "icon_3650.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3650.png",
+      "alt": "icon_3650.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3650.png",
+      "alt": "icon_3650.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3650.png",
+      "alt": "icon_3650.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3650.png",
+      "alt": "icon_3650.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3650.png",
+      "alt": "icon_3650.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3647.png",
+      "alt": "icon_3647.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3648.png",
+      "alt": "icon_3648.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_3649.png",
+      "alt": "icon_3649.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_22001.png",
+      "alt": "icon_22001.png"
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}

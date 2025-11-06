@@ -1,0 +1,1720 @@
+{
+  "url": "https://wiki.projectgorgon.com/wiki/Mining",
+  "title": "Mining - Project: Gorgon Wiki",
+  "main_content": "Mining\nFrom Project: Gorgon Wiki\nJump to:\nnavigation\n,\nsearch\nMining\nDigging metals and ores out of the ground.\nSkill Type:\nTrade Skill\nMax Level:\n80\nSkill Trainers:\nJaime Fatholm\n,\nUrzab\n,\nDachak the Digger\n“\nDigging metals and ores out of the ground.\nMining Overview\nMining\nis the skill of gathering metals and ores, often leveled through\nSurveying\n.\nIn-Game Description\nDigging metals and ores out of the ground.\nTraining Mining\nMining\nis learned through\nSurveying\n, taught by\nJaime Fatholm\n.\nUrzab\nin\nIlmari\nunlocks levels 51-60 and 61-70, and teaches some higher level mining surveys.\nDachak the Digger\nin\nPovus\nunlocks levels 71-80.\nEngineer Crall\nin\nVidaria\nunlocks levels 81-90.\nConnected Skills\nSub-Skills:\nNone\nSecondary Skills:\nSurveying\n- Used to create\nSerbule Hills Simple Mining Survey\nand other Mining Surveys.\nGeology\n- While\nMining\nis leveled from collecting metal and ores,\nGeology\nis raised through the collection of gemstones.\nRelated Skills:\nBlacksmithing\n- Many blacksmiths will find it useful to have a steady supply of metal from\nMining\n.\nSynergy Levels:\nBonus\nSynergy Levels\nfor\nMining\ncan be obtained from the following skills and levels:\nGeology\nLevel 30\nHammer\nLevel 24, Level 46\nSurveying\nLevel 30, Level 50\nRecipe Lists\nMining\nhas no recipes of its own, as Mining Surveys are crafted using\nSurveying\n. Once crafted, Mining Survey Maps require a certain Level of\nMining\nto use.\nMining\nSurvey Maps\nRecipe\nSurveying Lvl\nMining Lvl\nMining XP Gain\nMap Leads To\nSerbule Hills Simple Mining Survey\n7\n1\n25\nSimple Metal Slab\nor\nBasic Metal Slab\nor\nFlinty Rock\nSerbule Hills Basic Mining Survey\n15\n10\n55\nBasic Metal Slab\nEltibule Good Mining Survey\n25\n15\n70\nGood Metal Slab\nKur Mountains Simple Metal Motherlode Map\n*\n28\n23*\n255\nSimple Metal Slab\nand\nOre\nEltibule Expert Mining Survey\n35\n27\n100\nExpert-Quality Metal Slab\nKur Mountains Basic Metal Motherlode Map\n*\n33\n28*\n300\nBasic Metal Slab\nand\nOre\nKur Mountains Good Metal Motherlode Map\n*\n43\n38\n390\nGood Metal Slab\nand\nOre\nEltibule Masterwork Mining Survey\n45\n35\n130\nMasterwork Metal Slab\nIlmari Desert Expert Metal Motherlode Map\n*\n48\n43\n???\nExpert-Quality Metal Slab\nand\nOre\nEltibule Amazing Mining Survey\n50\n45\n160\nAmazing Metal Slab\nIlmari Desert Master's Metal Motherlode Map\n*\n53\n48\n???\nMasterwork Metal Slab\nand\nOre\nIlmari Desert Amazing Metal Motherlode Map\n*\n58\n53\n???\nAmazing Metal Slab\nand\nOre\nIlmari Desert Astounding Metal Motherlode Map\n60**\n58\n???\nAstounding Metal Slab\nand\nOre\nGazluk Astounding Metal Motherlode Map\n60**\n58\n???\nAstounding Metal Slab\nand\nOre\nor\nMagic Sand\nGazluk Superb Metal Motherlode Map\n65**\n63\n???\nSuperb Metal Slab\nand\nOre\nPovus Astounding Mining Survey\n70\n68\n220 + 80 per attempt***\nAstounding Metal Slab\nand\nOre\nPovus Superb Mining Survey\n75\n74\n???\nSuperb Metal Slab\nand\nOre\nPovus Marvelous Mining Survey\n80\n80\n???\nMarvelous Metal Slab\nand\nOre\n*Motherlodes require 5 more mining levels than the survey to actually mine them despite what the survey says.\n**Higher level Motherlodes require 2 mining levels below the survey to mine them so the required surveying level is higher.\n***Povus surveys can be mined more than once (each attempt has a chance to spawn ratkin)\nHarvestables\nMining Nodes\nAcross\nAlharth\n, mining nodes can be discovered and mined for ores, gemstones, and metal. In\nRahu\n, a prisoner-staffed quarry holds many nodes of various levels. Most types of\nOre\ncan be collected there.\nDeposit\nMining Required\nXP Gained\nLocations\nPyrite\n5\n40\nSome mining nodes are found in the\nMyconian Cave\n.\nWinterprize\n15\n0\nFound in\nWinter Nexus\nSaltpeter\n30\n115\nCave at the far end of the hallway in\nBoarded up Basement\n.\nKur Mountains\nnear the Gaz-Urak and Tor-Urak in north east. Occasionally found in\nYeti Caves\nand\nKur Tower\n.\nSilver Ore\n35\n130\nKur Mountains\nnear Orc Camp, northwest shore.\nBoarded up Basement\ncave area.\nGazluk\nMolybdenum\n35\n130\nMolybdenum Mine\nin\nSun Vale\n.\nGold Ore\n35\n130\nYeti Cave\n, lower levels.\nGazluk\nGood Metal Slab\n35\n130\nMolybdenum Mine\nin\nSun Vale\n.\nIridium\n40\n145\nFound near the Orc camp in\nKur Mountains\n.\nGlowy Yellow Crystal\n45\n0\nScattered across\nGazluk\nin clusters.\nExpert-Quality Metal Slab\n46\n???\nFound in\nGazluk\nas Nodes\nMetal Nodes in Povus giving various minerals including Marvelous Slabs\n50\n200 regardless of what is mined\nFound in\nPovus\nas\nMetal Node\n.\nMasterwork Metal Slab\n51\n130\nFound in\nGazluk\nas Nodes\nAmazing Metal Slab\n56\n130\nFound in\nGazluk\nas Nodes\nPaladium\n??\n170\nFound in\nGazluk\n.\nCinnabar\n55\n200\nFound in\nGazluk\n.\nMotherlode Node\n???\n130\nFound from motherlode\nSurveying\nmaps.\nNodes in Rahu giving random mineral\n35, 40\n?\ncentral\nRahu\nNodes in Rahu giving random mineral\n35, 55\n?\nsouthwest\nRahu\nNodes in Rahu sewer giving random mineral\n?\n?\nvarious locations in the sewer\nAstounding Metal Slab\n62\n130\nFound in\nGazluk\nas Nodes.\nSuperb Metal Slab\n67\n170\nFound in\nGazluk\nas Nodes.\nMarvelous Metal Slab\n75\n250\nFound in\nErrruka's Cave\nand\nNightmare Caves\nas Nodes.\nExtraordinary Metal Slab\n75\n250\nFound in\nErrruka's Cave\nand\nNightmare Caves\nas Nodes.\nMining Mechanics\nUsing a Mining Survey\nGlowy Yellow Crystals\nGlowy Yellow Crystal\nare hazardous rocks often found on the\nGazluk\nPlateau. Known to the Dwarves as Vol's Kiss, these crystals can inflict health-sapping statuses upon the uninformed. Protection against the effects of the crystals can be learned from\nAven\n.  These require level 45 mining to collect.\nMotherlode Map\nMotherlode maps are more difficult than normal surveys, but give much greater rewards. When you use them, no red dot will appear on your minimap, and won't be given the exact location. You'll only be told the distance to the motherlode. If you're 1000 meters away, the motherlode could be on any point in the 1000-radius circle around you. When you find the motherlode, you'll often be rewarded with 15-30 metal slabs, ores, 130 Mining experience, and other rewards.\nMining Level Up Rewards\nLevel\nReward\n15\n+1 to Surveying\n20\n+1 to Hammer\n25\n+1 to Foraging\n35\n+1 to Nature Appreciation\n45\n+1 to Hammer\n50\n+1 to Geology\n65\n+1 to Hammer\nMining Experience Table\nClick Expand to view the Experience Table for Mining\nLevel\nExperience\nTotal Experience\n1\n50\n50\n2\n50\n100\n3\n50\n150\n4\n50\n200\n5\n100\n300\n6\n100\n400\n7\n100\n500\n8\n100\n600\n9\n100\n700\n10\n200\n900\n11\n200\n1100\n12\n200\n1300\n13\n200\n1500\n14\n200\n1700\n15\n400\n2100\n16\n400\n2500\n17\n400\n2900\n18\n400\n3300\n19\n400\n3700\n20\n600\n4300\n21\n600\n4900\n22\n600\n5500\n23\n600\n6100\n24\n600\n6700\n25\n800\n7500\n26\n800\n8300\n27\n800\n9100\n28\n800\n9900\n29\n800\n10700\n30\n1000\n11700\n31\n1000\n12700\n32\n1000\n13700\n33\n1000\n14700\n34\n1000\n15700\n35\n1200\n16900\n36\n1200\n18100\n37\n1200\n19300\n38\n1200\n20500\n39\n1200\n21700\n40\n1500\n23200\n41\n1500\n24700\n42\n1500\n26200\n43\n1500\n27700\n44\n1500\n29200\n45\n2000\n31200\n46\n2000\n33200\n47\n2000\n35200\n48\n2000\n37200\n49\n2000\n39200\n50\n2500\n41700\n51\n2500\n44200\n52\n2500\n46700\n53\n2500\n49200\n54\n2500\n51700\n55\n3000\n54700\n56\n3000\n57700\n57\n3000\n60700\n58\n3000\n63700\n59\n3000\n66700\n60\n4000\n70700\n61\n4000\n74700\n62\n4000\n78700\n63\n4000\n82700\n64\n4000\n86700\n65\n5000\n91700\n66\n5000\n96700\n67\n5000\n101700\n68\n5000\n106700\n69\n5000\n111700\n70\n5000\n116700\n71\n6000\n122700\n72\n6000\n128700\n73\n6000\n134700\n74\n6000\n140700\n75\n6000\n146700\n76\n7000\n153700\n77\n7000\n160700\n78\n7000\n167700\n79\n7000\n174700\n80\n7000\n181700\n81\n9000\n190700\n82\n9000\n199700\n83\n9000\n208700\n84\n9000\n217700\n85\n9000\n226700\n86\n11000\n237700\n87\n11000\n248700\n88\n11000\n259700\n89\n11000\n270700\n90\n11000\n281700\n91\n15000\n296700\n92\n15000\n311700\n93\n15000\n326700\n94\n15000\n341700\n95\n15000\n356700\n96\n20000\n376700\n97\n20000\n396700\n98\n20000\n416700\n99\n20000\n436700\n100\n20000\n456700\nRetrieved from \"\nhttp://wiki.projectgorgon.com/w/index.php?title=Mining&oldid=198877\n\"\nCategories\n:\nTrade Skills\nSkills",
+  "tables": [
+    [
+      [
+        "Mining"
+      ],
+      [
+        "Digging metals and ores out of the ground."
+      ],
+      [
+        "Skill Type:",
+        "Trade Skill"
+      ],
+      [
+        "Max Level:",
+        "80"
+      ],
+      [
+        "Skill Trainers:",
+        "Jaime Fatholm,Urzab,Dachak the Digger"
+      ]
+    ],
+    [
+      [
+        "Recipe",
+        "Surveying Lvl",
+        "Mining Lvl",
+        "Mining XP Gain",
+        "Map Leads To"
+      ],
+      [
+        "Serbule Hills Simple Mining Survey",
+        "7",
+        "1",
+        "25",
+        "Simple Metal SlaborBasic Metal SlaborFlinty Rock"
+      ],
+      [
+        "Serbule Hills Basic Mining Survey",
+        "15",
+        "10",
+        "55",
+        "Basic Metal Slab"
+      ],
+      [
+        "Eltibule Good Mining Survey",
+        "25",
+        "15",
+        "70",
+        "Good Metal Slab"
+      ],
+      [
+        "Kur Mountains Simple Metal Motherlode Map*",
+        "28",
+        "23*",
+        "255",
+        "Simple Metal SlabandOre"
+      ],
+      [
+        "Eltibule Expert Mining Survey",
+        "35",
+        "27",
+        "100",
+        "Expert-Quality Metal Slab"
+      ],
+      [
+        "Kur Mountains Basic Metal Motherlode Map*",
+        "33",
+        "28*",
+        "300",
+        "Basic Metal SlabandOre"
+      ],
+      [
+        "Kur Mountains Good Metal Motherlode Map*",
+        "43",
+        "38",
+        "390",
+        "Good Metal SlabandOre"
+      ],
+      [
+        "Eltibule Masterwork Mining Survey",
+        "45",
+        "35",
+        "130",
+        "Masterwork Metal Slab"
+      ],
+      [
+        "Ilmari Desert Expert Metal Motherlode Map*",
+        "48",
+        "43",
+        "???",
+        "Expert-Quality Metal SlabandOre"
+      ],
+      [
+        "Eltibule Amazing Mining Survey",
+        "50",
+        "45",
+        "160",
+        "Amazing Metal Slab"
+      ],
+      [
+        "Ilmari Desert Master's Metal Motherlode Map*",
+        "53",
+        "48",
+        "???",
+        "Masterwork Metal SlabandOre"
+      ],
+      [
+        "Ilmari Desert Amazing Metal Motherlode Map*",
+        "58",
+        "53",
+        "???",
+        "Amazing Metal SlabandOre"
+      ],
+      [
+        "Ilmari Desert Astounding Metal Motherlode Map",
+        "60**",
+        "58",
+        "???",
+        "Astounding Metal SlabandOre"
+      ],
+      [
+        "Gazluk Astounding Metal Motherlode Map",
+        "60**",
+        "58",
+        "???",
+        "Astounding Metal SlabandOreorMagic Sand"
+      ],
+      [
+        "Gazluk Superb Metal Motherlode Map",
+        "65**",
+        "63",
+        "???",
+        "Superb Metal SlabandOre"
+      ],
+      [
+        "Povus Astounding Mining Survey",
+        "70",
+        "68",
+        "220 + 80 per attempt***",
+        "Astounding Metal SlabandOre"
+      ],
+      [
+        "Povus Superb Mining Survey",
+        "75",
+        "74",
+        "???",
+        "Superb Metal SlabandOre"
+      ],
+      [
+        "Povus Marvelous Mining Survey",
+        "80",
+        "80",
+        "???",
+        "Marvelous Metal SlabandOre"
+      ]
+    ],
+    [
+      [
+        "Deposit",
+        "Mining Required",
+        "XP Gained",
+        "Locations"
+      ],
+      [
+        "Pyrite",
+        "5",
+        "40",
+        "Some mining nodes are found in theMyconian Cave."
+      ],
+      [
+        "Winterprize",
+        "15",
+        "0",
+        "Found inWinter Nexus"
+      ],
+      [
+        "Saltpeter",
+        "30",
+        "115",
+        "Cave at the far end of the hallway inBoarded up Basement.Kur Mountainsnear the Gaz-Urak and Tor-Urak in north east. Occasionally found inYeti CavesandKur Tower."
+      ],
+      [
+        "Silver Ore",
+        "35",
+        "130",
+        "Kur Mountainsnear Orc Camp, northwest shore.Boarded up Basementcave area.Gazluk"
+      ],
+      [
+        "Molybdenum",
+        "35",
+        "130",
+        "Molybdenum MineinSun Vale."
+      ],
+      [
+        "Gold Ore",
+        "35",
+        "130",
+        "Yeti Cave, lower levels.Gazluk"
+      ],
+      [
+        "Good Metal Slab",
+        "35",
+        "130",
+        "Molybdenum MineinSun Vale."
+      ],
+      [
+        "Iridium",
+        "40",
+        "145",
+        "Found near the Orc camp inKur Mountains."
+      ],
+      [
+        "Glowy Yellow Crystal",
+        "45",
+        "0",
+        "Scattered acrossGazlukin clusters."
+      ],
+      [
+        "Expert-Quality Metal Slab",
+        "46",
+        "???",
+        "Found inGazlukas Nodes"
+      ],
+      [
+        "Metal Nodes in Povus giving various minerals including Marvelous Slabs",
+        "50",
+        "200 regardless of what is mined",
+        "Found inPovusasMetal Node."
+      ],
+      [
+        "Masterwork Metal Slab",
+        "51",
+        "130",
+        "Found inGazlukas Nodes"
+      ],
+      [
+        "Amazing Metal Slab",
+        "56",
+        "130",
+        "Found inGazlukas Nodes"
+      ],
+      [
+        "Paladium",
+        "??",
+        "170",
+        "Found inGazluk."
+      ],
+      [
+        "Cinnabar",
+        "55",
+        "200",
+        "Found inGazluk."
+      ],
+      [
+        "Motherlode Node",
+        "???",
+        "130",
+        "Found from motherlodeSurveyingmaps."
+      ],
+      [
+        "Nodes in Rahu giving random mineral",
+        "35, 40",
+        "?",
+        "centralRahu"
+      ],
+      [
+        "Nodes in Rahu giving random mineral",
+        "35, 55",
+        "?",
+        "southwestRahu"
+      ],
+      [
+        "Nodes in Rahu sewer giving random mineral",
+        "?",
+        "?",
+        "various locations in the sewer"
+      ],
+      [
+        "Astounding Metal Slab",
+        "62",
+        "130",
+        "Found inGazlukas Nodes."
+      ],
+      [
+        "Superb Metal Slab",
+        "67",
+        "170",
+        "Found inGazlukas Nodes."
+      ],
+      [
+        "Marvelous Metal Slab",
+        "75",
+        "250",
+        "Found inErrruka's CaveandNightmare Cavesas Nodes."
+      ],
+      [
+        "Extraordinary Metal Slab",
+        "75",
+        "250",
+        "Found inErrruka's CaveandNightmare Cavesas Nodes."
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Reward"
+      ],
+      [
+        "15",
+        "+1 to Surveying"
+      ],
+      [
+        "20",
+        "+1 to Hammer"
+      ],
+      [
+        "25",
+        "+1 to Foraging"
+      ],
+      [
+        "35",
+        "+1 to Nature Appreciation"
+      ],
+      [
+        "45",
+        "+1 to Hammer"
+      ],
+      [
+        "50",
+        "+1 to Geology"
+      ],
+      [
+        "65",
+        "+1 to Hammer"
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Experience",
+        "Total Experience"
+      ],
+      [
+        "1",
+        "50",
+        "50"
+      ],
+      [
+        "2",
+        "50",
+        "100"
+      ],
+      [
+        "3",
+        "50",
+        "150"
+      ],
+      [
+        "4",
+        "50",
+        "200"
+      ],
+      [
+        "5",
+        "100",
+        "300"
+      ],
+      [
+        "6",
+        "100",
+        "400"
+      ],
+      [
+        "7",
+        "100",
+        "500"
+      ],
+      [
+        "8",
+        "100",
+        "600"
+      ],
+      [
+        "9",
+        "100",
+        "700"
+      ],
+      [
+        "10",
+        "200",
+        "900"
+      ],
+      [
+        "11",
+        "200",
+        "1100"
+      ],
+      [
+        "12",
+        "200",
+        "1300"
+      ],
+      [
+        "13",
+        "200",
+        "1500"
+      ],
+      [
+        "14",
+        "200",
+        "1700"
+      ],
+      [
+        "15",
+        "400",
+        "2100"
+      ],
+      [
+        "16",
+        "400",
+        "2500"
+      ],
+      [
+        "17",
+        "400",
+        "2900"
+      ],
+      [
+        "18",
+        "400",
+        "3300"
+      ],
+      [
+        "19",
+        "400",
+        "3700"
+      ],
+      [
+        "20",
+        "600",
+        "4300"
+      ],
+      [
+        "21",
+        "600",
+        "4900"
+      ],
+      [
+        "22",
+        "600",
+        "5500"
+      ],
+      [
+        "23",
+        "600",
+        "6100"
+      ],
+      [
+        "24",
+        "600",
+        "6700"
+      ],
+      [
+        "25",
+        "800",
+        "7500"
+      ],
+      [
+        "26",
+        "800",
+        "8300"
+      ],
+      [
+        "27",
+        "800",
+        "9100"
+      ],
+      [
+        "28",
+        "800",
+        "9900"
+      ],
+      [
+        "29",
+        "800",
+        "10700"
+      ],
+      [
+        "30",
+        "1000",
+        "11700"
+      ],
+      [
+        "31",
+        "1000",
+        "12700"
+      ],
+      [
+        "32",
+        "1000",
+        "13700"
+      ],
+      [
+        "33",
+        "1000",
+        "14700"
+      ],
+      [
+        "34",
+        "1000",
+        "15700"
+      ],
+      [
+        "35",
+        "1200",
+        "16900"
+      ],
+      [
+        "36",
+        "1200",
+        "18100"
+      ],
+      [
+        "37",
+        "1200",
+        "19300"
+      ],
+      [
+        "38",
+        "1200",
+        "20500"
+      ],
+      [
+        "39",
+        "1200",
+        "21700"
+      ],
+      [
+        "40",
+        "1500",
+        "23200"
+      ],
+      [
+        "41",
+        "1500",
+        "24700"
+      ],
+      [
+        "42",
+        "1500",
+        "26200"
+      ],
+      [
+        "43",
+        "1500",
+        "27700"
+      ],
+      [
+        "44",
+        "1500",
+        "29200"
+      ],
+      [
+        "45",
+        "2000",
+        "31200"
+      ],
+      [
+        "46",
+        "2000",
+        "33200"
+      ],
+      [
+        "47",
+        "2000",
+        "35200"
+      ],
+      [
+        "48",
+        "2000",
+        "37200"
+      ],
+      [
+        "49",
+        "2000",
+        "39200"
+      ],
+      [
+        "50",
+        "2500",
+        "41700"
+      ],
+      [
+        "51",
+        "2500",
+        "44200"
+      ],
+      [
+        "52",
+        "2500",
+        "46700"
+      ],
+      [
+        "53",
+        "2500",
+        "49200"
+      ],
+      [
+        "54",
+        "2500",
+        "51700"
+      ],
+      [
+        "55",
+        "3000",
+        "54700"
+      ],
+      [
+        "56",
+        "3000",
+        "57700"
+      ],
+      [
+        "57",
+        "3000",
+        "60700"
+      ],
+      [
+        "58",
+        "3000",
+        "63700"
+      ],
+      [
+        "59",
+        "3000",
+        "66700"
+      ],
+      [
+        "60",
+        "4000",
+        "70700"
+      ],
+      [
+        "61",
+        "4000",
+        "74700"
+      ],
+      [
+        "62",
+        "4000",
+        "78700"
+      ],
+      [
+        "63",
+        "4000",
+        "82700"
+      ],
+      [
+        "64",
+        "4000",
+        "86700"
+      ],
+      [
+        "65",
+        "5000",
+        "91700"
+      ],
+      [
+        "66",
+        "5000",
+        "96700"
+      ],
+      [
+        "67",
+        "5000",
+        "101700"
+      ],
+      [
+        "68",
+        "5000",
+        "106700"
+      ],
+      [
+        "69",
+        "5000",
+        "111700"
+      ],
+      [
+        "70",
+        "5000",
+        "116700"
+      ],
+      [
+        "71",
+        "6000",
+        "122700"
+      ],
+      [
+        "72",
+        "6000",
+        "128700"
+      ],
+      [
+        "73",
+        "6000",
+        "134700"
+      ],
+      [
+        "74",
+        "6000",
+        "140700"
+      ],
+      [
+        "75",
+        "6000",
+        "146700"
+      ],
+      [
+        "76",
+        "7000",
+        "153700"
+      ],
+      [
+        "77",
+        "7000",
+        "160700"
+      ],
+      [
+        "78",
+        "7000",
+        "167700"
+      ],
+      [
+        "79",
+        "7000",
+        "174700"
+      ],
+      [
+        "80",
+        "7000",
+        "181700"
+      ],
+      [
+        "81",
+        "9000",
+        "190700"
+      ],
+      [
+        "82",
+        "9000",
+        "199700"
+      ],
+      [
+        "83",
+        "9000",
+        "208700"
+      ],
+      [
+        "84",
+        "9000",
+        "217700"
+      ],
+      [
+        "85",
+        "9000",
+        "226700"
+      ],
+      [
+        "86",
+        "11000",
+        "237700"
+      ],
+      [
+        "87",
+        "11000",
+        "248700"
+      ],
+      [
+        "88",
+        "11000",
+        "259700"
+      ],
+      [
+        "89",
+        "11000",
+        "270700"
+      ],
+      [
+        "90",
+        "11000",
+        "281700"
+      ],
+      [
+        "91",
+        "15000",
+        "296700"
+      ],
+      [
+        "92",
+        "15000",
+        "311700"
+      ],
+      [
+        "93",
+        "15000",
+        "326700"
+      ],
+      [
+        "94",
+        "15000",
+        "341700"
+      ],
+      [
+        "95",
+        "15000",
+        "356700"
+      ],
+      [
+        "96",
+        "20000",
+        "376700"
+      ],
+      [
+        "97",
+        "20000",
+        "396700"
+      ],
+      [
+        "98",
+        "20000",
+        "416700"
+      ],
+      [
+        "99",
+        "20000",
+        "436700"
+      ],
+      [
+        "100",
+        "20000",
+        "456700"
+      ]
+    ]
+  ],
+  "lists": [
+    [
+      "Miningis learned throughSurveying, taught byJaime Fatholm.",
+      "UrzabinIlmariunlocks levels 51-60 and 61-70, and teaches some higher level mining surveys.",
+      "Dachak the DiggerinPovusunlocks levels 71-80.",
+      "Engineer CrallinVidariaunlocks levels 81-90."
+    ],
+    [
+      "None"
+    ],
+    [
+      "Surveying- Used to createSerbule Hills Simple Mining Surveyand other Mining Surveys."
+    ],
+    [
+      "Geology- WhileMiningis leveled from collecting metal and ores,Geologyis raised through the collection of gemstones."
+    ],
+    [
+      "Blacksmithing- Many blacksmiths will find it useful to have a steady supply of metal fromMining."
+    ],
+    [
+      "Trade Skills",
+      "Skills"
+    ]
+  ],
+  "links": [
+    {
+      "text": "navigation",
+      "href": "#mw-head"
+    },
+    {
+      "text": "search",
+      "href": "#p-search"
+    },
+    {
+      "text": "Jaime Fatholm",
+      "href": "/wiki/Jaime_Fatholm"
+    },
+    {
+      "text": "Urzab",
+      "href": "/wiki/Urzab"
+    },
+    {
+      "text": "Dachak the Digger",
+      "href": "/wiki/Dachak_the_Digger"
+    },
+    {
+      "text": "Surveying",
+      "href": "/wiki/Surveying"
+    },
+    {
+      "text": "Surveying",
+      "href": "/wiki/Surveying"
+    },
+    {
+      "text": "Jaime Fatholm",
+      "href": "/wiki/Jaime_Fatholm"
+    },
+    {
+      "text": "Urzab",
+      "href": "/wiki/Urzab"
+    },
+    {
+      "text": "Ilmari",
+      "href": "/wiki/Ilmari"
+    },
+    {
+      "text": "Dachak the Digger",
+      "href": "/wiki/Dachak_the_Digger"
+    },
+    {
+      "text": "Povus",
+      "href": "/wiki/Povus"
+    },
+    {
+      "text": "Engineer Crall",
+      "href": "/wiki/Engineer_Crall"
+    },
+    {
+      "text": "Vidaria",
+      "href": "/wiki/Vidaria"
+    },
+    {
+      "text": "Surveying",
+      "href": "/wiki/Surveying"
+    },
+    {
+      "text": "Serbule Hills Simple Mining Survey",
+      "href": "/wiki/Serbule_Hills_Simple_Mining_Survey"
+    },
+    {
+      "text": "Geology",
+      "href": "/wiki/Geology"
+    },
+    {
+      "text": "Geology",
+      "href": "/wiki/Geology"
+    },
+    {
+      "text": "Blacksmithing",
+      "href": "/wiki/Blacksmithing"
+    },
+    {
+      "text": "Synergy Levels",
+      "href": "/wiki/Synergy_Levels"
+    },
+    {
+      "text": "Geology",
+      "href": "/wiki/Geology"
+    },
+    {
+      "text": "Hammer",
+      "href": "/wiki/Hammer"
+    },
+    {
+      "text": "Surveying",
+      "href": "/wiki/Surveying"
+    },
+    {
+      "text": "Surveying",
+      "href": "/wiki/Surveying"
+    },
+    {
+      "text": "Serbule Hills Simple Mining Survey",
+      "href": "/wiki/Serbule_Hills_Simple_Mining_Survey"
+    },
+    {
+      "text": "Simple Metal Slab",
+      "href": "/wiki/Simple_Metal_Slab"
+    },
+    {
+      "text": "Basic Metal Slab",
+      "href": "/wiki/Basic_Metal_Slab"
+    },
+    {
+      "text": "Flinty Rock",
+      "href": "/wiki/Flinty_Rock"
+    },
+    {
+      "text": "Serbule Hills Basic Mining Survey",
+      "href": "/wiki/Serbule_Hills_Basic_Mining_Survey"
+    },
+    {
+      "text": "Basic Metal Slab",
+      "href": "/wiki/Basic_Metal_Slab"
+    },
+    {
+      "text": "Eltibule Good Mining Survey",
+      "href": "/wiki/Eltibule_Good_Mining_Survey"
+    },
+    {
+      "text": "Good Metal Slab",
+      "href": "/wiki/Good_Metal_Slab"
+    },
+    {
+      "text": "Kur Mountains Simple Metal Motherlode Map",
+      "href": "/wiki/Kur_Mountains_Simple_Metal_Motherlode_Map"
+    },
+    {
+      "text": "Simple Metal Slab",
+      "href": "/wiki/Simple_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Eltibule Expert Mining Survey",
+      "href": "/wiki/Eltibule_Expert_Mining_Survey"
+    },
+    {
+      "text": "Expert-Quality Metal Slab",
+      "href": "/wiki/Expert-Quality_Metal_Slab"
+    },
+    {
+      "text": "Kur Mountains Basic Metal Motherlode Map",
+      "href": "/wiki/Kur_Mountains_Basic_Metal_Motherlode_Map"
+    },
+    {
+      "text": "Basic Metal Slab",
+      "href": "/wiki/Basic_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Kur Mountains Good Metal Motherlode Map",
+      "href": "/wiki/Kur_Mountains_Good_Metal_Motherlode_Map"
+    },
+    {
+      "text": "Good Metal Slab",
+      "href": "/wiki/Good_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Eltibule Masterwork Mining Survey",
+      "href": "/wiki/Eltibule_Masterwork_Mining_Survey"
+    },
+    {
+      "text": "Masterwork Metal Slab",
+      "href": "/wiki/Masterwork_Metal_Slab"
+    },
+    {
+      "text": "Ilmari Desert Expert Metal Motherlode Map",
+      "href": "/wiki/Ilmari_Desert_Expert_Metal_Motherlode_Map"
+    },
+    {
+      "text": "Expert-Quality Metal Slab",
+      "href": "/wiki/Expert-Quality_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Eltibule Amazing Mining Survey",
+      "href": "/wiki/Eltibule_Amazing_Mining_Survey"
+    },
+    {
+      "text": "Amazing Metal Slab",
+      "href": "/wiki/Amazing_Metal_Slab"
+    },
+    {
+      "text": "Ilmari Desert Master's Metal Motherlode Map",
+      "href": "/wiki/Ilmari_Desert_Master%27s_Metal_Motherlode_Map"
+    },
+    {
+      "text": "Masterwork Metal Slab",
+      "href": "/wiki/Masterwork_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Ilmari Desert Amazing Metal Motherlode Map",
+      "href": "/wiki/Ilmari_Desert_Amazing_Metal_Motherlode_Map"
+    },
+    {
+      "text": "Amazing Metal Slab",
+      "href": "/wiki/Amazing_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Ilmari Desert Astounding Metal Motherlode Map",
+      "href": "/wiki/Ilmari_Desert_Astounding_Metal_Motherlode_Map"
+    },
+    {
+      "text": "Astounding Metal Slab",
+      "href": "/wiki/Astounding_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Gazluk Astounding Metal Motherlode Map",
+      "href": "/wiki/Gazluk_Astounding_Metal_Motherlode_Map"
+    },
+    {
+      "text": "Astounding Metal Slab",
+      "href": "/wiki/Astounding_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Magic Sand",
+      "href": "/wiki/Magic_Sand"
+    },
+    {
+      "text": "Gazluk Superb Metal Motherlode Map",
+      "href": "/wiki/Gazluk_Superb_Metal_Motherlode_Map"
+    },
+    {
+      "text": "Superb Metal Slab",
+      "href": "/wiki/Superb_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Povus Astounding Mining Survey",
+      "href": "/wiki/Povus_Astounding_Mining_Survey"
+    },
+    {
+      "text": "Astounding Metal Slab",
+      "href": "/wiki/Astounding_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Povus Superb Mining Survey",
+      "href": "/wiki/Povus_Superb_Mining_Survey"
+    },
+    {
+      "text": "Superb Metal Slab",
+      "href": "/wiki/Superb_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Povus Marvelous Mining Survey",
+      "href": "/wiki/Povus_Marvelous_Mining_Survey"
+    },
+    {
+      "text": "Marvelous Metal Slab",
+      "href": "/wiki/Marvelous_Metal_Slab"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Alharth",
+      "href": "/wiki/Alharth"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Ore",
+      "href": "/wiki/Category:Items/Ore"
+    },
+    {
+      "text": "Pyrite",
+      "href": "/wiki/Pyrite"
+    },
+    {
+      "text": "Myconian Cave",
+      "href": "/wiki/Myconian_Cave"
+    },
+    {
+      "text": "Winterprize",
+      "href": "/wiki/Winterprize"
+    },
+    {
+      "text": "Winter Nexus",
+      "href": "/wiki/Winter_Nexus"
+    },
+    {
+      "text": "Saltpeter",
+      "href": "/wiki/Saltpeter"
+    },
+    {
+      "text": "Boarded up Basement",
+      "href": "/wiki/Boarded_up_Basement"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Yeti Caves",
+      "href": "/wiki/Yeti_Cave"
+    },
+    {
+      "text": "Kur Tower",
+      "href": "/wiki/Kur_Tower"
+    },
+    {
+      "text": "Silver Ore",
+      "href": "/wiki/Silver_Ore"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Boarded up Basement",
+      "href": "/wiki/Boarded_up_Basement"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Molybdenum",
+      "href": "/wiki/Molybdenum"
+    },
+    {
+      "text": "Molybdenum Mine",
+      "href": "/wiki/Molybdenum_Mine"
+    },
+    {
+      "text": "Sun Vale",
+      "href": "/wiki/Sun_Vale"
+    },
+    {
+      "text": "Gold Ore",
+      "href": "/wiki/Gold_Ore"
+    },
+    {
+      "text": "Yeti Cave",
+      "href": "/wiki/Yeti_Cave"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Good Metal Slab",
+      "href": "/wiki/Good_Metal_Slab"
+    },
+    {
+      "text": "Molybdenum Mine",
+      "href": "/wiki/Molybdenum_Mine"
+    },
+    {
+      "text": "Sun Vale",
+      "href": "/wiki/Sun_Vale"
+    },
+    {
+      "text": "Iridium",
+      "href": "/wiki/Iridium"
+    },
+    {
+      "text": "Kur Mountains",
+      "href": "/wiki/Kur_Mountains"
+    },
+    {
+      "text": "Glowy Yellow Crystal",
+      "href": "/wiki/Glowy_Yellow_Crystal"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Expert-Quality Metal Slab",
+      "href": "/wiki/Expert-Quality_Metal_Slab"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Povus",
+      "href": "/wiki/Povus"
+    },
+    {
+      "text": "Metal Node",
+      "href": "/wiki/Metal_Node"
+    },
+    {
+      "text": "Masterwork Metal Slab",
+      "href": "/wiki/Masterwork_Metal_Slab"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Amazing Metal Slab",
+      "href": "/wiki/Amazing_Metal_Slab"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Paladium",
+      "href": "/wiki/Paladium"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Cinnabar",
+      "href": "/wiki/Cinnabar"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Surveying",
+      "href": "/wiki/Surveying"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Rahu",
+      "href": "/wiki/Rahu"
+    },
+    {
+      "text": "Astounding Metal Slab",
+      "href": "/wiki/Astounding_Metal_Slab"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Superb Metal Slab",
+      "href": "/wiki/Superb_Metal_Slab"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Marvelous Metal Slab",
+      "href": "/wiki/Marvelous_Metal_Slab"
+    },
+    {
+      "text": "Errruka's Cave",
+      "href": "/wiki/Errruka%27s_Cave"
+    },
+    {
+      "text": "Nightmare Caves",
+      "href": "/wiki/Nightmare_Caves"
+    },
+    {
+      "text": "Extraordinary Metal Slab",
+      "href": "/wiki/Extraordinary_Metal_Slab"
+    },
+    {
+      "text": "Errruka's Cave",
+      "href": "/wiki/Errruka%27s_Cave"
+    },
+    {
+      "text": "Nightmare Caves",
+      "href": "/wiki/Nightmare_Caves"
+    },
+    {
+      "text": "Glowy Yellow Crystal",
+      "href": "/wiki/Glowy_Yellow_Crystal"
+    },
+    {
+      "text": "Gazluk",
+      "href": "/wiki/Gazluk"
+    },
+    {
+      "text": "Aven",
+      "href": "/wiki/Aven"
+    },
+    {
+      "text": "Mining Level Up Rewards",
+      "href": "/wiki/Mining/Level_Up_Rewards"
+    },
+    {
+      "text": "http://wiki.projectgorgon.com/w/index.php?title=Mining&oldid=198877",
+      "href": "https://wiki.projectgorgon.com/w/index.php?title=Mining&oldid=198877"
+    },
+    {
+      "text": "Categories",
+      "href": "/wiki/Special:Categories"
+    },
+    {
+      "text": "Trade Skills",
+      "href": "/wiki/Category:Trade_Skills"
+    },
+    {
+      "text": "Skills",
+      "href": "/wiki/Category:Skills"
+    }
+  ],
+  "images": [
+    {
+      "src": "/w/images/thumb/4/4b/Button_Cyan.png/300px-Button_Cyan.png",
+      "alt": "Button Cyan.png"
+    },
+    {
+      "src": "/w/images/0/0b/Empty_Placeholder.png",
+      "alt": "Empty Placeholder.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5297.png",
+      "alt": "icon_5297.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5298.png",
+      "alt": "icon_5298.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5278.png",
+      "alt": "icon_5278.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5298.png",
+      "alt": "icon_5298.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5299.png",
+      "alt": "icon_5299.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5297.png",
+      "alt": "icon_5297.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5300.png",
+      "alt": "icon_5300.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5298.png",
+      "alt": "icon_5298.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5299.png",
+      "alt": "icon_5299.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5301.png",
+      "alt": "icon_5301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5300.png",
+      "alt": "icon_5300.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5576.png",
+      "alt": "icon_5576.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5301.png",
+      "alt": "icon_5301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5576.png",
+      "alt": "icon_5576.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5577.png",
+      "alt": "icon_5577.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5577.png",
+      "alt": "icon_5577.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5516.png",
+      "alt": "icon_5516.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5578.png",
+      "alt": "icon_5578.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5577.png",
+      "alt": "icon_5577.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5578.png",
+      "alt": "icon_5578.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5305.png",
+      "alt": "icon_5305.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6402.png",
+      "alt": "icon_6402.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5590.png",
+      "alt": "icon_5590.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5863.png",
+      "alt": "icon_5863.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5183.png",
+      "alt": "icon_5183.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5588.png",
+      "alt": "icon_5588.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6344.png",
+      "alt": "icon_6344.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5580.png",
+      "alt": "icon_5580.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5299.png",
+      "alt": "icon_5299.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5585.png",
+      "alt": "icon_5585.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5702.png",
+      "alt": "icon_5702.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5300.png",
+      "alt": "icon_5300.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5301.png",
+      "alt": "icon_5301.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5576.png",
+      "alt": "icon_5576.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5583.png",
+      "alt": "icon_5583.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5593.png",
+      "alt": "icon_5593.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5577.png",
+      "alt": "icon_5577.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5578.png",
+      "alt": "icon_5578.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6402.png",
+      "alt": "icon_6402.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_6403.png",
+      "alt": "icon_6403.png"
+    },
+    {
+      "src": "http://cdn.projectgorgon.com/v435/icons/icon_5702.png",
+      "alt": "icon_5702.png"
+    }
+  ],
+  "metadata": {
+    "generator": "MediaWiki 1.29.2"
+  }
+}
